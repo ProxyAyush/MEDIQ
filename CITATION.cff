@@ -9,7 +9,7 @@ authors:
 version: "0.2.0"
 date-released: "2026-03-24"
 license: CC-BY-4.0
-doi: "10.5281/zenodo.PLACEHOLDER"
+doi: "10.5281/zenodo.19204472"
 repository-code: "https://github.com/ProxyAyush/MEDIQ"
 url: "https://github.com/ProxyAyush/MEDIQ"
 keywords:
@@ -42,4 +42,4 @@ preferred-citation:
   title: "MEDIQ: A Bilingual Hindi-English Medical Question-Answering Dataset"
   year: 2026
   publisher: Zenodo
-  doi: "10.5281/zenodo.PLACEHOLDER"
+  doi: "10.5281/zenodo.19204472"

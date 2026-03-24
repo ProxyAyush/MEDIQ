@@ -1,5 +1,6 @@
 # MEDIQ: A Bilingual Hindi-English Medical QA Dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19204472.svg)](https://doi.org/10.5281/zenodo.19204472)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Dataset Size](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FProxyAyush%2FMEDIQ%2Fmain%2Fstats%2Fsummary.json&query=%24.totalEntries&label=QA%20Pairs)](stats/summary.json)
 [![Updated Daily](https://img.shields.io/badge/updated-daily-blue)](.github/workflows)
@@ -134,15 +135,16 @@ If you use this dataset in your research, please cite it as:
   author       = {Yadav, Ayush},
   title        = {{MEDIQ}: A Bilingual Hindi-English Medical Question-Answering Dataset},
   year         = {2026},
-  publisher    = {GitHub},
-  url          = {https://github.com/ProxyAyush/MEDIQ},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.19204472},
+  url          = {https://doi.org/10.5281/zenodo.19204472},
   license      = {CC-BY-4.0}
 }
 ```
 
 ### APA
 
-Yadav, A. (2026). *MEDIQ: A Bilingual Hindi-English Medical Question-Answering Dataset* [Data set]. GitHub. https://github.com/ProxyAyush/MEDIQ
+Yadav, A. (2026). *MEDIQ: A Bilingual Hindi-English Medical Question-Answering Dataset* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.19204472
 
 ## Use Cases
 
