@@ -1,22 +1,22 @@
 {
-  "totalEntries": 575,
+  "totalEntries": 577,
   "dateRange": {
     "start": "2026-03-17",
     "end": "2026-03-26"
   },
   "totalDays": 10,
-  "totalSessions": 360,
-  "dailyAverage": 57.5,
-  "botAnswerRate": 97.04,
+  "totalSessions": 361,
+  "dailyAverage": 57.7,
+  "botAnswerRate": 97.05,
   "languageDistribution": {
-    "en": 555,
+    "en": 557,
     "hi": 12,
     "hi-en": 8
   },
   "categoryDistribution": {
     "general": 180,
     "exams": 102,
-    "opd": 52,
+    "opd": 54,
     "appointment": 49,
     "admissions": 45,
     "departments": 38,
@@ -30,7 +30,7 @@
     "research": 1
   },
   "questionTypeDistribution": {
-    "factual": 397,
+    "factual": 399,
     "temporal": 69,
     "procedural": 52,
     "yes_no": 43,
@@ -40,12 +40,12 @@
   "responseTypeDistribution": {
     "referral": 245,
     "direct_answer": 178,
-    "safety_redirect": 118,
+    "safety_redirect": 120,
     "unable_to_answer": 34
   },
   "queryComplexityDistribution": {
-    "moderate": 343,
-    "simple": 165,
+    "moderate": 344,
+    "simple": 166,
     "complex": 67
   },
   "departmentMentions": {
@@ -83,7 +83,7 @@
     "14": 41,
     "15": 34,
     "16": 41,
-    "17": 26,
+    "17": 28,
     "18": 32,
     "19": 29,
     "20": 13,
@@ -94,17 +94,17 @@
   "dailyDistribution": {
     "Tuesday": 87,
     "Wednesday": 131,
-    "Thursday": 119,
+    "Thursday": 121,
     "Friday": 54,
     "Saturday": 32,
     "Sunday": 56,
     "Monday": 96
   },
   "aiEnrichment": {
-    "totalEnriched": 421,
-    "coveragePercent": 73.22,
+    "totalEnriched": 423,
+    "coveragePercent": 73.31,
     "languageDistribution": {
-      "en": 209,
+      "en": 211,
       "hi-Latn-en": 137,
       "hi-Latn": 56,
       "hi": 15,
@@ -112,19 +112,19 @@
     },
     "intentDistribution": {
       "information_seeking": 285,
-      "scheduling": 108,
+      "scheduling": 110,
       "navigation": 17,
       "complaint": 8,
       "greeting": 3
     },
     "medicalRelevanceDistribution": {
-      "high": 174,
+      "high": 176,
       "medium": 143,
       "low": 102,
       "none": 2
     },
     "sentimentDistribution": {
-      "neutral": 409,
+      "neutral": 411,
       "frustrated": 6,
       "positive": 4,
       "negative": 2
@@ -132,16 +132,16 @@
     "answerQualityDistribution": {
       "comprehensive": 236,
       "adequate": 111,
-      "partial": 41,
-      "deflected": 33
+      "partial": 42,
+      "deflected": 34
     },
     "userTypeDistribution": {
       "unknown": 152,
       "student": 129,
-      "patient": 122,
+      "patient": 124,
       "staff": 12,
       "faculty": 6
     }
   },
-  "lastUpdated": "2026-03-26T11:29:55.379Z"
+  "lastUpdated": "2026-03-26T11:57:07.582Z"
 }
