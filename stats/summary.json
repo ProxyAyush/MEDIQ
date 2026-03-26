@@ -101,47 +101,14 @@
     "Monday": 96
   },
   "aiEnrichment": {
-    "totalEnriched": 416,
-    "coveragePercent": 72.98,
-    "languageDistribution": {
-      "en": 209,
-      "hi-Latn-en": 137,
-      "hi-Latn": 51,
-      "hi": 15,
-      "hi-en": 4
-    },
-    "intentDistribution": {
-      "information_seeking": 283,
-      "scheduling": 107,
-      "navigation": 17,
-      "complaint": 6,
-      "greeting": 3
-    },
-    "medicalRelevanceDistribution": {
-      "high": 171,
-      "medium": 141,
-      "low": 102,
-      "none": 2
-    },
-    "sentimentDistribution": {
-      "neutral": 406,
-      "frustrated": 4,
-      "positive": 4,
-      "negative": 2
-    },
-    "answerQualityDistribution": {
-      "comprehensive": 233,
-      "adequate": 111,
-      "partial": 40,
-      "deflected": 32
-    },
-    "userTypeDistribution": {
-      "unknown": 150,
-      "student": 129,
-      "patient": 119,
-      "staff": 12,
-      "faculty": 6
-    }
+    "totalEnriched": 0,
+    "coveragePercent": 0,
+    "languageDistribution": {},
+    "intentDistribution": {},
+    "medicalRelevanceDistribution": {},
+    "sentimentDistribution": {},
+    "answerQualityDistribution": {},
+    "userTypeDistribution": {}
   },
-  "lastUpdated": "2026-03-26T09:50:27.453Z"
+  "lastUpdated": "2026-03-26T10:09:54.907Z"
 }
