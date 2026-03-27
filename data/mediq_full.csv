@@ -46669,3 +46669,156 @@ qa_1774614588902_ze9o4mqj,,Give out the names of Faculty  of OBG Department.,"Th
 *   **Dr. Shilpa Singh:** Associate Professor
 
 For further information, you can visit the department details page at: [https://www.kgmu.org/department_details.php?dept_id=20&dept_type=2](https://www.kgmu.org/department_details.php?dept_id=20&dept_type=2)",2026-03-27T12:29:50.000Z,true,2026-03-27T12:07:30.086Z,en,0,faculty,factual,referral,,moderate,true,session_07925,true,49,9,1135,140,12,17,Friday,false,true,true,en,1,information_seeking,high,neutral,Give out the names of Faculty of OBG Department.,comprehensive,faculty;department,false,unknown
+qa_1774616484735_38u195uh,,Kgmu nursing exam,"To provide you with the most accurate information regarding KGMU nursing exams, could you please clarify what you are looking for? For example, are you looking for:
+
+1.  **Examination Results?** (If so, please provide the course name and the specific exam/session).
+2.  **Examination Schedule/Date Sheet?**
+3.  **General information about Nursing admissions or courses?**
+
+You can also check the official KGMU website at [www.kgmu.org](https://www.kgmu.org) for the latest notifications under the ""Examination"" or ""Academic"" sections. 
+
+If you have a specific question about a result, please provide the details, and I will do my best to direct you to the correct link.",2026-03-27T13:01:24.000Z,true,2026-03-27T13:01:04.695Z,en,0,exams,factual,referral,Nursing,simple,true,session_07926,false,17,3,669,99,13,18,Friday,false,true,true,en,0.95,information_seeking,medium,neutral,Kgmu nursing exam,deflected,exam;nursing;admission,true,student
+qa_1774616522882_zspfoq0m,,Appointment kaise le,"KGMU mein OPD appointment lene ke liye online registration mandatory (anivarya) hai. Aap niche diye gaye tarikon mein se kisi ek ka chayan kar sakte hain:
+
+**1. Online Portal (ORS):**
+*   Website: [https://ors.gov.in](https://ors.gov.in)
+*   **Prokriya:** Login/Register karein → State (Uttar Pradesh) aur Hospital (KGMU) select karein → 'New Appointment' par click karein → Department, Date aur Time slot chunein → Patient ki details bharein → ₹50 ka online bhugtan karein → Appointment slip download karein.
+
+**2. Mobile App:**
+*   Aap KGMU Play Store se **ABHA** ya **Health Care App** download kar sakte hain. Ismein bhi ORS portal jaisi hi prokriya follow karni hoti hai.
+
+**3. SMS dwara Booking:**
+*   Number: **8887019134** par SMS karein.
+*   Format: `APPOINTMENT <Patient Name>`
+
+**4. Walk-in (On-Site Counters):**
+*   Yadi aap direct hospital aate hain, toh registration counter par apna **Aadhaar Card** aur **Active Mobile Number** le kar jayein.
+*   Wahan OTP verification ke baad token milega, jiske baad aap counter par ₹50 jama karke physical OPD slip prapt kar sakte hain.
+
+**Mahatvapurn Jankari:**
+*   **OPD Timing:** Somvar se Shukravar (9:00 AM – 1:00 PM) aur Shanivar (9:00 AM – 12:00 PM). Sunday ko OPD band rehti hai.
+*   **Fees:** ₹50 (Flat rate).
+*   **Referral:** Shahar se bahar ke patients ke liye apne department ka valid referral lana zaruri hai.
+*   **Salah:** Bhid se bachne ke liye pehle se appointment book karna behtar hai.
+
+Agar aapko kisi vishesh department ke baare mein jankari chahiye, toh kripya batayein.
+
+*Note: I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline (0522-2258880 / 0522-3539333). Also, please avoid sharing personal details like Aadhaar numbers or phone numbers in this chat for your safety.*",2026-03-27T13:02:05.000Z,true,2026-03-27T13:01:41.501Z,en,0,appointment,procedural,safety_redirect,,simple,true,session_07927,false,20,3,1800,282,13,18,Friday,false,true,true,hi-Latn,0.98,scheduling,high,neutral,How to take appointment,comprehensive,appointment;opd;registration,false,patient
+qa_1774616571753_lhw6ebw6,,Nursing exam held on,"To provide you with the correct information regarding a specific nursing examination at KGMU, I need a little more detail. Could you please clarify:
+
+1.  **Which specific nursing examination** are you referring to (e.g., B.Sc. Nursing, M.Sc. Nursing, or a recruitment exam)?
+2.  **What is the year or session** of the exam?
+
+Once you provide these details, I can help you find the relevant information or direct you to the official results page at [https://kgmu.org/kgmu_result/examination_result.php](https://kgmu.org/kgmu_result/examination_result.php).",2026-03-27T13:02:51.000Z,true,2026-03-27T13:02:32.653Z,en,0,exams,factual,direct_answer,Nursing,simple,true,session_07928,false,20,4,555,75,13,18,Friday,false,true,true,en,0.95,information_seeking,medium,neutral,Nursing exam held on,deflected,exam;nursing,true,student
+qa_1774616596592_owj4pyqx,,Kgmu nursing officer,"For information regarding the **KGMU Nursing Officer recruitment**, please note that KGMU periodically releases recruitment notifications through its official website.
+
+To find the latest updates, exam dates, or recruitment status for Nursing Officer positions, please visit the official **""Recruitment""** section of the KGMU website:
+
+*   **Official Recruitment Portal:** [https://www.kgmu.org/jobs.php](https://www.kgmu.org/jobs.php)
+
+If you are looking for specific results or details regarding a past exam, please check the **Examination Results** page here:
+*   [https://kgmu.org/kgmu_result/examination_result.php](https://kgmu.org/kgmu_result/examination_result.php)
+
+If you are unable to find the specific notification you are looking for, I recommend checking the **PRO Office** or the official **Notice Board** on the main website at [www.kgmu.org](http://www.kgmu.org) for the most recent official circulars.",2026-03-27T13:03:16.000Z,true,2026-03-27T13:02:32.653Z,en,0,courses,factual,referral,Nursing,simple,true,session_07928,true,20,3,919,107,13,18,Friday,false,true,true,en,0.95,information_seeking,medium,neutral,Kgmu nursing officer,adequate,nursing;recruitment,false,student
+qa_1774616645171_y4sxbyvc,,Refferal na ho to,"Agar aapke paas referral nahi hai, toh iske baare mein KGMU ke niyam kuch is tarah hain:
+
+1. **Referral ki avashyakta:** KGMU ek tertiary care institution hai, isliye **bahar ke shahar se aane wale patients** ke liye kisi bhi government hospital ya valid practitioner ka referral hona anivarya (mandatory) hai taaki aapko sahi tarike se treat kiya ja sake.
+2. **Local Patients:** Yadi aap Lucknow ya aas-paas ke ilake se hain, toh aap seedhe OPD registration karwa sakte hain, lekin fir bhi referral hona behtar mana jata hai taaki aapki medical history clear rahe.
+3. **Emergency Services:** Yadi sthiti gambhir (emergency) hai, toh aapko referral ki chinta karne ki zaroorat nahi hai. Aap seedhe **KGMU Trauma Centre** ya Emergency wing mein ja sakte hain, jahan emergency medical services 24/7 uplabdh hain.
+4. **OPD Consultation:** Bina referral ke OPD mein dikhana mushkil ho sakta hai. Isliye, koshish karein ki apne nazdiki government hospital ya PHC/CHC se ek referral slip banwa lein.
+
+**Salah:**
+*   Yadi aapne online appointment (ORS) book kiya hai, toh usmein referral ka option ya details maangi ja sakti hain.
+*   Yadi aap walk-in (counter) par ja rahe hain, toh wahan ke staff se request karein. Lekin, referral hona hi sabse sahi tareeka hai.
+
+*Note: I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.*",2026-03-27T13:04:07.000Z,true,2026-03-27T13:01:41.501Z,en,0,general,factual,safety_redirect,,simple,true,session_07927,true,17,4,1444,236,13,18,Friday,false,false,true,hi-Latn,0.98,information_seeking,high,neutral,What if there is no referral,comprehensive,referral;opd;policy,false,patient
+qa_1774616760146_rboxxjox,,Dermatology,"Dermatology (Skin & VD) department ki jankari niche di gayi hai:
+
+*   **Department Link:** [Dermatology, Venereology & Leprosy](https://www.kgmu.org/department_details.php?dept_id=12&dept_type=2)
+*   **Location:** OPD New Block Building, **Third Floor**, Room No. 303, 304.
+*   **OPD Days:** Tuesday, Wednesday, aur Saturday.
+*   **Appointment:** OPD mein dikhane ke liye **online registration (ORS)** ya mobile app se booking karna mandatory hai.
+
+**Important Note:**
+*   Dermatology department mein OPD services mangalvar (Tuesday), budhvar (Wednesday), aur shanivar (Saturday) ko chalti hain.
+*   Kripya apne saath apna Aadhaar card aur agar kisi doctor ne refer kiya hai, toh wo referral slip zaroor layein.
+
+*I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline (0522-2258880 / 0522-3539333). Also, please avoid sharing personal details in this chat for your safety.*",2026-03-27T13:06:02.000Z,true,2026-03-27T13:01:41.501Z,en,0,departments,factual,safety_redirect,Dermatology,simple,true,session_07927,true,11,1,921,127,13,18,Friday,false,true,true,en,0.95,information_seeking,high,neutral,Dermatology,comprehensive,department;timing;opd,false,patient
+qa_1774616818288_87o2dqbb,,Dermatology me refferal nahi hai,"Dermatology department mein referral ke bina OPD mein dikhana thoda mushkil ho sakta hai kyunki KGMU ek **Tertiary Care Centre** hai, jahan referral ki policy strict hoti hai.
+
+Agar aapke paas referral nahi hai, toh aap ye kadam utha sakte hain:
+
+1. **Nazdiki CHC/PHC ya District Hospital:** Aap apne ghar ke paas kisi bhi sarkari hospital (District Hospital) mein jaakar wahan ke doctor ko dikhayein aur unse KGMU ke Dermatology department ke liye ek **referral slip** likhwa lein. Yeh sabse sahi aur aasaan tarika hai.
+2. **Walk-in Consultation:** Yadi aap direct KGMU jana chahte hain, toh registration counter par jaakar apni sthiti batayein. Kabhi-kabhi registration counter par staff referral maangte hain, lekin yadi aapki samasya gambhir hai, toh wahan ke CMO/Medical Officer se baat karke clearance lene ka prayas kar sakte hain.
+3. **Emergency:** Agar aapki skin condition mein bahut jyada jalan, allergy, ya infection hai jo gambhir roop le chuka hai, toh aap **Emergency (Trauma Centre ya Casualty)** mein ja sakte hain, jahan emergency mein doctor upalabdh rehte hain.
+
+**Mahatvapurn Salah:**
+*   Dermatology department ki OPD **Tuesday, Wednesday, aur Saturday** ko hi khulti hai. In dinon ke alawa jane se bachein.
+*   Apna **Aadhaar Card** aur **Mobile Number** zaroor saath rakhein.
+*   Koshish karein ki referral slip lekar hi jayein taaki aapka samay kharab na ho aur aapko registration mein koi dikkat na aaye.
+
+*Note: I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline (0522-2258880 / 0522-3539333). Also, please avoid sharing personal details in this chat for your safety.*",2026-03-27T13:07:00.000Z,true,2026-03-27T13:01:41.501Z,en,0,departments,factual,safety_redirect,Dermatology,moderate,true,session_07927,true,32,5,1646,259,13,18,Friday,false,false,true,hi-Latn-en,0.96,information_seeking,high,frustrated,I do not have a referral for dermatology,comprehensive,referral;department;opd,false,patient
+qa_1774617341042_distqymg,,Abha se appointment kaise le,"ABHA (Health Care App) ke madhyam se KGMU mein appointment book karne ki prakriya niche di gayi hai:
+
+1. **App Download karein:** Apne mobile mein KGMU Play Store se ABHA ya Health Care App download karein.
+2. **Register karein:** App mein apne mobile number se register karein aur OTP ke dwara verify karein.
+3. **Hospital Select karein:** App ke andar 'Book Appointment' section mein jaakar State (Uttar Pradesh) aur phir Hospital (KGMU) ka chayan karein.
+4. **Department chunein:** Jis department mein aapko dikhana hai, use select karein.
+5. **Slot book karein:** Apni suvidha anusar uplabdh date aur time slot chunein.
+6. **Details bharein:** Patient ki jankari (naam, aayu, aadi) darj karein.
+7. **Payment:** ₹50 ka OPD shulk online pay karein.
+8. **Confirmation:** Payment hone ke baad aapka appointment confirm ho jayega aur aap appointment slip download kar sakte hain.
+
+**Kuch mahatvapurn baatein:**
+* KGMU mein online registration anivarya (mandatory) hai.
+* OPD ka samay: Somvar–Shukravar (9:00 AM – 1:00 PM) aur Shanivar (9:00 AM – 12:00 PM). Sunday ko OPD band rehti hai.
+* Agar aap shehar se bahar ke hain, to apne sambhandhit department ke liye valid referral lekar aayen.
+
+Yadi aapko swasthya sambandhi koi samasya hai, to kripya kisi doctor se paramarsh lein. Main ek AI assistant hoon aur medical diagnosis ya upchar ki salah nahi de sakta. KGMU OPD mein doctor se milne ke liye upar di gayi prakriya ka palan karein. Kripya is chat mein apni koi bhi niji medical jankari, Aadhaar number ya phone number share na karein.",2026-03-27T13:15:43.000Z,true,2026-03-27T13:01:41.501Z,en,0,appointment,procedural,direct_answer,,moderate,true,session_07927,true,28,5,1539,253,13,18,Friday,false,false,true,hi-Latn,0.98,scheduling,high,neutral,How to take appointment via ABHA,comprehensive,appointment;abha;registration,false,patient
+qa_1774617829360_6gauzcsw,,Suresh chandra किस दिन देखते हैं,"Dr. Suresh Chand (Assistant Professor, Orthopaedics) is available in the **Department of Paediatric Orthopaedics**.
+
+According to the KGMU OPD schedule, the Department of Paediatric Orthopaedics is available on:
+**Monday, Wednesday, and Saturday.**
+
+Please note that online registration is mandatory for all patients. You can book your appointment through [www.ors.gov.in](https://www.ors.gov.in), by calling 0522-2258880 / 0522-3539333, or by sending an SMS ""APPOINTMENT <NAME>"" to 8887019134.
+
+*Disclaimer: I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.*",2026-03-27T13:23:50.000Z,true,2026-03-27T13:22:28.118Z,hi-en,0.52,general,factual,safety_redirect,,moderate,true,session_07929,false,32,6,686,94,13,18,Friday,false,true,false,hi-Latn-en,0.97,scheduling,high,neutral,Which day does Suresh Chandra see patients,comprehensive,faculty;timing;opd,false,patient
+qa_1774621679812_vi070tny,,Lab technician ka admit card kaise nikalw,"KGMU mein Lab Technician ya kisi bhi anya bharti ke admit card download karne ke liye aap niche diye gaye steps ka palan kar sakte hain:
+
+1. Sabse pehle KGMU ki adhikarik website **[www.kgmu.org](https://www.kgmu.org)** par jayein.
+2. Website par **""Recruitment""** ya **""Career""** section ko khojein.
+3. Wahan aapko apni bharti (Lab Technician) se sambandhit link dikhayi dega.
+4. Admit Card ke link par click karein aur apna Registration Number aur Password (ya Date of Birth) darj karein.
+5. Details submit karne ke baad aap apna admit card download aur print kar sakte hain.
+
+**Mahatvapurn Suchna:**
+*   Yadi aapko website par link nahi mil raha hai, toh kripya **[kgmu.org/all_recruitment.php](https://kgmu.org/all_recruitment.php)** par check karein.
+*   Admit card hamesha official website se hi download karein.
+*   Yadi aap kisi pariksha ya results ke bare mein puch rahe hain, toh kripya spasht karein ki aap kis exam ki baat kar rahe hain, taaki main aapko sahi link pradan kar saku.
+
+**Sachet rahein:** Apni vyaktigat jankari (jaise Aadhaar number, phone number, ya login credentials) kabhi bhi chat mein share na karein.",2026-03-27T14:28:02.000Z,true,2026-03-27T14:26:24.222Z,en,0,general,procedural,referral,,moderate,true,session_07930,false,41,7,1132,175,14,19,Friday,false,true,true,hi-Latn,0.98,information_seeking,medium,neutral,How to download lab technician admit card,comprehensive,admit_card;lab;recruitment,false,student
+qa_1774621809044_8pnn9gdh,,Mujhe BLS course karn hai,"BLS (Basic Life Support) course ke liye aap KGMU ke **Centre for Advanced Skills Development** se sampark kar sakte hain.
+
+Aap is link par jaakar adhik jaankari prapt kar sakte hain: [https://kgmu.org/atls.php](https://kgmu.org/atls.php)
+
+Saath hi, aap Anaesthesiology department ke faculty members se bhi sampark kar sakte hain jo BLS/ACLS training coordinate karte hain. Aap KGMU ki main website [www.kgmu.org](https://www.kgmu.org) par jakar 'Departments' section mein Anaesthesiology department ki details dekh sakte hain.",2026-03-27T14:30:10.000Z,true,2026-03-27T14:29:46.317Z,en,0,courses,factual,direct_answer,,moderate,true,session_07931,false,25,5,526,70,14,20,Friday,false,true,false,hi-Latn,0.98,information_seeking,high,neutral,I want to do BLS course,comprehensive,course;bls;admission,false,student
+qa_1774621940827_21ocf57r,,Mai b.pharma studunet hu or ircs se maine abhi first aid kiya hua hai to kya mai kar sakta hu,"Haan, ek B.Pharma student hone ke naate aur IRCS se First Aid ka course karne ke baad, aap BLS (Basic Life Support) course karne ke liye yogy hain. BLS course medical students aur healthcare professionals ke liye bahut mahatvapurna hai.
+
+Aapko BLS course ke liye KGMU ke **Centre for Advanced Skills Development** se sampark karna chahiye. Unki website hai: [https://kgmu.org/atls.php](https://kgmu.org/atls.php)
+
+Wahan se aapko registration process aur course ke baare mein puri jaankari mil jayegi.",2026-03-27T14:32:21.000Z,true,2026-03-27T14:29:46.317Z,en,0,departments,factual,direct_answer,Pharmacology,complex,true,session_07931,true,93,20,500,74,14,20,Friday,false,true,false,hi-Latn-en,0.97,information_seeking,high,neutral,"I am a B.Pharma student and have done first aid from IRCS, so can I do it",comprehensive,course;bls;eligibility,false,student
+qa_1774622057539_ymy234a2,,i had an interview shecheduled on 3 of april 2026,"I understand you had an interview scheduled for April 3rd, 2026.
+
+Would you like to know if that date was a holiday at KGMU, or do you have any other questions related to KGMU?",2026-03-27T14:34:18.000Z,true,2026-03-27T14:33:42.875Z,en,0,general,factual,direct_answer,,moderate,true,session_07932,false,49,10,176,34,14,20,Friday,false,false,false,en,0.95,scheduling,low,neutral,I had an interview scheduled on 3 of april 2026,deflected,interview;holiday,true,unknown
+qa_1774622422570_gu3nhasx,,medical social service officer Gr 2 level-6 post recruitment 2025,"I am sorry, but I cannot find any information regarding recruitment for ""medical social service officer Gr 2 level-6 post"" in 2025. Please check the official KGMU website or relevant recruitment portals for any updates.",2026-03-27T14:40:23.000Z,true,2026-03-27T14:33:42.875Z,en,0,career,factual,direct_answer,,moderate,true,session_07932,true,65,10,219,35,14,20,Friday,false,false,false,en,0.95,information_seeking,low,neutral,medical social service officer Gr 2 level-6 post recruitment 2025,deflected,recruitment,false,unknown
+qa_1774624177891_bhh274lk,,Nursing officers exam date,"For the most up-to-date information regarding the **Nursing Officer recruitment exam dates**, please check the official ""Jobs"" or ""Notices"" section on the KGMU website:
+
+*   **Official Website:** [www.kgmu.org](https://www.kgmu.org)
+
+Recruitment exam schedules are announced through official notifications and may vary depending on the specific advertisement cycle. If you have a specific advertisement number, I can try to help you find more details, or you may contact the **Registrar Office** at **0522-2253171** for administrative inquiries.",2026-03-27T15:09:37.000Z,true,2026-03-27T15:08:34.467Z,en,0,exams,temporal,referral,Nursing,simple,true,session_07933,false,26,4,545,73,15,20,Friday,false,true,true,en,0.95,information_seeking,medium,neutral,Nursing officers exam date,adequate,exam;nursing;recruitment,false,student
+qa_1774625501292_jp4gm29l,,Nursing officer exam date,"I do not have the specific date for the upcoming Nursing Officer exam in my current records, as exam schedules are updated periodically by the university administration.
+
+To get the most accurate and up-to-date information regarding recruitment exams, I recommend checking the **'Jobs'** or **'Notices'** section on the official KGMU website: [www.kgmu.org](https://www.kgmu.org).
+
+Alternatively, you can contact the **Registrar's Office** at **0522-2253171** or the **Help Line** at **0522-2258880** for official inquiries.",2026-03-27T15:31:42.000Z,true,2026-03-27T15:31:03.261Z,en,0,exams,temporal,direct_answer,Nursing,simple,true,session_07934,false,25,4,524,70,15,21,Friday,false,true,false,en,1,information_seeking,medium,neutral,Nursing officer exam date,deflected,exam;admission;other,false,unknown
+qa_1774626791218_f3o7jizd,,What about Admit card and station for examination schedule on 03 April 26 of non teaching,"I cannot provide information about admit cards or specific examination stations. For details regarding admit cards and examination schedules, please refer to the official KGMU website or contact the examination department directly.",2026-03-27T15:53:11.000Z,true,2026-03-27T15:49:45.723Z,en,0,exams,temporal,unable_to_answer,,complex,true,session_07935,false,89,16,231,32,15,21,Friday,false,false,false,en,1,information_seeking,low,neutral,What about Admit card and station for examination schedule on 03 April 26 of non teaching,deflected,exam;document;other,false,unknown
