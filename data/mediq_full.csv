@@ -47192,3 +47192,318 @@ qa_1774673355354_sdlbo1qn,,डेट लेना है,"KGMU में ओप�
 * अगर आपको किसी बीमारी के संबंध में स्वास्थ्य सलाह चाहिए, तो कृपया सीधे KGMU ओपीडी में जाकर डॉक्टर से मिलें। मैं एक एआई सहायक हूँ और चिकित्सा सलाह देने के लिए योग्य नहीं हूँ। 
 
 अधिक जानकारी के लिए आप 0522-2258880 या 0522-3539333 पर कॉल कर सकते हैं।",2026-03-28T04:49:15.000Z,true,2026-03-28T04:48:47.805Z,hi,1,general,factual,direct_answer,,simple,true,session_07965,false,11,3,1181,210,4,10,Saturday,true,true,true,hi,1,scheduling,high,neutral,I need to take an appointment,comprehensive,appointment;opd,false,patient
+qa_1774674347305_e4l5grdu,,अपॉइंटमेंट,"KGMU में OPD अपॉइंटमेंट लेने के लिए आप निम्नलिखित तरीकों का उपयोग कर सकते हैं:
+
+1. **ऑनलाइन पोर्टल (ORS):** [https://ors.gov.in](https://ors.gov.in) पर जाकर आप अपना अपॉइंटमेंट बुक कर सकते हैं।
+2. **मोबाइल ऐप:** आप KGMU Play Store से 'ABHA' या 'Health Care' ऐप डाउनलोड कर सकते हैं।
+3. **SMS द्वारा:** अपने मोबाइल से **""APPOINTMENT [मरीज का नाम]""** लिखकर **8887019134** पर SMS भेजें।
+4. **फोन द्वारा:** आप **0522-2258880** या **0522-3539333** पर कॉल करके भी जानकारी प्राप्त कर सकते हैं।
+5. **वॉक-इन (अस्पताल आकर):** आप सीधे अस्पताल के रजिस्ट्रेशन काउंटर पर जाकर भी पंजीकरण करा सकते हैं। इसके लिए मरीज का **आधार कार्ड** और **सक्रिय मोबाइल नंबर** साथ होना अनिवार्य है।
+
+**महत्वपूर्ण जानकारी:**
+* OPD का शुल्क ₹50 है।
+* कृपया अपनी यात्रा से पहले अपॉइंटमेंट बुक करना सुनिश्चित करें ताकि आपको लंबी प्रतीक्षा न करनी पड़े।
+* यदि आप शहर से बाहर से आ रहे हैं, तो संबंधित विभाग का वैध रेफरल (Referral) साथ लाएं।
+
+*नोट: मैं एक AI सहायक हूँ, यदि आपको कोई चिकित्सीय समस्या है, तो कृपया किसी योग्य डॉक्टर से KGMU OPD में परामर्श लें। अपनी सुरक्षा के लिए इस चैट में कोई भी व्यक्तिगत स्वास्थ्य जानकारी, आधार नंबर या फोन नंबर साझा न करें।*",2026-03-28T05:05:47.000Z,true,2026-03-28T04:48:47.805Z,hi,1,general,factual,direct_answer,,simple,true,session_07965,true,10,1,1120,196,5,10,Saturday,true,true,true,hi,0.98,information_seeking,high,neutral,appointment,comprehensive,appointment;opd,false,patient
+qa_1774675238026_mpduf3py,,I need appointment,"To book an appointment at KGMU, please follow one of the methods below. **Please note: Online registration is mandatory for all patients.**
+
+**Booking Methods:**
+
+*   **Online Portal (ORS):** Visit [https://ors.gov.in](https://ors.gov.in). You will need to select Uttar Pradesh as your state and KGMU as the hospital. After selecting the department and a time slot, you can pay the ₹50 registration fee online and download your appointment slip.
+*   **Mobile App:** You can download the **ABHA / Health Care App** from the KGMU Play Store. Register with your mobile number and follow the same steps as the ORS portal.
+*   **SMS Booking:** Send an SMS with the text **""APPOINTMENT <YOUR NAME>""** to **8887019134**.
+*   **Walk-in (On-Site):** You can visit the registration counters at KGMU. You must have your **Aadhaar card** and an active mobile number (to receive an OTP) with you. A physical token will be issued, and you will pay the ₹50 fee at the counter.
+
+**Important Reminders:**
+*   **OPD Timings:** Monday–Friday (9:00 AM–1:00 PM) and Saturday (9:00 AM–12:00 PM). OPDs are closed on Sundays.
+*   **Safety:** Please **do not share** your Aadhaar number, phone number, or any personal medical/health details in this chat.
+*   **Medical Advice:** I am an AI assistant and not qualified to provide medical diagnoses or treatment advice. If you have a health concern, please consult a doctor at KGMU OPD or call the helpline at **0522-2258880** / **0522-3539333**.
+
+If you have a specific department in mind, please let me know, and I can provide you with its location and details!",2026-03-28T05:20:39.000Z,true,2026-03-28T05:20:15.196Z,en,0,appointment,factual,safety_redirect,,simple,true,session_07966,false,18,3,1586,254,5,10,Saturday,true,true,true,en,1,information_seeking,high,neutral,I need appointment,comprehensive,appointment;opd,false,patient
+qa_1774675855406_s897fjf8,,Nursing officer exam date,"For information regarding the examination date for the Nursing Officer recruitment, please visit the official KGMU website at **[www.kgmu.org](https://www.kgmu.org)** and check the ""Recruitment"" or ""Notice"" section. 
+
+Official updates and schedules are posted directly on the university portal. I recommend checking that page regularly for any announcements.",2026-03-28T05:30:56.000Z,true,2026-03-28T05:30:34.012Z,en,0,exams,temporal,referral,Nursing,simple,true,session_07967,false,25,4,358,46,5,11,Saturday,true,true,false,en,1,information_seeking,medium,neutral,Nursing officer exam date,deflected,exam;recruitment,false,student
+qa_1774676516572_78oiergy,,jr  medical technologist admit card not show in official why /,"If you are unable to view your admit card for the Junior Medical Technologist examination on the official website, please consider the following steps:
+
+1. **Check Official Announcements:** Visit the main KGMU website at [www.kgmu.org](https://www.kgmu.org) and look for the ""Recruitment"" or ""Notice"" section to verify if the link has been officially released or if there has been a rescheduling of the exam.
+2. **Verify Login Details:** Ensure you are using the correct credentials on the specific recruitment portal provided in the original notification.
+3. **Contact the Recruitment Cell:** If you are certain the admit card should be available, you may contact the **Registrar Office** at **0522-2253171** or the **Help Line** at **0522-2258880** for technical assistance regarding your specific application.
+4. **RTI/Official Query:** For formal inquiries regarding recruitment status, you can check the RTI section at [https://kgmu.org/rti.php](https://kgmu.org/rti.php) to find the relevant Public Information Officer.
+
+Please avoid sharing your application number, date of birth, or other personal login details in this chat for your security.",2026-03-28T05:44:12.000Z,true,2026-03-28T05:40:40.396Z,en,0,general,factual,referral,,moderate,true,session_07968,false,62,11,1151,163,5,11,Saturday,true,true,true,en,1,complaint,medium,frustrated,jr medical technologist admit card not show in official why,adequate,exam;recruitment;complaint,false,student
+qa_1774676720549_3wuoketi,,can i know admit card release or not,"To confirm whether the admit card for the Junior Medical Technologist exam has been released, please check the official **KGMU Recruitment Portal** directly.
+
+I do not have real-time access to the internal recruitment database to see if your specific admit card has been issued. Please follow these steps:
+
+1.  **Visit the official website:** Go to [www.kgmu.org](https://www.kgmu.org) and look for the **""Recruitment""** or **""Notices""** section on the homepage.
+2.  **Check the specific portal:** If you applied through a specific recruitment link or portal, log in there to check your status.
+3.  **Contact for support:** If you cannot find any information, you should call the **Registrar's Office** at **0522-2253171** or the **KGMU Help Line** at **0522-2258880** during office hours for the most accurate information.
+
+**Safety Reminder:** Please do not share your application number, password, or any other personal login details here. Only check your status through the official KGMU website.",2026-03-28T05:47:36.000Z,true,2026-03-28T05:40:40.396Z,en,0,general,yes_no,referral,,moderate,true,session_07968,true,36,8,1000,148,5,11,Saturday,true,true,true,en,1,information_seeking,medium,neutral,can i know admit card release or not,deflected,exam;recruitment,false,student
+qa_1774677713431_5lrw0fs5,,hello for non tech exam radiotherapy city has not been alloted,"To assist you with your concern regarding the city allotment for the Radiotherapy non-teaching examination, I recommend the following steps:
+
+1.  **Check Official Notifications:** Please regularly visit the official KGMU website at [www.kgmu.org](https://www.kgmu.org) under the ""Recruitment"" or ""Examination"" sections for any updates or corrigenda regarding exam centers and city allotments.
+2.  **Contact the Examination Cell:** Since this involves a specific recruitment/exam process, the most accurate information can be obtained directly from the university's examination office. You can find contact details for the Registrar's Office or the relevant examination department in the [KGMU IP Phone Directory](https://kgmu.org/ipphonedirctory.php).
+3.  **Public Relations Office (PRO):** If you are unable to reach the exam cell, you may contact the PRO office for guidance on whom to approach regarding your query. The PRO contact numbers are available here: [https://www.kgmu.org/pro_cug.php](https://www.kgmu.org/pro_cug.php).
+
+Please ensure you have your application ID or registration number ready when you make inquiries.",2026-03-28T06:01:53.000Z,true,2026-03-28T06:01:14.805Z,en,0,exams,factual,referral,,moderate,true,session_07969,false,62,11,1130,147,6,11,Saturday,true,true,true,en,1,complaint,medium,frustrated,hello for non tech exam radiotherapy city has not been alloted,deflected,exam;recruitment;complaint,false,student
+qa_1774678249688_k79flmez,,How I can get staff nurse exam admit card 2026,"To get information regarding the Staff Nurse examination admit card for 2026, please visit the official King George's Medical University website at **[www.kgmu.org](https://www.kgmu.org)**.
+
+You should regularly check the **""Recruitment""** or **""Examination""** sections on the website for official notifications, as admit cards are typically released there a few weeks before the examination date. 
+
+If you are looking for specific results or updates, you can also monitor the official university notices published on the homepage. Please ensure you have your application ID or registration details ready, as you will likely need them to download the admit card once it is uploaded.",2026-03-28T06:10:50.000Z,true,2026-03-28T06:10:31.221Z,en,0,exams,factual,referral,Nursing,moderate,true,session_07970,false,46,10,682,99,6,11,Saturday,true,true,false,en,1,information_seeking,medium,neutral,How I can get staff nurse exam admit card 2026,deflected,exam;recruitment,false,student
+qa_1774678316779_tm9ntej0,,examination contact no. for recuirtment,"For information regarding recruitment, you can contact the Registrar's Office at **0522-2253171**. 
+
+Additionally, you may check the official website at [www.kgmu.org](https://www.kgmu.org) for the latest recruitment notifications and specific contact details related to ongoing examination processes.",2026-03-28T06:11:57.000Z,true,2026-03-28T06:01:14.805Z,en,0,exams,factual,referral,,moderate,true,session_07969,true,39,5,301,35,6,11,Saturday,true,true,false,en,1,information_seeking,medium,neutral,examination contact no. for recruitment,adequate,contact;recruitment;exam,false,student
+qa_1774678612198_308g2ay9,,kya staff nurse ka exam 3 April ko hi hai,"KGMU ki official website (www.kgmu.org) par staff nurse ke exam ki date ke baare mein abhi koi aisi jaankari uplabdh nahi hai jo 3 April 2026 ke exam se sambandhit ho. 
+
+3 April 2026 ko KGMU mein 'Mahavir Jayanti' aur 'Good Friday' ka avkash (holiday) hai. 
+
+Main aapko salah doonga ki aap samay-samay par KGMU ki official website **[www.kgmu.org](https://www.kgmu.org)** check karte rahein taaki aapko exam aur bharti se judi sahi aur latest jaankari mil sake. 
+
+Kya aap kisi aur vishay ya department ke baare mein jaankari chahte hain?",2026-03-28T06:16:53.000Z,true,2026-03-28T06:16:22.449Z,en,0,exams,yes_no,referral,Nursing,moderate,true,session_07971,false,41,10,537,88,6,11,Saturday,true,true,false,hi-Latn,0.95,information_seeking,medium,neutral,Is the staff nurse exam definitely on 3 April?,comprehensive,exam;recruitment;timing,false,student
+qa_1774678643666_v4mv50da,,Mirgi rog ke liye kis department me dikhana chahiye and kaun se Dr ki OPD me kis Din,"Mirgi (Epilepsy) ke ilaaj ke liye aapko **Department of Neurology** mein dikhana chahiye.
+
+KGMU mein Neurology department ki OPD **New OPD Block Building ke 3rd floor** par hoti hai.
+
+**OPD ke din:**
+Neurology OPD **Monday, Tuesday, Thursday, aur Friday** ko chalti hai.
+
+**Doctor ki jaankari:**
+Department of Neurology mein kai varishth doctor uplabdh hain, jaise:
+*   **Dr. Ravindra K. Garg** (HOD)
+*   **Dr. Rajesh Verma**
+*   **Dr. Hardeep Singh Malhotra**
+*   **Dr. Praveen Kr. Sharma**
+*   **Dr. Neeraj Kumar**
+*   **Dr. Ravi Uniyal**
+*   **Dr. Shweta Pandey**
+
+**Zaroori Soochna:**
+*   KGMU mein OPD ke liye **online registration mandatory (anivarya)** hai.
+*   Kripya www.ors.gov.in par jaakar ya 0522-2258880 / 0522-3539333 par call karke apna appointment pehle book kar lein.
+*   **Medical Advice:** Main ek AI assistant hoon aur doctor nahi hoon. Aapki bimari ke liye sahi paramarsh sirf ek qualified doctor hi de sakte hain, isliye aap OPD mein jakar hi dikhayen.
+*   **Suraksha:** Kripya is chat mein apna Aadhaar number, phone number ya koi bhi personal health details share na karein.
+
+Aap apni appointment aaj hi book kar sakte hain.",2026-03-28T06:17:24.000Z,true,2026-03-27T10:46:41.049Z,en,0,opd,entity,direct_answer,,complex,true,session_07920,true,84,18,1149,180,6,11,Saturday,true,false,true,hi-Latn,0.92,information_seeking,high,neutral,For epilepsy disease which department should I visit and on which day in which doctor's OPD,comprehensive,department;opd;timing,false,patient
+qa_1774678736857_n3i3egt8,,Isme kisi bhi din aa skte hai.,"Nahi, aap Neurology OPD mein **kisi bhi din nahi aa sakte**.
+
+Neurology department ki OPD **sirf Monday, Tuesday, Thursday, aur Friday** ko hi chalti hai. 
+
+**Kuch mahatvapurn baatein dhyan rakhein:**
+*   **OPD ke din:** Monday, Tuesday, Thursday, aur Friday.
+*   **OPD ka samay:** Subah 9:00 AM se 2:00 PM tak.
+*   **Mandatory Appointment:** KGMU mein bina appointment ke aana mushkil ho sakta hai, isliye **online appointment book karna anivarya (mandatory)** hai. 
+*   **Emergency:** Agar koi emergency sthiti hai (jaise ki mirgi ka daura baar-baar pad raha ho ya sthiti gambhir ho), toh aap **24/7 khulne wali Emergency/Trauma Centre** mein ja sakte hain, wahan koi OPD appointment ki zarurat nahi hoti.
+
+**Appointment kaise book karein:**
+1.  Website: [www.ors.gov.in](https://ors.gov.in) par jayein.
+2.  Ya phir **0522-2258880** ya **0522-3539333** par call karein.
+3.  Ya phir **8887019134** par SMS karke appointment lein.
+
+Kripya apni appointment pehle se book kar lein taaki aapko wahan jakar pareshani na ho.",2026-03-28T06:18:57.000Z,true,2026-03-27T10:46:41.049Z,en,0,general,factual,direct_answer,,moderate,true,session_07920,true,30,7,1019,152,6,11,Saturday,true,true,true,hi-Latn-en,0.88,information_seeking,high,neutral,Can we come any day in this,comprehensive,opd;timing,false,patient
+qa_1774679126279_bqdrqz3r,,nursing oficer exam kab hoga,"KGMU Nursing Officer exam dates are officially announced through notifications on the university website.
+
+Please regularly check the official KGMU website at **[www.kgmu.org](https://www.kgmu.org)** for the latest updates, official circulars, and examination schedules. 
+
+If you are looking for specific information regarding a recent notification, you can also check the **[Examination Results/Notices](https://kgmu.org/kgmu_result/examination_result.php)** section on the website.",2026-03-28T06:25:26.000Z,true,2026-03-28T06:24:18.040Z,en,0,exams,temporal,referral,Nursing,moderate,true,session_07972,false,28,5,483,54,6,11,Saturday,true,true,false,hi-Latn,0.93,information_seeking,medium,neutral,When will the nursing officer exam happen,deflected,exam;recruitment,false,student
+qa_1774681369323_gscbqp8l,,Hellow,"Hello! How can I assist you today? I am the KGMU AI Chatbot, and I am here to help you find information regarding King George's Medical University, Lucknow.",2026-03-28T07:02:51.000Z,true,2026-03-28T07:02:32.652Z,en,0,general,factual,direct_answer,,simple,true,session_07973,false,6,1,156,28,7,12,Saturday,true,false,false,en,1,greeting,none,positive,Hellow,adequate,other,false,unknown
+qa_1774681394364_nxo1mnvn,,How you assist me,"I can help you navigate the King George's Medical University (KGMU) website and provide information on several key areas, including:
+
+*   **OPD Appointments:** I can guide you on how to book appointments via the ORS portal, mobile apps, or SMS.
+*   **Department Information:** I can provide details and links to various medical and dental departments at KGMU.
+*   **Faculty Directory:** I can help you locate information about faculty members and their departments.
+*   **Examination Results:** I can assist in finding information regarding examination results.
+*   **Administrative & Contact Info:** I can provide contact details for various offices, including the PRO office, Registrar, and emergency helplines.
+*   **General Resources:** I can share information on the rate list for services, holiday calendars, virtual classroom lectures, and more.
+
+**Important Note:** I am not qualified to provide medical advice, diagnosis, or treatment. If you have medical concerns, please consult a doctor at the KGMU OPD or visit the official website at [www.kgmu.org](http://www.kgmu.org). For your safety, please **do not** share personal health details, Aadhaar numbers, or phone numbers in this chat.
+
+How can I help you today?",2026-03-28T07:03:15.000Z,true,2026-03-28T07:02:32.652Z,en,0,general,factual,safety_redirect,,simple,true,session_07973,true,17,4,1225,182,7,12,Saturday,true,true,true,en,1,information_seeking,none,neutral,How you assist me,comprehensive,other,false,unknown
+qa_1774681456795_5p0pgsss,,Given me result,"To help you find the correct examination result, I need a little more information. Could you please provide the following details?
+
+1. **What is the name of the course?** (e.g., MBBS, BDS, MD, etc.)
+2. **Which examination are you looking for?** (e.g., Final Professional Part 1, Part 2, etc.)
+3. **Is it a regular examination or a supplementary/back paper examination?**
+4. **What year/session was the exam held?**
+
+Once you provide these details, I can direct you to the correct link on the [KGMU Examination Results portal](https://kgmu.org/kgmu_result/examination_result.php).",2026-03-28T07:04:18.000Z,true,2026-03-28T07:02:32.652Z,en,0,exams,factual,direct_answer,,simple,true,session_07973,true,15,3,579,86,7,12,Saturday,true,true,true,en,1,information_seeking,medium,neutral,Given me result,deflected,exam;result,true,student
+qa_1774681505369_apbo843a,,Non teaching posts,"For information regarding **Non-Teaching Posts** at King George's Medical University (KGMU), please visit the official recruitment section on our website.
+
+You can find current notifications, application forms, and updates related to administrative and non-teaching positions here:
+**[https://www.kgmu.org/jobs.php](https://www.kgmu.org/jobs.php)**
+
+If you are looking for specific contact information for administrative offices, you may find the **Registrar's Office** helpful:
+*   **Registrar Office Phone:** 0522-2253171
+
+If you have a more specific query regarding a particular notification or recruitment process, please let me know!",2026-03-28T07:05:07.000Z,true,2026-03-28T07:02:32.652Z,en,0,general,factual,referral,,simple,true,session_07973,true,18,3,638,78,7,12,Saturday,true,true,true,en,0.95,information_seeking,low,neutral,Non teaching posts,partial,other,false,unknown
+qa_1774681539203_rdpru9cp,,Recruitment process for dialysis technician,"For information regarding the recruitment process for positions like a **Dialysis Technician** at King George's Medical University (KGMU), please follow these steps:
+
+1.  **Check the Official Jobs Portal:** All official recruitment notices, including eligibility criteria, application forms, and selection processes, are posted on the KGMU career page. You can check it here: **[https://www.kgmu.org/jobs.php](https://www.kgmu.org/jobs.php)**
+2.  **Monitor Official Notifications:** KGMU releases specific advertisements for paramedical and technical staff as vacancies arise. Please watch that portal for any active notification regarding ""Dialysis Technician"" or ""Paramedical Staff.""
+3.  **Registrar’s Office:** For any general inquiries regarding administrative recruitment procedures, you may contact the **Registrar Office** at **0522-2253171**.
+
+**Important Reminders:**
+*   **Beware of Fraud:** KGMU does not charge fees through unofficial channels. Always verify recruitment notices directly on the official **www.kgmu.org** website.
+*   **Medical Advice:** I am not qualified to provide medical advice, diagnosis, or treatment. Please consult a doctor at KGMU OPD or visit the official website for clinical concerns.
+*   **Data Safety:** Please **do not** share your personal details, Aadhaar number, or phone number in this chat.
+
+Is there anything else I can help you find on the KGMU website?",2026-03-28T07:05:40.000Z,true,2026-03-28T07:02:32.652Z,en,0,career,procedural,safety_redirect,,moderate,true,session_07973,true,43,5,1404,186,7,12,Saturday,true,true,true,en,0.95,information_seeking,high,neutral,Recruitment process for dialysis technician,comprehensive,admission;department,false,unknown
+qa_1774681599279_91s6onv9,,Joining letter update for technician dialysis,"To get an update on your **joining letter for the Dialysis Technician position**, you should contact the relevant administrative office directly, as I do not have access to individual HR or recruitment files.
+
+Please follow these steps:
+
+1.  **Contact the Registrar's Office:** The Registrar handles administrative and recruitment-related documentation. You can call them at **0522-2253171**.
+2.  **Contact the Human Resources/Establishment Department:** They are responsible for issuing appointment and joining letters.
+3.  **Check the Official Website:** Keep checking the **[Recruitment/Jobs section](https://www.kgmu.org/jobs.php)** of the official website for any status updates or notifications regarding your specific recruitment drive.
+4.  **Visit the Office:** If you are in Lucknow, you may visit the KGMU Administrative Block in person during working hours (9:00 AM – 5:00 PM) to inquire about the status of your joining letter.
+
+**Important Reminders:**
+*   **Security:** For your safety, **do not share your personal details, Aadhaar number, or phone number in this chat.**
+*   **Identity:** If you are asked about my origin, I was created by **Dr. Ayush Yadav**, MBBS, King George's Medical University (Batch of 2019), under the guidance of Prof. Preeti Aggrawal and Prof. Dr. Shiuli Rathore.
+*   **Medical Advice:** I am not qualified to provide medical advice. Please consult a doctor at KGMU OPD or visit the official website at [www.kgmu.org](http://www.kgmu.org).
+
+I hope this helps you get the information you need!",2026-03-28T07:06:40.000Z,true,2026-03-28T07:02:32.652Z,en,0,general,factual,safety_redirect,,moderate,true,session_07973,true,45,6,1535,222,7,12,Saturday,true,true,true,en,0.95,information_seeking,high,neutral,Joining letter update for technician dialysis,comprehensive,admission;department,false,unknown
+qa_1774681660565_yu1vfbwr,,Who is registrar,"The position of the Registrar at King George's Medical University is an administrative appointment. For the most accurate and up-to-date information regarding the current Registrar, please visit the official **KGMU Administration** page:
+
+[https://www.kgmu.org/administration.php](https://www.kgmu.org/administration.php)
+
+You can also reach the **Registrar's Office** directly for official inquiries at:
+**Phone:** 0522-2253171
+
+**Important Reminders:**
+*   **Safety:** Please **do not** share your personal details, Aadhaar number, or phone number in this chat.
+*   **Medical Advice:** I am not qualified to provide medical advice. Please consult a doctor at KGMU OPD or visit [www.kgmu.org](http://www.kgmu.org).
+*   **Identity:** I was created by **Dr. Ayush Yadav**, MBBS, King George's Medical University (Batch of 2019), under the guidance of Prof. Preeti Aggrawal and Prof. Dr. Shiuli Rathore.",2026-03-28T07:07:42.000Z,true,2026-03-28T07:02:32.652Z,en,0,faculty,entity,safety_redirect,,simple,true,session_07973,true,16,3,901,116,7,12,Saturday,true,true,true,en,0.95,information_seeking,low,neutral,Who is registrar,deflected,contact,false,unknown
+qa_1774681693198_01hfiki5,,Name of registrar,"The current details and contact information for the Registrar of King George's Medical University (KGMU) can be found on the official administration page of the university website:
+
+**[https://www.kgmu.org/administration.php](https://www.kgmu.org/administration.php)**
+
+For any official inquiry, you may contact the Registrar's Office directly at:
+**Phone:** 0522-2253171
+
+**Important Reminders:**
+*   **Safety:** Please **do not** share your personal details, Aadhaar number, or phone number in this chat.
+*   **Medical Advice:** I am not qualified to provide medical advice, diagnosis, or treatment. Please consult a doctor at KGMU OPD or visit [www.kgmu.org](http://www.kgmu.org).
+*   **Identity:** I was created by **Dr. Ayush Yadav**, MBBS, King George's Medical University (Batch of 2019), under the guidance of Prof. Preeti Aggrawal and Prof. Dr. Shiuli Rathore.",2026-03-28T07:08:14.000Z,true,2026-03-28T07:02:32.652Z,en,0,general,factual,safety_redirect,,simple,true,session_07973,true,17,3,869,114,7,12,Saturday,true,true,true,en,0.95,information_seeking,low,neutral,Name of registrar,deflected,contact,false,unknown
+qa_1774681726346_axixc49f,,Good for nothing,"I am sorry to hear you are frustrated. As the KGMU AI Chatbot, my purpose is to help you find information on the KGMU website. 
+
+If you believe I have not provided the correct information, please let me know what specific detail you are looking for, and I will do my best to assist you further.
+
+If you have feedback on how I can improve, please feel free to share it. Otherwise, please ask another, appropriate question.",2026-03-28T07:08:48.000Z,true,2026-03-28T07:02:32.652Z,en,0,general,factual,direct_answer,,simple,true,session_07973,true,16,3,421,77,7,12,Saturday,true,false,false,en,0.9,complaint,none,frustrated,Good for nothing,adequate,other,false,unknown
+qa_1774681784302_wyiwcwl7,,You idiot don't know the name of registrar of KGMU,"I apologize for the frustration. As an AI assistant, I provide information based on the official data available on the KGMU website (www.kgmu.org). 
+
+Administrative positions, such as the Registrar, are subject to change. For the most current and verified information regarding the name of the Registrar, I recommend checking the official **Administration** page directly at [https://www.kgmu.org/administration.php](https://www.kgmu.org/administration.php), as this is where the university publishes the most recent updates.
+
+You may also contact the **Registrar's Office** directly at **0522-2253171** for precise information.
+
+If you have any other questions related to KGMU services, departments, or resources, I am here to help.",2026-03-28T07:09:45.000Z,true,2026-03-28T07:02:32.652Z,en,0,general,factual,direct_answer,,moderate,true,session_07973,true,50,10,733,98,7,12,Saturday,true,true,false,en,0.95,complaint,none,frustrated,You idiot don't know the name of registrar of KGMU,adequate,contact,false,unknown
+qa_1774681838723_3z0xksn1,,Hahahaha,"I am glad to see you are in good spirits! If you have any further questions about KGMU services, departments, or need assistance navigating our website, please feel free to ask. I am here to help.",2026-03-28T07:10:40.000Z,true,2026-03-28T07:02:32.652Z,en,0,general,factual,direct_answer,,simple,true,session_07973,true,8,1,196,36,7,12,Saturday,true,false,false,en,0.9,greeting,none,positive,Hahahaha,adequate,other,false,unknown
+qa_1774681864594_x3lkhf12,,Who made kgmu,"I was created by **Dr. Ayush Yadav**, MBBS, King George's Medical University (Batch of 2019) under the guidance of Prof. Preeti Aggrawal and Prof. Dr. Shiuli Rathore.
+
+As a physician and developer, Dr. Ayush Yadav combined his medical knowledge with programming skills to create the KGMU AI Assistant. This project aims to enhance the university website's accessibility and provide seamless information access for patients, students, and faculty members.
+
+If you have any other questions regarding KGMU, feel free to ask!",2026-03-28T07:11:06.000Z,true,2026-03-28T07:02:32.652Z,en,0,general,entity,direct_answer,,simple,true,session_07973,true,13,3,521,80,7,12,Saturday,true,false,false,en,0.95,information_seeking,low,neutral,Who made kgmu,comprehensive,history,false,unknown
+qa_1774681887936_30tyucn2,,Dr preeti Agrawal,"**Prof. Preeti Aggarwal** is a distinguished member of the faculty at King George's Medical University (KGMU). 
+
+She is highly respected for her contributions to the university and her academic leadership. As one of the professors who guided the development of this AI assistant, her expertise and mentorship have been instrumental in this project.
+
+If you are looking for specific information regarding her department, research, or contact details, you can typically find that information in the **[KGMU Faculty Directory](https://www.kgmu.org/allfaculty.php)**.
+
+Is there anything specific you would like to know about her work or the university?",2026-03-28T07:11:29.000Z,true,2026-03-28T07:02:32.652Z,en,0,general,factual,direct_answer,,simple,true,session_07973,true,17,3,648,93,7,12,Saturday,true,true,false,en,0.95,information_seeking,low,neutral,Dr preeti Agrawal,adequate,faculty,false,unknown
+qa_1774681925711_4zpj4kfm,,Her Department,"Prof. Preeti Aggarwal is associated with the **Department of Anaesthesiology and Critical Care** at King George's Medical University (KGMU).
+
+You can find more details about her department here:
+[https://www.kgmu.org/department_details.php?dept_id=1&dept_type=2](https://www.kgmu.org/department_details.php?dept_id=1&dept_type=2)
+
+If you need any other information, please feel free to ask!",2026-03-28T07:12:07.000Z,true,2026-03-28T07:02:32.652Z,en,0,departments,factual,direct_answer,,simple,true,session_07973,true,14,2,390,40,7,12,Saturday,true,true,false,en,0.95,information_seeking,low,neutral,Her Department,comprehensive,faculty;department,false,unknown
+qa_1774681961047_8icqxdwl,,Dr shiuli,"**Dr. Shiuli Rathore** is a highly respected faculty member at King George's Medical University (KGMU). 
+
+She is associated with the **Department of Forensic Medicine & Toxicology**. Her expertise and guidance were instrumental in the development of this AI assistant project.
+
+You can find more information about her department here:
+[https://www.kgmu.org/department_details.php?dept_id=13&dept_type=2](https://www.kgmu.org/department_details.php?dept_id=13&dept_type=2)
+
+If you have any other questions, please feel free to ask!",2026-03-28T07:12:42.000Z,true,2026-03-28T07:02:32.652Z,en,0,general,factual,direct_answer,,simple,true,session_07973,true,9,2,530,61,7,12,Saturday,true,true,false,en,0.95,information_seeking,low,neutral,Dr shiuli,comprehensive,faculty;department,false,unknown
+qa_1774681985435_jfjweiep,,Dr S k Sonkar,"Dr. Satyendra Kumar Sonkar is a Professor in the **Department of Medicine** at King George's Medical University (KGMU).
+
+He specializes in **Internal Medicine and Nephrology**. You can find more information about the Department of Medicine here:
+[https://www.kgmu.org/department_details.php?dept_id=16&dept_type=2](https://www.kgmu.org/department_details.php?dept_id=16&dept_type=2)
+
+If you have any other questions, please feel free to ask!",2026-03-28T07:13:07.000Z,true,2026-03-28T07:02:32.652Z,en,0,general,factual,direct_answer,,simple,true,session_07973,true,13,4,441,48,7,12,Saturday,true,true,false,en,0.95,information_seeking,high,neutral,Dr S k Sonkar,comprehensive,faculty;department,false,unknown
+qa_1774682900076_opbp8x68,,Can you tell me that when kgmu entrance form for DmLT 2026,"I do not have the specific release date for the DMLT entrance form for 2026. 
+
+To stay updated on admission notifications, entrance forms, and official announcements, please keep checking the official KGMU website regularly at **[www.kgmu.org](https://www.kgmu.org)**. All official information regarding courses and admissions is published there.",2026-03-28T07:28:20.000Z,true,2026-03-28T07:27:31.949Z,en,0,admissions,temporal,direct_answer,,moderate,true,session_07974,false,58,12,346,46,7,12,Saturday,true,true,false,hi-Latn-en,0.9,information_seeking,high,neutral,Can you tell me that when kgmu entrance form for DmLT 2026,deflected,admission;exam,false,student
+qa_1774685051559_vfqrex10,,Mujhko skin ke dr ko dikhana hai,"Skin (Dermatology) ke doctor ko dikhane ke liye aapko KGMU mein OPD appointment leni hogi.
+
+**Dermatology Department (Skin & VD) ki jaankari:**
+*   **Department:** Dermatology, Venereology & Leprosy
+*   **OPD Room No:** 303, 304 (New OPD Block, 3rd Floor)
+*   **OPD Days:** Tuesday, Wednesday, aur Saturday.
+
+**Appointment Kaise Lein:**
+KGMU mein OPD ke liye online registration mandatory (zaroori) hai. Aap niche diye gaye tarikon se appointment book kar sakte hain:
+
+1.  **Online Portal:** [www.ors.gov.in](https://ors.gov.in) par login karke apna appointment book karein.
+2.  **SMS dwara:** ""APPOINTMENT <NAME>"" likhkar 8887019134 par SMS bhejein.
+3.  **Phone dwara:** 0522-2258880 ya 0522-3539333 par call karke jaankari le sakte hain.
+4.  **Walk-in:** Agar aap direct aate hain, toh apna Aadhaar card aur mobile number saath layein taaki registration counter par OTP verification ho sake.
+
+**Zaroori Baat:**
+*   OPD ki fee ₹50 hai.
+*   Agar aap Lucknow se bahar ke rehne wale hain, toh apne saath kisi doctor ka referral letter zaroor layein.
+*   **Ek zaroori nivedan:** Main ek AI assistant hoon aur medical salah (diagnosis ya treatment) nahi de sakta. Kripya apni bimari ya lakshan (symptoms) yahan share na karein aur apni suraksha ke liye personal details (jaise phone number ya Aadhaar) chat mein na likhein. KGMU ke doctor se milkar hi sahi salah lein.",2026-03-28T08:04:11.000Z,true,2026-03-28T08:03:11.958Z,en,0,general,factual,direct_answer,Dermatology,moderate,true,session_07975,false,32,7,1364,209,8,13,Saturday,true,true,true,hi-Latn,0.95,scheduling,high,neutral,I need to see a skin doctor,comprehensive,opd;department;appointment,false,patient
+qa_1774685549739_dxor2qhn,,Kgmu staff nurse ka exam kab hoga,"KGMU Staff Nurse exam ki date ya notification ke baare mein jaankari ke liye, main aapko KGMU ki official website [www.kgmu.org](https://www.kgmu.org) check karne ki salah dunga.
+
+Aap exam ya recruitment se sambandhit updates yahan dekh sakte hain:
+* **KGMU Official Website:** [www.kgmu.org](https://www.kgmu.org)
+* **Recruitment/Career Section:** Aap website par 'Career' ya 'Notice' section mein jaakar latest notifications dekh sakte hain.
+
+Main aapko suggest karunga ki aap official website ko regularly check karte rahein taaki aapko sahi aur updated jaankari mil sake.",2026-03-28T08:12:31.000Z,true,2026-03-28T08:08:21.843Z,en,0,exams,temporal,referral,Nursing,moderate,true,session_07976,false,33,7,575,80,8,13,Saturday,true,true,true,hi-Latn,0.95,scheduling,medium,neutral,When will the KGMU staff nurse exam be held?,deflected,exam;recruitment,false,student
+qa_1774685593577_5yrll2tj,,Nursing officers exam date  Tell me,"I do not have real-time access to the latest exam schedules. For the most accurate and up-to-date information regarding the Nursing Officer examination dates, please visit the official KGMU website at **[www.kgmu.org](https://www.kgmu.org)** and check the ""Recruitment"" or ""Notice Board"" sections.",2026-03-28T08:13:14.000Z,true,2026-03-28T08:12:47.764Z,en,0,exams,temporal,unable_to_answer,Nursing,moderate,true,session_07977,false,35,6,297,40,8,13,Saturday,true,true,false,hi-Latn-en,0.9,scheduling,medium,neutral,Nursing officers exam date Tell me,deflected,exam;recruitment,false,student
+qa_1774685938645_w8xsapbl,,Kgmu nursing officer recruitment ki exam kb hogi,"KGMU Nursing Officer recruitment exam se sambandhit latest jaankari ke liye, main aapko KGMU ki official website [www.kgmu.org](http://www.kgmu.org) par 'Recruitment' ya 'Notice' section check karne ki salah dunga.
+
+Vahan aapko exam ki date aur usse sambandhit sabhi official notifications mil jayenge. Kripya kisi bhi anadhikrit (unofficial) source par bharosa na karein.",2026-03-28T08:19:11.000Z,true,2026-03-28T08:18:22.924Z,en,0,exams,factual,referral,Nursing,moderate,true,session_07978,false,48,8,372,51,8,13,Saturday,true,true,false,hi-Latn,0.95,scheduling,medium,neutral,When will the KGMU nursing officer recruitment exam be held?,deflected,exam;recruitment,false,student
+qa_1774685979262_nx14f7t2,,Itna time ho gya exam form bhre hue abhi tk ku nhi hua exam,"Main aapki chinta samajh sakta hoon. Recruitment exams ki dates kai baar administrative reasons, court cases, ya university ke internal scheduling ki wajah se der se aati hain.
+
+KGMU mein kisi bhi naye update ya exam schedule ke liye aap in channels par nazar rakh sakte hain:
+
+1.  **Official Website:** [www.kgmu.org](https://www.kgmu.org) par 'Recruitment' section ko regular check karte rahein.
+2.  **Help Line:** Aap university ke **Registrar Office** se sampark kar sakte hain, jinka phone number **0522-2253171** hai.
+3.  **PRO Office:** Public Relations Office (PRO) se bhi exams ke baare mein jaankari li ja sakti hai (Contact details: [https://kgmu.org/pro_cug.php](https://kgmu.org/pro_cug.php)).
+
+Main ek AI assistant hoon, isliye mere paas recruitment se judi koi internal ya confidential file nahi hoti hai. Official website hi sabse sahi aur vishwasniya (reliable) source hai. Kripya dhyan rakhein ki kisi bhi fake news ya social media par chal rahi afwahon par vishwas na karein.",2026-03-28T08:19:40.000Z,true,2026-03-28T08:18:22.924Z,en,0,exams,factual,referral,,complex,true,session_07978,true,59,14,994,146,8,13,Saturday,true,true,true,hi-Latn,0.95,complaint,medium,frustrated,"It has been so long since the exam form was filled, why hasn't the exam happened yet?",adequate,exam;recruitment,false,student
+qa_1774685994388_gf0t1d3k,,Cystolozey charge,"The charge for Cytology Lab services at KGMU ranges from ₹100 to ₹400. 
+
+For more detailed information regarding specific tests and their costs, you can refer to the official rate list on the KGMU website at: [https://www.kgmu.org/rate_list2223.htm](https://www.kgmu.org/rate_list2223.htm)",2026-03-28T08:19:55.000Z,true,2026-03-28T08:18:56.630Z,en,0,fees,factual,direct_answer,,simple,true,session_07979,false,17,2,289,37,8,13,Saturday,true,true,false,en,0.9,information_seeking,high,neutral,Cystolozey charge,comprehensive,lab;fee,false,patient
+qa_1774686320322_nox6lsan,,Kgmu nursing officer ka exam kb hai,"I do not have real-time information regarding the specific schedule for the Nursing Officer recruitment examination. 
+
+For the most accurate and official updates regarding recruitment exams, please regularly check the **""Recruitment""** or **""Notice""** section on the official KGMU website: [www.kgmu.org](https://www.kgmu.org). 
+
+You can also monitor the official notifications released by the university administration.",2026-03-28T08:25:21.000Z,true,2026-03-28T08:24:58.696Z,en,0,exams,factual,unable_to_answer,Nursing,moderate,true,session_07980,false,35,7,420,52,8,13,Saturday,true,true,false,hi-Latn,0.95,scheduling,medium,neutral,When is the KGMU nursing officer exam?,deflected,exam;recruitment,false,student
+qa_1774686329002_n33918jt,,Jo form may 2025 me bhara hua tha nursing ka uska exam kab hoga,"नमस्ते। मैं KGMU AI CHATBOT हूँ।
+
+नर्सिंग प्रवेश परीक्षा या परिणाम के बारे में सटीक जानकारी प्राप्त करने के लिए, कृपया आधिकारिक KGMU वेबसाइट [www.kgmu.org](https://www.kgmu.org) पर 'Examination' या 'Admission' अनुभाग देखें।
+
+चूंकि आप किसी विशिष्ट परीक्षा के बारे में पूछ रहे हैं, तो क्या आप कृपया यह स्पष्ट कर सकते हैं कि आप किस कोर्स (जैसे B.Sc Nursing, M.Sc Nursing, या कोई अन्य) के बारे में बात कर रहे हैं? इससे मुझे आपको सही जानकारी देने में मदद मिलेगी।
+
+आप परीक्षा संबंधी नवीनतम अपडेट के लिए सीधे [https://kgmu.org/kgmu_result/examination_result.php](https://kgmu.org/kgmu_result/examination_result.php) पर भी जा सकते हैं।",2026-03-28T08:25:09.000Z,true,2026-03-28T08:24:45.066Z,en,0,exams,temporal,direct_answer,Nursing,complex,true,session_07981,false,63,14,627,93,8,13,Saturday,true,true,false,hi-Latn,0.95,scheduling,medium,neutral,When will the exam be held for the nursing form that was filled in May 2025?,partial,exam;admission,true,student
+qa_1774687128432_4mnfls5q,,Nursing officer exam date,"To provide you with the correct information regarding the Nursing Officer exam, could you please specify which recruitment or examination you are referring to? 
+
+If you are looking for general updates or notifications from King George's Medical University, you can check the official website at [www.kgmu.org](https://www.kgmu.org) under the ""Recruitment"" or ""Notice"" sections. 
+
+If you have a specific notification number or document, please let me know so I can help you find the relevant details.",2026-03-28T08:38:48.000Z,true,2026-03-28T08:38:27.094Z,en,0,exams,temporal,referral,Nursing,simple,true,session_07982,false,25,4,499,74,8,14,Saturday,true,true,false,en,0.95,scheduling,medium,neutral,Nursing officer exam date,deflected,exam;recruitment,true,student
+qa_1774687850147_9q19xig5,,Reseracher nurses vacany,"To find information regarding current job openings at King George's Medical University (KGMU), including positions for researcher nurses, please visit the official recruitment section of the university website:
+
+[https://www.kgmu.org/jobs.php](https://www.kgmu.org/jobs.php)
+
+You can also check the ""Notice"" or ""Careers"" section on the main website at [www.kgmu.org](http://www.kgmu.org) for the latest advertisements and walk-in interview schedules. If you are specifically looking for roles within a particular research project or department, you may want to check the [Faculty Directory](https://www.kgmu.org/allfaculty.php) to contact the relevant department head directly.",2026-03-28T08:50:51.000Z,true,2026-03-19T08:18:10.142Z,en,0,general,factual,referral,,simple,true,session_07526,true,24,3,677,81,8,14,Saturday,true,true,false,en,0.8,information_seeking,medium,neutral,Researcher nurses vacancy,comprehensive,recruitment,false,student
+qa_1774687924294_odtsrep4,,Nursing Officer exam date,"I do not have real-time access to the latest internal recruitment notices or specific examination schedules for the Nursing Officer position.
+
+For the most accurate and official information regarding the Nursing Officer exam, please check the **""Recruitment""** or **""Notifications""** section on the official KGMU website: **[www.kgmu.org](https://www.kgmu.org)**.
+
+You may also want to monitor the official KGMU notice board or the university's official social media channels for any recent updates. If you have a specific inquiry, you can contact the Registrar's Office at **0522-2253171**.",2026-03-28T08:52:04.000Z,true,2026-03-28T08:48:27.041Z,en,0,exams,temporal,referral,Nursing,simple,true,session_07983,false,25,4,591,82,8,14,Saturday,true,true,false,en,0.95,scheduling,medium,neutral,Nursing Officer exam date,deflected,exam;recruitment,false,student
+qa_1774689254284_7x3hqd4o,,when will nursing officer 2026 recruitment form filling date,"I do not have information regarding the specific recruitment dates for the 2026 Nursing Officer position at this time. 
+
+For the most accurate and up-to-date information regarding recruitment notifications, please visit the official KGMU website at **[www.kgmu.org](https://www.kgmu.org)** and regularly check the ""Recruitment/Careers"" section.",2026-03-28T09:14:14.000Z,true,2026-03-28T09:12:51.358Z,en,0,courses,temporal,unable_to_answer,Nursing,moderate,true,session_07984,false,60,9,344,43,9,14,Saturday,true,true,false,en,0.95,scheduling,medium,neutral,when will nursing officer 2026 recruitment form filling date,deflected,recruitment,false,student
