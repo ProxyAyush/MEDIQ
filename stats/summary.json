@@ -1,52 +1,52 @@
 {
-  "totalEntries": 8980,
+  "totalEntries": 9008,
   "dateRange": {
     "start": "2025-04-01",
-    "end": "2026-04-02"
+    "end": "2026-04-03"
   },
-  "totalDays": 240,
-  "totalSessions": 8338,
-  "dailyAverage": 37.42,
-  "botAnswerRate": 91.96,
+  "totalDays": 241,
+  "totalSessions": 8351,
+  "dailyAverage": 37.38,
+  "botAnswerRate": 91.98,
   "languageDistribution": {
-    "en": 8688,
-    "hi": 204,
+    "en": 8715,
+    "hi": 205,
     "hi-en": 88
   },
   "categoryDistribution": {
-    "general": 3145,
-    "exams": 1204,
-    "appointment": 842,
-    "admissions": 814,
-    "courses": 664,
-    "opd": 656,
+    "general": 3152,
+    "exams": 1206,
+    "appointment": 844,
+    "admissions": 818,
+    "courses": 666,
+    "opd": 664,
     "departments": 579,
     "career": 336,
-    "contact": 285,
+    "contact": 286,
     "fees": 193,
     "faculty": 183,
     "campus": 38,
-    "emergency": 33,
+    "emergency": 35,
     "research": 8
   },
   "questionTypeDistribution": {
-    "factual": 6340,
+    "factual": 6362,
     "temporal": 1064,
-    "procedural": 834,
-    "yes_no": 491,
-    "entity": 128,
+    "procedural": 836,
+    "yes_no": 494,
+    "entity": 129,
     "navigational": 123
   },
   "responseTypeDistribution": {
-    "direct_answer": 4882,
+    "direct_answer": 4898,
     "unable_to_answer": 2206,
-    "referral": 1565,
-    "safety_redirect": 327
+    "referral": 1571,
+    "safety_redirect": 333
   },
   "queryComplexityDistribution": {
-    "moderate": 4803,
-    "simple": 3385,
-    "complex": 792
+    "moderate": 4826,
+    "simple": 3388,
+    "complex": 794
   },
   "departmentMentions": {
     "Nursing": 772,
@@ -58,9 +58,9 @@
     "Dermatology": 51,
     "Orthopedics": 46,
     "ENT": 43,
+    "Pediatrics": 36,
     "Urology": 35,
     "Ophthalmology": 35,
-    "Pediatrics": 35,
     "Pathology": 30,
     "Oncology": 27,
     "Pulmonology": 25,
@@ -80,13 +80,13 @@
     "1": 114,
     "2": 69,
     "3": 31,
-    "4": 55,
-    "5": 69,
-    "6": 118,
-    "7": 180,
-    "8": 344,
-    "9": 369,
-    "10": 486,
+    "4": 56,
+    "5": 72,
+    "6": 122,
+    "7": 186,
+    "8": 351,
+    "9": 373,
+    "10": 489,
     "11": 476,
     "12": 542,
     "13": 677,
@@ -103,54 +103,54 @@
   },
   "dailyDistribution": {
     "Tuesday": 1410,
-    "Thursday": 1331,
+    "Thursday": 1332,
     "Monday": 1378,
     "Wednesday": 1307,
     "Sunday": 1170,
     "Saturday": 1234,
-    "Friday": 1150
+    "Friday": 1177
   },
   "aiEnrichment": {
-    "totalEnriched": 8980,
+    "totalEnriched": 9008,
     "coveragePercent": 100,
     "languageDistribution": {
-      "en": 5170,
-      "hi-Latn-en": 2448,
-      "hi-Latn": 1060,
-      "hi": 253,
+      "en": 5182,
+      "hi-Latn-en": 2449,
+      "hi-Latn": 1074,
+      "hi": 254,
       "hi-en": 49
     },
     "intentDistribution": {
-      "information_seeking": 6584,
-      "scheduling": 1965,
+      "information_seeking": 6601,
+      "scheduling": 1974,
       "navigation": 223,
-      "complaint": 127,
+      "complaint": 129,
       "greeting": 43,
       "feedback": 29,
       "off_topic": 9
     },
     "medicalRelevanceDistribution": {
-      "high": 3272,
-      "medium": 3065,
-      "low": 2412,
+      "high": 3279,
+      "medium": 3077,
+      "low": 2421,
       "none": 231
     },
     "sentimentDistribution": {
-      "neutral": 8705,
-      "frustrated": 110,
-      "positive": 83,
+      "neutral": 8729,
+      "frustrated": 113,
+      "positive": 84,
       "negative": 82
     },
     "answerQualityDistribution": {
-      "adequate": 3159,
-      "partial": 2309,
-      "deflected": 1942,
-      "comprehensive": 1570
+      "adequate": 3161,
+      "partial": 2314,
+      "deflected": 1946,
+      "comprehensive": 1587
     },
     "userTypeDistribution": {
       "unknown": 3935,
-      "student": 2490,
-      "patient": 1884,
+      "student": 2499,
+      "patient": 1903,
       "staff": 575,
       "faculty": 50,
       "visitor": 34,
@@ -158,5 +158,5 @@
       "applicant": 4
     }
   },
-  "lastUpdated": "2026-04-02T21:45:59.117Z"
+  "lastUpdated": "2026-04-03T05:13:16.718Z"
 }
