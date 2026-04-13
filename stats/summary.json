@@ -1,59 +1,59 @@
 {
-  "totalEntries": 9971,
+  "totalEntries": 10001,
   "dateRange": {
     "start": "2025-04-01",
     "end": "2026-04-13"
   },
   "totalDays": 251,
-  "totalSessions": 8883,
-  "dailyAverage": 39.73,
-  "botAnswerRate": 92.76,
+  "totalSessions": 8901,
+  "dailyAverage": 39.84,
+  "botAnswerRate": 92.78,
   "languageDistribution": {
-    "en": 9615,
-    "hi": 255,
-    "hi-en": 101
+    "en": 9641,
+    "hi": 256,
+    "hi-en": 104
   },
   "categoryDistribution": {
-    "general": 3476,
-    "exams": 1280,
-    "admissions": 951,
-    "appointment": 918,
+    "general": 3490,
+    "exams": 1281,
+    "admissions": 954,
+    "appointment": 923,
     "courses": 750,
-    "opd": 737,
-    "departments": 632,
+    "opd": 742,
+    "departments": 633,
     "career": 400,
     "contact": 316,
     "fees": 230,
-    "faculty": 193,
+    "faculty": 194,
     "campus": 40,
     "emergency": 39,
     "research": 9
   },
   "questionTypeDistribution": {
-    "factual": 7051,
-    "temporal": 1157,
-    "procedural": 934,
+    "factual": 7072,
+    "temporal": 1163,
+    "procedural": 935,
     "yes_no": 559,
-    "entity": 137,
+    "entity": 139,
     "navigational": 133
   },
   "responseTypeDistribution": {
-    "direct_answer": 5194,
-    "unable_to_answer": 2227,
-    "referral": 1992,
-    "safety_redirect": 558
+    "direct_answer": 5207,
+    "unable_to_answer": 2229,
+    "referral": 1998,
+    "safety_redirect": 567
   },
   "queryComplexityDistribution": {
-    "moderate": 5359,
-    "simple": 3717,
+    "moderate": 5378,
+    "simple": 3728,
     "complex": 895
   },
   "departmentMentions": {
-    "Nursing": 836,
+    "Nursing": 837,
     "Pharmacology": 232,
-    "Cardiology": 153,
+    "Cardiology": 154,
     "Radiology": 148,
-    "Surgery": 92,
+    "Surgery": 93,
     "Neurology": 61,
     "Dermatology": 58,
     "Orthopedics": 53,
@@ -63,9 +63,9 @@
     "Pediatrics": 38,
     "Pathology": 31,
     "Oncology": 28,
-    "Pulmonology": 26,
+    "Pulmonology": 27,
     "Psychiatry": 25,
-    "Obstetrics & Gynecology": 20,
+    "Obstetrics & Gynecology": 21,
     "Microbiology": 14,
     "Rheumatology": 10,
     "Physiology": 5,
@@ -87,11 +87,11 @@
     "8": 394,
     "9": 427,
     "10": 538,
-    "11": 549,
-    "12": 603,
-    "13": 740,
-    "14": 789,
-    "15": 774,
+    "11": 555,
+    "12": 617,
+    "13": 741,
+    "14": 796,
+    "15": 776,
     "16": 701,
     "17": 634,
     "18": 612,
@@ -104,62 +104,62 @@
   "dailyDistribution": {
     "Tuesday": 1515,
     "Thursday": 1443,
-    "Monday": 1507,
+    "Monday": 1537,
     "Wednesday": 1384,
     "Sunday": 1379,
     "Saturday": 1419,
     "Friday": 1324
   },
   "aiEnrichment": {
-    "totalEnriched": 9971,
+    "totalEnriched": 10001,
     "coveragePercent": 100,
     "languageDistribution": {
-      "en": 5722,
-      "hi-Latn-en": 2524,
-      "hi-Latn": 1361,
+      "en": 5736,
+      "hi-Latn-en": 2525,
+      "hi-Latn": 1376,
       "hi": 314,
       "hi-en": 50
     },
     "intentDistribution": {
-      "information_seeking": 7313,
-      "scheduling": 2159,
+      "information_seeking": 7329,
+      "scheduling": 2172,
       "navigation": 240,
       "complaint": 162,
-      "greeting": 49,
+      "greeting": 50,
       "feedback": 33,
       "off_topic": 14,
       "admission": 1
     },
     "medicalRelevanceDistribution": {
-      "high": 3744,
-      "medium": 3382,
+      "high": 3760,
+      "medium": 3394,
       "low": 2588,
-      "none": 257
+      "none": 259
     },
     "sentimentDistribution": {
-      "neutral": 9611,
+      "neutral": 9640,
       "frustrated": 169,
-      "positive": 98,
+      "positive": 99,
       "negative": 92,
       "confused": 1
     },
     "answerQualityDistribution": {
-      "adequate": 3345,
-      "partial": 2469,
-      "deflected": 2134,
-      "comprehensive": 2021,
+      "adequate": 3351,
+      "partial": 2470,
+      "deflected": 2142,
+      "comprehensive": 2036,
       "incorrect": 2
     },
     "userTypeDistribution": {
       "unknown": 4083,
-      "student": 2930,
-      "patient": 2248,
+      "student": 2939,
+      "patient": 2267,
       "staff": 602,
       "faculty": 50,
-      "visitor": 44,
+      "visitor": 46,
       "job_seeker": 10,
       "applicant": 4
     }
   },
-  "lastUpdated": "2026-04-13T05:49:28.339Z"
+  "lastUpdated": "2026-04-13T10:29:20.090Z"
 }
