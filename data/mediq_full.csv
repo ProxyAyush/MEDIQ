@@ -67856,3 +67856,291 @@ qa_1776180496951_5ktjwq2h,,ENT doctor list,"*   User input: ""ENT doctor listENT
     *   Do not state origin (KGMU/LLM).
     *   If asked about identity (not asked here), follow specific rules.",2026-04-14T15:28:18.000Z,true,2026-04-14T15:21:56.698Z,en,0,departments,factual,direct_answer,ENT,simple,true,session_08966,true,15,3,881,113,15,20,Tuesday,false,true,true,en,1,information_seeking,high,neutral,ENT doctor list,partial,faculty;department,false,patient
 qa_1776181275460_cg492lt5,,Urology opd timing,"The Urology OPD is available on **Monday, Wednesday, Friday** from **9:00 AM to 1:00 PM**.",2026-04-14T15:41:16.000Z,true,2026-04-14T15:40:52.423Z,en,0,opd,temporal,direct_answer,Urology,simple,true,session_08967,false,18,3,90,15,15,21,Tuesday,false,false,false,en,1,scheduling,high,neutral,Urology opd timing,comprehensive,timing;opd;department,false,patient
+qa_1776183937660_0z7zlycd,,I want to know about the admission procedure and fee map for  post basic b sc nursing,"Admission procedure and fee map for Post Basic B.Sc. Nursing.
+KGMU (King George's Medical University).
+
+    *   *Admissions:* The instructions state: ""AI cannot predict cutoffs. Provide [Admissions Link](https://www.kgmu.org/courses_admission.php).""
+    *   *Fee/Ratelist:* The instructions provide a general ratelist link: [https://www.kgmu.org/rate_list2223.htm], but this is primarily for clinical services/OPD.
+    *   *Nursing Specifics:* There is no specific ""fee map"" for Post Basic B.Sc. Nursing in the provided text.
+
+    *   The prompt explicitly directs me to provide the Admissions Link for admission-related queries.
+    *   I should inform the user where to find the official admission details.
+    *   Since a specific fee map for the nursing course isn't in the provided knowledge base, I should direct them to the official admissions or courses page.",2026-04-14T16:25:38.000Z,true,2026-04-14T16:24:37.438Z,en,0,admissions,procedural,direct_answer,Nursing,complex,true,session_08968,false,85,17,867,116,16,21,Tuesday,false,true,true,en,0.95,information_seeking,medium,neutral,I want to know about the admission procedure and fee map for post basic b sc nursing,partial,admission;fee;course,false,student
+qa_1776185476141_oro9xmjl,,Urology opd timing,"*   User query: ""Urology opd timingUrology opd timing""
+    *   Intent: The user wants to know the OPD (Outpatient Department) timings for the Urology department at KGMU.
+
+    *   Search ""Urology"" in the provided context.
+    *   Found in ""Departments and Important information+Links"": [Urology](https://www.kgmu.org/department_details.php?dept_id=36&dept_type=2).
+    *   Found in the ""OPD Room/Days"" section:
+        *   ""Department of Urology""
+        *   ""Room No.: 420,421""
+        *   ""Days: Monday to Saturday""
+    *   General OPD Timings (from ""OPD Appointment Info""):
+        *   Mon–Fri: 9:00 AM–1:00 PM
+        *   Sat: 9:00 AM–12:00 PM
+        *   Closed Sundays.
+
+    *   The Urology OPD is available from **Monday to Saturday**.
+    *   General timings are **9:00 AM to 1:00 PM (Mon-Fri)** and **9:00 AM to 12:00 PM (Sat)**.
+    *   Location: Room No. 420, 421.",2026-04-14T16:51:17.000Z,true,2026-04-14T15:40:52.423Z,en,0,opd,temporal,direct_answer,Urology,simple,true,session_08967,true,18,3,874,115,16,22,Tuesday,false,true,true,en,0.95,information_seeking,high,neutral,Urology opd timing,partial,opd;timing;department,false,patient
+qa_1776185576672_at9n24j3,,Urology opd is open Wednesday?,"*   User Question: ""Urology opd is open Wednesday?""
+    *   Intent: Confirm if the Urology OPD is open on Wednesdays.
+
+    *   Look for ""Department of Urology"" in the OPD room/days list.
+    *   Found: ""Department of Urology | Room No.: 420,421 | Days: Monday to Saturday"".
+
+    *   Since it is open Monday to Saturday, it is open on Wednesday.
+    *   General OPD timings: Mon–Fri 9:00 AM–1:00 PM.
+
+    *   Yes, the Urology OPD is open on Wednesday.
+    *   Location: Room No. 420, 421.
+    *   Timing: 9:00 AM to 1:00 PM.",2026-04-14T16:52:57.000Z,true,2026-04-14T15:40:52.423Z,en,0,opd,factual,direct_answer,Urology,moderate,true,session_08967,true,30,5,523,87,16,22,Tuesday,false,false,true,en,0.95,information_seeking,high,neutral,Urology opd is open Wednesday?,comprehensive,opd;timing;department,false,patient
+qa_1776185685370_5qc09enq,,surgical oncology,You can find information about the Department of Surgical Oncology here: https://www.kgmu.org/department_details.php?dept_id=33&dept_type=2,2026-04-14T16:54:46.000Z,true,2026-04-14T16:54:18.270Z,en,0,departments,factual,direct_answer,Surgery,simple,true,session_08969,false,17,2,139,12,16,22,Tuesday,false,true,false,en,0.95,information_seeking,high,neutral,surgical oncology,adequate,department,false,patient
+qa_1776185706782_qune3n5v,,I have expired patient card can I renew or make a new card ?,"*   User's Question: ""I have expired patient card can I renew or make a new card?""
+    *   Context: King George's Medical University (KGMU) patient registration/OPD process.
+
+    *   The provided instructions include a section on ""Booking Methods"" and ""OPD Rules"".
+    *   *Walk-in (On-Site Counters)*: ""Required: Patient's Aadhaar Number + active Mobile Number -> Flow: Provide details at registration counter -> Receive OTP on mobile -> Get physical token -> Pay ₹50 at counter -> Collect physical OPD slip.""
+    *   *OPD Rules*: ""PARCHI (TICKET) COUNTER: Closes at 1:00 PM sharp.""
+    *   *Booking Methods (General)*: Online portal (ORS), Mobile App (ABHA), SMS Booking, and Walk-in.
+
+    *   The provided text doesn't explicitly mention ""renewing an expired card,"" but it details how to get a new OPD slip (Parchi).
+    *   Standard hospital procedure (implied by the ""Walk-in"" flow) is to register using Aadhaar and a mobile number to get a token and then a slip.
+    *   The fee is a flat ₹50 for the OPD slip.
+
+    *   *Direct Answer*: Since the instructions focus on getting a new OPD slip (Parchi) via registration, I should guide the user on how to obtain a valid appointment/slip.
+    *   *Actionable Steps*:
+        1.  Mention the walk-in process (Aadhaar + Mobile number).
+        2.  Mention the fee (₹50).
+        3.  Mention the timing (Counter closes at 1:00 PM).
+        4.  Mention alternative booking methods (ORS, SMS, App) to avoid long wait times.
+    *   *Medical Safety Check*: The user isn't asking for medical advice, just administrative help. No medical disclaimer needed unless they start sharing symptoms.
+
+    *   Be professional and concise.
+    *   Avoid mentioning KGMU or being an AI.
+    *   Stick to the KGMU context.",2026-04-14T16:55:09.000Z,true,2026-04-14T15:40:52.423Z,en,0,general,factual,direct_answer,,complex,true,session_08967,true,60,14,1755,270,16,22,Tuesday,false,false,true,en,0.95,information_seeking,medium,neutral,I have expired patient card can I renew or make a new card ?,partial,opd;registration,false,patient
+qa_1776185844688_t47moj3g,,"Kgmu 2025 gr 2, level 5 recruitment ki merit jankari chaye","""Kgmu 2025 gr 2, level 5 recruitment ki merit jankari chaye"" (I want information about the merit list for KGMU 2025 Group 2, Level 5 recruitment).
+KGMU AI Chatbot.
+Recruitment merit list for a specific 2025 vacancy.
+
+    *   Does the provided context contain information about ""Group 2, Level 5 recruitment 2025"" or its merit list?
+    *   Scanning ""Key Resources"", ""Departments"", ""Faculties"", ""OPD Info"", ""Holiday Calendar"", and ""Important Links"".
+    *   The context mentions ""Admissions"" (providing a link to courses_admission.php), ""Examination Results"" (for students), and general website links.
+    *   There is *no* specific information regarding staff recruitment, Group 2 Level 5 vacancies, or recruitment merit lists for 2025 in the provided knowledge base.
+
+    *   The prompt instructions say: ""If unrelated: 'Sorry, Please ask another, Appropriate Question'"".
+    *   However, since it's a legitimate query about the university, it's better to guide the user to where such information is usually found on the website rather than just giving a hard ""unrelated"" response, *unless* the system is strictly bound to only answer from provided text.
+    *   Looking at the ""Universal Logic"" section: ""Admissions: AI cannot predict cutoffs. Provide [Admissions Link]"". This is for students. Recruitment is different.
+    *   The general goal is to ""help users find information on the website.""
+    *   Recruitment notices are typically on the ""Notice Board"".
+
+    *   *Step 1:* Acknowledge the request.
+    *   *Step 2:* State that the specific merit list for Group 2 Level 5 recruitment is not in the immediate database.
+    *   *Step 3:* Direct the user to the official KGMU Notice Board where recruitment updates are posted.
+    *   *Step 4:* Provide the link to the Notice Board: https://kgmu.org/kgmu_notice_board.php.
+
+    *   Language: The user asked in Hinglish, so a polite English or Hinglish response is appropriate. I will stick to professional English as per the ""be polite and professional"" guideline.
+
+    *   *Response:* ""I don't have the specific merit list for the Group 2, Level 5 recruitment in my database. For the latest recruitment updates and merit lists, please check the official KGMU Notice Board here: https://kgmu.org/kgmu_notice_board.php""",2026-04-14T16:57:26.000Z,true,2026-04-14T16:56:36.192Z,en,0,career,factual,unable_to_answer,,moderate,false,session_08970,false,58,11,2274,335,16,22,Tuesday,false,true,true,hi-Latn,0.9,information_seeking,low,neutral,"I want information about KGMU 2025 Group 2, Level 5 recruitment merit list",deflected,other,false,staff
+qa_1776185876702_s95i9vge,,Can expired opd card to renew,"""Can expired opd card to renewCan expired opd card to renew""
+The user is asking if an expired OPD card can be renewed at KGMU.
+
+    *   *OPD Rules/Booking Methods*: The provided documentation focuses on how to get a *new* OPD slip (Parchi).
+    *   *Walk-in flow*: Requires Aadhaar Number + active Mobile Number $\rightarrow$ Registration counter $\rightarrow$ OTP $\rightarrow$ Token $\rightarrow$ Pay ₹50 $\rightarrow$ Physical OPD slip.
+    *   *Fee*: ₹50 flat for the OPD slip (all booking methods).
+    *   *Timing*: Parchi counter closes at 1:00 PM sharp.
+    *   *Alternative methods*: Online (ORS), App (ABHA), SMS (8887019134).
+
+    *   The provided context doesn't explicitly use the word ""renew"" for a card, but it explains the process for getting a current OPD slip.
+    *   To get a valid appointment, the patient needs a current OPD slip.
+    *   If the previous card/slip has expired, they must follow the registration process to get a new one.
+
+    *   Inform the user that they can get a new OPD slip (Parchi).
+    *   Explain the walk-in requirements: Aadhaar card and a mobile number.
+    *   Mention the fee: ₹50.
+    *   Warn about the timing: Counter closes at 1:00 PM.
+    *   Suggest online booking to save time.",2026-04-14T16:57:57.000Z,true,2026-04-14T15:40:52.423Z,en,0,opd,yes_no,direct_answer,,moderate,true,session_08967,true,29,6,1236,196,16,22,Tuesday,false,false,true,en,0.9,information_seeking,medium,neutral,Can expired opd card to renew,partial,opd;registration,false,patient
+qa_1776186715803_skatocxo,,How can I book a appointment,"To book an OPD appointment at KGMU, you have several convenient options. Please note that the registration fee is **₹50** for the OPD slip across all booking methods.
+
+### ",2026-04-14T17:11:57.000Z,true,2026-04-14T17:11:09.207Z,en,0,appointment,procedural,direct_answer,,moderate,true,session_08971,false,28,6,172,29,17,22,Tuesday,false,false,false,en,0.95,scheduling,high,neutral,How can I book a appointment,comprehensive,appointment;opd,false,patient
+qa_1776186794381_h40p3f4k,,Can i book a appointment online,"Yes, you can absolutely book an appointment online for KGMU OPD. There are two main online methods:
+
+1.  **Online Portal (ORS)**:
+    *   **Website:** https://ors.gov.in
+    *   **Flow:** Login/Register → Select State (Uttar Pradesh) → Select Hospital (KGMU) → Click 'New Appointment' → Choose Department, Date & Time Slot → Enter patient details → Pay ₹50 online → Download appointment slip.
+
+2.  **Mobile App (ABHA / Health Care App)**:
+    *   **Download:** You can download the app from the KGMU Play Store.
+    *   **Flow:** Register with your mobile number + OTP verification → Follow the same State/Hospital selection flow as the ORS portal.
+
+Pre-booking is strongly recommended to avoid long wait times.",2026-04-14T17:13:15.000Z,true,2026-04-14T17:11:09.207Z,en,0,appointment,yes_no,direct_answer,,moderate,true,session_08971,true,31,6,711,109,17,22,Tuesday,false,true,true,en,0.95,scheduling,high,neutral,Can i book a appointment online,comprehensive,appointment;opd,false,patient
+qa_1776193916213_8qwxjj44,,How to book in opd,"You can book an OPD appointment at KGMU through several methods:
+
+**A. Online Portal (ORS)**
+*   Visit: [https://ors.gov.in](https://ors.gov.in)
+*   Flow: Login/Register → Select State (Uttar Pradesh) → Select Hospital (KGMU) → Click 'New Appointment' → Choose Department, Date & Time Slot → Enter patient details → Pay ₹50 online → Download appointment slip
+
+**B. Mobile App (ABHA / Health Care App)**
+*   Download the app from the KGMU Play Store.
+*   Register using your mobile number and OTP verification.
+*   Follow the same State/Hospital selection process as the ORS portal.
+
+**C. SMS Booking**
+*   Send an SMS to: 8887019134
+*   Format: ""Appointment [Patient Name]""
+*   You will receive a booking confirmation via SMS.
+
+**D. Walk-in (On-Site Counters)**
+*   Required: Patient's Aadhaar Number & active Mobile Number.
+*   Provide your details at the registration counter.
+*   You will receive an OTP on your mobile for verification.
+*   Get a physical token and pay ₹50 at the counter to collect your physical OPD slip.
+
+**Important OPD Information:**
+*   **Timings:** Mon–Fri 9:00 AM–1:00 PM | Sat 9:00 AM–12:00 PM | Closed Sundays
+*   **Fee:** ₹50 flat for OPD slip (all booking methods).
+*   **Pre-booking is strongly recommended** to avoid long wait times.
+*   **Outside-city patients:** Must bring a valid referral for their specific department.",2026-04-14T19:11:58.000Z,true,2026-04-14T19:11:38.147Z,en,0,opd,procedural,referral,,moderate,true,session_08972,false,18,5,1357,211,19,0,Tuesday,false,true,true,en,0.95,scheduling,high,neutral,How to book in opd,comprehensive,appointment;opd,false,patient
+qa_1776194204690_uznivrr7,,Book appointment in opd,"To book an OPD appointment at King George's Medical University (KGMU), online registration is mandatory. You can use any of the following methods:
+
+### 1. Online Portal (ORS)
+*   **Website:** [www.ors.gov.in](https://www.ors.gov.in)
+*   **Process:** Select State (Uttar Pradesh) → Hospital (KGMU) → Department → Date/Time → Pay ₹50 fee → Download Slip.
+
+### 2. SMS Booking
+*   **Number:** 8887019134
+*   **Format:** Send SMS: `APPOINTMENT <PATIENT NAME>` 
+*   You will receive a confirmation message.
+
+### 3. Phone Call
+*   **Numbers:** 0522-2258880 or 0522-3539333
+*   Call these numbers during working hours to schedule your visit.
+
+### 4. Mobile App
+*   Download the **ABHA (Health Care App)** from the KGMU Play Store.
+*   Register with your mobile number and follow the steps to select KGMU.
+
+### 5. Walk-in (On-Site Counters)
+*   You can visit the registration counters at the **New OPD Building (Gate No. 2)**.
+*   **Required:** You must have the patient's **Aadhaar Number** and an active **Mobile Number** for OTP verification.
+
+---
+
+### 🏥 Important Information:
+*   **OPD Fee:** ₹50 flat for all booking methods.
+*   **Registration Timings:** 
+    *   Mon–Fri: 9:00 AM – 1:00 PM
+    *   Saturday: ",2026-04-14T19:16:46.000Z,true,2026-04-14T19:11:38.147Z,en,0,opd,factual,referral,,simple,true,session_08972,true,23,4,1208,184,19,0,Tuesday,false,true,true,en,0.95,scheduling,high,neutral,Book appointment in opd,comprehensive,appointment;opd,false,patient
+qa_1776195629672_ei218oa5,,How can I get admission,"Admission to King George's Medical University (KGMU) is primarily based on national or state-level entrance examinations followed by centralized counseling.
+
+You can find detailed information regarding various courses and the admission process on the official admissions page: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+### **General Admission Overview:**
+*   **MBBS & BDS:** Admission is conducted through the **NEET-UG** entrance exam, followed by counseling by the Directorate General of Medical Education and Training (DGME), Uttar Pradesh.
+*   **MD, MS & MDS:** Admission is through **NEET-PG** or **NEET-MDS**.
+*   **Nursing & Paramedical Courses:** KGMU often conducts its own entrance exams or participates in the Uttar Pradesh Common Nursing Entrance Test (CNET).
+*   **DM & MCh:** Admission is through **NEET-SS**.
+
+**Important Notes:**
+1.  **Cutoffs:** I cannot predict or provide specific cutoff marks for admissions.
+2.  **Updates:** For the latest notifications regarding entrance exams and application dates, please regularly check the [KGMU Notice Board](https://kgmu.org/kgmu_notice_board.",2026-04-14T19:40:30.000Z,true,2026-04-14T19:36:01.102Z,en,0,admissions,procedural,referral,,moderate,true,session_08973,false,23,5,1153,144,19,1,Tuesday,false,true,true,en,0.95,information_seeking,medium,neutral,How can I get admission,adequate,admission,true,student
+qa_1776195683259_88vfldxu,,In bsc radiology,"King George's Medical University offers various paramedical courses, which may include a BSc in Radiology or similar programs.
+
+For specific admission details regarding a **BSc Radiology** course, including eligibility criteria, application process, and entrance examinations, please visit the official KGMU admissions page:
+[https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+You should also regularly check the [KGMU Notice Board](https://kgmu.org/kgmu_notice_board.php) for any announcements or updates related to paramedical admissions.",2026-04-14T19:41:23.000Z,true,2026-04-14T19:36:01.102Z,en,0,departments,factual,referral,Radiology,simple,true,session_08973,true,16,3,578,61,19,1,Tuesday,false,true,false,en,0.95,information_seeking,medium,neutral,In bsc radiology,adequate,admission;course,true,student
+qa_1776195791656_yj9zhxf7,,How can I register?,"To help me provide the correct information, could you please clarify what you would like to register for?
+
+Are you asking about:
+1.  **OPD appointments** for a doctor's consultation?
+2.  **Admission** to a course like BSc Radiology?
+3.  Something else?",2026-04-14T19:43:11.000Z,true,2026-04-14T19:36:01.102Z,en,0,general,procedural,direct_answer,,simple,true,session_08973,true,19,4,252,40,19,1,Tuesday,false,false,true,en,0.95,information_seeking,low,neutral,How can I register?,deflected,registration,true,unknown
+qa_1776195878997_y1abtd8c,,Admission,"*   User says: ""AdmissionAdmission"" (repeating the word).
+    *   Context: The previous conversation was about admission to BSc Radiology at KGMU.
+    *   Goal: The user wants to know *how* to register for admission.
+
+    *   The prompt instructions state: ""Admissions: AI cannot predict cutoffs. Provide [Admissions Link](https://www.kgmu.org/courses_admission.php).""
+    *   The guidelines also mention providing the [Notice Board](https://kgmu.org/kgmu_notice_board.php) for dates/events.
+    *   General knowledge of KGMU admissions: Registration is typically online through the official website when applications are open.
+
+    *   *Step 1: Direct them to the Admissions page.* The primary source for all course-related registration is the admissions link.
+    *   *Step 2: Direct them to the Notice Board.* Registration dates are announced via notices.
+    *   *Step 3: Explain the general process.* Usually, it involves waiting for the notification, filling out an online form, paying the fee, and appearing for the entrance exam.",2026-04-14T19:44:39.000Z,true,2026-04-14T19:36:01.102Z,en,0,admissions,factual,direct_answer,,simple,true,session_08973,true,9,1,1037,137,19,1,Tuesday,false,true,true,en,0.95,information_seeking,medium,neutral,Admission,deflected,admission,true,student
+qa_1776197313162_4ewd9d8d,,Kya kgmc me ilaj free me hojayega,"""Kya kgmc me ilaj free me hojayega"" (Will the treatment be free at KGMC/KGMU?)
+Hindi (written in Roman script).
+Cost of treatment at King George's Medical University (KGMU).
+
+    *   *Emergency Care:* ""KGMU provides free medicines/supplies for the FIRST 24 HOURS of emergency treatment.""
+    *   *OPD Fee:* ""Fee: ₹50 flat for OPD slip (all booking methods).""
+    *   *Ratelist:* There is a detailed ratelist (e.g., Admission: 250, various tests from ₹10 to ₹50,000). This implies that most treatments and tests are *not* free, but are provided at government rates.
+    *   *General Nature:* It's a government medical university, so costs are lower than private hospitals, but not entirely ""free"" for everyone.
+
+    *   *Medical Advice Warning:* The user is asking about treatment. While not asking for a diagnosis, it's a health-related query. I must follow the safety instructions: decline medical advice and direct to KGMU OPD.
+    *   *Direct Answer:*
+        *   OPD registration costs ₹50.
+        *   Emergency care (first 24 hours) includes free medicines/supplies.
+        *   Other treatments/tests follow a government ratelist (not free).
+    *   *Guidance:* Direct the user to the official ratelist for details.
+
+    *   *Draft 1 (Internal Monologue):* KGMU is a govt hospital. OPD slip is 50 rupees. Emergency is free for 24 hours. Other things have a cost. Check the ratelist link. I can't give medical advice.
+
+    *   *Draft 2 (Hindi/English mix to be helpful):* KGMU ek government university hai. OPD slip ke liye ₹50 lagte hain. Emergency me pehle 24 ghante medicines free hoti hain. Baaki tests aur treatment ke liye paise lagte hain jo government rates par hote hain. Aap ratelist check kar sakte hain: [link].
+
+    *   *Refining based on constraints:*
+        *   Must be professional.
+        *   Must include the medical disclaimer.
+        *   Must be accurate.",2026-04-14T20:08:33.000Z,true,2026-03-26T19:30:53.100Z,en,0,general,yes_no,direct_answer,,moderate,true,session_07889,true,33,7,1884,284,20,1,Tuesday,false,false,true,hi-Latn,0.95,information_seeking,high,neutral,Will treatment be free at KGMC?,partial,fee;emergency;opd,false,patient
+qa_1776197862816_t2bw4tcv,,Kindly give me the joining letter update of Non teaching vaccancy for the post of OT Assistant which examination conducted on 14 of November 2025 .,"I cannot provide specific updates on joining letters for non-teaching vacancies, including the OT Assistant position. My capabilities are limited to providing information available on the KGMU website.
+
+For updates on recruitment processes, including joining letters, I recommend checking the following resources:
+
+*   **KGMU Official Website:** Regularly visit the ""Recruitment"" or ""Notice Board"" section of the KGMU website ([www.kgmu.org](www.kgmu.org)) for any announcements.
+*   **Admissions/Career Section:** Look for a dedicated section related to admissions or career opportunities on the website.
+*   **Contact the Administration:** You may need to contact the administrative or HR department of KGMU directly for specific information regarding your application status.",2026-04-14T20:17:45.000Z,true,2026-04-14T20:15:21.684Z,en,0,exams,factual,unable_to_answer,,complex,true,session_08974,false,147,26,778,103,20,1,Tuesday,false,false,true,en,1,information_seeking,low,neutral,Kindly give me the joining letter update of Non teaching vacancy for the post of OT Assistant which examination conducted on 14 of November 2025.,deflected,other,false,staff
+qa_1776197970998_zzb0eic9,,What is kgmu recruitment department cantact number to talk regarding examination of non teaching post final result.,"For inquiries regarding recruitment results and administrative updates for non-teaching posts, you should contact the **Registrar Office** or the general university helpline:
+
+*   **Registrar Office:** 0522-2253171
+*   **KGMU General Helpline:** 0522-2258880
+
+It is also highly recommended to check the official **Notice Board** and **Jobs** section of the KGMU website regularly for the latest updates:
+[https://www.kgmu.org/kgmu_notice_board.php](https://www.kgmu.org/kgmu_notice_board.php)",2026-04-14T20:19:33.000Z,true,2026-04-14T20:15:21.684Z,en,0,exams,factual,referral,,complex,true,session_08974,true,115,17,492,55,20,1,Tuesday,false,true,true,en,1,information_seeking,low,neutral,What is KGMU recruitment department contact number to talk regarding examination of non teaching post final result.,comprehensive,contact,false,staff
+qa_1776200874376_r2kzmwso,,मुझे ओपीडी जाना है,"ओपीडी (OPD) के लिए पंजीकरण अनिवार्य है। आप नीचे दिए गए तरीकों में से किसी एक का उपयोग कर सकते हैं:
+
+1. **ऑनलाइन अपॉइंटमेंट (ORS):** [www.ors.gov.in](https://www.ors.gov.in) पर जाकर आप अपना अपॉइंटमेंट बुक कर सकते हैं।
+2. **SMS द्वारा:** आप अपने मोबाइल से ""APPOINTMENT <आपका नाम>"" लिखकर **8887019134** पर SMS भेज सकते हैं।
+3. **फोन द्वारा:** आप **0522-2258880** या **0522-3539333** पर कॉल करके जानकारी और अपॉइंटमेंट ले सकते हैं।
+4. **वॉक-इन (ऑन-साइट):** आप सीधे अस्पताल के पंजीकरण काउंटर पर भी जा सकते हैं। इसके लिए आपके पास आधार कार्ड और एक चालू मोबाइल नंबर होना अनिवार्य है (OTP सत्यापन के लिए)।
+
+**महत्वपूर्ण जानकारी:**
+* **ओपीडी का शुल्क:** ₹50 (सभी बुकिंग विधियों के लिए)।
+* **समय:** सोमवार से शुक्रवार (सुबह 9:00 बजे से दोपहर 1:00 बजे तक) और शनिवार (सुबह 9:00 बजे से दोपहर 12:00 बजे तक)। रविवार को ओपीडी बंद रहती है।
+* **पर्ची काउंटर:** पंजीकरण काउंटर दोपहर 1:00 बजे बंद हो जाते हैं, इसलिए कृपया समय से पहुंचें।
+* यदि आप शहर से बाहर से आ रहे हैं, तो संबंधित विभाग का रेफरल पत्र साथ लाएं।
+
+**स्वास्थ्य संबंधी सावधानी:** मैं चिकित्सा सलाह प्रदान करने के लिए योग्य नहीं हूं। यदि आपको कोई गंभीर लक्षण हैं, तो कृपया सीधे KGMU के आपातकालीन विभाग (Trauma Centre) में जाएं या किसी डॉक्टर से परामर्श लें। साथ ही, सुरक्षा कारणों से इस चैट में अपनी व्यक्तिगत स्वास्थ्य जानकारी या आधार नंबर साझा न करें।",2026-04-14T21:07:55.000Z,true,2026-04-14T21:06:43.577Z,hi,1,general,factual,direct_answer,,simple,true,session_08975,false,18,4,1295,230,21,2,Tuesday,false,true,true,hi,1,navigation,high,neutral,I have to go to OPD,comprehensive,opd;appointment;registration,false,patient
+qa_1776202888648_8wbkt0d4,,Where i can complaint,"If you have a complaint regarding services at King George's Medical University, you can reach out to the **Public Relations Office (PRO)** or the relevant administrative offices.
+
+For your convenience, here are the contact details for the PRO offices:
+
+*   **PRO Office, GM&AH KGMU:** 9415007710
+*   **PRO Office, Trauma Centre:** 9453004209
+*   **PRO Office, Lari Cardiology:** 9415099528
+*   **PRO Office, Queen Mary's Hospital:** 7839552570
+*   **Patient Welfare Office, Trauma Centre:** 8887019133
+*   **C.U.G Number (C.M.S Office):** 8004007269
+
+You can also find further contact information on the [KGMU website's contact page](https://www.kgmu.org/imp_numbers.php).
+
+*Note: If you are experiencing a medical emergency or have specific health concerns, please consult a doctor at KGMU OPD or call the helpline at 0522-2258880. For your safety, please avoid sharing personal health details, Aadhaar numbers, or phone numbers in this chat.*",2026-04-14T21:41:29.000Z,true,2026-04-14T21:40:41.261Z,en,0,general,navigational,safety_redirect,,simple,true,session_08976,false,21,4,944,133,21,3,Tuesday,false,true,true,en,1,complaint,medium,negative,Where can I complain?,comprehensive,complaint;contact,false,patient
+qa_1776203151290_vkrwjlp3,,I want to complaint of worker in shatabdi for not doint thier work properly,"To lodge a complaint regarding staff conduct or service issues at the Shatabdi Hospital, you may contact the relevant Public Relations Officer (PRO) or the Patient Welfare Office.
+
+For immediate assistance or to file a formal complaint, please use the following contact details:
+
+*   **Patient Welfare Office (Trauma Centre):** 8887019133
+*   **PRO Office (General):** 9415007710
+*   **CMO/ADO (Trauma Centre):** 8004849905
+
+If you wish to provide written feedback or a formal complaint, you can also visit the **Office of the Chief Medical Superintendent (CMS)**. You may find the CUG number for the CMS office here: **8004007269**.
+
+Please provide specific details such as the date, time, location within the Shatabdi building, and the name or department of the staff member involved to help the administration address your concern effectively.",2026-04-14T21:45:51.000Z,true,2026-04-14T21:40:41.261Z,en,0,general,factual,direct_answer,,complex,true,session_08976,true,75,14,846,127,21,3,Tuesday,false,false,true,en,1,complaint,medium,frustrated,I want to complain of worker in Shatabdi for not doing their work properly,comprehensive,complaint,false,patient
