@@ -67005,3 +67005,253 @@ qa_1776114064237_9v6qdu7v,,does thjis university provide stipernd for out univer
 For accurate information regarding internship policies, stipends, or observer-ship programs, please contact the **Dean’s Office** or the **Department of Physical Medicine & Rehabilitation (PMR)** at KGMU directly. You can find contact details through the [KGMU IP Phone Directory](https://kgmu.org/ipphonedirctory.php) or by visiting the [Department of Physical Medicine & Rehabilitation page](https://www.kgmu.org/department_details.php?dept_id=4&dept_type=2).
 
 Additionally, you may check the official [Admissions and Courses page](https://www.kgmu.org/courses_admission.php) for any updated guidelines.",2026-04-13T21:01:09.000Z,true,2026-04-13T20:48:49.572Z,en,0,general,yes_no,safety_redirect,,moderate,true,session_08928,true,72,11,783,86,21,2,Monday,false,true,false,en,0.98,information_seeking,high,neutral,does thjis university provide stipernd for out university interns of bpt,deflected,internship;bpt;stipend,false,student
+qa_1776120288711_jn18pt21,,Admission,"For information regarding admissions to various courses at King George's Medical University, please visit the official admissions page:
+
+[https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+This page provides details on the different programs offered, admission criteria, and relevant updates. If you have a specific query about a course, please feel free to ask!",2026-04-13T22:44:49.000Z,true,2026-04-13T22:42:09.866Z,en,0,admissions,factual,referral,,simple,true,session_08929,false,9,1,400,47,22,4,Monday,false,true,false,en,1,information_seeking,medium,neutral,Admission,partial,admission,true,student
+qa_1776134892252_5ddrti4r,,Today opd open or close,"The OPD is open from Monday to Friday, 9:00 AM to 1:00 PM, and on Saturdays from 9:00 AM to 12:00 PM. It is closed on Sundays.",2026-04-14T02:48:14.000Z,true,2026-04-13T16:40:56.779Z,en,0,opd,factual,direct_answer,,moderate,true,session_08921,true,23,5,126,27,2,8,Tuesday,false,false,false,en,1,scheduling,medium,neutral,Today opd open or close,comprehensive,opd;timing,false,patient
+qa_1776135064636_5odwbwju,,Today ambedkar jayanti so opd are open or closed,"Dr. Bhimrao Ambedkar Jayanti is a General (Gazetted) Holiday, which means the OPD and OT are closed. Emergency services will continue to operate.",2026-04-14T02:51:06.000Z,true,2026-04-13T16:40:56.779Z,en,0,opd,factual,direct_answer,,moderate,true,session_08921,true,48,9,145,23,2,8,Tuesday,false,false,false,en,1,scheduling,medium,neutral,Today ambedkar jayanti so opd are open or closed,comprehensive,opd;holiday,false,patient
+qa_1776135368567_f799i0pb,,Hello aaj opd band rahegi kgmu ki,"KGMU OPD schedule:
+
+*   **Timings:** Monday–Friday 9:00 AM–1:00 PM | Saturday 9:00 AM–12:00 PM | **Closed Sundays**
+
+Therefore, if today is Sunday, the OPD will be closed. If it is a weekday, the OPD will be open during the specified hours.",2026-04-14T02:56:13.000Z,true,2026-04-14T02:54:50.586Z,en,0,opd,factual,direct_answer,,moderate,true,session_08930,false,33,7,240,41,2,8,Tuesday,false,false,true,hi-Latn-en,0.95,scheduling,medium,neutral,"Hello, will KGMU OPD remain closed today?",comprehensive,opd;timing,false,patient
+qa_1776135404231_wqmndxyf,,Aaj ambedkar janti hai kgmu band rahegaa kya,"Dr. Bhimrao Ambedkar Jayanti is on April 14th, 2026.
+
+According to the KGMU Holiday Calendar for 2026, Dr. Bhimrao Ambedkar Jayanti is a **General (Gazetted) Holiday**.
+
+On General Holidays:
+*   OPD and OT (Operation Theatre) are **CLOSED**.
+*   No classes are held.
+*   Administrative work is closed.
+*   Emergency services will run 24/7.
+
+Therefore, **yes, the KGMU OPD will be closed today** in observance of Dr. Bhimrao Ambedkar Jayanti.",2026-04-14T02:56:46.000Z,true,2026-04-14T02:54:50.586Z,en,0,general,factual,direct_answer,,moderate,true,session_08930,true,44,8,441,69,2,8,Tuesday,false,false,true,hi-Latn,0.95,scheduling,medium,neutral,Is KGMU closed today due to Ambedkar Jayanti?,comprehensive,opd;holiday,false,patient
+qa_1776135564625_sx3mnl21,,Kya kgmu hospital aaj khula hai,KGMU Hospital aaj khula hai. OPD ka samay Mon-Fri subah 9 baje se dopahar 1 baje tak aur Sat ko subah 9 baje se dopahar 12 baje tak hai. Sunday ko band rehta hai.,2026-04-14T02:59:25.000Z,true,2026-04-14T02:58:10.994Z,en,0,general,yes_no,direct_answer,,moderate,true,session_08931,false,31,6,162,34,2,8,Tuesday,false,false,false,hi-Latn,0.95,scheduling,medium,neutral,Is KGMU hospital open today?,comprehensive,opd;timing,false,patient
+qa_1776135639253_duus1mhc,,Aaj 14 apil ki vajah se band to nahi hai,"14 April ko Dr. Bhimrao Ambedkar Jayanti hai, jo KGMU mein ek General Holiday (Gazetted Holiday) hai. Is wajah se, OPD aur OT (Operation Theatre) aaj band rahenge. Emergency services 24/7 jaari rahegi.",2026-04-14T03:00:40.000Z,true,2026-04-14T02:58:10.994Z,en,0,general,factual,direct_answer,,moderate,true,session_08931,true,40,10,201,33,3,8,Tuesday,false,false,false,hi-Latn,0.95,scheduling,medium,neutral,Is it closed today because of 14 April?,comprehensive,opd;holiday,false,patient
+qa_1776135892853_6ekgy230,,Hii today opd is open ?,"Yes, the OPD is open today. The timings are:
+
+*   **Monday–Friday:** 9:00 AM–1:00 PM
+*   **Saturday:** 9:00 AM–12:00 PM
+
+The OPD is closed on Sundays. Please note that online registration is mandatory for appointments.",2026-04-14T03:04:53.000Z,true,2026-04-14T03:04:34.730Z,en,0,opd,factual,direct_answer,,moderate,true,session_08932,false,23,6,218,34,3,8,Tuesday,false,false,true,en,1,scheduling,medium,neutral,Hii today opd is open ?,comprehensive,opd;timing,false,patient
+qa_1776135933631_qj2vo4va,,Neurologist for today,"I cannot provide real-time information about doctor availability for today.
+
+To find a neurologist and book an appointment, please consider the following:
+
+*   **Check the Faculty Directory:** You can look for neurologists here: [https://www.kgmu.org/allfaculty.php](https://www.kgmu.org/allfaculty.php)
+*   **Book an Appointment:** You can book an appointment through the following methods:
+    *   **Online Portal (ORS):** [https://ors.gov.in](https://ors.gov.in)
+    *   **Mobile App (ABHA / Health Care App)**
+    *   **SMS Booking:** Send ""Appointment \[Patient Name]"" to 8887019134
+    *   **Walk-in (On-Site Counters):** Visit the registration counter at the hospital.
+
+It's strongly recommended to pre-book your appointment to avoid long wait times.",2026-04-14T03:05:33.000Z,true,2026-04-14T03:04:34.730Z,en,0,departments,factual,unable_to_answer,Neurology,simple,true,session_08932,true,21,3,757,92,3,8,Tuesday,false,true,true,en,1,scheduling,high,neutral,Neurologist for today,deflected,appointment;faculty,true,patient
+qa_1776136023275_ttzzwyw7,,Whatbabout emergencu case,"For emergency cases, you should go directly to the **Trauma Centre (Gate 14)**.
+
+If it's a **Cardiology Emergency**, stabilize at the Trauma Centre first, and then you will be transferred to LARI Cardiology (across the road).
+
+KGMU provides free medicines and supplies for the first 24 hours of emergency treatment.",2026-04-14T03:07:03.000Z,true,2026-04-14T03:06:46.209Z,en,0,general,factual,direct_answer,,simple,true,session_08933,false,25,3,315,50,3,8,Tuesday,false,false,false,en,0.9,information_seeking,high,neutral,What about emergency case,comprehensive,emergency,false,patient
+qa_1776136058976_d696hymy,,I have emergency case of nurologist,"For a neurological emergency, please go directly to the **Trauma Centre (Gate 14)**. From there, if needed, you will be directed to the Neurology department.",2026-04-14T03:07:39.000Z,true,2026-04-14T03:06:46.209Z,en,0,emergency,factual,direct_answer,,moderate,true,session_08933,true,35,6,157,25,3,8,Tuesday,false,false,false,en,0.9,information_seeking,high,neutral,I have emergency case of neurologist,adequate,emergency,false,patient
+qa_1776136114485_1uqxhavx,,Any contact number,"*   User's situation: Emergency case of a neurologist (Neurological emergency).
+    *   User's request: ""Any contact numberAny contact number"" (Asking for contact numbers).
+
+    *   PRO Office, GM&AH KGMU: 9415007710
+    *   PRO Office, Trauma Centre: 9453004209
+    *   Help Line: 0522-2258880
+    *   Patient Welfare Office, Trauma Centre: 8887019133
+    *   CMO/ADO, Trauma Centre: 8004849905
+
+    *   Since the user mentioned an emergency case, the most relevant numbers are the Trauma Centre PRO and the general help line.
+
+    *   *Medical Advice Warning:* The user is talking about an ""emergency case."" While I am providing contact numbers, I must adhere to the safety instruction: ""If a user shares personal medical information, symptoms... politely decline and direct them to consult a qualified doctor or visit KGMU OPD."" However, in this specific context, the user is asking for contact numbers for an emergency. I should provide the numbers but also keep the medical disclaimer in mind.
+    *   *Wait*, the system instructions say: ""If a user shares personal medical information... politely decline and direct them to consult a qualified doctor... Remind them not to share personal health details... Say something like: 'I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.'""
+    *   The user said ""I have emergency case of nurologist."" This is a health-related statement. I must include the disclaimer.
+
+    *   Start with the medical disclaimer.
+    *   Provide the specific emergency contact numbers.
+    *   Reiterate the location (Trauma Centre Gate 14).",2026-04-14T03:08:34.000Z,true,2026-04-14T03:06:46.209Z,en,0,contact,factual,safety_redirect,,simple,true,session_08933,true,18,3,1695,252,3,8,Tuesday,false,false,true,en,1,information_seeking,medium,neutral,Any contact number,comprehensive,contact;emergency,false,patient
+qa_1776138104585_33vanez9,,I want to know something,"I am here to help you with information regarding King George's Medical University (KGMU). 
+
+Could you please clarify what you would like to know? For example, are you looking for:
+*   OPD appointment details?
+*   Information about a specific medical department?
+*   Faculty directory or contact information?
+*   Examination results or academic information?
+*   Campus navigation?
+
+Please let me know your question, and I will do my best to provide the accurate information from our website. 
+
+***
+
+*Note: I am not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, for your safety, please avoid sharing personal health details, Aadhaar numbers, phone numbers, or other sensitive personal information in this chat.*",2026-04-14T03:41:45.000Z,true,2026-04-14T03:41:09.783Z,en,0,general,factual,safety_redirect,,moderate,true,session_08934,false,24,5,764,119,3,9,Tuesday,false,false,true,en,1,information_seeking,low,neutral,I want to know something,deflected,other,true,unknown
+qa_1776138160676_zivuniio,,I want to know is there bpt course available or not,"Yes, King George's Medical University (KGMU) offers the **Bachelor of Physiotherapy (BPT)** course.
+
+It is managed under the **Faculty of Paramedical Sciences**. You can find detailed information regarding courses, admissions, and relevant guidelines on the university website here: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+If you are looking for specific information regarding the admission process, eligibility, or the curriculum for the current academic session, I recommend visiting the ""Courses & Admissions"" section on the main website at [www.kgmu.org](http://www.kgmu.org). 
+
+Do you have any other questions regarding the admission process or other courses?",2026-04-14T03:42:40.000Z,true,2026-04-14T03:41:09.783Z,en,0,courses,factual,direct_answer,,moderate,true,session_08934,true,51,11,714,86,3,9,Tuesday,false,true,false,en,1,information_seeking,medium,neutral,I want to know is there bpt course available or not,comprehensive,course;admission,false,student
+qa_1776138267816_w1nzgnfm,,How to get admission in bpt in kgmu,"Admission to the Bachelor of Physiotherapy (BPT) program at KGMU is typically conducted through a centralized entrance examination process.
+
+Here is how you can proceed:
+
+1.  **Monitor the Admissions Portal:** All official notifications regarding entrance exams, eligibility criteria, and counseling schedules are posted on the official KGMU website under the **""Courses & Admissions""** section: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php).
+2.  **Entrance Examination:** KGMU usually conducts or participates in a common entrance test for its Paramedical/Physiotherapy programs. You will need to fill out the online application form once the notification is released.
+3.  **Eligibility:** Generally, candidates are required to have passed 10+2 (Intermediate) with Physics, Chemistry, and Biology (PCB) as core subjects from a recognized board. Please ensure you meet the specific percentage requirements mentioned in the official brochure for the current academic year.
+4.  **Stay Updated:** Since admission dates vary by year, I recommend regularly checking the [KGMU Notice Board](https://kgmu.org/kgmu_notice_board.php) and the admissions page linked above to ensure you don't miss the application window.
+
+**Important Note:** Please be cautious of any third-party websites or individuals claiming to offer ""direct admission"" or ""management quota"" seats. KGMU admissions are strictly merit-based through the official university entrance process. Always rely on information published on [www.kgmu.org](http://www.kgmu.org).
+
+Do you have any other questions regarding the admission process or campus?",2026-04-14T03:44:27.000Z,true,2026-04-14T03:41:09.783Z,en,0,admissions,procedural,direct_answer,,moderate,true,session_08934,true,35,8,1646,210,3,9,Tuesday,false,true,true,en,1,information_seeking,medium,neutral,How to get admission in bpt in kgmu,comprehensive,admission;course,false,student
+qa_1776138331277_akh3w1sy,,Which entrance exam,"For admission into the Bachelor of Physiotherapy (BPT) program at King George's Medical University (KGMU), the university typically conducts its own **Common Paramedical Entrance Test (CPET)** or participates in a state-level entrance examination as notified by the University for that specific academic session.
+
+To ensure you have the most accurate information for the upcoming academic year, please follow these steps:
+
+1.  **Check the Official Admission Portal:** Visit [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php) regularly. This is where the official information brochure and the name of the specific entrance exam for the current year will be uploaded.
+2.  **Look for the ""Paramedical"" Section:** KGMU groups BPT under the Faculty of Paramedical Sciences. When the notification is released, it will clearly state the name of the entrance exam, the syllabus, the application dates, and the eligibility criteria.
+3.  **Avoid Misinformation:** Please be aware that KGMU does not authorize any external agents or private consultants for admissions. All entrance exam details, admit card downloads, and counseling processes are handled exclusively through the official KGMU website.
+
+**Recommendation:** Since exam patterns can sometimes change, I suggest you keep an eye on the **[KGMU Notice Board](https://kgmu.org/kgmu_notice_board.php)**, as this is where the university publishes its official circulars and admission alerts.
+
+Do you have any other questions regarding the admission process or campus navigation?",2026-04-14T03:45:31.000Z,true,2026-04-14T03:41:09.783Z,en,0,admissions,factual,referral,,simple,true,session_08934,true,19,3,1563,211,3,9,Tuesday,false,true,true,en,1,information_seeking,medium,neutral,Which entrance exam,comprehensive,admission;exam,false,student
+qa_1776138418403_gopg1axs,,Diploma in lab technician me addmission kaise lete hai,"""Diploma in lab technician me addmission kaise lete hai"" (How to get admission in Diploma in Lab Technician?)
+Hindi/Hinglish.
+Admission process for a specific course at KGMU.
+
+    *   Check the ""Key Resources"" and ""Guidelines"" sections.
+    *   Guideline #5: ""Admissions: AI cannot predict cutoffs. Provide [Admissions Link](https://www.kgmu.org/courses_admission.php).""
+    *   Key Resources -> Main Website: www.kgmu.org.
+
+    *   I cannot provide specific dates or cutoffs.
+    *   I must provide the official admissions link.
+    *   I should be polite and professional.
+
+    *   *Direct Answer:* To get admission in the Diploma in Lab Technician (or any other course), you need to check the official admissions page of KGMU.
+    *   *Link:* https://www.kgmu.org/courses_admission.php
+    *   *Advice:* Keep an eye on the website for notifications, eligibility criteria, and application dates.",2026-04-14T03:46:58.000Z,true,2026-04-14T03:46:20.415Z,en,0,courses,procedural,unable_to_answer,,moderate,true,session_08935,false,54,9,897,120,3,9,Tuesday,false,true,true,hi-Latn,0.95,information_seeking,high,neutral,How to get admission in Diploma in Lab Technician?,deflected,admission;course,false,student
+qa_1776138480072_wqxm3isa,,Form kab fill kiye jayen gen,"""Form kab fill kiye jayen gen"" (When should the forms be filled/When will the forms be available?)
+The user is asking about the application dates for the Diploma in Lab Technician admission (following the previous turn).
+KGMU AI Chatbot.
+
+    *   The provided context contains a ""Key Resources"" section and ""Guidelines"".
+    *   Guideline #5 explicitly states: ""Admissions: AI cannot predict cutoffs. Provide [Admissions Link](https://www.kgmu.org/courses_admission.php).""
+    *   There is no specific date mentioned for the Lab Technician diploma application in the provided text.
+    *   General rule: Direct the user to the official website for the most current and accurate dates.",2026-04-14T03:48:00.000Z,true,2026-04-14T03:46:20.415Z,en,0,general,temporal,direct_answer,,moderate,true,session_08935,true,28,6,684,97,3,9,Tuesday,false,true,true,hi-Latn,0.95,scheduling,high,neutral,When should the forms be filled/When will the forms be available?,deflected,admission;timing,false,student
+qa_1776138489100_toeqg1ng,,Hmko appointment book krna hai kaise kre,"KGMU mein OPD appointment book karne ke liye aap niche diye gaye kisi bhi tarike ka upyog kar sakte hain:
+
+**1. Online Portal (ORS):**
+*   Website par jayein: [www.ors.gov.in](https://ors.gov.in)
+*   State mein 'Uttar Pradesh' aur Hospital mein 'King George's Medical University' select karein.
+*   'New Appointment' par click karke department, date aur samay chunein.
+*   Patient ki jaankari bharein aur ₹50 ka online bhugtan (payment) karein.
+*   Appointment slip download kar lein.
+
+**2. Mobile App:**
+*   Aap Play Store se 'ABHA' ya 'Health Care' app download karke bhi upar batayi gayi process se appointment book kar sakte hain.
+
+**3. SMS Booking:**
+*   Aap 8887019134 par SMS bhej kar bhi appointment book kar sakte hain.
+*   SMS format: `APPOINTMENT <Patient Name>`
+
+**4. Walk-in (On-Site):**
+*   Aap seedhe hospital aa kar bhi registration counter par appointment le sakte hain.
+*   Iske liye aapke paas **Aadhaar card** aur **active mobile number** hona anivarya (compulsory) hai.
+*   Counter par details dene ke baad aapke mobile par OTP aayega, jiske baad aapko ₹50 ki parchi (token) mil jayegi.
+
+**Kuch Zaruri Baatein:**
+*   OPD Parchi (Ticket) counter subah 9:00 baje se dopehar 1:00 baje tak khula rehta hai (Shaniwar ko 12:00 baje tak).
+*   Online pre-booking ki salah di jaati hai taaki aapko lambi line mein na lagna pade.
+*   **Medical Advice:** Main ek AI assistant hoon, doctor nahi. Agar aapko koi bimari ya health samasya hai, toh kripya KGMU OPD mein doctor se paramarsh lein. 
+*   **Suraksha:** Kripya is chat mein apna Aadhaar number, phone number ya koi bhi personal medical record share na karein.
+
+Kya aapko kisi specific department ki OPD timing ya location janni hai?",2026-04-14T03:48:09.000Z,true,2026-04-14T03:47:06.399Z,en,0,appointment,procedural,direct_answer,,moderate,true,session_08936,false,40,7,1698,272,3,9,Tuesday,false,true,true,hi-Latn,0.9,scheduling,high,neutral,"I have to book an appointment, how to do it?",comprehensive,appointment;opd,false,patient
+qa_1776138660428_b5jz8igo,,Mujhe kjmu me admission Lena hai,"KGMU mein admission ke liye aap sahi jagah aaye hain. Admission se sambandhit sabhi jaankari aur courses ki details aap hamari official website par dekh sakte hain:
+
+**Admission Details:** [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+Yahan aapko MBBS, BDS, Nursing, aur anya PG/Super-speciality courses ke baare mein jaankari mil jayegi. 
+
+**Kuch mahatvapurn baatein:**
+1. KGMU mein admission alag-alag courses ke liye entrance exams (jaise NEET UG, NEET PG, NEET MDS, aur KGMU ke apne entrance tests) ke madhyam se hote hain.
+2. Aap samay-samay par [Notice Board](https://kgmu.org/kgmu_notice_board.php) check karte rahein taaki koi bhi naya admission notification aane par aapko turant pata chal sake.
+
+Agar aap kisi vishesh course (jaise MBBS ya Nursing) ke baare mein jaanna chahte hain, toh kripya batayein, main aapko adhik sahayata pradan kar sakta hoon.
+
+*I was created by Dr. Ayush Yadav.*",2026-04-14T03:51:01.000Z,true,2026-04-14T03:50:25.586Z,en,0,admissions,factual,referral,,moderate,true,session_08937,false,32,6,943,131,3,9,Tuesday,false,true,true,hi-Latn,0.95,information_seeking,high,neutral,I want to take admission in KGMU.,adequate,admission,false,student
+qa_1776138701346_a04v6za8,,Bmlt course ke liye,"BMLT (Bachelor of Medical Laboratory Technology) course mein admission ke liye KGMU ki official website par di gayi jaankari ko follow karna hota hai.
+
+Aap niche diye gaye link par jakar admission aur courses ke baare mein vistar se dekh sakte hain:
+**Admission & Courses:** [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+**Kuch mahatvapurn jaankari:**
+1. **Selection Process:** KGMU mein BMLT jaise courses mein admission aam taur par entrance exam ke madhyam se hota hai. Aapko samay-samay par university ki website par ""Admission/Notice"" section check karte rehna chahiye.
+2. **Eligibility:** Is course ke liye aam taur par 12th pass (Physics, Chemistry, Biology/Biotech) hona zaroori hota hai.
+3. **Important Links:** Admission se judi koi bhi nayi update aapko yahan milegi: [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)
+
+Main aapko salah dunga ki aap apni eligibility aur entrance exam ki dates ke liye official website par jaryi hone wali ""Admission Brochure"" ya ""Prospectus"" ko zaroor padhein.
+
+*I was created by Dr. Ayush Yadav.*",2026-04-14T03:51:42.000Z,true,2026-04-14T03:50:25.586Z,en,0,courses,factual,referral,,simple,true,session_08937,true,19,4,1116,149,3,9,Tuesday,false,true,true,hi-Latn-en,0.9,information_seeking,high,neutral,For BMLT course.,adequate,admission;course,true,student
+qa_1776138816224_147pp12r,,Kya college me admission ke liye intrence exam dena hoga,"KGMU mein admission ki prakriya alag-alag courses ke liye alag hoti hai. Kuch courses mein entrance exam dena hota hai, jabki kuch mein merit ya national level exams ke basis par selection hota hai.
+
+Admission se sambandhit vistrit jaankari ke liye aap KGMU ki official website par **""Courses & Admissions""** section dekh sakte hain: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+Yadi aap kisi specific course (jaise MBBS, MD/MS, Nursing, ya Dental) ke baare mein jaanna chahte hain, toh kripya uska naam batayein taaki main aapko sahi jaankari de saku.
+
+Main aapko yaad dila du ki main Dr. Ayush Yadav dwara banaya gaya AI Assistant hoon.",2026-04-14T03:53:37.000Z,true,2026-04-14T03:50:25.586Z,en,0,admissions,yes_no,direct_answer,,moderate,true,session_08937,true,56,10,683,100,3,9,Tuesday,false,true,false,hi-Latn,0.95,information_seeking,high,neutral,Will I have to take an entrance exam for college admission?,adequate,admission;exam,false,student
+qa_1776138900070_jscar3pj,,Mujhe kya bmlt course ke liye intrence exam dena hoga ya mere merit se ho jayega,"BMLT (Bachelor of Medical Laboratory Technology) mein admission ke liye, KGMU aam taur par **KGMU Entrance Examination** ka aayojan karta hai. Is course mein merit-based direct admission ke bajaye entrance exam ke dwara chayan (selection) ki prakriya adhik prachalit hai.
+
+Admission ki navintam sthiti aur exam pattern ki puri jaankari ke liye aap niche diye gaye link par ja kar dekh sakte hain:
+
+[https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+**Kuch mahatvapurn baatein:**
+1. **Official Notification:** KGMU ki website par samay-samay par admission ke liye notification jaari kiye jaate hain. Aapko wahi se form bharna hoga.
+2. **Eligibility:** Aapke 12th (Physics, Chemistry, Biology) mein nirdharit marks hona avashyak hai.
+3. **Important:** Admission se judi kisi bhi scam ya fake website se bachein. Hamesha sirf `www.kgmu.org` ka hi upyog karein.
+
+Main aapko salah doonga ki aap website ke ""Courses & Admissions"" section ko regular check karte rahein, kyunki exam ki dates aur eligibility criteria har saal update ho sakte hain.
+
+*Note: Main Dr. Ayush Yadav dwara banaya gaya AI Assistant hoon.*",2026-04-14T03:55:00.000Z,true,2026-04-14T03:50:25.586Z,en,0,exams,factual,referral,,complex,true,session_08937,true,80,16,1145,164,3,9,Tuesday,false,true,true,hi-Latn,0.95,information_seeking,high,neutral,Will I have to take an entrance exam for BMLT course or will it be through my merit?,comprehensive,admission;exam;course,false,student
+qa_1776139069112_qx8r2snx,,Kya aap mujhe bmlt me admission ke liye help kar sakte hai,"*   User Question: ""Kya aap mujhe bmlt me admission ke liye help kar sakte hai"" (Can you help me with admission in BMLT?)
+    *   Context: The user is asking for assistance with the BMLT admission process at KGMU.
+
+    *   Identity: KGMU AI CHATBOT created by Dr. Ayush Yadav.
+    *   Goal: Help users find information on the website. Be accurate, concise, and helpful.
+    *   Constraint: I cannot predict cutoffs or provide personal admission services. I must direct users to official links.
+    *   Medical Safety: Not applicable here (no symptoms/diagnosis asked).
+
+    *   Direct the user to the official admission link: `https://www.kgmu.org/courses_admission.php`.
+    *   Explain *how* I can help (providing links, explaining general process) and *what* I cannot do (fill forms, guarantee admission, predict cutoffs).
+    *   Guide them on what to look for on the website (notifications, brochures, application forms).
+    *   Mention the importance of keeping an eye on the official notice board.
+
+    *   *Greeting/Confirmation:* Yes, I can guide you with information.
+    *   *Official Link:* Provide the admission link.
+    *   *Steps to follow:*
+        1.  Visit the admission page.
+        2.  Look for the BMLT notification.
+        3.  Check eligibility.
+        4.  Fill the online form when available.
+    *   *Notice Board Link:* `https://kgmu.org/kgmu_notice_board.php` for latest updates.
+    *   *Disclaimer:* I am an AI, I cannot fill forms or guarantee a seat.
+
+    *   Ensure it's polite and professional.
+    *   Maintain the persona.",2026-04-14T03:57:50.000Z,true,2026-04-14T03:50:25.586Z,en,0,admissions,yes_no,referral,,moderate,true,session_08937,true,58,12,1561,222,3,9,Tuesday,false,true,true,hi-Latn,0.95,information_seeking,high,positive,Can you help me with admission in BMLT?,deflected,admission;course,false,student
+qa_1776142291493_q4jzwyxf,,Dr Prem Prakash Pandey kon hai,"I cannot find any information about ""Dr Prem Prakash Pandey"" in the provided data.
+
+If you are looking for faculty members, you can explore the Faculty Directory here: https://www.kgmu.org/allfaculty.php",2026-04-14T04:51:33.000Z,true,2026-04-11T18:14:33.720Z,en,0,general,entity,direct_answer,,moderate,true,session_08806,true,30,6,203,29,4,10,Tuesday,false,true,false,hi-Latn,0.9,information_seeking,high,neutral,Who is Dr Prem Prakash Pandey?,deflected,faculty,false,unknown
+qa_1776142695308_kg5d5qcu,,Today opd open or close,"The OPD is open from Monday to Friday, 9:00 AM to 1:00 PM, and on Saturdays from 9:00 AM to 12:00 PM. It is closed on Sundays.",2026-04-14T04:58:15.000Z,true,2026-04-14T04:57:50.520Z,en,0,opd,factual,direct_answer,,moderate,true,session_08938,false,23,5,126,27,4,10,Tuesday,false,false,false,en,1,information_seeking,high,neutral,Today opd open or close,comprehensive,opd;timing,false,patient
+qa_1776142747469_a7ovd6jh,,Today ambedkar jayanti so 14 April opd open,"The OPD will be closed on April 14th, 2026, as it is a General (Gazetted) Holiday for Ambedkar Jayanti.",2026-04-14T04:59:07.000Z,true,2026-04-14T04:57:50.520Z,en,0,opd,factual,direct_answer,,moderate,true,session_08938,true,43,8,103,19,4,10,Tuesday,false,false,false,hi-Latn-en,0.9,information_seeking,high,neutral,Today is Ambedkar Jayanti so will OPD be open on 14 April?,comprehensive,opd;timing;holiday,false,patient
+qa_1776142791285_lpfmpyjr,,Bdi pathology open 14 April,"*   User's question: ""Bdi pathology open 14 AprilBdi pathology open 14 April""
+    *   Context: The user is asking if the ""Badi Pathology"" (Pathology Department) is open on April 14th.
+    *   Previous context: The user already established that April 14th is Ambedkar Jayanti.
+
+    *   Date: April 14th.
+    *   Holiday Status: Ambedkar Jayanti is listed as a ""General (Gazetted) Holiday"" in the 2026 calendar.
+    *   Holiday Rules: ""OPD and OT (Operation Theatre) are CLOSED on all General Holidays listed below.""
+    *   Pathology Department: This is an OPD/Diagnostic service.
+
+    *   Since April 14th is a General (Gazetted) Holiday, the OPD services (including Badi Pathology) will be closed.
+    *   Emergency services run 24/7, but routine pathology/OPD is closed.",2026-04-14T04:59:51.000Z,true,2026-04-14T04:57:50.520Z,en,0,departments,factual,direct_answer,Pathology,moderate,true,session_08938,true,27,5,772,114,4,10,Tuesday,false,false,true,hi-Latn-en,0.85,information_seeking,high,neutral,Will Badi Pathology be open on 14 April?,deflected,lab;holiday;timing,false,patient
