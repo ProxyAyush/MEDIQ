@@ -68928,3 +68928,302 @@ Online registration is mandatory for all OPD appointments. You can book an appoi
 It is strongly recommended to pre-book your appointment to avoid long wait times.",2026-04-15T19:54:49.000Z,true,2026-04-15T19:50:29.556Z,en,0,general,factual,direct_answer,,moderate,true,session_09030,true,47,8,639,95,19,1,Wednesday,false,false,true,en,1,information_seeking,high,neutral,Tell me more details about dr chandrakanta KGMU,comprehensive,faculty;department;timing,false,patient
 qa_1776283272001_d2wj7i2f,,Non pg jr vaccancy,,2026-04-15T20:01:13.000Z,true,2026-04-15T20:00:33.668Z,en,0,general,factual,direct_answer,,simple,true,session_09031,false,18,4,0,0,20,1,Wednesday,false,false,false,en,0.9,information_seeking,medium,neutral,Non pg jr vaccancy,deflected,admission;other,false,student
 qa_1776284096440_3c5mceg7,,Mujhe 12th ke baad koi job chahiye,,2026-04-15T20:14:58.000Z,true,2026-04-15T20:14:35.660Z,en,0,career,factual,direct_answer,,moderate,true,session_09032,false,34,7,0,0,20,1,Wednesday,false,false,false,hi-Latn,1,information_seeking,low,neutral,I want some job after 12th,deflected,placement;other,true,student
+qa_1776293637980_kmngyzr5,,Kjmu me neurology opd kis kis din open hoti," Neurology OPD **Monday, Tuesday, Thursday, and Friday** is open.",2026-04-15T22:53:58.000Z,true,2026-04-15T22:53:12.787Z,en,0,opd,factual,direct_answer,Neurology,moderate,true,session_09033,false,43,9,65,9,22,4,Wednesday,false,false,false,hi-Latn,0.95,scheduling,high,neutral,On which days is the neurology OPD open in KGMU?,adequate,opd;timing;department,false,patient
+qa_1776293686814_3ejqq180,,Number kaise lgwaye,"You can get an appointment through the following methods:
+
+**A. Online Portal (ORS)**
+*   Website: [https://ors.gov.in](https://ors.gov.in)
+*   Flow: Login/Register → Select State (Uttar Pradesh) → Select Hospital (KGMU) → Click 'New Appointment' → Choose Department, Date & Time Slot → Enter patient details → Pay ₹50 online → Download appointment slip
+
+**B. Mobile App (ABHA / Health Care App)**
+*   Download from KGMU Play Store
+*   Register with mobile number + OTP verification
+*   Follow the same State/Hospital selection flow as the ORS portal
+
+**C. SMS Booking**
+*   Number: 8887019134
+*   Format: Send SMS: ""Appointment [Patient Name]"" → receive booking confirmation
+
+**D. Walk-in (On-Site Counters)**
+*   Required: Patient's Aadhaar Number + active Mobile Number
+*   Flow: Provide details at the registration counter → Receive OTP on mobile → Get a physical token → Pay ₹50 at the counter → Collect the physical OPD slip
+
+Please note that pre-booking is strongly recommended to avoid long wait times.",2026-04-15T22:54:46.000Z,true,2026-04-15T22:53:12.787Z,en,0,contact,procedural,direct_answer,,simple,true,session_09033,true,19,3,1010,156,22,4,Wednesday,false,true,true,hi-Latn,0.9,scheduling,high,neutral,How to get a token/appointment?,comprehensive,appointment;registration,false,patient
+qa_1776299448339_29hk55d0,,General,"I'm sorry, but ""GeneralGeneral"" is too vague. Could you please specify what information you are looking for regarding ""General""?",2026-04-16T00:30:49.000Z,true,2026-04-16T00:29:55.974Z,en,0,general,factual,direct_answer,,simple,true,session_09034,false,7,1,128,19,0,6,Thursday,false,false,false,en,1,information_seeking,low,neutral,General,deflected,other,true,unknown
+qa_1776299910565_zypxopt7,,General medicine,"You can find information about the **Department of Medicine** at KGMU here: [https://www.kgmu.org/department_details.php?dept_id=16&dept_type=2](https://www.kgmu.org/department_details.php?dept_id=16&dept_type=2)
+
+### **OPD Schedule (New OPD Block)**
+*   **General Medicine OPD:** Monday to Saturday.
+*   **ART Plus Centre:** Medicine OPD, First Floor, **Room No. 13**.
+
+### **Key Faculty**
+*   **Dr. Virendra Atam** (HOD) - Specialization: Internal Medicine & Neurology
+*   **Dr. Kauser Usman** (Professor) - Specialization: Diabetes and Geriatrics
+*   **Dr. Shyam Chand Chaudhary** (Professor) - Specialization: Internal Medicine & Respiratory Medicine
+*   **Dr. Satyendra Kumar Sonkar** (Professor) - Specialization: Internal Medicine & Nephrology
+
+**Important Note:** Online registration is mandatory for OPD. You can book an appointment via [www.ors.gov.in](https://www.ors.gov.in) or by calling 0522-2258880. For your safety, please do not share any personal medical details or Aadhaar numbers in this chat.",2026-04-16T00:38:31.000Z,true,2026-04-16T00:29:55.974Z,en,0,departments,factual,direct_answer,Medicine,simple,true,session_09034,true,16,2,1013,122,0,6,Thursday,false,true,true,en,1,information_seeking,high,neutral,General medicine,comprehensive,department;opd;timing,false,patient
+qa_1776300971937_isu532ze,,What is the fee in kgmu for bsc nursing including counseling and addmission fee,"I cannot provide specific details on the fee structure for BSc Nursing, including counseling and admission fees, through this chat. This information is usually detailed in the official admission prospectus or on the university's admission portal.
+
+Please visit the KGMU admissions section on the official website: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php) or contact the university's admission office for the most accurate and up-to-date fee details.",2026-04-16T00:56:28.000Z,true,2026-04-16T00:55:10.830Z,en,0,admissions,factual,unable_to_answer,Nursing,complex,true,session_09035,false,79,14,497,61,0,6,Thursday,false,true,false,en,1,information_seeking,medium,neutral,What is the fee in kgmu for bsc nursing including counseling and addmission fee,deflected,fee;admission;course,false,student
+qa_1776302157402_fith6yxb,,How to check fee structure for bsc nursing of 2024,"To check the fee structure for B.Sc. Nursing, you can visit the official KGMU website at [www.kgmu.org](https://www.kgmu.org).
+
+You can find relevant information regarding course fees and admissions by navigating to the **""Courses & Admissions""** section on the main website: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php).
+
+If you are looking for specific details that are not listed on the general page, I recommend checking the **""Notice Board""** section ([https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)) for the official 2024 admission brochure or fee circulars, as these documents contain the most accurate and updated breakdown of tuition and other associated charges.",2026-04-16T01:16:02.000Z,true,2026-04-16T00:55:10.830Z,en,0,fees,procedural,referral,Nursing,moderate,true,session_09035,true,50,10,749,88,1,6,Thursday,false,true,false,en,1,information_seeking,medium,neutral,How to check fee structure for bsc nursing of 2024,adequate,fee;course,false,student
+qa_1776302646367_eezdsrqf,,Bsc nursing fee,,2026-04-16T01:24:14.000Z,true,2026-04-16T01:23:18.384Z,en,0,fees,factual,direct_answer,Nursing,simple,true,session_09036,false,15,3,0,0,1,6,Thursday,false,false,false,en,1,information_seeking,medium,neutral,Bsc nursing fee,deflected,fee;course,true,student
+qa_1776303614847_wjaus6ne,,Apartment hai,"I'm sorry, I cannot understand your request. Could you please rephrase it?",2026-04-16T01:40:16.000Z,true,2026-04-16T01:39:08.985Z,en,0,general,factual,direct_answer,,simple,true,session_09037,false,13,2,74,12,1,7,Thursday,false,false,false,hi-Latn,0.95,information_seeking,none,neutral,Apartment hai,deflected,other,true,unknown
+qa_1776303672506_x7k1e291,,I want appointment please,"To book an appointment at KGMU, you must register online or via the official channels. Please note that **online registration is mandatory**.
+
+### **Booking Methods:**
+
+1.  **Online Portal (ORS):**
+    *   Visit **[www.ors.gov.in](https://ors.gov.in)**.
+    *   Select State (Uttar Pradesh) → Hospital (King George's Medical University).
+    *   Choose the Department and Date, then pay the **₹50 fee** online to download your slip.
+
+2.  **Mobile App:**
+    *   Download the **ABHA** or **ORS Patient Portal** app from the KGMU Play Store and follow the same steps.
+
+3.  **SMS Booking:**
+    *   Send an SMS: **APPOINTMENT &lt;PATIENT NAME&gt;** to **8887019134**.
+
+4.  **Phone Helpline:**
+    *   Call **0522-2258880** or **0522-3539333**.
+
+### **Important Information:**
+*   **OPD Fee:** ₹50 flat for the registration slip.
+*   **Timings:** Monday–Friday (9:00 AM – 1:00 PM) | Saturday (9:00 AM – 12:00 PM).
+*   **Closed:** Sundays and Gazetted Holidays.
+*   **Location:** Most new appointments are seen at the **New OPD Building (Gate No. 2)**.
+*   **Outside-city patients:** Please bring a valid referral for your specific department.
+
+**Safety Note:** Please do not share your Aadhaar number, phone number, or any personal medical details in this chat. I am an AI assistant and not qualified to provide medical advice. For emergencies, please visit the **Trauma Centre (Gate 14)** directly.",2026-04-16T01:41:13.000Z,true,2026-04-16T01:39:08.985Z,en,0,appointment,factual,safety_redirect,,simple,true,session_09037,true,25,4,1395,202,1,7,Thursday,false,true,true,en,1,scheduling,high,neutral,I want appointment please,comprehensive,appointment;opd,false,patient
+qa_1776304428813_b80pax7v,,Dr Rajkumar Maurya email id,"I'm sorry, but I could not find an email address for Dr. Rajkumar Maurya in the provided data.",2026-04-16T01:53:49.000Z,true,2026-04-16T01:52:52.178Z,en,0,contact,factual,direct_answer,,moderate,true,session_09038,false,27,5,94,18,1,7,Thursday,false,false,false,en,1,information_seeking,high,neutral,Dr Rajkumar Maurya email id,deflected,faculty;contact,false,unknown
+qa_1776304469918_war9v9jz,,Dr Rajkumar Maurya,"I found an email ID for **Dr. Raj Kumar Kalyan**, who is a Professor in Microbiology:
+
+**rajkumarkalyan@kgmcindia.edu**
+
+Please note that this is the closest match I could find to ""Dr. Rajkumar Maurya"" in my records.",2026-04-16T01:54:30.000Z,true,2026-04-16T01:52:52.178Z,en,0,general,factual,direct_answer,,simple,true,session_09038,true,18,3,216,35,1,7,Thursday,false,false,false,en,1,information_seeking,high,neutral,Dr Rajkumar Maurya,partial,faculty;contact,false,unknown
+qa_1776304536008_665a08wd,,Dr Rajkumar Maurya is working in lakhnow,"I'm sorry, but I do not have a record of a ""Dr. Rajkumar Maurya"" in the official KGMU faculty directory. 
+
+The closest match I have is **Dr. Raj Kumar Kalyan**, Professor in the Department of Microbiology (Email: rajkumarkalyan@kgmcindia.edu).
+
+If you are looking for a specific department or another faculty member at KGMU, please let me know. You can also check the full faculty list on the KGMU website: [https://www.kgmu.org/department.php](https://www.kgmu.org/department.php)",2026-04-16T01:55:37.000Z,true,2026-04-16T01:52:52.178Z,en,0,general,factual,referral,,moderate,true,session_09038,true,40,7,481,69,1,7,Thursday,false,true,false,en,1,information_seeking,high,neutral,Dr Rajkumar Maurya is working in lakhnow,deflected,faculty,false,unknown
+qa_1776305144785_i3er5ff0,,Dr Rajkumar Maurya,,2026-04-16T02:05:45.000Z,true,2026-04-15T18:14:37.478Z,en,0,general,factual,direct_answer,,simple,true,session_09029,true,18,3,0,0,2,7,Thursday,false,false,false,en,1,information_seeking,high,neutral,Dr Rajkumar Maurya,deflected,faculty,true,unknown
+qa_1776305179472_d7lsl4af,,Dr Rajkumar Maurya,,2026-04-16T02:06:20.000Z,true,2026-04-16T02:06:02.316Z,en,0,general,factual,direct_answer,,simple,true,session_09039,false,18,3,0,0,2,7,Thursday,false,false,false,en,1,information_seeking,high,neutral,Dr Rajkumar Maurya,deflected,faculty,true,unknown
+qa_1776305243917_g8621wcp,,I want appointment please,"I cannot book an appointment for you directly. You can book an OPD appointment at KGMU using one of the following methods:
+
+**Online Portal (ORS):**
+*   Visit: https://ors.gov.in
+*   Login/Register → Select State (Uttar Pradesh) → Select Hospital (KGMU) → Click 'New Appointment' → Choose Department, Date & Time Slot → Enter patient details → Pay ₹50 online → Download appointment slip.
+
+**Mobile App (ABHA / Health Care App):**
+*   Download from KGMU Play Store.
+*   Register with mobile number + OTP verification.
+*   Follow the same State/Hospital selection flow as the ORS portal.
+
+**SMS Booking:**
+*   Send an SMS: ""APPOINTMENT [Patient Name]"" to 8887019134.
+*   You will receive a booking confirmation.
+
+**Phone Booking:**
+*   Call 0522-2258880 or 0522-3539333.
+
+**Walk-in (On-Site Counters):**
+*   Bring your Aadhaar Number and an active Mobile Number.
+*   Provide details at the registration counter, receive an OTP on your mobile, get a physical token, pay ₹50 at the counter, and collect your physical OPD slip.
+
+**OPD Timings:**
+*   Monday to Friday: 9:00 AM – 1:00 PM
+*   Saturday: 9:00 AM – 12:00 PM
+*   Closed on Sundays and General Holidays.
+
+**Fee:** ₹50 for the OPD slip (flat rate for all booking methods).
+
+**Important:** Pre-booking is strongly recommended to avoid severe wait times. If you are an outside-city patient, you must bring a valid referral for your specific department.
+
+I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.",2026-04-16T02:07:26.000Z,true,2026-04-16T02:07:06.437Z,en,0,appointment,factual,safety_redirect,,simple,true,session_09040,false,25,4,1581,253,2,7,Thursday,false,true,true,en,1,scheduling,high,neutral,I want appointment please,comprehensive,appointment;opd,false,patient
+qa_1776305554525_97l3jpgo,,I want know about dr Rajkumar Maurya,,2026-04-16T02:12:35.000Z,true,2026-04-15T18:14:37.478Z,en,0,general,factual,direct_answer,,moderate,true,session_09029,true,36,7,0,0,2,7,Thursday,false,false,false,en,1,information_seeking,high,neutral,I want know about dr Rajkumar Maurya,deflected,faculty,true,unknown
+qa_1776305594473_d5qhhynk,,I want to know about dr Rajkumar Maurya,,2026-04-16T02:13:15.000Z,true,2026-04-15T18:14:37.478Z,en,0,general,factual,direct_answer,,moderate,true,session_09029,true,39,8,0,0,2,7,Thursday,false,false,false,en,1,information_seeking,high,neutral,I want to know about dr Rajkumar Maurya,deflected,faculty,true,unknown
+qa_1776305798506_91ckvee2,,Please share department list of hematologist,,2026-04-16T02:16:39.000Z,true,2026-04-15T18:14:37.478Z,en,0,departments,factual,direct_answer,,moderate,true,session_09029,true,44,6,0,0,2,7,Thursday,false,false,false,en,1,information_seeking,high,neutral,Please share department list of hematologist,deflected,department;faculty,false,patient
+qa_1776305965465_dx8zykxe,,Please share details of hematologist faculties,,2026-04-16T02:19:26.000Z,true,2026-04-16T02:18:37.485Z,en,0,general,factual,direct_answer,,moderate,true,session_09041,false,46,6,0,0,2,7,Thursday,false,false,false,en,1,information_seeking,high,neutral,Please share details of hematologist faculties,deflected,faculty,false,patient
+qa_1776307539235_o4sffw4m,,I want to book appointment,,2026-04-16T02:45:40.000Z,true,2026-04-16T02:44:59.752Z,en,0,appointment,factual,direct_answer,,moderate,true,session_09042,false,26,5,0,0,2,8,Thursday,false,false,false,en,1,scheduling,high,neutral,I want to book appointment,deflected,appointment,true,patient
+qa_1776307927952_8gz5cq6l,,Room no. 116 wale test kab tak kara sakte hai,,2026-04-16T02:52:11.000Z,true,2026-04-16T02:51:34.844Z,en,0,general,temporal,direct_answer,,moderate,true,session_09043,false,45,10,0,0,2,8,Thursday,false,false,false,hi-Latn,0.95,scheduling,high,neutral,Till when can I get the test done in room no. 116,deflected,lab;timing,true,patient
+qa_1776308321151_5qauoq53,,"I got admission in round 2 aiq counselling and then upgraded in round 3, now can you tell me when will I get refund of fee I deposited in kgmu?","I am not qualified to provide specific administrative or financial advice regarding your admission fee refund. 
+
+Please contact the **KGMU Registrar's Office** or the **Finance Department** directly for queries regarding your specific refund status. You can find contact details for the Registrar's Office at 0522-2253171.
+
+For official updates and guidelines, please visit the [KGMU Admissions page](https://www.kgmu.org/courses_admission.php) or check the official notifications on [www.kgmu.org](https://www.kgmu.org). 
+
+Also, please avoid sharing personal details such as your application number, bank details, or Aadhaar number in this chat for your safety.",2026-04-16T02:58:41.000Z,true,2026-04-16T02:57:16.644Z,en,0,admissions,temporal,safety_redirect,,complex,true,session_09044,false,143,30,662,85,2,8,Thursday,false,true,false,en,1,information_seeking,medium,neutral,"I got admission in round 2 aiq counselling and then upgraded in round 3, now can you tell me when will I get refund of fee I deposited in kgmu?",deflected,admission;fee,false,student
+qa_1776308409910_py9je2js,,When will I get refund of fee I deposited in round 2 aiq counselling,"I am not qualified to provide information regarding fee refunds for AIQ counseling, as this process is managed by the Medical Counselling Committee (MCC) at the national level, not by KGMU.
+
+Please check the official MCC website at [https://mcc.nic.in](https://mcc.nic.in) for the latest refund policies, timelines, and status updates regarding your AIQ counseling fee.",2026-04-16T03:00:09.000Z,true,2026-04-16T02:57:16.644Z,en,0,admissions,temporal,safety_redirect,,complex,true,session_09044,true,68,14,369,53,3,8,Thursday,false,true,false,en,1,information_seeking,medium,neutral,When will I get refund of fee I deposited in round 2 aiq counselling,deflected,fee,false,student
+qa_1776308450842_0s3zk0pu,,But fee deposited in kgmu,"If you deposited the fee directly to KGMU for counseling or admission, please note that I am an AI assistant and do not have access to personal financial records or individual transaction statuses.
+
+To resolve this, please contact the **KGMU Finance Office** or the **Office of the Registrar** directly, as they handle fee-related queries and refund processing.
+
+*   **Registrar Office:** 0522-2253171
+*   **KGMU Help Line:** 0522-2258880
+
+You can also visit the official website at [www.kgmu.org](https://www.kgmu.org) to check for any specific notices regarding refunds or to find the email address for the Finance Department. Please have your transaction ID and proof of payment ready when you contact them.",2026-04-16T03:00:50.000Z,true,2026-04-16T02:57:16.644Z,en,0,fees,factual,referral,,moderate,true,session_09044,true,25,5,710,107,3,8,Thursday,false,true,true,en,1,information_seeking,medium,frustrated,But fee deposited in kgmu,deflected,fee,false,student
+qa_1776308471540_m8gsw3a3,,How do i get admission in this college for bsc nursing,"For information regarding admissions to B.Sc. Nursing and other courses at King George's Medical University, please visit the official admissions page on our website: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+This page provides details on eligibility, entrance examinations, and the application process.",2026-04-16T03:01:12.000Z,true,2026-04-16T03:00:45.402Z,en,0,admissions,procedural,referral,Nursing,moderate,true,session_09045,false,54,11,351,37,3,8,Thursday,false,true,false,en,1,information_seeking,medium,neutral,How do i get admission in this college for bsc nursing,comprehensive,admission;course,false,student
+qa_1776308824237_ut1hmmx1,,Where are options for admission,"You can find all information regarding admissions, including available courses, admission procedures, and notifications, on the official KGMU admissions page: https://www.kgmu.org/courses_admission.php",2026-04-16T03:07:05.000Z,true,2026-04-16T03:06:12.726Z,en,0,admissions,navigational,direct_answer,,moderate,true,session_09046,false,31,5,201,21,3,8,Thursday,false,true,false,en,1,information_seeking,medium,neutral,Where are options for admission,adequate,admission,false,student
+qa_1776310375214_2y9vzoux,,I need uppiyte,"It seems like there might be a typo in your request. Could you please clarify what you are looking for? 
+
+Are you looking for an **appointment** (OPD booking), **examination results**, or something else? Please let me know so I can provide the correct information.",2026-04-16T03:32:55.000Z,true,2026-04-16T03:32:04.876Z,en,0,general,factual,direct_answer,,simple,true,session_09047,false,14,3,264,44,3,9,Thursday,false,false,false,en,0.9,information_seeking,low,neutral,I need uppiyte,adequate,appointment,true,patient
+qa_1776314502671_lul6yww0,,How to know registration date from uuid,"I am not qualified to provide technical database or software development support regarding internal KGMU systems. Please contact the KGMU IT cell or the relevant administrative office for assistance with your query.
+
+If you are a student or staff member, you may check the [KGMU IP Phone Directory](https://kgmu.org/ipphonedirctory.php) to reach out to the appropriate department for technical support.",2026-04-16T04:41:43.000Z,true,2026-04-16T04:41:08.899Z,en,0,appointment,procedural,safety_redirect,,moderate,true,session_09048,false,39,7,402,58,4,10,Thursday,false,true,false,en,1,information_seeking,low,neutral,How to know registration date from uuid,deflected,registration,false,student
+qa_1776314653387_75yj6ltf,,Mere ko mere left ankle ka MRI karwana h,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+To get an MRI at KGMU, please follow these steps:
+
+1.  **Doctor's Consultation:** You must first visit the relevant OPD (e.g., Orthopedics) to be examined by a doctor. They will assess your condition and provide a formal prescription/requisition for the MRI if it is clinically necessary.
+2.  **Online Registration:** Online registration is mandatory for OPD visits. You can book an appointment via [www.ors.gov.in](https://ors.gov.in), call **0522-2258880 / 0522-3539333**, or SMS ""APPOINTMENT <NAME>"" to **8887019134**.
+3.  **OPD Fee:** There is a ₹50 flat fee for the OPD registration slip.
+4.  **Referral:** If you are coming from outside Lucknow, please ensure you bring a valid referral letter for the Orthopedics department.
+5.  **Procedure:** Once the doctor prescribes the MRI, you will be guided to the Radiology department for billing and scheduling based on the hospital's protocols and availability.
+
+For further assistance, you can check the [Orthopedic Surgery Department](https://www.kgmu.org/department_details.php?dept_id=22&dept_type=2) details on the official website.",2026-04-16T04:44:14.000Z,true,2026-04-16T04:43:49.793Z,en,0,general,factual,safety_redirect,Radiology,moderate,true,session_09049,false,40,9,1266,180,4,10,Thursday,false,true,true,hi-Latn,0.95,scheduling,high,neutral,I need to get an MRI of my left ankle,comprehensive,appointment;lab,false,patient
+qa_1776314761702_fphrakjt,,Kya aapke hospital me MRI uplabdh h?,"Ji haan, KGMU mein MRI ki suvidha uplabdh hai.
+
+MRI ke liye aapko pehle Orthopedics ya sambhandhit department ke doctor ko dikhana hoga. Doctor dwara likhe jaane ke baad hi MRI ki prakriya (procedure) shuru hoti hai. 
+
+Kripya dhyan dein:
+1. **OPD Registration:** MRI ke liye doctor se consultation lene ke liye pehle online appointment lena anivarya (mandatory) hai. Aap [www.ors.gov.in](https://ors.gov.in) par ya helpline number **0522-2258880 / 0522-3539333** par call karke appointment book kar sakte hain.
+2. **Consultation:** Doctor aapki chot ya dard ka mulyankan (assessment) karenge aur yadi aavashyak hua, toh MRI likhenge.
+3. **Radiology Department:** Doctor ki parchi (prescription) ke baad aapko Radiology department mein sampark karna hoga, jahan aapko MRI ki date aur billing ki jaankari di jayegi.
+
+Yadi aap bahar se aa rahe hain, toh apne saath sambhandhit department ka referral zaroor layein.",2026-04-16T04:46:03.000Z,true,2026-04-16T04:43:49.793Z,en,0,general,yes_no,direct_answer,Radiology,moderate,true,session_09049,true,36,7,911,137,4,10,Thursday,false,true,true,hi,1,information_seeking,high,neutral,Is MRI available in your hospital?,comprehensive,lab,false,patient
+qa_1776314841406_gnm6qry4,,To mtlb phle direct orthopaedic wale doctor ke pass Jana hua?,"Ji haan, bilkul sahi samjhe aap.
+
+KGMU mein kisi bhi test (jaise MRI) ke liye seedhe Radiology department nahi jana hota hai. Process is prakar hai:
+
+1. **OPD Registration:** Sabse pehle aapko Orthopedics OPD ke liye appointment lena hoga (Online: [www.ors.gov.in](https://ors.gov.in) ya Helpline par call karke).
+2. **Doctor Consultation:** Aapko Orthopedics OPD mein doctor ko dikhana hoga. Doctor aapke ankle ki jaanch karenge aur agar unhe lagega ki MRI ki zaroorat hai, tabhi wo MRI likhenge.
+3. **Test Scheduling:** Doctor ki likhi hui parchi (prescription) lekar aap Radiology department jayenge, jahan aapka MRI ka token/date fix hoga.
+
+**Zaroori baat:** Bina doctor ki salah aur parchi ke MRI nahi kiya jata hai. Isliye pehle Orthopedics ke doctor se milna hi sahi raasta hai.
+
+*Sachet rahein: Apni bimari ya personal health details yahan share na karein.*",2026-04-16T04:47:23.000Z,true,2026-04-16T04:43:49.793Z,en,0,departments,factual,direct_answer,Orthopedics,moderate,true,session_09049,true,61,11,865,134,4,10,Thursday,false,true,true,hi-Latn,0.95,information_seeking,high,neutral,So it means first I have to go to the orthopedic doctor?,comprehensive,appointment;department,false,patient
+qa_1776314921794_715muofi,,Agar vo nhi bolenge to mtlb agr unhone kaha kii mri karane ki jarurat nhi h ye normal h to firr?,"Agar doctor examination ke baad kehte hain ki MRI ki zaroorat nahi hai, toh iska matlab hai ki aapki clinical assessment (jo doctor ne physical checkup aur symptoms dekh kar ki hai) ke hisaab se aapko MRI ki aavashyakta nahi hai.
+
+Aisi sthiti mein:
+
+1. **Doctor ki Salah Maanein:** Doctor aapki chot ki gambhirta (severity) ko behtar samajhte hain. Aksar ankle ke mamlon mein doctor X-ray ya physical examination se hi diagnose kar lete hain ki fracture ya ligament injury hai ya nahi.
+2. **Second Opinion:** Yadi aapko phir bhi lagta hai ki aapki samasya bani hui hai ya aap santusht (satisfied) nahi hain, toh aap usi department mein kisi dusre senior doctor se consult kar sakte hain ya apni report ke baare mein unse vistaar se pooch sakte hain ki ""Aage kya karna chahiye?""
+3. **Treatment Plan:** Doctor aapko kuch dawaaiyan, physiotherapy, ya aaram (rest) karne ki salah denge. Us treatment plan ko sahi dhang se follow karein.
+
+Hamesha yaad rakhein ki har chot ke liye MRI zaroori nahi hoti, aur doctor aapki report aur physical condition ke base par hi sahi faisla lete hain. 
+
+*Reminder: Main ek AI assistant hoon, medical diagnosis ya treatment ke liye hamesha qualified doctor ki hi salah lein.*",2026-04-16T04:48:43.000Z,true,2026-04-16T04:43:49.793Z,en,0,general,factual,direct_answer,Radiology,complex,true,session_09049,true,96,21,1205,205,4,10,Thursday,false,false,true,hi-Latn,0.95,information_seeking,high,neutral,"If they don't say, means if they say that there is no need for MRI, it's normal, then?",comprehensive,appointment,false,patient
+qa_1776315007280_gw9200ku,,To mere ko step by step bata kya Krna h,"KGMU mein MRI ya kisi bhi jaanch ke liye step-by-step process niche di gayi hai:
+
+**Step 1: Appointment Book Karein (Mandatory)**
+*   KGMU mein bina appointment ke OPD mein dekhna mushkil hota hai.
+*   **Online:** [www.ors.gov.in](https://ors.gov.in) par login karein, 'KGMU' select karein aur Orthopedics department choose karke appointment book karein.
+*   **Alternative:** 0522-2258880 ya 0522-3539333 par call karein.
+*   **SMS:** ""APPOINTMENT <NAME>"" likhkar 8887019134 par bhejein.
+
+**Step 2: OPD Registration (Hospital Pahunchne Par)**
+*   Appointment wali date par hospital ke **Gate 2 (Main Hospital/OPD)** par jayein.
+*   Registration counter par apna Aadhaar card aur mobile number dein.
+*   ₹50 ka OPD slip (parchi) banwayein.
+
+**Step 3: Doctor se Consultation**
+*   Apni OPD slip lekar Orthopedics department ke room mein jayein.
+*   Doctor ko apne ankle ki takleef batayein. Doctor aapko check karenge.
+*   **Yadi doctor MRI likhte hain:** Wo aapko ek parchi denge jisme MRI likha hoga.
+
+**Step 4: MRI ki Process (Doctor ki Parchi ke baad)**
+*   Doctor ki parchi lekar Radiology department (ya jahan doctor batayein) jayein.
+*   Wahan MRI ka billing aur scheduling (date/time) hoga.
+*   MRI ka shulk (fee) jama karke aapko ek nishchit tarikh di jayegi.
+
+**Step 5: MRI Test**
+*   Di gayi tarikh aur samay par MRI room mein report karein.
+
+**Kuch Zaroori Baatein:**
+*   **Referral:** Agar aap Lucknow ke bahar se aa rahe hain, toh apne saath kisi hospital ka referral letter zaroor layein.
+*   **Samay:** OPD counter 1:00 PM par band ho jata hai, isliye subah jaldi (9:00 AM tak) pahunchna behtar hota hai.
+*   **Emergency:** Agar ankle mein bahut zyada chot hai ya dard asahniya hai, toh aap **Trauma Centre (Gate 14)** par ja sakte hain, wahan emergency services 24/7 chalti hain.
+
+*Reminder: Main ek AI assistant hoon. Medical advice ke liye hamesha KGMU ke doctron par bharosa karein. Kripya apni personal medical details yahan share na karein.*",2026-04-16T04:50:08.000Z,true,2026-04-16T04:43:49.793Z,en,0,general,procedural,referral,,moderate,true,session_09049,true,39,10,1961,307,4,10,Thursday,false,true,true,hi-Latn,0.95,information_seeking,high,neutral,So tell me step by step what I have to do,partial,mri;appointment;opd,false,patient
+qa_1776315280956_rjh9zj56,,Q no.1-yarr mere ko bahut drd h and maine bahut se hospital me dikha diya h unhone bss xray krake thik h bol diya h and mere ko ye chhot September m lagi thi to ab drd nhi hona chahiye tha and mere ko karana hi karana h mri taki confirm ho jae but agr doctor nhi bolega to kaise manauu? Q no. 2- ye refferal kya h ? Me to Uttarakhand bageshwar se aaya hu udhr kisi hospital m nhi tha mri to m idhr aaya hu kya hota h ye refferal and mujhe kya Krna chahiye?,"I understand your frustration regarding the persistent pain since September. Please remember that I am an AI, not a doctor, and I cannot provide medical diagnosis. For your safety, **please do not share sensitive personal health details or contact numbers in this chat.**
+
+Here is the guidance regarding your questions:
+
+### Regarding Question 1: How to handle the consultation?
+If you have been suffering since September and previous X-rays were normal, it is important to communicate this clearly to the KGMU doctor. 
+*   **Be clear and specific:** When you meet the doctor, tell them: *""I have had this pain since September. I have consulted other doctors and had X-rays done, but the pain persists. I am worried about a potential soft tissue or ligament injury that an X-ray might not show. Could you please evaluate if an MRI is needed to rule out deeper issues?""*
+*   **Trust the clinical judgment:** Doctors at KGMU are highly experienced. If they still advise against an MRI, ask them: *""What could be the other reasons for this chronic pain, and what is the next step in the treatment plan?""* They may suggest physiotherapy, specialized blood tests, or other diagnostic methods.
+
+### Regarding Question 2: What is a Referral?
+A **Referral** is an official document or letter from a doctor or a hospital in your home district (Bageshwar) stating that they have examined you and, due to the need for advanced facilities (like an MRI) not available there, they are referring you to a higher center like KGMU.
+*   **Why is it needed?** KGMU is a tertiary care center. To manage patient flow and ensure that specialized resources are available for those who truly need them, the hospital requires patients from outside the city to provide a referral letter.
+*   **What you should do:** 
+    1. Since you are from Bageshwar, try to get a referral letter from your local **District Hospital (District Hospital, Bageshwar)** or a government medical officer. 
+    2. If you do not have one, you might face difficulties at the registration desk. 
+    3. If you have already traveled, please carry all your previous reports (X-rays, prescriptions) from the hospitals you visited. These serve as proof that you have been seeking treatment and are coming for a follow-up/advanced opinion.
+
+### Important Advice for your visit:
+*   **Carry all documents:** Bring every single X-ray film, report, and prescription you have collected since September. This will help the KGMU doctor see your history immediately.
+*   **Focus on the Pain:** When you talk to the doctor, describe exactly *where* it hurts, *when* it hurts (e.g., while walking, at night), and how it affects your daily life.
+*   **Emergency:** If the pain is unbearable and you cannot wait for an OPD appointment, you can visit the **Trauma Centre (Gate 14)**, which handles emergencies. However, please note that the Trauma Centre is for acute, life-threatening, or severe injuries; for chronic issues, the OPD is the correct route.
+
+**Summary of your next steps:**
+1.  Try to obtain a referral letter from your District Hospital in Bageshwar if possible.
+2.  Book an appointment for the Orthopedics Department via [www.ors.gov.in](https://ors.gov.in).
+3.  Go to the hospital with all your previous reports.
+4.  Explain your long-standing pain clearly to the doctor.
+
+Please consult a doctor at KGMU OPD for any medical advice. For any further help regarding campus navigation or official links, I am here to assist.",2026-04-16T04:54:42.000Z,true,2026-04-16T04:43:49.793Z,en,0,general,procedural,safety_redirect,Radiology,complex,true,session_09049,true,456,98,3473,563,4,10,Thursday,false,true,true,hi-Latn-en,0.98,information_seeking,high,frustrated,"Q1: I have a lot of pain and I have shown it to many hospitals, they just did an X-ray and said it's fine, and I got this injury in September so there should be no pain now, and I definitely want to get an MRI done so that it can be confirmed, but if the doctor doesn't say then how do I convince? Q2: What is this referral? I have come from Uttarakhand Bageshwar, there was no MRI in any hospital there so I came here, what is this referral and what should I do?",deflected,mri;referral;pain,true,patient
+qa_1776315815037_ofks8qnv,,BSC Physician assistant,"Information regarding courses and admissions at King George's Medical University can be found on our official website here: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+If you are looking for specific details regarding the B.Sc. in Physician Assistant course, please check the ""Courses"" section on the link provided above for the latest admission brochures and eligibility criteria.",2026-04-16T05:03:35.000Z,true,2026-04-16T05:03:19.814Z,en,0,courses,factual,referral,,simple,true,session_09050,false,23,3,427,51,5,10,Thursday,false,true,false,en,1,information_seeking,medium,neutral,BSC Physician assistant,adequate,course;admission,false,student
+qa_1776316588437_vhgziqea,,C net cutoff in kgmu2025,"I cannot predict or provide specific cutoff marks for upcoming examinations, as these depend on the annual performance of candidates, the number of applicants, and the availability of seats.
+
+For the most accurate and official information regarding admissions and course requirements, please visit the official KGMU admissions page: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php).",2026-04-16T05:16:29.000Z,true,2026-04-16T05:15:55.713Z,en,0,admissions,factual,referral,,moderate,true,session_09051,false,24,5,422,49,5,10,Thursday,false,true,false,en,1,information_seeking,medium,neutral,C net cutoff in kgmu2025,deflected,exam;admission,false,student
+qa_1776316626519_yk8wos0a,,Howmany seets for bsc nursing there,"For information regarding the number of seats for the B.Sc. Nursing program at King George's Medical University, please visit the official KGMU admissions page: https://www.kgmu.org/courses_admission.php. 
+
+You can also check the official website at www.kgmu.org for the latest admission brochures, which contain detailed seat matrices for all courses.",2026-04-16T05:17:06.000Z,true,2026-04-16T05:15:55.713Z,en,0,courses,factual,referral,Nursing,moderate,true,session_09051,true,35,6,352,47,5,10,Thursday,false,true,false,en,1,information_seeking,medium,neutral,Howmany seets for bsc nursing there,adequate,admission;course,false,student
+qa_1776316739314_v6dqsx55,,Mere pass refferal card hi nhi h,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+Regarding your query about the referral card:
+
+If you are a patient from outside Lucknow, a valid referral letter is required for specialized departments. If you do not have one, you may face difficulties during the registration process.
+
+**Here is what you can do:**
+1. **Visit your local District Hospital or CHC/PHC:** You can request a formal referral letter from a government doctor there.
+2. **Consultation:** If your condition is urgent, please head directly to the **Trauma Centre (Gate 14)**, which handles emergency cases 24/7.
+3. **General OPD:** For non-emergency issues, you may try visiting the registration counter, but please note that the rule for outside-city patients is strict to manage the high patient load.
+
+For further clarification, you can contact the **PRO Office** at **9415007710** or the **Help Line** at **0522-2258880** before traveling to the campus.",2026-04-16T05:19:01.000Z,true,2026-04-16T04:43:49.793Z,en,0,general,factual,safety_redirect,,moderate,true,session_09049,true,32,7,1061,167,5,10,Thursday,false,false,true,hi-Latn,0.95,information_seeking,high,negative,I don't even have a referral card,partial,referral;document,false,patient
+qa_1776316781543_0tpoj2we,,Pro? Means in hindi,"""PRO"" ka matlab hota hai **Public Relations Officer** (जनसंपर्क अधिकारी).
+
+KGMU mein PRO Office ka kaam hai mariizon (patients) aur aane waale logon ki sahayata karna, jankari dena, aur unki samasyaon ka samadhan (solution) nikalna. Agar aapko hospital mein koi dikkat ho ya kisi department ka rasta ya jankari chahiye ho, toh aap PRO office se sampark kar sakte hain.
+
+KGMU mein alag-alag departments ke liye PRO ke numbers ye hain:
+*   **PRO Office (Main Hospital/OPD):** 9415007710
+*   **PRO Office (Trauma Centre):** 9453004209
+*   **PRO Office (Lari Cardiology):** 9415099528
+*   **PRO Office (Queen Mary's Hospital):** 7839552570
+
+Aap in numbers par call karke apni jankari le sakte hain.",2026-04-16T05:19:42.000Z,true,2026-04-16T04:43:49.793Z,en,0,general,factual,direct_answer,,simple,true,session_09049,true,19,4,694,107,5,10,Thursday,false,false,true,hi-Latn-en,0.98,information_seeking,medium,neutral,Pro? means in hindi,comprehensive,other,false,visitor
+qa_1776316879413_j2lj01vz,,Tell me about bsc optometry,"BSc Optometry is an undergraduate program offered at King George's Medical University. 
+
+You can find detailed information regarding the course, including curriculum, eligibility, and admission procedures, on the official KGMU admissions page: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+If you have specific questions about the application process or the academic structure, please let me know!",2026-04-16T05:21:22.000Z,true,2026-04-16T05:21:00.490Z,en,0,courses,factual,direct_answer,,moderate,true,session_09052,false,27,5,441,50,5,10,Thursday,false,true,false,en,1,information_seeking,medium,neutral,Tell me about bsc optometry,adequate,course;admission,false,student
+qa_1776316928259_sb6kosgv,,Tell me fee,"The fee structure for courses at KGMU varies depending on the specific program. For the most accurate and up-to-date information regarding the fee for BSc Optometry, please visit the official KGMU admissions portal at:
+
+[https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+Alternatively, you can refer to the official KGMU prospectus or contact the Registrar's office at **0522-2253171** for precise details regarding the current academic year's fee structure.",2026-04-16T05:22:09.000Z,true,2026-04-16T05:21:00.490Z,en,0,fees,factual,referral,,simple,true,session_09052,true,11,3,497,61,5,10,Thursday,false,true,false,en,1,information_seeking,medium,neutral,Tell me fee,partial,fee;course,true,student
+qa_1776317245504_5c6jf5og,,Tell me b. Optom fee,"For information regarding the fee structure for the B.Optom course, please visit the official KGMU admissions page at: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+You may also refer to the [KGMU Prospectus](https://www.kgmu.org/prospectus.php) available on the website for detailed information on course fees and admission requirements.",2026-04-16T05:27:27.000Z,true,2026-04-16T05:21:00.490Z,en,0,fees,factual,referral,,moderate,true,session_09052,true,20,5,382,40,5,10,Thursday,false,true,false,en,1,information_seeking,medium,neutral,Tell me b. Optom fee,adequate,fee;course,false,student
