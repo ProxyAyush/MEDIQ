@@ -1,28 +1,28 @@
 {
-  "totalEntries": 10479,
+  "totalEntries": 10485,
   "dateRange": {
     "start": "2025-04-01",
-    "end": "2026-04-17"
+    "end": "2026-04-18"
   },
-  "totalDays": 255,
-  "totalSessions": 9141,
-  "dailyAverage": 41.09,
-  "botAnswerRate": 93.06,
+  "totalDays": 256,
+  "totalSessions": 9145,
+  "dailyAverage": 40.96,
+  "botAnswerRate": 93.07,
   "languageDistribution": {
-    "en": 10099,
+    "en": 10105,
     "hi": 273,
     "hi-en": 107
   },
   "categoryDistribution": {
-    "general": 3651,
+    "general": 3653,
     "exams": 1321,
-    "admissions": 1024,
+    "admissions": 1026,
     "appointment": 953,
-    "courses": 795,
+    "courses": 796,
     "opd": 780,
     "departments": 667,
     "career": 415,
-    "contact": 337,
+    "contact": 338,
     "fees": 244,
     "faculty": 201,
     "campus": 42,
@@ -30,22 +30,22 @@
     "research": 9
   },
   "questionTypeDistribution": {
-    "factual": 7401,
-    "temporal": 1210,
-    "procedural": 987,
-    "yes_no": 604,
+    "factual": 7404,
+    "temporal": 1211,
+    "procedural": 988,
+    "yes_no": 605,
     "entity": 141,
     "navigational": 136
   },
   "responseTypeDistribution": {
-    "direct_answer": 5412,
+    "direct_answer": 5415,
     "unable_to_answer": 2260,
-    "referral": 2169,
-    "safety_redirect": 638
+    "referral": 2171,
+    "safety_redirect": 639
   },
   "queryComplexityDistribution": {
-    "moderate": 5647,
-    "simple": 3887,
+    "moderate": 5649,
+    "simple": 3891,
     "complex": 945
   },
   "departmentMentions": {
@@ -79,14 +79,14 @@
     "0": 238,
     "1": 152,
     "2": 87,
-    "3": 46,
+    "3": 47,
     "4": 73,
-    "5": 83,
+    "5": 84,
     "6": 136,
     "7": 224,
     "8": 422,
-    "9": 446,
-    "10": 568,
+    "9": 449,
+    "10": 569,
     "11": 584,
     "12": 627,
     "13": 758,
@@ -107,12 +107,12 @@
     "Monday": 1580,
     "Wednesday": 1485,
     "Sunday": 1379,
-    "Saturday": 1419,
-    "Friday": 1416
+    "Saturday": 1423,
+    "Friday": 1418
   },
   "aiEnrichment": {
     "totalEnriched": 10299,
-    "coveragePercent": 98.28,
+    "coveragePercent": 98.23,
     "languageDistribution": {
       "en": 5945,
       "hi-Latn-en": 2539,
@@ -161,5 +161,5 @@
       "applicant": 4
     }
   },
-  "lastUpdated": "2026-04-17T22:06:07.948Z"
+  "lastUpdated": "2026-04-18T05:28:23.984Z"
 }
