@@ -1,27 +1,27 @@
 {
-  "totalEntries": 10489,
+  "totalEntries": 10492,
   "dateRange": {
     "start": "2025-04-01",
     "end": "2026-04-18"
   },
   "totalDays": 256,
-  "totalSessions": 9148,
-  "dailyAverage": 40.97,
+  "totalSessions": 9150,
+  "dailyAverage": 40.98,
   "botAnswerRate": 93.07,
   "languageDistribution": {
-    "en": 10109,
+    "en": 10112,
     "hi": 273,
     "hi-en": 107
   },
   "categoryDistribution": {
-    "general": 3656,
+    "general": 3658,
     "exams": 1321,
     "admissions": 1026,
     "appointment": 953,
     "courses": 797,
     "opd": 780,
     "departments": 667,
-    "career": 415,
+    "career": 416,
     "contact": 338,
     "fees": 244,
     "faculty": 201,
@@ -30,7 +30,7 @@
     "research": 9
   },
   "questionTypeDistribution": {
-    "factual": 7407,
+    "factual": 7410,
     "temporal": 1211,
     "procedural": 989,
     "yes_no": 605,
@@ -38,14 +38,14 @@
     "navigational": 136
   },
   "responseTypeDistribution": {
-    "direct_answer": 5416,
+    "direct_answer": 5418,
     "unable_to_answer": 2260,
-    "referral": 2174,
+    "referral": 2175,
     "safety_redirect": 639
   },
   "queryComplexityDistribution": {
     "moderate": 5653,
-    "simple": 3891,
+    "simple": 3894,
     "complex": 945
   },
   "departmentMentions": {
@@ -94,8 +94,8 @@
     "15": 790,
     "16": 729,
     "17": 679,
-    "18": 641,
-    "19": 578,
+    "18": 643,
+    "19": 579,
     "20": 487,
     "21": 500,
     "22": 418,
@@ -107,12 +107,12 @@
     "Monday": 1580,
     "Wednesday": 1485,
     "Sunday": 1379,
-    "Saturday": 1427,
+    "Saturday": 1430,
     "Friday": 1418
   },
   "aiEnrichment": {
     "totalEnriched": 10299,
-    "coveragePercent": 98.19,
+    "coveragePercent": 98.16,
     "languageDistribution": {
       "en": 5945,
       "hi-Latn-en": 2539,
@@ -161,5 +161,5 @@
       "applicant": 4
     }
   },
-  "lastUpdated": "2026-04-18T09:55:44.733Z"
+  "lastUpdated": "2026-04-18T15:58:33.062Z"
 }
