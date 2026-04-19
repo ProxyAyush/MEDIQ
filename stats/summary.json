@@ -1,51 +1,51 @@
 {
-  "totalEntries": 10496,
+  "totalEntries": 10501,
   "dateRange": {
     "start": "2025-04-01",
-    "end": "2026-04-18"
+    "end": "2026-04-19"
   },
-  "totalDays": 256,
-  "totalSessions": 9154,
-  "dailyAverage": 41,
-  "botAnswerRate": 93.07,
+  "totalDays": 257,
+  "totalSessions": 9158,
+  "dailyAverage": 40.86,
+  "botAnswerRate": 93.08,
   "languageDistribution": {
-    "en": 10116,
-    "hi": 273,
+    "en": 10120,
+    "hi": 274,
     "hi-en": 107
   },
   "categoryDistribution": {
-    "general": 3658,
+    "general": 3659,
     "exams": 1323,
-    "admissions": 1026,
+    "admissions": 1028,
     "appointment": 953,
     "courses": 798,
     "opd": 780,
-    "departments": 668,
+    "departments": 669,
     "career": 416,
     "contact": 338,
     "fees": 244,
     "faculty": 201,
     "campus": 42,
-    "emergency": 40,
+    "emergency": 41,
     "research": 9
   },
   "questionTypeDistribution": {
-    "factual": 7414,
+    "factual": 7417,
     "temporal": 1211,
     "procedural": 989,
     "yes_no": 605,
-    "entity": 141,
+    "entity": 143,
     "navigational": 136
   },
   "responseTypeDistribution": {
-    "direct_answer": 5418,
+    "direct_answer": 5422,
     "unable_to_answer": 2260,
     "referral": 2179,
-    "safety_redirect": 639
+    "safety_redirect": 640
   },
   "queryComplexityDistribution": {
-    "moderate": 5656,
-    "simple": 3895,
+    "moderate": 5659,
+    "simple": 3897,
     "complex": 945
   },
   "departmentMentions": {
@@ -81,12 +81,12 @@
     "2": 87,
     "3": 47,
     "4": 73,
-    "5": 84,
+    "5": 85,
     "6": 136,
-    "7": 224,
+    "7": 226,
     "8": 422,
     "9": 449,
-    "10": 569,
+    "10": 571,
     "11": 585,
     "12": 629,
     "13": 758,
@@ -106,13 +106,13 @@
     "Thursday": 1571,
     "Monday": 1580,
     "Wednesday": 1485,
-    "Sunday": 1379,
+    "Sunday": 1384,
     "Saturday": 1434,
     "Friday": 1418
   },
   "aiEnrichment": {
     "totalEnriched": 10299,
-    "coveragePercent": 98.12,
+    "coveragePercent": 98.08,
     "languageDistribution": {
       "en": 5945,
       "hi-Latn-en": 2539,
@@ -161,5 +161,5 @@
       "applicant": 4
     }
   },
-  "lastUpdated": "2026-04-18T21:57:34.480Z"
+  "lastUpdated": "2026-04-19T05:51:22.242Z"
 }
