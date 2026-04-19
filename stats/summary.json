@@ -1,22 +1,22 @@
 {
-  "totalEntries": 10505,
+  "totalEntries": 10510,
   "dateRange": {
     "start": "2025-04-01",
     "end": "2026-04-19"
   },
   "totalDays": 257,
-  "totalSessions": 9161,
-  "dailyAverage": 40.88,
+  "totalSessions": 9164,
+  "dailyAverage": 40.89,
   "botAnswerRate": 93.08,
   "languageDistribution": {
-    "en": 10124,
+    "en": 10129,
     "hi": 274,
     "hi-en": 107
   },
   "categoryDistribution": {
-    "general": 3659,
-    "exams": 1323,
-    "admissions": 1028,
+    "general": 3662,
+    "exams": 1324,
+    "admissions": 1029,
     "appointment": 954,
     "courses": 800,
     "opd": 780,
@@ -30,26 +30,26 @@
     "research": 9
   },
   "questionTypeDistribution": {
-    "factual": 7418,
+    "factual": 7421,
     "temporal": 1211,
     "procedural": 991,
-    "yes_no": 605,
+    "yes_no": 607,
     "entity": 143,
     "navigational": 137
   },
   "responseTypeDistribution": {
     "direct_answer": 5424,
     "unable_to_answer": 2260,
-    "referral": 2180,
-    "safety_redirect": 641
+    "referral": 2184,
+    "safety_redirect": 642
   },
   "queryComplexityDistribution": {
-    "moderate": 5662,
+    "moderate": 5664,
     "simple": 3898,
-    "complex": 945
+    "complex": 948
   },
   "departmentMentions": {
-    "Nursing": 873,
+    "Nursing": 874,
     "Pharmacology": 238,
     "Radiology": 168,
     "Cardiology": 158,
@@ -91,11 +91,11 @@
     "12": 630,
     "13": 761,
     "14": 829,
-    "15": 790,
+    "15": 791,
     "16": 729,
-    "17": 679,
+    "17": 682,
     "18": 643,
-    "19": 579,
+    "19": 580,
     "20": 487,
     "21": 500,
     "22": 420,
@@ -106,13 +106,13 @@
     "Thursday": 1571,
     "Monday": 1580,
     "Wednesday": 1485,
-    "Sunday": 1388,
+    "Sunday": 1393,
     "Saturday": 1434,
     "Friday": 1418
   },
   "aiEnrichment": {
     "totalEnriched": 10299,
-    "coveragePercent": 98.04,
+    "coveragePercent": 97.99,
     "languageDistribution": {
       "en": 5945,
       "hi-Latn-en": 2539,
@@ -161,5 +161,5 @@
       "applicant": 4
     }
   },
-  "lastUpdated": "2026-04-19T09:56:18.542Z"
+  "lastUpdated": "2026-04-19T15:59:51.798Z"
 }
