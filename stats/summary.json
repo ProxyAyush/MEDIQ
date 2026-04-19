@@ -1,23 +1,23 @@
 {
-  "totalEntries": 10510,
+  "totalEntries": 10518,
   "dateRange": {
     "start": "2025-04-01",
     "end": "2026-04-19"
   },
   "totalDays": 257,
-  "totalSessions": 9164,
-  "dailyAverage": 40.89,
-  "botAnswerRate": 93.08,
+  "totalSessions": 9168,
+  "dailyAverage": 40.93,
+  "botAnswerRate": 93.09,
   "languageDistribution": {
-    "en": 10129,
+    "en": 10137,
     "hi": 274,
     "hi-en": 107
   },
   "categoryDistribution": {
-    "general": 3662,
-    "exams": 1324,
-    "admissions": 1029,
-    "appointment": 954,
+    "general": 3665,
+    "exams": 1325,
+    "admissions": 1032,
+    "appointment": 955,
     "courses": 800,
     "opd": 780,
     "departments": 669,
@@ -30,23 +30,23 @@
     "research": 9
   },
   "questionTypeDistribution": {
-    "factual": 7421,
+    "factual": 7428,
     "temporal": 1211,
     "procedural": 991,
-    "yes_no": 607,
+    "yes_no": 608,
     "entity": 143,
     "navigational": 137
   },
   "responseTypeDistribution": {
-    "direct_answer": 5424,
-    "unable_to_answer": 2260,
-    "referral": 2184,
+    "direct_answer": 5425,
+    "unable_to_answer": 2262,
+    "referral": 2189,
     "safety_redirect": 642
   },
   "queryComplexityDistribution": {
-    "moderate": 5664,
-    "simple": 3898,
-    "complex": 948
+    "moderate": 5668,
+    "simple": 3901,
+    "complex": 949
   },
   "departmentMentions": {
     "Nursing": 874,
@@ -76,7 +76,7 @@
     "Community Medicine": 2
   },
   "hourlyDistributionIST": {
-    "0": 238,
+    "0": 240,
     "1": 152,
     "2": 87,
     "3": 47,
@@ -97,22 +97,22 @@
     "18": 643,
     "19": 580,
     "20": 487,
-    "21": 500,
-    "22": 420,
-    "23": 387
+    "21": 504,
+    "22": 421,
+    "23": 388
   },
   "dailyDistribution": {
     "Tuesday": 1629,
     "Thursday": 1571,
     "Monday": 1580,
     "Wednesday": 1485,
-    "Sunday": 1393,
+    "Sunday": 1401,
     "Saturday": 1434,
     "Friday": 1418
   },
   "aiEnrichment": {
     "totalEnriched": 10299,
-    "coveragePercent": 97.99,
+    "coveragePercent": 97.92,
     "languageDistribution": {
       "en": 5945,
       "hi-Latn-en": 2539,
@@ -161,5 +161,5 @@
       "applicant": 4
     }
   },
-  "lastUpdated": "2026-04-19T15:59:51.798Z"
+  "lastUpdated": "2026-04-19T21:59:52.290Z"
 }
