@@ -1,27 +1,27 @@
 {
-  "totalEntries": 10555,
+  "totalEntries": 10565,
   "dateRange": {
     "start": "2025-04-01",
     "end": "2026-04-20"
   },
   "totalDays": 258,
-  "totalSessions": 9193,
-  "dailyAverage": 40.91,
-  "botAnswerRate": 93.11,
+  "totalSessions": 9201,
+  "dailyAverage": 40.95,
+  "botAnswerRate": 93.12,
   "languageDistribution": {
-    "en": 10173,
+    "en": 10183,
     "hi": 274,
     "hi-en": 108
   },
   "categoryDistribution": {
-    "general": 3675,
-    "exams": 1329,
+    "general": 3677,
+    "exams": 1331,
     "admissions": 1037,
     "appointment": 956,
-    "courses": 803,
+    "courses": 806,
     "opd": 782,
     "departments": 674,
-    "career": 422,
+    "career": 425,
     "contact": 340,
     "fees": 244,
     "faculty": 201,
@@ -30,28 +30,28 @@
     "research": 9
   },
   "questionTypeDistribution": {
-    "factual": 7450,
+    "factual": 7457,
     "temporal": 1215,
-    "procedural": 998,
-    "yes_no": 612,
+    "procedural": 999,
+    "yes_no": 613,
     "entity": 143,
-    "navigational": 137
+    "navigational": 138
   },
   "responseTypeDistribution": {
-    "direct_answer": 5433,
+    "direct_answer": 5434,
     "unable_to_answer": 2262,
-    "referral": 2213,
+    "referral": 2222,
     "safety_redirect": 647
   },
   "queryComplexityDistribution": {
-    "moderate": 5688,
-    "simple": 3916,
-    "complex": 951
+    "moderate": 5694,
+    "simple": 3918,
+    "complex": 953
   },
   "departmentMentions": {
-    "Nursing": 878,
+    "Nursing": 881,
     "Pharmacology": 242,
-    "Radiology": 168,
+    "Radiology": 169,
     "Cardiology": 158,
     "Surgery": 99,
     "Neurology": 67,
@@ -76,10 +76,10 @@
     "Community Medicine": 2
   },
   "hourlyDistributionIST": {
-    "0": 240,
-    "1": 152,
+    "0": 241,
+    "1": 153,
     "2": 87,
-    "3": 47,
+    "3": 48,
     "4": 73,
     "5": 85,
     "6": 136,
@@ -98,13 +98,13 @@
     "19": 584,
     "20": 487,
     "21": 507,
-    "22": 421,
-    "23": 388
+    "22": 427,
+    "23": 389
   },
   "dailyDistribution": {
     "Tuesday": 1629,
     "Thursday": 1571,
-    "Monday": 1617,
+    "Monday": 1627,
     "Wednesday": 1485,
     "Sunday": 1401,
     "Saturday": 1434,
@@ -112,7 +112,7 @@
   },
   "aiEnrichment": {
     "totalEnriched": 10299,
-    "coveragePercent": 97.57,
+    "coveragePercent": 97.48,
     "languageDistribution": {
       "en": 5945,
       "hi-Latn-en": 2539,
@@ -161,5 +161,5 @@
       "applicant": 4
     }
   },
-  "lastUpdated": "2026-04-20T16:37:40.016Z"
+  "lastUpdated": "2026-04-20T22:15:59.022Z"
 }
