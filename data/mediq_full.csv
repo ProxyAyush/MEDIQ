@@ -71027,3 +71027,66 @@ qa_1776625578157_ezpi8izo,,admission,"For information regarding admissions to va
 qa_1776625810739_8j3khxd5,,admission 2026,"For information regarding admissions for the year 2026, please visit the official KGMU admissions page: https://www.kgmu.org/courses_admission.php
 
 This page contains details about the various courses offered, eligibility criteria, and the admission process. Please note that as an AI, I cannot predict specific cutoff marks or admission dates. I recommend checking the website regularly for the latest official notifications and updates.",2026-04-19T19:10:10.000Z,true,2026-04-19T19:06:07.887Z,en,0,admissions,factual,referral,,simple,true,session_09168,true,14,2,438,59,19,0,Sunday,true,true,false,,,,,,,,,false,
+qa_1776652795373_juhsrgbq,,Aaj neurology ki opd hai ?,"KGMU ki Neurology OPD somvaar (Monday), mangalvaar (Tuesday), guruvaar (Thursday), aur shukravaar (Friday) ko chalti hai. 
+
+Aaj ka din check karne ke liye kripya yeh dhyan rakhein ki:
+1. **OPD Timings:** Somvaar se Shukravaar (9:00 AM – 1:00 PM) aur Shanivaar (9:00 AM – 12:00 PM).
+2. **Holiday:** Aaj koi gazetted holiday toh nahi hai? Agar aaj holiday hai, toh OPD band rahegi.
+3. **Booking:** OPD mein dikhane ke liye online appointment lena ya registration karwana anivarya (mandatory) hai. Aap www.ors.gov.in par check kar sakte hain.
+
+Agar aapko kisi medical samasya ke liye salah chahiye, toh main ismein saksham nahi hoon. Kripya KGMU ke Neurology vibhag ya OPD mein jakar doctor se sampark karein. 
+
+**Ek zaroori suchna:** Apni sehat se judi jankari, symptoms, ya personal details yahan share na karein. Suraksha ke liye, doctor se seedhe KGMU OPD mein hi paramarsh lein.",2026-04-20T02:39:56.000Z,true,2026-04-20T02:39:20.650Z,en,0,opd,factual,direct_answer,Neurology,moderate,true,session_09169,false,26,6,880,142,2,8,Monday,false,false,true,,,,,,,,,false,
+qa_1776655133593_yiyz2ij7,,I want to visit doctor in lari today,"To visit a doctor at Lari Cardiology, please note the following important information:
+
+**Important Notice:**
+*   **OPD Timings:** Today is a working day, but the OPD registration counters close strictly at **1:00 PM**. Please arrive as early as possible.
+*   **Mandatory Registration:** You must have a valid OPD registration slip to see a doctor. You can obtain this by:
+    1.  **Online:** Book through [www.ors.gov.in](https://ors.gov.in).
+    2.  **SMS:** Send ""APPOINTMENT [Patient Name]"" to **8887019134**.
+    3.  **On-Site:** Visit the registration counter at the hospital with the patient's Aadhaar card and an active mobile number. The fee is ₹50.
+*   **Emergency:** If this is a cardiac emergency, please go directly to the **Trauma Centre (Gate 14)** first for stabilization, as they are equipped for 24/7 emergency care. Once stabilized, patients are transferred to Lari Cardiology.
+
+**Contact for Lari Cardiology PRO:**
+If you need specific assistance regarding the department, you may contact the Lari Cardiology PRO office at **9415099528**.
+
+**Note:** I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.",2026-04-20T03:18:53.000Z,true,2026-04-20T03:18:14.768Z,en,0,general,factual,safety_redirect,,moderate,true,session_09170,false,36,8,1246,185,3,8,Monday,false,true,true,,,,,,,,,false,
+qa_1776657788844_r5xln79y,,When will be held nursing officer exam,I cannot find specific information about the Nursing Officer exam date on the KGMU website. You may want to check the KGMU Notice Board for any announcements regarding examinations: [https://www.kgmu.org/kgmu_notice_board.php](https://www.kgmu.org/kgmu_notice_board.php) or the Examination Results section: [https://kgmu.org/kgmu_result/examination_result.php](https://kgmu.org/kgmu_result/examination_result.php).,2026-04-20T04:03:09.000Z,true,2026-04-20T04:01:51.835Z,en,0,exams,temporal,referral,Nursing,moderate,true,session_09171,false,38,7,414,36,4,9,Monday,false,true,false,,,,,,,,,false,
+qa_1776661953977_k7op1k10,,Need opd appointment,"You can book an OPD appointment through the following methods:
+
+**A. Online Portal (ORS):**
+*   Visit [https://ors.gov.in](https://ors.gov.in)
+*   Login/Register → Select State (Uttar Pradesh) → Select Hospital (KGMU) → Click 'New Appointment' → Choose Department, Date & Time Slot → Enter patient details → Pay ₹50 online → Download appointment slip.
+
+**B. Mobile App (ABHA / Health Care App):**
+*   Download the app from the KGMU Play Store.
+*   Register with your mobile number and verify with OTP.
+*   Follow the same State/Hospital selection process as the ORS portal.
+
+**C. SMS Booking:**
+*   Send an SMS to 8887019134 in the format: ""Appointment [Patient Name]"".
+*   You will receive a booking confirmation via SMS.
+
+**D. Walk-in (On-Site Counters):**
+*   Required: Patient's Aadhaar Number and an active Mobile Number.
+*   Provide your details at the registration counter.
+*   Receive an OTP on your mobile for verification.
+*   Get a physical token.
+*   Pay ₹50 at the counter to collect your physical OPD slip.
+
+**Important Information:**
+*   Pre-booking is strongly recommended to avoid long wait times.
+*   The OPD ticket counter closes at 1:00 PM sharp.
+*   The flat fee for an OPD slip is ₹50, regardless of the booking method.",2026-04-20T05:12:35.000Z,true,2026-04-20T05:11:49.476Z,en,0,opd,factual,referral,,simple,true,session_09172,false,20,3,1241,198,5,10,Monday,false,true,true,,,,,,,,,false,
+qa_1776662591456_pbtjtl25,,Kgmu me vacancy nikli hai,"KGMU mein naukri ke avsaron ke liye, aap KGMU ki official website www.kgmu.org par ""Recruitment"" ya ""Careers"" section dekh sakte hain. Yahan aapko khali padon aur apply karne ke tarikon ke bare mein sabse nishchit jankari milegi.",2026-04-20T05:23:13.000Z,true,2026-04-20T05:22:51.494Z,en,0,career,factual,direct_answer,,moderate,true,session_09173,false,25,5,229,37,5,10,Monday,false,false,false,,,,,,,,,false,
+qa_1776662633027_wdxgarag,,Aap bta sakte hai,"KGMU mein nikalne wali vacancy ki jankari ke liye aap seedhe in links ko check kar sakte hain:
+
+1. **Official Recruitment Portal:** [https://www.kgmu.org/job_opportunity.php](https://www.kgmu.org/job_opportunity.php)
+2. **General Notices:** [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)
+
+Main aapko salah doonga ki aap in links ko regular check karte rahein, kyunki KGMU apni sabhi bhartiyon ki official notification aur application process inhi pages par publish karta hai. 
+
+Agar aap kisi specific post (jaise Nursing, Faculty, ya Administrative) ke baare mein puchna chahte hain, toh kripya batayein, taaki main aapko behtar guide kar sakun.",2026-04-20T05:23:54.000Z,true,2026-04-20T05:22:51.494Z,en,0,general,factual,referral,,simple,true,session_09173,true,17,4,679,83,5,10,Monday,false,true,true,,,,,,,,,false,
+qa_1776662714588_wh4qcdvb,,Hrf me ya to fir billing me,"Kya aap ""HRF"" aur ""Billing"" vibhag mein khali padon ke baare mein pooch rahe hain? Kripya spasht karein ki aap kis prakar ki naukri (vacancy) ke baare mein janna chahte hain.
+
+Aap KGMU ki vacancy section mein jaakar in vibhagon se sambandhit khali padon ki jaankari prapt kar sakte hain: [https://www.kgmu.org/job_opportunity.php](https://www.kgmu.org/job_opportunity.php)",2026-04-20T05:25:16.000Z,true,2026-04-20T05:22:51.494Z,en,0,general,factual,direct_answer,,moderate,true,session_09173,true,27,7,372,51,5,10,Monday,false,true,false,,,,,,,,,false,
