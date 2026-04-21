@@ -1,55 +1,55 @@
 {
-  "totalEntries": 10620,
+  "totalEntries": 10636,
   "dateRange": {
     "start": "2025-04-01",
     "end": "2026-04-21"
   },
   "totalDays": 259,
-  "totalSessions": 9231,
-  "dailyAverage": 41,
-  "botAnswerRate": 93.15,
+  "totalSessions": 9239,
+  "dailyAverage": 41.07,
+  "botAnswerRate": 93.16,
   "languageDistribution": {
-    "en": 10235,
+    "en": 10251,
     "hi": 277,
     "hi-en": 108
   },
   "categoryDistribution": {
-    "general": 3693,
+    "general": 3700,
     "exams": 1340,
-    "admissions": 1047,
-    "appointment": 960,
-    "courses": 812,
-    "opd": 783,
-    "departments": 677,
+    "admissions": 1050,
+    "appointment": 962,
+    "courses": 813,
+    "opd": 784,
+    "departments": 678,
     "career": 426,
     "contact": 340,
     "fees": 245,
     "faculty": 205,
     "campus": 42,
     "emergency": 41,
-    "research": 9
+    "research": 10
   },
   "questionTypeDistribution": {
-    "factual": 7495,
+    "factual": 7507,
     "temporal": 1218,
     "procedural": 1007,
-    "yes_no": 617,
+    "yes_no": 621,
     "entity": 145,
     "navigational": 138
   },
   "responseTypeDistribution": {
-    "direct_answer": 5450,
+    "direct_answer": 5456,
     "unable_to_answer": 2266,
-    "referral": 2247,
-    "safety_redirect": 657
+    "referral": 2253,
+    "safety_redirect": 661
   },
   "queryComplexityDistribution": {
-    "moderate": 5721,
-    "simple": 3935,
-    "complex": 964
+    "moderate": 5731,
+    "simple": 3938,
+    "complex": 967
   },
   "departmentMentions": {
-    "Nursing": 883,
+    "Nursing": 884,
     "Pharmacology": 242,
     "Radiology": 173,
     "Cardiology": 159,
@@ -66,19 +66,19 @@
     "Pulmonology": 28,
     "Psychiatry": 25,
     "Obstetrics & Gynecology": 21,
-    "Microbiology": 17,
+    "Microbiology": 18,
     "Rheumatology": 10,
     "Medicine": 5,
     "Physiology": 5,
     "Biochemistry": 4,
     "Anatomy": 3,
-    "Forensic Medicine": 2,
-    "Community Medicine": 2
+    "Community Medicine": 3,
+    "Forensic Medicine": 2
   },
   "hourlyDistributionIST": {
-    "0": 241,
-    "1": 153,
-    "2": 87,
+    "0": 245,
+    "1": 160,
+    "2": 89,
     "3": 48,
     "4": 73,
     "5": 85,
@@ -98,11 +98,11 @@
     "19": 592,
     "20": 487,
     "21": 511,
-    "22": 427,
-    "23": 389
+    "22": 428,
+    "23": 391
   },
   "dailyDistribution": {
-    "Tuesday": 1684,
+    "Tuesday": 1700,
     "Thursday": 1571,
     "Monday": 1627,
     "Wednesday": 1485,
@@ -112,7 +112,7 @@
   },
   "aiEnrichment": {
     "totalEnriched": 10299,
-    "coveragePercent": 96.98,
+    "coveragePercent": 96.83,
     "languageDistribution": {
       "en": 5945,
       "hi-Latn-en": 2539,
@@ -161,5 +161,5 @@
       "applicant": 4
     }
   },
-  "lastUpdated": "2026-04-21T16:41:22.195Z"
+  "lastUpdated": "2026-04-21T22:18:53.285Z"
 }
