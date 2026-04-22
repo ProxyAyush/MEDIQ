@@ -1,52 +1,52 @@
 {
-  "totalEntries": 10668,
+  "totalEntries": 10679,
   "dateRange": {
     "start": "2025-04-01",
     "end": "2026-04-22"
   },
   "totalDays": 260,
-  "totalSessions": 9263,
-  "dailyAverage": 41.03,
+  "totalSessions": 9266,
+  "dailyAverage": 41.07,
   "botAnswerRate": 93.18,
   "languageDistribution": {
-    "en": 10283,
+    "en": 10294,
     "hi": 277,
     "hi-en": 108
   },
   "categoryDistribution": {
-    "general": 3711,
+    "general": 3713,
     "exams": 1343,
-    "admissions": 1053,
+    "admissions": 1058,
     "appointment": 964,
     "courses": 816,
     "opd": 787,
-    "departments": 681,
-    "career": 429,
+    "departments": 682,
+    "career": 431,
     "contact": 341,
     "fees": 245,
-    "faculty": 205,
+    "faculty": 206,
     "campus": 42,
     "emergency": 41,
     "research": 10
   },
   "questionTypeDistribution": {
-    "factual": 7525,
+    "factual": 7533,
     "temporal": 1223,
-    "procedural": 1011,
+    "procedural": 1014,
     "yes_no": 626,
     "entity": 145,
     "navigational": 138
   },
   "responseTypeDistribution": {
-    "direct_answer": 5463,
-    "referral": 2269,
+    "direct_answer": 5469,
+    "referral": 2274,
     "unable_to_answer": 2266,
     "safety_redirect": 670
   },
   "queryComplexityDistribution": {
-    "moderate": 5749,
-    "simple": 3948,
-    "complex": 971
+    "moderate": 5753,
+    "simple": 3951,
+    "complex": 975
   },
   "departmentMentions": {
     "Nursing": 887,
@@ -90,8 +90,8 @@
     "11": 590,
     "12": 637,
     "13": 773,
-    "14": 842,
-    "15": 797,
+    "14": 847,
+    "15": 803,
     "16": 739,
     "17": 692,
     "18": 653,
@@ -105,14 +105,14 @@
     "Tuesday": 1701,
     "Thursday": 1571,
     "Monday": 1627,
-    "Wednesday": 1516,
+    "Wednesday": 1527,
     "Sunday": 1401,
     "Saturday": 1434,
     "Friday": 1418
   },
   "aiEnrichment": {
     "totalEnriched": 10299,
-    "coveragePercent": 96.54,
+    "coveragePercent": 96.44,
     "languageDistribution": {
       "en": 5945,
       "hi-Latn-en": 2539,
@@ -161,5 +161,5 @@
       "applicant": 4
     }
   },
-  "lastUpdated": "2026-04-22T09:47:47.644Z"
+  "lastUpdated": "2026-04-22T10:25:04.553Z"
 }
