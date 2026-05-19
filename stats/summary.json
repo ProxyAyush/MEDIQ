@@ -1,22 +1,22 @@
 {
-  "totalEntries": 13241,
+  "totalEntries": 13243,
   "dateRange": {
     "start": "2025-04-01",
     "end": "2026-05-19"
   },
   "totalDays": 287,
-  "totalSessions": 10655,
+  "totalSessions": 10657,
   "dailyAverage": 46.14,
   "botAnswerRate": 94.45,
   "languageDistribution": {
-    "en": 12799,
+    "en": 12801,
     "hi": 316,
     "hi-en": 126
   },
   "categoryDistribution": {
     "general": 4558,
-    "admissions": 1551,
-    "exams": 1514,
+    "admissions": 1552,
+    "exams": 1515,
     "appointment": 1118,
     "courses": 1090,
     "opd": 933,
@@ -30,26 +30,26 @@
     "research": 10
   },
   "questionTypeDistribution": {
-    "factual": 9335,
+    "factual": 9336,
     "temporal": 1438,
     "procedural": 1322,
     "yes_no": 795,
     "entity": 181,
-    "navigational": 170
+    "navigational": 171
   },
   "responseTypeDistribution": {
-    "direct_answer": 6259,
-    "referral": 3231,
+    "direct_answer": 6260,
+    "referral": 3232,
     "unable_to_answer": 2335,
     "safety_redirect": 1416
   },
   "queryComplexityDistribution": {
-    "moderate": 7264,
+    "moderate": 7266,
     "simple": 4689,
     "complex": 1288
   },
   "departmentMentions": {
-    "Nursing": 1060,
+    "Nursing": 1061,
     "Pharmacology": 293,
     "Radiology": 251,
     "Cardiology": 199,
@@ -87,7 +87,7 @@
     "8": 540,
     "9": 616,
     "10": 756,
-    "11": 770,
+    "11": 772,
     "12": 869,
     "13": 912,
     "14": 978,
@@ -102,7 +102,7 @@
     "23": 515
   },
   "dailyDistribution": {
-    "Tuesday": 2022,
+    "Tuesday": 2024,
     "Thursday": 1966,
     "Monday": 2033,
     "Wednesday": 1853,
@@ -111,19 +111,19 @@
     "Friday": 1809
   },
   "aiEnrichment": {
-    "totalEnriched": 10930,
+    "totalEnriched": 10932,
     "coveragePercent": 82.55,
     "languageDistribution": {
-      "en": 6275,
+      "en": 6276,
       "hi-Latn-en": 2641,
-      "hi-Latn": 1559,
+      "hi-Latn": 1560,
       "hi": 394,
       "hi-en": 59,
       "en-hi-Latn": 1,
       "en-hi": 1
     },
     "intentDistribution": {
-      "information_seeking": 8096,
+      "information_seeking": 8098,
       "scheduling": 2278,
       "navigation": 257,
       "complaint": 186,
@@ -135,12 +135,12 @@
     },
     "medicalRelevanceDistribution": {
       "high": 4138,
-      "medium": 3789,
+      "medium": 3791,
       "low": 2725,
       "none": 278
     },
     "sentimentDistribution": {
-      "neutral": 10486,
+      "neutral": 10488,
       "frustrated": 196,
       "positive": 131,
       "negative": 114,
@@ -149,14 +149,14 @@
     },
     "answerQualityDistribution": {
       "adequate": 3637,
-      "partial": 2558,
-      "comprehensive": 2424,
+      "partial": 2559,
+      "comprehensive": 2425,
       "deflected": 2308,
       "incorrect": 3
     },
     "userTypeDistribution": {
       "unknown": 4123,
-      "student": 3392,
+      "student": 3394,
       "patient": 2594,
       "staff": 648,
       "visitor": 106,
@@ -166,5 +166,5 @@
       "alumni": 2
     }
   },
-  "lastUpdated": "2026-05-19T05:44:23.885Z"
+  "lastUpdated": "2026-05-19T06:52:02.101Z"
 }
