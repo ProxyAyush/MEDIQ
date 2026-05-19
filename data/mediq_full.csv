@@ -92383,3 +92383,281 @@ qa_1779192318059_p96r9c51,,ओटी टेक्निशियन कोर्
 वहाँ आपको पाठ्यक्रमों की सूची, पात्रता (eligibility) और प्रवेश प्रक्रिया के बारे में विस्तृत जानकारी मिल जाएगी। 
 
 यदि आपको किसी विशेष कोर्स के बारे में और कुछ पूछना है, तो कृपया बताएं।",2026-05-19T12:05:18.000Z,true,2026-05-19T12:04:24.313Z,hi,1,general,factual,direct_answer,,simple,true,session_10667,false,20,3,414,58,12,17,Tuesday,false,true,false,hi,0.9,information_seeking,medium,neutral,OT technician course,adequate,course;paramedical,false,student
+qa_1779192959528_plsfob62,,For doctor appointment,"To book an appointment at KGMU, please use one of the following methods:
+
+**1. Online Booking (Recommended)**
+*   **Website:** Visit [www.ors.gov.in](https://www.ors.gov.in). Select Uttar Pradesh as the state and KGMU as the hospital. Follow the instructions to choose your department, date, and time.
+*   **Mobile App:** You can use the ABHA or Health Care app available on the KGMU Play Store to follow the same registration flow.
+
+**2. SMS Booking**
+*   Send an SMS in the format: **""APPOINTMENT <PATIENT NAME>""** to **8887019134**.
+
+**3. Telephone Booking**
+*   You can call **0522-2258880** or **0522-3539333** for assistance.
+
+**4. Walk-in Registration**
+*   If you visit the hospital, you must have the patient's **Aadhaar number** and an active mobile number to receive an OTP. 
+*   **Important:** OPD registration counters are open from 9:00 AM to 1:00 PM (Monday–Friday) and 9:00 AM to 12:00 PM (Saturday). They are closed on Sundays and gazetted holidays.
+*   **Fee:** There is a flat fee of ₹50 for the OPD slip.
+
+**Notes for Patients:**
+*   **Referral:** If you are coming from outside Lucknow, please ensure you carry a valid referral letter for the specific department you are visiting.
+*   **Safety:** I am not qualified to provide medical advice. Please consult a doctor at KGMU OPD for any health concerns. Also, for your safety, please avoid sharing personal medical details, Aadhaar numbers, or phone numbers in this chat.
+
+I was created by Dr. Ayush Yadav.",2026-05-19T12:16:00.000Z,true,2026-05-19T12:14:58.333Z,en,0,appointment,factual,safety_redirect,,simple,true,session_10668,false,22,3,1477,233,12,17,Tuesday,false,true,true,en,0.9,scheduling,high,neutral,For doctor appointment,comprehensive,appointment;doctor,true,patient
+qa_1779194487604_ejhdikoy,,dr.sujita kumar kar kon se din opd dekhte hai,"Dr. Sujita Kumar Kar, from the Department of Psychiatry, is available for OPD consultations.
+
+As per the KGMU OPD schedule, Psychiatry OPDs are held in the **New OPD building**. For specific information regarding his availability days, please visit the Department of Psychiatry link: [https://www.kgmu.org/department_details.php?dept_id=26&dept_type=2](https://www.kgmu.org/department_details.php?dept_id=26&dept_type=2)
+
+**Important Note:**
+*   **Online registration is mandatory** for all OPD visits. Please book your appointment via [www.ors.gov.in](https://www.ors.gov.in) or by calling 0522-2258880 / 0522-3539333.
+*   The OPD ticket (Parchi) counter closes at 1:00 PM. Please arrive early to complete the registration process.
+*   I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.",2026-05-19T12:41:29.000Z,true,2026-05-19T12:40:57.369Z,en,0,opd,entity,safety_redirect,,moderate,true,session_10669,false,45,9,913,116,12,18,Tuesday,false,true,true,hi-Latn,0.8,information_seeking,high,neutral,"Dr. Sujita Kumar Kar, which days OPD?",adequate,opd;doctor,false,patient
+qa_1779194564527_tzidh1ny,,Kgmu me koi autism me bhi doctor hai,"KGMU has specialized departments that handle developmental and behavioral conditions, including Autism Spectrum Disorder (ASD). You can seek consultation at the following departments:
+
+1.  **Department of Psychiatry:** They manage child and adolescent psychiatric conditions. You can find details here: [Department of Psychiatry](https://www.kgmu.org/department_details.php?dept_id=26&dept_type=2)
+2.  **Department of Pediatrics:** They handle overall child development and can provide referrals or primary care for developmental disorders. You can find details here: [Department of Pediatrics](https://www.kgmu.org/department_details.php?dept_id=6&dept_type=2)
+
+**How to proceed:**
+*   **Online Registration is Mandatory:** Please book an appointment through [www.ors.gov.in](https://www.ors.gov.in) or by calling the helpline at **0522-2258880 / 0522-3539333**.
+*   **Arrival:** Ensure you arrive early, as the OPD registration counter closes at 1:00 PM.
+*   **Referral:** If you are coming from outside Lucknow, please bring a valid referral letter from your local doctor for the specific department.
+
+I'm not qualified to provide medical diagnosis or treatment advice. Please consult a specialist doctor at KGMU OPD for a proper evaluation. For your safety, please avoid sharing personal health details, Aadhaar numbers, or contact information in this chat.",2026-05-19T12:42:46.000Z,true,2026-05-19T12:40:57.369Z,en,0,general,factual,safety_redirect,,moderate,true,session_10669,true,36,8,1361,169,12,18,Tuesday,false,true,true,hi-Latn,0.9,information_seeking,high,neutral,Is there a doctor for autism in KGMU?,comprehensive,department;doctor,false,patient
+qa_1779194637609_2j13v9fc,,Sujita kumar kar pure weak baithe h,"Dr. Sujita Kumar Kar is an Addl. Professor in the Department of Psychiatry. 
+
+Please note that faculty members typically have specific days allocated for OPD, administrative duties, teaching, and research. They are generally not available for OPD consultations every single day of the week.
+
+To check the exact, updated OPD schedule for Dr. Sujita Kumar Kar:
+
+1.  **Check the Official Portal:** Please visit [www.ors.gov.in](https://www.ors.gov.in) and select ""King George's Medical University"" to see the real-time availability of doctors and book an appointment for the specific date you are planning to visit.
+2.  **Contact the Department:** You can reach out to the Psychiatry department or the PRO office to confirm his specific OPD days. Contact details can be found here: [KGMU PRO Office Contacts](https://kgmu.org/imp_numbers.php).
+
+**Important Reminders:**
+*   **Online registration is mandatory** for all OPD visits.
+*   **OPD Timings:** The registration counter closes at **1:00 PM** (Mon–Fri) and **12:00 PM** (Sat).
+*   I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal health details in this chat for your safety.",2026-05-19T12:43:59.000Z,true,2026-05-19T12:40:57.369Z,en,0,general,factual,safety_redirect,,moderate,true,session_10669,true,35,7,1217,180,12,18,Tuesday,false,true,true,hi-Latn,0.8,information_seeking,high,neutral,"Dr. Sujita Kumar Kar, which days are available?",adequate,opd;doctor,false,patient
+qa_1779195062347_xe8pdbns,,Please give me doctor Sudheer Mishra contact number,"Dr. Sudhir R. Mishra is an Associate Professor in the Department of Physical Medicine & Rehabilitation (PMR) at KGMU. You can reach him via his official email at: sudhirpmr10@gmail.com.
+
+For general inquiries or appointments, you may also contact the KGMU help line at 0522-2258880.
+
+I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.",2026-05-19T12:51:04.000Z,true,2026-05-19T12:50:43.103Z,en,0,contact,factual,safety_redirect,,moderate,true,session_10670,false,51,8,460,74,12,18,Tuesday,false,false,false,en,0.9,information_seeking,high,neutral,Please give me doctor Sudheer Mishra contact number,comprehensive,contact;doctor,false,patient
+qa_1779197745664_k520jr3g,,DMLT course k liye entrance exam form kb tkk bhare jyenge 2026,"For information regarding the admission process, entrance examination dates, and application forms for the DMLT course at King George's Medical University for the year 2026, please visit the official admissions portal: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php).
+
+You can also keep track of any upcoming announcements by checking the university's official notice board at: [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php).",2026-05-19T13:35:20.000Z,true,2026-05-19T13:33:14.761Z,en,0,admissions,factual,referral,,moderate,true,session_10671,false,62,12,500,50,13,19,Tuesday,false,true,false,hi-Latn-en,0.9,information_seeking,medium,neutral,When will the entrance exam form for the DMLT course be filled in 2026,adequate,admission;exam;course,false,student
+qa_1779198330082_v2ntzkx2,,Main ott course me admission kaise le,"KGMU mein courses aur admission se sambandhit jaankari ke liye aap KGMU ki official website [www.kgmu.org](https://www.kgmu.org) par ""Courses & Admission"" section check kar sakte hain.
+
+Wahan aapko courses ki list, eligibility criteria aur admission process ki poori jaankari mil jayegi. Aap is direct link par bhi ja sakte hain: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+Yadi aapko kisi specific course ke baare mein jaankari chahiye, toh kripya uska poora naam batayein taaki main aapki behtar sahayata kar sakun.",2026-05-19T13:46:29.000Z,true,2026-05-19T13:44:51.526Z,en,0,admissions,procedural,referral,,moderate,true,session_10672,false,37,7,563,73,13,19,Tuesday,false,true,false,hi-Latn-en,0.8,information_seeking,medium,neutral,How do I take admission in the OTT course,adequate,admission;course,false,student
+qa_1779198553913_1u814ckk,,Kgmu ke ott me addmission ke liye kya kre,"KGMU mein OTT (Operation Theatre Technician) course ya kisi bhi anya admission ke liye aapko KGMU ki official website **[www.kgmu.org](https://www.kgmu.org)** par jaana hoga.
+
+Admission se sambandhit jaankari ke liye aap ye steps follow karein:
+
+1.  **Website Check Karein:** [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php) par jakar aap chal rahe admission notices aur courses ki list dekh sakte hain.
+2.  **Admission Section:** Website ke ""Admission"" tab mein aapko entrance exam, eligibility criteria aur application form ki jankari mil jayegi.
+3.  **Notice Board:** Naye admission ki notification ke liye [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php) ko regular check karte rahein.
+
+Yadi aap kisi specific course ke baare mein puchna chahte hain, toh please course ka pura naam batayein taaki main aapko sahi link de sakun.
+
+*Note: I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.*",2026-05-19T13:49:16.000Z,true,2026-05-19T13:47:37.823Z,en,0,general,factual,safety_redirect,,moderate,true,session_10673,false,41,9,1089,144,13,19,Tuesday,false,true,true,hi-Latn,0.9,information_seeking,medium,neutral,What to do for admission in KGMU's OTT,adequate,admission;course,false,student
+qa_1779198648978_k27t4mq6,,Mai kgmu me upchar karana chahta hu uski kya prakriya hai,"KGMU में उपचार (OPD) के लिए पंजीकरण कराना अनिवार्य है। आप नीचे दिए गए तरीकों से अपना अपॉइंटमेंट बुक कर सकते हैं:
+
+1. **ऑनलाइन पोर्टल (ORS):** [www.ors.gov.in](https://www.ors.gov.in) पर जाकर अपना अपॉइंटमेंट बुक करें।
+2. **मोबाइल ऐप:** ABHA या स्वास्थ्य सेवा ऐप का उपयोग करके भी अपॉइंटमेंट लिया जा सकता है।
+3. **SMS द्वारा:** अपना नाम लिखकर **8887019134** पर SMS भेजें।
+4. **अस्पताल में (Walk-in):** आप सीधे अस्पताल के पंजीकरण काउंटर पर जाकर भी पर्ची बनवा सकते हैं। इसके लिए आपके पास अपना **आधार कार्ड** और एक **सक्रिय मोबाइल नंबर** होना आवश्यक है।
+
+**महत्वपूर्ण जानकारी:**
+* **शुल्क:** OPD पर्ची का शुल्क ₹50 है।
+* **समय:** OPD पंजीकरण सुबह 9:00 बजे से दोपहर 1:00 बजे तक (सोमवार-शुक्रवार) और शनिवार को दोपहर 12:00 बजे तक खुला रहता है। रविवार को OPD बंद रहती है।
+* **रेफरल:** यदि आप लखनऊ शहर से बाहर से आ रहे हैं, तो संबंधित विभाग का वैध रेफरल पत्र साथ लाना अनिवार्य है।
+* **सलाह:** लंबी प्रतीक्षा से बचने के लिए पहले से अपॉइंटमेंट बुक करना बेहतर है।
+
+**सुरक्षा निर्देश:** अपनी चिकित्सा स्थिति या निजी जानकारी (जैसे आधार नंबर या फोन नंबर) इस चैट में साझा न करें। मैं एक AI हूँ और चिकित्सा सलाह देने के लिए योग्य नहीं हूँ। कृपया अपना उपचार कराने के लिए सीधे KGMU OPD में जाकर डॉक्टर से परामर्श लें या सहायता के लिए **0522-2258880 / 0522-3539333** पर कॉल करें।
+
+मैं Dr. Ayush Yadav द्वारा बनाया गया KGMU AI सहायक हूँ।",2026-05-19T13:50:50.000Z,true,2026-05-19T13:50:08.789Z,en,0,general,factual,direct_answer,,moderate,true,session_10674,false,57,11,1314,238,13,19,Tuesday,false,true,true,hi,0.9,information_seeking,high,neutral,"I want to get treatment in KGMU, what is the process",comprehensive,treatment;OPD,false,patient
+qa_1779198804077_oqbiuh2g,,Mere pass koi referral nhi hai aur mai lucknow se bahar ka hu kya mera ilaj ho jaega,"KGMU के नियमों के अनुसार, लखनऊ के बाहर के मरीजों के लिए संबंधित विभाग का वैध रेफरल (Referral) पत्र लाना अनिवार्य है। बिना रेफरल के आपको ओपीडी (OPD) पंजीकरण में कठिनाई हो सकती है।
+
+यदि आप किसी गंभीर या आपातकालीन (Emergency) स्थिति में हैं, तो आप सीधे **ट्रॉमा सेंटर (Trauma Centre - गेट नंबर 14)** जा सकते हैं। आपातकालीन सेवाओं के लिए रेफरल की आवश्यकता नहीं होती है।
+
+**मेरी सलाह:**
+1. बेहतर होगा कि आप अपने नजदीकी जिला अस्पताल या किसी सरकारी स्वास्थ्य केंद्र से KGMU के लिए एक रेफरल पत्र बनवा लें। इससे आपको अस्पताल में उपचार कराने में आसानी होगी।
+2. यदि आपकी स्थिति सामान्य है, तो कृपया पहले रेफरल का प्रबंध करें ताकि आपको यहाँ आने के बाद किसी परेशानी का सामना न करना पड़े।
+
+**अस्वीकरण:** मैं एक AI सहायक हूँ और चिकित्सा सलाह देने के लिए योग्य नहीं हूँ। कृपया अपनी स्थिति के अनुसार उचित निर्णय लें और अधिक जानकारी के लिए KGMU की हेल्पलाइन **0522-2258880** पर कॉल करें। अपनी सुरक्षा के लिए इस चैट में कोई भी व्यक्तिगत विवरण साझा न करें।",2026-05-19T13:53:26.000Z,true,2026-05-19T13:50:08.789Z,en,0,general,factual,direct_answer,,complex,true,session_10674,true,84,18,936,177,13,19,Tuesday,false,false,true,hi,0.9,information_seeking,high,neutral,"I don't have a referral and I'm from outside Lucknow, will my treatment be possible",comprehensive,treatment;referral,false,patient
+qa_1779199267285_58fkjek0,,I am asking recent vacancy for physiotherepist,"I am not qualified to provide information on specific job vacancies. Please check the official KGMU website's ""Recruitment"" or ""Notice Board"" section at www.kgmu.org for any recent job advertisements. 
+
+I was created by Dr. Ayush Yadav.",2026-05-19T14:01:07.000Z,true,2026-05-19T14:00:33.823Z,en,0,career,factual,safety_redirect,,moderate,true,session_10675,false,46,7,236,36,14,19,Tuesday,false,false,false,en,0.9,information_seeking,medium,neutral,I am asking recent vacancy for physiotherapist,comprehensive,job;vacancy;physiotherapy,false,visitor
+qa_1779199307692_nli2i983,,What about internship program,"For information regarding internship programs at King George's Medical University, please visit the official website at [www.kgmu.org](https://www.kgmu.org). 
+
+You can specifically look under the **""Academic""** or **""Courses & Admission""** sections for details on clinical training and internship opportunities. Additionally, you may check the [Notice Board](https://kgmu.org/kgmu_notice_board.php) for any recent notifications regarding internship applications.
+
+I was created by Dr. Ayush Yadav.",2026-05-19T14:01:47.000Z,true,2026-05-19T14:00:33.823Z,en,0,courses,factual,referral,,simple,true,session_10675,true,29,4,497,58,14,19,Tuesday,false,true,false,en,0.9,information_seeking,medium,neutral,What about internship program,comprehensive,internship;program,false,student
+qa_1779199812423_1rlfxi7b,,Recently I find vacancy of medical office in kgmu,"To check for current job openings and vacancies at King George's Medical University, please visit the official recruitment section of our website:
+
+[https://www.kgmu.org/job_vacancy.php](https://www.kgmu.org/job_vacancy.php)
+
+You can find all active notifications, application forms, and instructions for various positions, including Medical Officers, on that page. Please ensure you regularly check this link for updates and application deadlines.",2026-05-19T14:10:12.000Z,true,2026-05-19T14:09:21.873Z,en,0,career,factual,referral,,moderate,true,session_10676,false,49,9,448,54,14,19,Tuesday,false,true,false,en,0.9,information_seeking,medium,neutral,Recently I find vacancy of medical office in kgmu,comprehensive,job;vacancy;medical office,false,visitor
+qa_1779199845997_386y9aid,,Help me where is ithe information updated regarding vacancy of MO doctor post in kgmu,"All official recruitment notifications, including vacancies for Medical Officer (MO) positions, are updated in the **""Job/Vacancy""** section on the official KGMU website.
+
+You can access it directly here: **[https://www.kgmu.org/job_vacancy.php](https://www.kgmu.org/job_vacancy.php)**
+
+**Important tips for your search:**
+*   **Check Regularly:** Notifications are uploaded as PDFs. Always check the ""Date"" column to ensure you are viewing the most recent advertisement.
+*   **Notice Board:** Sometimes general recruitment notices are also posted on the [KGMU Notice Board](https://kgmu.org/kgmu_notice_board.php), so it is worth checking there as well.
+*   **Eligibility:** Each advertisement will contain a detailed PDF document specifying the qualifications, pay scale, and application procedure for that specific post.
+
+If you are looking for a specific past notification and cannot find it, please let me know the approximate date or details of the post you saw, and I can help you navigate further.",2026-05-19T14:10:46.000Z,true,2026-05-19T14:09:21.873Z,en,0,campus,navigational,referral,,complex,true,session_10676,true,85,15,1005,135,14,19,Tuesday,false,true,true,hi-Latn-en,0.8,information_seeking,high,neutral,Help me where is the information updated regarding vacancy of MO doctor post in kgmu,comprehensive,job;vacancy;medical officer,false,visitor
+qa_1779201788616_2tc1tyu5,,M.A psychology internship details,"For information regarding internships in Psychology at King George's Medical University, please visit the Department of Psychiatry page: [https://www.kgmu.org/department_details.php?dept_id=26&dept_type=2](https://www.kgmu.org/department_details.php?dept_id=26&dept_type=2).
+
+You may also check the official KGMU notice board for any current internship advertisements or academic programs: [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php).
+
+If you are a student or external candidate seeking specific details on clinical training or observer status, I recommend contacting the Department of Psychiatry office directly or reaching out via their official email listed in the departmental faculty directory.",2026-05-19T14:43:08.000Z,true,2026-05-19T14:42:24.618Z,en,0,general,factual,referral,,simple,true,session_10677,false,33,4,736,76,14,20,Tuesday,false,true,false,en,0.9,information_seeking,high,neutral,M.A psychology internship details,comprehensive,internship;psychology,false,student
+qa_1779202787835_f8nfcg45,,Apartment,"I'm sorry, I am not sure what you mean by ""ApartmentApartment."" 
+
+If you are looking for information regarding KGMU, such as **patient services, OPD bookings, department details, or campus navigation**, please let me know, and I would be happy to assist you. 
+
+If you have a medical query, please note: I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.",2026-05-19T14:59:49.000Z,true,2026-05-19T14:58:58.955Z,en,0,general,factual,safety_redirect,,simple,true,session_10678,false,9,1,479,80,14,20,Tuesday,false,false,false,en,0.9,off_topic,none,neutral,Apartment,deflected,,false,visitor
+qa_1779204167337_usqr9swp,,Ccm ki opd trauma centre,"The Department of Critical Care Medicine (CCM) at KGMU does not run a standard Outpatient Department (OPD) in the traditional sense, as it is primarily focused on inpatient and emergency care.
+
+However, for related consultations or follow-ups, please note the following:
+
+*   **Emergency/Critical Care:** If you are seeking immediate care, please proceed directly to the **Trauma Centre (Gate 14)**, which operates 24/7.
+*   **Patient Welfare Office (Trauma Centre):** For queries regarding patients admitted under critical care, you may contact the Patient Welfare Office at **8887019133** or the CMO/ADO at **8004849905**.
+*   **General OPD:** For non-emergency consultations, you must book an appointment via [www.ors.gov.in](https://www.ors.gov.in) or by calling **0522-2258880 / 0522-3539333**.
+
+I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.",2026-05-19T15:22:49.000Z,true,2026-05-06T07:07:17.567Z,en,0,opd,factual,safety_redirect,,moderate,true,session_09949,true,24,5,977,139,15,20,Tuesday,false,true,true,hi-Latn,0.8,information_seeking,high,neutral,What is the OPD timing of the Trauma Centre in CCM?,comprehensive,opd;trauma_centre;department,false,patient
+qa_1779205276939_1gwk4xr7,,Assistant security officer documents verification date,"For information regarding the document verification dates for the Assistant Security Officer position, please visit the official KGMU website's notice board at [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php).
+
+If you cannot find the specific notice there, you may contact the Registrar's Office at **0522-2253171** or check the recruitment section of the website for the latest updates.",2026-05-19T15:41:17.000Z,true,2026-05-19T15:40:38.452Z,en,0,general,temporal,referral,,moderate,true,session_10679,false,54,6,419,51,15,21,Tuesday,false,true,false,en,0.9,information_seeking,low,neutral,Assistant security officer documents verification date,adequate,document;verification;job,false,staff
+qa_1779205328492_k2s113ea,,Yha pr dr ko kaise dikhaye,"KGMU mein doctor ko dikhane ke liye online appointment lena anivarya (mandatory) hai. Aap niche diye gaye tarikon se appointment book kar sakte hain:
+
+1. **Online Appointment (ORS):**
+   - Website: [www.ors.gov.in](https://ors.gov.in) par jayein.
+   - Apne rajya (Uttar Pradesh) aur hospital (KGMU) ka chayan karein.
+   - 'New Appointment' par click karke department aur date select karein.
+   - Apni jaankari bharein aur ₹50 ka shulk (fee) online jama karke slip download kar lein.
+
+2. **Mobile App:**
+   - Aap 'ABHA' ya 'Health Care' app ka upyog karke bhi appointment book kar sakte hain.
+
+3. **SMS dwara:**
+   - Aap ""APPOINTMENT <NAME>"" likhkar **8887019134** par SMS bhej sakte hain.
+
+4. **Walk-in (Hospital aakar):**
+   - Agar aap hospital aate hain, toh apna **Aadhaar Card** aur chalu **Mobile Number** saath layein. Registration counter par OTP verify karwane ke baad ₹50 ka shulk jama karke OPD slip prapt karein.
+
+**Kuch zaroori baatein:**
+- **OPD ka samay:** Somvar se Shukravar (9:00 AM – 1:00 PM) aur Shanivar (9:00 AM – 12:00 PM).
+- **Referral:** Agar aap Lucknow ke bahar se aa rahe hain, toh apne sambandhit vibhag ka valid referral saath layein.
+- **Emergency:** Emergency ya Trauma ki sthiti mein seedhe **Trauma Centre (Gate 14)** jayein.
+
+Main ek AI sahayak hoon, medical salah nahi de sakta. Kripya OPD mein doctor se paramarsh lein. Apni suraksha ke liye chat mein koi bhi niji swasthya jaankari ya Aadhaar number share na karein.",2026-05-19T15:42:09.000Z,true,2026-05-19T15:41:40.567Z,en,0,general,procedural,direct_answer,,moderate,true,session_10680,false,26,6,1453,231,15,21,Tuesday,false,true,true,hi-Latn,0.8,information_seeking,high,neutral,How to show to the doctor here?,comprehensive,appointment;doctor,false,patient
+qa_1779205473470_acugjtu2,,Provide contact no of assistant security officer post level 8,"I do not have access to a specific contact number for an ""Assistant Security Officer (Post Level 8)."" 
+
+For security-related inquiries or to reach the security administration, you can contact the **Public Relations Office (PRO)** or the **Chief Medical Superintendent's office** for assistance. You can find the relevant contact numbers on the official KGMU directory page here: [https://kgmu.org/imp_numbers.php](https://kgmu.org/imp_numbers.php) or by checking the [KGMU IP Phone Directory](https://kgmu.org/ipphonedirctory.php).",2026-05-19T15:44:33.000Z,true,2026-05-19T15:40:38.452Z,en,0,contact,factual,direct_answer,,moderate,true,session_10679,true,61,10,531,66,15,21,Tuesday,false,true,false,en,0.9,information_seeking,low,neutral,Provide contact no of assistant security officer post level 8,deflected,contact;security,false,staff
+qa_1779205736920_w8hg45ve,,733 staff nurse post,"I am not qualified to provide information regarding specific job recruitment processes or updates. Please visit the official KGMU website at [www.kgmu.org](https://www.kgmu.org) and check the ""Recruitment"" or ""Notice Board"" sections for the most accurate and up-to-date information regarding staff nurse positions.",2026-05-19T15:48:57.000Z,true,2026-05-19T15:48:43.101Z,en,0,faculty,factual,safety_redirect,Nursing,simple,true,session_10681,false,20,4,314,41,15,21,Tuesday,false,true,false,en,0.9,information_seeking,medium,neutral,733 staff nurse post,adequate,job;recruitment;staff,false,visitor
+qa_1779208316516_upbx6us2,,..hii..can you tell me if your ..BPT course is done here  ?,"Yes, KGMU offers a Bachelor of Physiotherapy (BPT) program. You can find detailed information regarding the course, admissions, and curriculum on the official website at: https://www.kgmu.org/courses_admission.php",2026-05-19T16:31:57.000Z,true,2026-05-19T16:30:25.977Z,en,0,courses,factual,direct_answer,,moderate,true,session_10682,false,59,12,213,26,16,22,Tuesday,false,true,false,hi-Latn-en,0.8,information_seeking,medium,positive,can you tell me if your BPT course is done here,adequate,course;admission;BPT,false,student
+qa_1779208388579_24es2kzu,,Can you also tell me when it happens and how to do it.,"The admissions for the Bachelor of Physiotherapy (BPT) course at KGMU are conducted based on the university's annual admission notifications. 
+
+Here is how you can stay informed and apply:
+
+1.  **Monitor the Website:** Official notifications regarding admission forms, entrance examination dates, and eligibility criteria are published on the [KGMU Admissions Page](https://www.kgmu.org/courses_admission.php).
+2.  **Admission Process:** When the application window opens, you will need to:
+    *   Visit the official website (www.kgmu.org).
+    *   Find the link for the ""BPT Admission"" or ""Entrance Examination"" portal.
+    *   Fill out the online application form with your academic details.
+    *   Pay the required application fee as specified in the notification.
+    *   Download your admit card and appear for the entrance examination (if applicable for that academic year).
+3.  **Stay Updated:** Since admission schedules vary year by year, I recommend regularly checking the [KGMU Notice Board](https://kgmu.org/kgmu_notice_board.php) for the most recent updates on when the next cycle will begin.
+
+If you are looking for specific details regarding the current academic year's status, please monitor the links provided above.",2026-05-19T16:33:08.000Z,true,2026-05-19T16:30:25.977Z,en,0,general,procedural,referral,,complex,true,session_10682,true,54,13,1235,169,16,22,Tuesday,false,true,true,en,0.9,information_seeking,medium,neutral,Can you also tell me when it happens and how to do it,comprehensive,admission;process,false,student
+qa_1779208466149_yhmeoqyx,,and how many marks are there to get..,"Admission to the BPT course at KGMU is determined by a competitive entrance examination. Because the number of applicants changes every year, there is no fixed ""passing mark"" that guarantees a seat.
+
+Instead, your admission depends on your **merit rank** compared to other candidates who take the exam that year.
+
+Here is what you should know:
+
+*   **Merit-Based:** You must secure a high rank in the entrance exam to be eligible for counseling. The ""cutoff"" marks (the minimum score needed to get a seat) are decided after the results are declared, based on the difficulty of the paper and the number of available seats.
+*   **Eligibility Criteria:** To even be eligible to apply, you typically need to have passed your 10+2 (Intermediate) examination with Physics, Chemistry, and Biology (PCB) and meet the minimum percentage requirement set by the university for that specific year (usually 50% for General/OBC and 40-45% for reserved categories, though this can vary).
+*   **Where to check:** When the admission brochure is released for the upcoming session, it will contain a specific section on ""Eligibility"" and ""Selection Procedure"" which will outline the exact qualifying criteria for that year.
+
+I recommend keeping an eye on the [KGMU Admissions page](https://www.kgmu.org/courses_admission.php) for the official information brochure, which will be released once the admission process for the next session begins.",2026-05-19T16:34:26.000Z,true,2026-05-19T16:30:25.977Z,en,0,general,factual,referral,,moderate,true,session_10682,true,37,8,1424,219,16,22,Tuesday,false,true,true,en,0.9,information_seeking,medium,neutral,and how many marks are there to get,comprehensive,admission;marks,false,student
+qa_1779208546199_3rliriyo,,Bpt course,"For information regarding the Bachelor of Physiotherapy (BPT) course at King George's Medical University, including admission criteria, curriculum, and course details, please visit the official admissions page:
+
+[https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+If you have specific questions about the application process or eligibility, you can also check the general information section on our website at [www.kgmu.org](https://www.kgmu.org).",2026-05-19T16:35:46.000Z,true,2026-05-19T16:30:25.977Z,en,0,courses,factual,referral,,simple,true,session_10682,true,10,2,485,52,16,22,Tuesday,false,true,false,en,0.9,information_seeking,medium,neutral,Bpt course,adequate,course;BPT,false,student
+qa_1779208597419_w18epggu,,Kgmu me kya merit base pe course uplabhdh hai arts students ke liye 12th passout,"KGMU (King George's Medical University) मुख्य रूप से मेडिकल और पैरामेडिकल कोर्सेज के लिए जानी जाती है। यहाँ अधिकांश कोर्सेज (जैसे MBBS, BDS, B.Sc Nursing, आदि) विज्ञान (Science - Physics, Chemistry, Biology) के छात्रों के लिए होते हैं।
+
+कला (Arts) के छात्रों के लिए KGMU में 12वीं के बाद सीधे मेरिट-आधारित कोई विशेष कोर्स उपलब्ध नहीं है, क्योंकि यहाँ के कोर्सेज के लिए प्रवेश परीक्षा (Entrance Exam) और विज्ञान विषय अनिवार्य होते हैं।
+
+आप कोर्सेज और प्रवेश संबंधी जानकारी के लिए KGMU की आधिकारिक वेबसाइट [www.kgmu.org](https://www.kgmu.org/courses_admission.php) पर देख सकते हैं।
+
+मैं एक AI सहायक हूँ जिसे डॉ. आयुष यादव द्वारा बनाया गया है। यदि आपको किसी अन्य विषय पर जानकारी चाहिए, तो कृपया पूछें।",2026-05-19T16:36:37.000Z,true,2026-05-19T16:35:43.303Z,en,0,courses,factual,direct_answer,,complex,true,session_10683,false,80,15,698,114,16,22,Tuesday,false,true,false,hi-Latn-en,0.9,information_seeking,medium,neutral,Are courses available in KGMU on merit basis for arts students after 12th pass,adequate,admission;course,false,student
+qa_1779208713165_fbl7c1jn,,Pls tell me .that I can take admission in KGMU.. BPT is my grace,"I am not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+Regarding your query about admission into the BPT (Bachelor of Physiotherapy) program at KGMU, you can find detailed information about courses and the admission process on our official website: https://www.kgmu.org/courses_admission.php
+
+For specific eligibility criteria, entrance exam requirements, and application procedures, please monitor the ""Admissions"" section of the main website at www.kgmu.org regularly for official notifications.",2026-05-19T16:38:38.000Z,true,2026-05-19T16:30:25.977Z,en,0,admissions,factual,safety_redirect,,complex,true,session_10682,true,64,14,621,86,16,22,Tuesday,false,true,false,en-hi-Latn,0.8,information_seeking,medium,neutral,Can I take admission in KGMU.. BPT is my grace,partial,admission;BPT,false,student
+qa_1779208716667_0die9t2j,,For opd,"To book an OPD appointment at KGMU, you have the following options:
+
+**1. Online Booking (Recommended)**
+*   **Website:** [www.ors.gov.in](https://www.ors.gov.in)
+*   **Process:** Register/Login → Select Uttar Pradesh → Select KGMU → Choose your department, date, and time slot → Pay the ₹50 fee online → Download your appointment slip.
+
+**2. Mobile App**
+*   Download the **ABHA** or **ORS** app from the KGMU Play Store, register with your mobile number, and follow the same steps as the online portal.
+
+**3. SMS Booking**
+*   Send an SMS in the format: **""APPOINTMENT <NAME>""** to **8887019134**. You will receive a booking confirmation.
+
+**4. Walk-in (On-Site)**
+*   You can visit the hospital directly, but **pre-booking is strongly recommended** to avoid long wait times.
+*   **Requirements:** You must carry the patient's Aadhaar card and an active mobile number.
+*   **Process:** Provide your details at the registration counter → Receive an OTP on your mobile → Pay the ₹50 fee → Collect your physical OPD slip.
+
+**Important Notes:**
+*   **OPD Timings:** Mon–Fri 9:00 AM–1:00 PM | Sat 9:00 AM–12:00 PM (Closed Sundays).
+*   **Registration Counters:** Close at 1:00 PM sharp.
+*   **Outside-city patients:** Please ensure you bring a valid referral for your specific department.
+
+I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline at 0522-2258880 / 0522-3539333. Also, please avoid sharing personal health details, Aadhaar numbers, or phone numbers in this chat for your safety.",2026-05-19T16:38:37.000Z,true,2026-05-19T16:38:04.739Z,en,0,opd,factual,safety_redirect,,simple,true,session_10684,false,7,2,1536,236,16,22,Tuesday,false,true,true,en,1,scheduling,high,neutral,For opd,comprehensive,OPD;appointment,false,patient
+qa_1779208760579_8m5ov1va,,Mujhe bpt course me chhaiye ..to admission kaise lu..,"KGMU mein BPT (Bachelor of Physiotherapy) mein admission lene ke liye aapko in steps ko follow karna hoga:
+
+1. **Official Website Check Karein:** Admission se judi har jankari ke liye aap [www.kgmu.org](https://www.kgmu.org) par ""Courses & Admission"" section ko regular check karte rahein.
+2. **Entrance Exam:** KGMU mein admission aam taur par entrance exam ke madhyam se hota hai. Jab admission notification release hota hai, tab aapko online form bharna hoga.
+3. **Eligibility:** Admission lene ke liye aapko 12th pass hona chahiye (Physics, Chemistry, aur Biology subjects ke saath). Admission ke waqt aapko KGMU ki official website par di gayi eligibility criteria ko poora karna hoga.
+4. **Notification ka Intezaar:** Jab bhi naye session ke liye admission open honge, official website par notice board ya admission portal par update kar diya jayega.
+
+Aap [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php) link par jaakar courses ki list aur admission process ki jankari le sakte hain. 
+
+*Note: Admission se sambandhit kisi bhi galat suuchna se bachne ke liye sirf KGMU ki official website ([www.kgmu.org](https://www.kgmu.org)) par di gayi jankari par hi bharosa karein.*",2026-05-19T16:39:20.000Z,true,2026-05-19T16:30:25.977Z,en,0,admissions,procedural,referral,,moderate,true,session_10682,true,53,9,1217,173,16,22,Tuesday,false,true,true,hi-Latn,0.9,information_seeking,medium,neutral,"I want BPT course, how to take admission",adequate,admission;BPT,false,student
+qa_1779208785157_flqldth5,,How can I take appointment in opd,"To book an appointment at the KGMU OPD, you can use any of the following methods:
+
+**1. Online Portal (Recommended)**
+*   Visit [www.ors.gov.in](https://www.ors.gov.in).
+*   Select Uttar Pradesh as the state and KGMU as the hospital.
+*   Click 'New Appointment', select the department, date, and time slot.
+*   Provide the patient details and pay the ₹50 fee online to download your appointment slip.
+
+**2. Mobile App**
+*   Download the **ABHA** or **ORS** app from the KGMU Play Store.
+*   Register with your mobile number and follow the same steps as the online portal.
+
+**3. SMS Booking**
+*   Send an SMS in the format: **""APPOINTMENT <PATIENT NAME>""** to **8887019134**.
+*   You will receive a booking confirmation.
+
+**4. Walk-in (On-Site)**
+*   If you choose to visit in person, please bring the patient's **Aadhaar card** and an active mobile number.
+*   Registration counters are open Mon–Fri (9:00 AM–1:00 PM) and Sat (9:00 AM–12:00 PM).
+*   You will receive an OTP on your mobile to complete the registration and pay the ₹50 fee for the OPD slip.
+
+**Important Reminders:**
+*   **Pre-booking is strongly recommended** to avoid long wait times.
+*   If you are coming from outside Lucknow, please ensure you carry a valid referral letter for the specific department.
+*   OPD registration counters close at 1:00 PM sharp.
+
+I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline at 0522-2258880 / 0522-3539333. Also, please avoid sharing personal details like Aadhaar numbers or phone numbers in this chat for your safety.",2026-05-19T16:39:45.000Z,true,2026-05-19T16:38:04.739Z,en,0,opd,procedural,safety_redirect,,moderate,true,session_10684,true,33,7,1573,253,16,22,Tuesday,false,true,true,en,1,scheduling,high,neutral,How can I take appointment in opd,comprehensive,OPD;appointment,false,patient
