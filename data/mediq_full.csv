@@ -94633,3 +94633,197 @@ qa_1779468605251_oei2wx4c,,Gastro Dr name,"The faculty members for Gastroenterol
 If you are seeking an appointment, please use the online portal at [www.ors.gov.in](https://www.ors.gov.in) or call the KGMU helpline at 0522-2258880 / 0522-3539333.
 
 I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.",2026-05-22T16:50:05.000Z,true,2026-05-22T16:48:49.339Z,en,0,general,factual,safety_redirect,,simple,true,session_10812,true,14,3,748,104,16,22,Friday,false,true,true,en,0.9,information_seeking,high,neutral,Gastro Dr name,comprehensive,faculty;department,false,patient
+qa_1779469939312_zs05xmli,,Fees kitna hai,"The flat fee for an OPD registration slip at KGMU is **₹50**. This applies to all booking methods, including online (ORS), SMS, and on-site registration.",2026-05-22T17:12:20.000Z,true,2026-05-22T17:11:57.912Z,en,0,fees,factual,direct_answer,,simple,true,session_10813,false,14,3,153,25,17,22,Friday,false,false,false,hi-Latn,0.9,information_seeking,medium,neutral,How much are the fees?,comprehensive,fee;opd,false,patient
+qa_1779469972494_pzzcblts,,Bsc nursing ki fees kitna hai,"I am not qualified to provide specific fee structures for academic courses. Please visit the official KGMU website at [www.kgmu.org](https://www.kgmu.org) and check the ""Courses & Admissions"" section for detailed information regarding B.Sc. Nursing fees and admission guidelines.",2026-05-22T17:12:53.000Z,true,2026-05-22T17:11:57.912Z,en,0,fees,factual,safety_redirect,Nursing,moderate,true,session_10813,true,29,6,279,37,17,22,Friday,false,true,false,hi-Latn,0.9,information_seeking,low,neutral,What are the BSc nursing fees?,adequate,fee;admission;course,false,student
+qa_1779471106986_lzorv0ln,,"I have discharge report where an appointment is mentioned. Do I need OPD token ? If yes, then how to get OPD token?","Yes, you generally need an OPD token/slip to visit the hospital, even if you have a follow-up appointment mentioned in your discharge report. The registration process is mandatory for record-keeping and billing purposes.
+
+To get your OPD token, you can use any of the following methods:
+
+**1. Online Booking (Recommended to avoid long queues)**
+*   **Website:** Visit [www.ors.gov.in](https://ors.gov.in).
+*   **Process:** Register/Login, select Uttar Pradesh as the state and KGMU as the hospital. Choose the department mentioned in your discharge report, select your date, and pay the ₹50 fee online to generate your appointment slip.
+*   **Mobile App:** You can also use the **ABHA** or **Health Care** app following the same process.
+
+**2. SMS Booking**
+*   Send an SMS in the format: **""APPOINTMENT <PATIENT NAME>""** to **8887019134**. You will receive a booking confirmation.
+
+**3. Walk-in Registration (On-Site)**
+*   If you choose to visit in person, you must carry your **Aadhaar card** and an **active mobile number**.
+*   Go to the registration counter at the hospital. Provide your details, verify with the OTP sent to your phone, and pay the **₹50 fee** to receive your physical OPD slip.
+
+**Important Reminders:**
+*   **Timings:** OPD registration counters are open Mon–Fri 9:00 AM–1:00 PM and Sat 9:00 AM–12:00 PM. They close strictly at 1:00 PM, so it is highly recommended to arrive early.
+*   **Referral:** If you are coming from outside the city, please ensure you have a valid referral for the specific department.
+*   **Safety Notice:** I am not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline at **0522-2258880** / **0522-3539333** for further clarification. For your safety, please avoid sharing personal health details, Aadhaar numbers, or phone numbers in this chat.
+
+I was created by Dr. Ayush Yadav.",2026-05-22T17:31:49.000Z,true,2026-05-22T17:30:19.932Z,en,0,opd,procedural,safety_redirect,,complex,true,session_10814,false,115,23,1872,292,17,23,Friday,false,true,true,en,0.9,information_seeking,high,neutral,"I have discharge report where an appointment is mentioned. Do I need OPD token ? If yes, then how to get OPD token?",comprehensive,opd;appointment;discharge,false,patient
+qa_1779471748665_4v0uggpo,,"I have discharge report where an appointment is mentioned. Do I need OPD token ? If yes, then how to get OPD token?","Yes, you are required to have a valid OPD registration/token even if you have a follow-up appointment mentioned in your discharge report. OPD registration is mandatory for all patients to ensure proper documentation and record-keeping in the KGMU system.
+
+To obtain your OPD token/slip, you can use any of the following methods:
+
+**1. Online Booking (Recommended to save time)**
+*   **ORS Portal:** Visit [www.ors.gov.in](https://www.ors.gov.in). Select Uttar Pradesh as the state and KGMU as the hospital. Choose your department, date, and time slot, and pay the ₹50 fee online to download your appointment slip.
+*   **Mobile App:** You can use the ABHA or the official Health Care app to follow the same registration process.
+*   **SMS:** You can send an SMS with the text ""APPOINTMENT <NAME>"" to **8887019134**.
+
+**2. On-Site Registration (Walk-in)**
+*   If you choose to visit the hospital directly, you must go to the **Parchi (Ticket) Counter** at the OPD.
+*   **Requirements:** You must carry your **Aadhaar card** and an active mobile number (to receive the OTP).
+*   **Process:** Provide your details at the counter, verify via the OTP received on your phone, and pay the **₹50** fee to collect your physical OPD slip.
+*   **Important Note:** The registration counters close at **1:00 PM sharp** (Mon–Fri) and **12:00 PM** on Saturdays. Please arrive early to avoid long wait times.
+
+**Safety Reminder:** I am not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline at 0522-2258880 / 0522-3539333. For your privacy and safety, please do not share personal health details, Aadhaar numbers, or contact information in this chat.",2026-05-22T17:42:28.000Z,true,2026-05-22T17:42:13.423Z,en,0,opd,procedural,safety_redirect,,complex,true,session_10815,false,115,23,1676,265,17,23,Friday,false,true,true,en,0.9,information_seeking,high,neutral,"I have discharge report where an appointment is mentioned. Do I need OPD token ? If yes, then how to get OPD token?",comprehensive,opd;appointment;discharge,false,patient
+qa_1779473867853_fb5jeo6b,,Nephrologist ki opd kb kb hoti hai,"Nephrology विभाग की OPD **सोमवार, बुधवार और शुक्रवार** को होती है। यह OPD **New OPD Building (Shatabdi Phase-2)** की **चौथी मंजिल (4th Floor), रूम नंबर 401** में लगती है।
+
+कृपया ध्यान दें:
+*   OPD में दिखाने के लिए ऑनलाइन पंजीकरण (Online Registration) अनिवार्य है। 
+*   आप अपनी अपॉइंटमेंट [www.ors.gov.in](https://www.ors.gov.in) पर जाकर बुक कर सकते हैं।
+*   OPD का समय सुबह 9:00 बजे से दोपहर 1:00 बजे तक है। पर्ची (Ticket) काउंटर दोपहर 1:00 बजे बंद हो जाता है, इसलिए समय से पहले पहुँचें।
+
+मैं एक AI सहायक हूँ, जिसे डॉ. आयुष यादव द्वारा बनाया गया है। यदि आपको कोई स्वास्थ्य संबंधी समस्या है, तो कृपया KGMU OPD में डॉक्टर से परामर्श लें। अपनी सुरक्षा के लिए चैट में कोई भी निजी स्वास्थ्य जानकारी या व्यक्तिगत विवरण साझा न करें।",2026-05-22T18:17:49.000Z,true,2026-05-22T18:17:21.367Z,en,0,opd,factual,direct_answer,,moderate,true,session_10816,false,34,7,726,129,18,23,Friday,false,true,true,hi-Latn,0.9,information_seeking,high,neutral,What are the OPD timings for Nephrologist?,comprehensive,opd;timing;faculty;nephrology,false,patient
+qa_1779473986875_ah406e4o,,Nephrologist ki lie doctor konse hai,"Nephrology (गुर्दा रोग) विभाग में उपलब्ध विशेषज्ञ डॉक्टरों की सूची निम्नलिखित है:
+
+*   **डॉ. विश्वजीत सिंह** (MS, MCh, FICS, PDCR, PGDHHM) – विभाग के कार्यवाहक प्रमुख (Officiating Head of Department)
+*   **डॉ. लक्ष्य कुमार** (DM Nephrology) – सहायक प्रोफेसर (Assistant Professor)
+
+आप विभाग के बारे में अधिक जानकारी यहाँ देख सकते हैं: [Nephrology Department](https://www.kgmu.org/department_details.php?dept_id=61&dept_type=2)
+
+**महत्वपूर्ण सूचना:**
+मैं एक AI सहायक हूँ, जिसे डॉ. आयुष यादव द्वारा बनाया गया है। मैं कोई डॉक्टर नहीं हूँ, इसलिए मैं चिकित्सा संबंधी सलाह नहीं दे सकता। कृपया अपनी स्वास्थ्य समस्याओं के लिए KGMU OPD में जाकर किसी योग्य डॉक्टर से परामर्श लें। अपनी सुरक्षा के लिए चैट में कोई भी निजी स्वास्थ्य जानकारी, आधार नंबर या फोन नंबर साझा न करें।",2026-05-22T18:19:48.000Z,true,2026-05-22T18:17:21.367Z,en,0,general,factual,direct_answer,,moderate,true,session_10816,true,36,6,762,117,18,23,Friday,false,true,true,hi-Latn,0.9,information_seeking,high,neutral,Which doctors are available for Nephrologist,comprehensive,department;faculty;nephrology,false,patient
+qa_1779474249522_kx1094jv,,Bpt course,"Information regarding the Bachelor of Physiotherapy (BPT) course at King George's Medical University can be found on the official website under the courses and admissions section.
+
+You can visit the following link to learn more about the curriculum, eligibility, and admission process:
+[https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+If you have specific questions about the application procedure or course structure, please let me know!",2026-05-22T18:24:09.000Z,true,2026-05-22T18:23:56.484Z,en,0,courses,factual,referral,,simple,true,session_10817,false,10,2,479,59,18,23,Friday,false,true,false,en,0.9,information_seeking,medium,neutral,Bpt course,adequate,course;admission;bpt,false,student
+qa_1779474321830_7lqdni5v,,BPT COURSE MA ADMISSION  CHAYIYA   2026,"I understand you are interested in admission to the Bachelor of Physiotherapy (BPT) course at KGMU for the year 2026.
+
+I am not qualified to provide medical advice or specific admission counseling. Please consult a doctor at KGMU OPD or call the helpline if you have health concerns. Also, please avoid sharing personal details in this chat for your safety.
+
+Regarding your query:
+1. **Admission Process:** KGMU typically conducts its own entrance examinations or follows the state-level counseling process for various courses. For the most accurate and updated information regarding the 2026 academic session, please keep a close watch on the official KGMU Admissions portal at [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php).
+2. **Notifications:** Official notifications for admission, including eligibility criteria, entrance exam dates, and application forms, are released on the ""Notice Board"" section of the website: [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php).
+3. **Contact:** For direct inquiries regarding admissions, you may contact the Registrar's Office at **0522-2253171**.
+
+I was created by Dr. Ayush Yadav.",2026-05-22T18:25:22.000Z,true,2026-05-22T18:23:56.484Z,en,0,admissions,factual,safety_redirect,,moderate,true,session_10817,true,39,6,1199,155,18,23,Friday,false,true,true,hi-Latn-en,0.8,information_seeking,medium,neutral,BPT COURSE MA ADMISSION  CHAYIYA   2026,partial,admission;bpt;course,false,student
+qa_1779474375723_djdseoay,,Nephrologist,"You can find information regarding the Department of Nephrology at KGMU here: [https://www.kgmu.org/department_details.php?dept_id=61&dept_type=2](https://www.kgmu.org/department_details.php?dept_id=61&dept_type=2)
+
+If you are seeking an appointment, please note that online registration is mandatory. You can book an appointment via [www.ors.gov.in](https://www.ors.gov.in), by calling 0522-2258880 or 0522-3539333, or by sending an SMS ""APPOINTMENT [Patient Name]"" to 8887019134.
+
+I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.",2026-05-22T18:26:17.000Z,true,2026-05-22T18:17:21.367Z,en,0,general,factual,safety_redirect,,simple,true,session_10816,true,12,1,659,78,18,23,Friday,false,true,false,en,0.9,information_seeking,high,neutral,Nephrologist,adequate,department;nephrology,false,patient
+qa_1779474480226_s4yzwo1s,,KGMU m online appointment kese le hindi m btao,"KGMU में ऑनलाइन अपॉइंटमेंट लेने के मुख्य तरीके नीचे दिए गए हैं:
+
+**1. ORS पोर्टल के माध्यम से (सबसे आसान तरीका):**
+*   सबसे पहले वेबसाइट [www.ors.gov.in](https://www.ors.gov.in) पर जाएं।
+*   वहां 'New Appointment' पर क्लिक करें।
+*   अपना राज्य (Uttar Pradesh) और फिर अस्पताल (KGMU) चुनें।
+*   अपना विभाग (Department), तारीख और समय चुनें।
+*   अपना आधार नंबर और मोबाइल नंबर डालकर रजिस्टर करें।
+*   ₹50 का ऑनलाइन भुगतान (Payment) करें।
+*   अपॉइंटमेंट स्लिप डाउनलोड कर लें।
+
+**2. मोबाइल ऐप के माध्यम से:**
+*   आप KGMU Play Store से **'ABHA'** या **'ORS'** ऐप डाउनलोड कर सकते हैं।
+*   अपने मोबाइल नंबर से रजिस्टर करें और ऊपर बताए गए चरणों का पालन करें।
+
+**3. SMS के माध्यम से:**
+*   अपने मोबाइल से **""APPOINTMENT [मरीज का नाम]""** लिखकर **8887019134** नंबर पर SMS भेजें। आपको बुकिंग की पुष्टि (confirmation) प्राप्त होगी।
+
+**कुछ महत्वपूर्ण बातें:**
+*   ऑनलाइन बुकिंग के लिए ₹50 का शुल्क अनिवार्य है।
+*   OPD का समय सुबह 9:00 बजे से दोपहर 1:00 बजे तक (सोमवार-शुक्रवार) और शनिवार को सुबह 9:00 बजे से दोपहर 12:00 बजे तक होता है।
+*   अस्पताल आने पर अपनी अपॉइंटमेंट स्लिप और आधार कार्ड साथ जरूर लाएं।
+
+मैं चिकित्सा सलाह देने के लिए योग्य नहीं हूँ। कृपया KGMU OPD में डॉक्टर से परामर्श लें या हेल्पलाइन नंबर 0522-2258880 / 0522-3539333 पर कॉल करें। साथ ही, अपनी सुरक्षा के लिए इस चैट में कोई भी व्यक्तिगत स्वास्थ्य जानकारी या निजी विवरण साझा न करें।",2026-05-22T18:28:01.000Z,true,2026-05-22T18:17:21.367Z,en,0,appointment,factual,direct_answer,,moderate,true,session_10816,true,46,9,1337,235,18,23,Friday,false,true,true,hi-Latn,0.9,scheduling,high,neutral,How to take online appointment in KGMU in Hindi,comprehensive,appointment;online,false,patient
+qa_1779474879174_7r9fuaj5,,Vishwajeet sing nephrologist kis kis din dekhte hai,"डॉ. विश्वजीत सिंह (विभागाध्यक्ष, नेफ्रोलॉजी) नेफ्रोलॉजी विभाग में उपलब्ध रहते हैं। नेफ्रोलॉजी विभाग की OPD का समय **सोमवार, बुधवार और शुक्रवार** (Mon/Wed/Fri) को सुबह 9:00 बजे से दोपहर 1:00 बजे तक है।
+
+कृपया ध्यान दें कि डॉक्टरों की उपलब्धता में प्रशासनिक कारणों से बदलाव हो सकता है, इसलिए अस्पताल आने से पहले आप KGMU की हेल्पलाइन **0522-2258880** या **0522-3539333** पर कॉल करके उनकी उपलब्धता की पुष्टि अवश्य कर लें।
+
+मैं चिकित्सा सलाह देने के लिए योग्य नहीं हूँ। कृपया KGMU OPD में डॉक्टर से परामर्श लें। अपनी सुरक्षा के लिए इस चैट में कृपया कोई भी व्यक्तिगत स्वास्थ्य जानकारी, आधार नंबर या फोन नंबर साझा न करें।",2026-05-22T18:34:40.000Z,true,2026-05-22T18:17:21.367Z,en,0,general,factual,direct_answer,,moderate,true,session_10816,true,51,8,614,107,18,0,Friday,false,false,false,hi-Latn,0.9,information_seeking,high,neutral,"Dr. Vishwajeet Singh, nephrologist, on which days does he see patients?",comprehensive,department;faculty;opd,false,patient
+qa_1779474913733_35rxosgf,,Inki opd kha hai,"नेफ्रोलॉजी विभाग की OPD **न्यू OPD बिल्डिंग (New OPD Building)** में स्थित है।
+
+नेफ्रोलॉजी विभाग के लिए OPD का कमरा नंबर **401** है (जो कि चौथी मंजिल पर स्थित है)। 
+
+अस्पताल पहुँचने के लिए:
+* यदि आप **गेट नंबर 2 (मुख्य अस्पताल/OPD गेट)** से प्रवेश करते हैं, तो आप सीधे न्यू OPD बिल्डिंग की ओर जा सकते हैं।
+* वहाँ पहुँचकर आप चौथी मंजिल (4th Floor) पर स्थित कमरा नंबर 401 पर जा सकते हैं।
+
+मैं चिकित्सा सलाह देने के लिए योग्य नहीं हूँ। कृपया KGMU OPD में डॉक्टर से परामर्श लें या हेल्पलाइन नंबर 0522-2258880 / 0522-3539333 पर कॉल करें। साथ ही, अपनी सुरक्षा के लिए इस चैट में कोई भी व्यक्तिगत स्वास्थ्य जानकारी या निजी विवरण साझा न करें।",2026-05-22T18:35:14.000Z,true,2026-05-22T18:17:21.367Z,en,0,opd,factual,direct_answer,,simple,true,session_10816,true,16,4,633,121,18,0,Friday,false,false,true,hi-Latn,0.9,navigation,medium,neutral,Where is his OPD?,comprehensive,opd;location,false,patient
+qa_1779475041075_ltzxvpre,,Opd ke bad bharti kaise hote hai,"OPD में डॉक्टर को दिखाने के बाद भर्ती (Admission) की प्रक्रिया निम्नलिखित है:
+
+1. **डॉक्टर की सलाह:** यदि OPD में डॉक्टर को लगता है कि आपको भर्ती होने की आवश्यकता है, तो वे आपके पर्चे (OPD Slip) पर **""Admission""** लिखेंगे और संबंधित विभाग के भर्ती काउंटर (Admission Counter) पर जाने की सलाह देंगे।
+2. **एडमिशन फॉर्म:** डॉक्टर के निर्देशानुसार, आपको संबंधित विभाग के वार्ड या एडमिशन काउंटर पर जाना होगा। वहां आपसे डॉक्टर द्वारा हस्ताक्षरित (signed) पर्चा मांगा जाएगा।
+3. **पंजीकरण (Registration):** भर्ती काउंटर पर आपकी जानकारी दर्ज की जाएगी और आपको भर्ती का पर्चा/स्लिप दी जाएगी।
+4. **शुल्क जमा करना:** अस्पताल के नियमानुसार जो भी शुल्क लागू होगा, वह आपको अस्पताल के कैश काउंटर पर जमा करना होगा।
+5. **वार्ड में रिपोर्ट करना:** शुल्क जमा करने के बाद, आपको संबंधित वार्ड में जाकर ड्यूटी पर मौजूद नर्स या स्टाफ को वह पर्चा दिखाना होगा, जिसके बाद वे आपको बेड आवंटित (allocate) करेंगे।
+
+**ध्यान रखने योग्य बातें:**
+* **आधार कार्ड:** हमेशा अपना ओरिजिनल आधार कार्ड और उसकी फोटोकॉपी साथ रखें।
+* **रेफरल:** यदि आप शहर के बाहर से आ रहे हैं, तो अपने साथ संबंधित विभाग का वैध रेफरल लेटर जरूर रखें।
+* **इमरजेंसी:** यदि स्थिति गंभीर है, तो OPD के बजाय सीधे **ट्रॉमा सेंटर (गेट नंबर 14)** पर जाएं।
+
+मैं चिकित्सा सलाह देने के लिए योग्य नहीं हूँ। कृपया अस्पताल के प्रशासनिक काउंटर पर भर्ती प्रक्रिया के बारे में सटीक जानकारी लें। अपनी सुरक्षा के लिए इस चैट में कोई भी व्यक्तिगत स्वास्थ्य जानकारी, आधार नंबर या फोन नंबर साझा न करें।",2026-05-22T18:37:22.000Z,true,2026-05-22T18:17:21.367Z,en,0,opd,procedural,direct_answer,,moderate,true,session_10816,true,32,7,1414,253,18,0,Friday,false,false,true,hi-Latn,0.9,information_seeking,high,neutral,How does admission happen after OPD?,comprehensive,admission;opd,false,patient
+qa_1779475249231_kc7rwjn6,,Iha pr best nephrologist kon kon hai,"KGMU के नेफ्रोलॉजी विभाग में सभी डॉक्टर अत्यधिक योग्य और अनुभवी हैं। विभाग के प्रमुख और अन्य वरिष्ठ फैकल्टी सदस्यों की जानकारी नीचे दी गई है:
+
+*   **डॉ. विश्वजीत सिंह:** विभागाध्यक्ष (Officiating Head of Department)
+*   **डॉ. लक्ष्य कुमार:** असिस्टेंट प्रोफेसर (नेफ्रोलॉजी और रीनल ट्रांसप्लांटेशन)
+
+आप इन फैकल्टी सदस्यों के बारे में अधिक जानकारी उनकी आधिकारिक प्रोफाइल लिंक पर देख सकते हैं: [https://www.kgmu.org/department_details.php?dept_id=61&dept_type=2](https://www.kgmu.org/department_details.php?dept_id=61&dept_type=2)
+
+**महत्वपूर्ण सुझाव:**
+*   KGMU के सभी डॉक्टर विशेषज्ञ हैं, और आप अपनी आवश्यकता के अनुसार किसी भी उपलब्ध डॉक्टर से परामर्श ले सकते हैं।
+*   किसी भी डॉक्टर से मिलने के लिए ऑनलाइन अपॉइंटमेंट लेना अनिवार्य है।
+*   मैं चिकित्सा सलाह देने के लिए योग्य नहीं हूँ। कृपया KGMU OPD में डॉक्टर से परामर्श लें या हेल्पलाइन नंबर 0522-2258880 / 0522-3539333 पर कॉल करें। 
+
+अपनी सुरक्षा के लिए इस चैट में कोई भी व्यक्तिगत स्वास्थ्य जानकारी, आधार नंबर या फोन नंबर साझा न करें।",2026-05-22T18:40:50.000Z,true,2026-05-22T18:17:21.367Z,en,0,general,entity,direct_answer,,moderate,true,session_10816,true,36,7,988,147,18,0,Friday,false,true,true,hi-Latn-en,0.8,information_seeking,high,neutral,Who are the best nephrologists here?,comprehensive,faculty;department,false,patient
+qa_1779477289346_bvicyq2u,,Admmision chaiye,"To get information regarding admissions at King George's Medical University, please visit the official admissions page: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php).
+
+This page contains details about various courses, eligibility criteria, and the admission process.
+
+I was created by Dr. Ayush Yadav.",2026-05-22T19:14:49.000Z,true,2026-05-22T19:14:27.496Z,en,0,general,factual,referral,,simple,true,session_10818,false,16,2,344,37,19,0,Friday,false,true,false,hi-Latn,0.9,information_seeking,low,neutral,I want admission,adequate,admission,true,student
+qa_1779477436854_xo58xkre,,Bsc radiology ke liye admission abhi open h?,"I am not aware of the current admission status for B.Sc. in Radiology as schedules change according to the university's academic calendar.
+
+For the most accurate and up-to-date information regarding admissions, course availability, and application deadlines, please visit the official KGMU admissions page: https://www.kgmu.org/courses_admission.php
+
+You can also check the KGMU Notice Board for any recent notifications: https://kgmu.org/kgmu_notice_board.php",2026-05-22T19:17:19.000Z,true,2026-05-22T19:16:45.426Z,en,0,admissions,factual,referral,Radiology,moderate,true,session_10819,false,44,8,460,57,19,0,Friday,false,true,false,hi-Latn,0.9,information_seeking,medium,neutral,Are admissions for B.Sc. Radiology currently open?,adequate,admission;course;bsc_radiology,false,student
+qa_1779477437234_tx7ljmue,,BMLS ki kitni seat hai,"For information regarding the number of seats for the BMLS (Bachelor of Medical Laboratory Science) course, please check the official admissions page at [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php) or refer to the specific brochure for the current academic session available on the KGMU website. 
+
+If you have specific questions about the application process, you can also contact the admission cell through the official website.",2026-05-22T19:17:17.000Z,true,2026-05-22T19:14:27.496Z,en,0,admissions,factual,referral,,moderate,true,session_10818,true,22,5,473,60,19,0,Friday,false,true,false,hi-Latn,0.9,information_seeking,medium,neutral,How many seats are available for BMLS?,adequate,admission;course;bmls,false,student
+qa_1779477517931_i92h0g85,,Seats kitni hai,"To provide you with accurate information regarding the number of seats, I need to know which course you are inquiring about (e.g., MBBS, MD/MS, BDS, MDS, or other paramedical/nursing courses).
+
+Please specify the course or visit the official admissions page for the most updated seat matrix: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)",2026-05-22T19:18:38.000Z,true,2026-05-22T19:14:27.496Z,en,0,admissions,factual,referral,,simple,true,session_10818,true,15,3,380,47,19,0,Friday,false,true,false,hi-Latn,0.9,information_seeking,medium,neutral,How many seats are available?,partial,admission;seat_matrix,true,student
+qa_1779477578711_ri6grcib,,Open nhi ho rha bsc radiology,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+Regarding the website access issue, please try accessing the B.Sc. Radiology course details directly through this link: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php).
+
+If you are looking for specific examination results, please use this link: [https://kgmu.org/kgmu_result/examination_result.php](https://kgmu.org/kgmu_result/examination_result.php).
+
+If the page still does not open, please ensure your internet connection is stable or try using a different web browser. If the issue persists, you may contact the KGMU IT cell or the Registrar's office at 0522-2253171 for further assistance.",2026-05-22T19:19:40.000Z,true,2026-05-22T19:16:45.426Z,en,0,departments,factual,safety_redirect,Radiology,moderate,true,session_10819,true,29,6,814,102,19,0,Friday,false,true,false,hi-Latn,0.9,information_seeking,low,frustrated,B.Sc. Radiology admissions are not opening,deflected,admission;course;bsc_radiology,false,student
+qa_1779477638127_6315zvps,,BMLS seat availiable total,"For information regarding seat availability and admission processes for BMLS (Bachelor of Medical Laboratory Science) or other courses at King George's Medical University, please visit the official admissions page: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+You can also check the KGMU Notice Board for any recent seat matrix or admission notifications: [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)",2026-05-22T19:20:38.000Z,true,2026-05-22T19:14:27.496Z,en,0,admissions,factual,referral,,simple,true,session_10818,true,26,4,481,47,19,0,Friday,false,true,false,hi-Latn-en,0.8,information_seeking,medium,neutral,Total BMLS seat availability,adequate,admission;course;bmls,false,student
+qa_1779482555013_u3d4lol2,,Kya kgmu bpt aur mpt dono course provide krta hai,"Haan, KGMU BPT (Bachelor of Physiotherapy) aur MPT (Master of Physiotherapy) dono courses provide karta hai.
+
+Aap in courses aur admission se sambandhit adhik jankari ke liye KGMU ki official website: [www.kgmu.org](https://www.kgmu.org) par ""Courses & Admission"" section dekh sakte hain.",2026-05-22T20:42:35.000Z,true,2026-05-22T20:42:07.286Z,en,0,courses,yes_no,direct_answer,,moderate,true,session_10820,false,49,10,288,40,20,2,Friday,false,true,false,hi-Latn,0.9,information_seeking,medium,neutral,Does KGMU provide both BPT and MPT courses?,comprehensive,course;admission,false,student
+qa_1779482590533_gmleu535,,Aap sure ho dono course provide krta hai,,2026-05-22T20:43:10.000Z,true,2026-05-22T20:42:07.286Z,en,0,courses,factual,direct_answer,,moderate,true,session_10820,true,40,8,0,0,20,2,Friday,false,false,false,hi-Latn,0.9,information_seeking,medium,neutral,Are you sure it provides both courses?,deflected,course;admission,true,student
+qa_1779482670338_2b0exwdx,,Admission ka process kya hai,"KGMU mein BPT aur MPT courses mein admission ka process mukhyatah pravesh pariksha (Entrance Examination) par aadharit hota hai. Iska samanya process niche diya gaya hai:
+
+1. **Official Notification:** KGMU har saal apni website [www.kgmu.org](https://www.kgmu.org) par admission ke liye notification jaari karta hai. Aapko ""Courses & Admission"" section par nazar rakhni hogi.
+2. **Entrance Exam:** In courses mein admission ke liye KGMU dwara ayojit entrance exam dena hota hai.
+3. **Application Form:** Jab notification aata hai, tab aapko online application form bharna hota hai.
+4. **Counselling:** Entrance exam mein prapt marks (merit) ke aadhar par counselling hoti hai, jahan candidates ko unki rank ke anusar seat allot ki jaati hai.
+5. **Eligibility:** 
+   - **BPT ke liye:** 10+2 (Physics, Chemistry, Biology) mein nirdharit pratishat (percentage) ke saath pass hona avashyak hai.
+   - **MPT ke liye:** BPT ki degree kisi manyata prapt university se hona avashyak hai.
+
+**Sallah:** Admission process aur eligibility criteria har saal thode badal sakte hain, isliye main sujhaav dunga ki aap KGMU ki official website [www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php) ko niyamit roop se check karte rahein taaki aapko latest prospectus aur dates ki sahi jaankari mil sake. 
+
+Agar aapko kisi aur vishay par jaankari chahiye, toh zaroor puchein.",2026-05-22T20:44:30.000Z,true,2026-05-22T20:42:07.286Z,en,0,admissions,procedural,referral,,moderate,true,session_10820,true,28,5,1383,197,20,2,Friday,false,true,true,hi,0.9,information_seeking,medium,neutral,What is the admission process?,comprehensive,admission;course,false,student
+qa_1779485650603_olu5ie5d,,Sir kya kgmu me vacancy available hai,"KGMU me nikalne wali sabhi naukriyon (vacancies) ki jaankari aap hamari adhikarik website par dekh sakte hain.
+
+Aap niche diye gaye link par jakar current recruitments aur advertisements check kar sakte hain:
+https://www.kgmu.org/job_opportunity.php
+
+Yadi aap kisi vishesh pad (post) ya vibhag ke bare mein jaanna chahte hain, toh kripya batayein.
+
+Main KGMU AI Chatbot hoon, jise Dr. Ayush Yadav (MBBS, Batch of 2019) dwara banaya gaya hai.",2026-05-22T21:34:08.000Z,true,2026-05-22T21:33:23.169Z,en,0,career,factual,referral,,moderate,true,session_10821,false,37,7,441,67,21,3,Friday,false,true,false,hi-Latn-en,0.8,information_seeking,low,neutral,"Sir, are there any vacancies available at KGMU?",adequate,job_opportunity;vacancy,false,visitor
