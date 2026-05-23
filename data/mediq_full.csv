@@ -95364,3 +95364,201 @@ qa_1779551099762_87d3hdj1,,Online booking,"To book an appointment at KGMU, pleas
 *   If you are traveling from outside Lucknow, please ensure you have a valid referral for your specific department.
 *   OPD timings are: Mon–Fri (9:00 AM–1:00 PM) and Sat (9:00 AM–12:00 PM). The hospital is closed on Sundays.
 *   For any further assistance, you may call the KGMU helpline at **0522-2258880** or **0522-3539333**.",2026-05-23T15:45:01.000Z,true,2026-05-23T15:44:38.583Z,en,0,general,factual,referral,,simple,true,session_10852,false,14,2,1516,235,15,21,Saturday,true,true,true,en,0.9,scheduling,high,neutral,Online booking,comprehensive,appointment;online booking;portal,false,patient
+qa_1779551685733_534qnavj,,Majar locations in campus,"Major locations and access points at KGMU include:
+
+### **Access Gates**
+*   **Gate 1 (Academic/Admin):** Best for Pediatrics Dept (Wards), Kalam Centre, and Dean/Exam offices. [26.8677, 80.9166]
+*   **Gate 2 (Main Hospital/OPD):** Best for New OPD, New Dental, PRO Office, and Gandhi Ward. [26.8670, 80.9159]
+*   **Gate 14 (Trauma Entry):** Direct access to Emergency services. [26.8665, 80.9160]
+*   **Gate 24 (Employees/Students):** Near SP Ground. Open 6:00 AM–10:00 AM and 4:00 PM–6:00 PM.
+
+### **Emergency & Specialized Units**
+*   **General & Pediatric Emergency:** Located at the **Trauma Centre (Gate 14)**.
+*   **Cardiology Emergency:** Stabilize at the Trauma Centre first, then transfer to **LARI Cardiology** (across the road).
+*   **Shatabdi Hospital:** Accessed via Gate 17 (requires exiting Trauma via Gate 16).
+*   **Queen Mary’s Hospital (OBGYN):** Located on the Shah Mina Road belt.
+
+### **Internal Navigation Routes**
+*   **New OPD to Badi Pathology:** Follow Linker Road to Gate 1 Road, pass the Kalam Centre, and turn right at the Forensic T-Point.
+*   **Gate 2 to KCH (Respiratory Med):** Follow Linker Road, turn 90° right past Pharmacology, pass Anesthesiology, and follow the arc past the BMW (Biomedical Waste) area.
+
+### **Important Campus Hubs**
+*   **Kalam Centre:** Near Gate 1 (Academic hub).
+*   **Shah Mina Road Belt:** Across from Gates 1 & 2, housing Old Dental, Queen Mary’s (OBGYN), Psychiatry, LARI Cardiology, New Cardiology, CTVS, Geriatric Psychiatry, and RALC/Orthopedics.
+
+If you are looking for a specific department or building, please let me know!",2026-05-23T15:54:46.000Z,true,2026-05-23T15:54:10.341Z,en,0,general,factual,direct_answer,,simple,true,session_10853,false,25,4,1595,239,15,21,Saturday,true,false,true,en,0.9,information_seeking,medium,neutral,Major locations in campus,comprehensive,location;campus,false,visitor
+qa_1779551738569_rml3fmzw,,Various locations of mazars in kgmu campus,"I am not aware of any ""mazars"" (shrines) located within the KGMU campus. The university is a medical and academic institution, and its premises are primarily dedicated to hospital facilities, departments, hostels, administrative offices, and academic centers.
+
+If you are referring to specific hospital blocks, landmarks, or departments on the campus, please let me know, and I would be happy to help you navigate to them.",2026-05-23T15:55:39.000Z,true,2026-05-23T15:54:10.341Z,en,0,general,factual,direct_answer,,moderate,true,session_10853,true,42,7,422,66,15,21,Saturday,true,false,false,en,0.9,information_seeking,low,neutral,Various locations of mazars in kgmu campus,adequate,location;campus;other,false,visitor
+qa_1779552217588_54px3y7b,,2026 intership schedule,"For information regarding the 2026 internship schedule, please refer to the official KGMU notice board, where all academic and administrative circulars are published:
+
+[https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)
+
+If you cannot find the specific schedule there, I recommend contacting the Registrar's office at **0522-2253171** or visiting the Dean's office (located near Gate 1) for the most accurate and up-to-date information.",2026-05-23T16:03:38.000Z,true,2026-05-23T16:03:10.615Z,en,0,general,temporal,referral,,simple,true,session_10854,false,23,3,465,56,16,21,Saturday,true,true,false,en,0.9,information_seeking,low,neutral,2026 internship schedule,adequate,academic;schedule,false,student
+qa_1779552473786_6y5lo8si,,Pharmacist vacancy,"For information regarding current job openings, including pharmacist vacancies at King George's Medical University, please visit the official recruitment section of our website:
+
+https://www.kgmu.org/job_opportunity.php
+
+You can also check the ""Notice Board"" section at https://kgmu.org/kgmu_notice_board.php for the latest notifications and advertisements.",2026-05-23T16:07:54.000Z,true,2026-05-23T16:06:56.876Z,en,0,departments,factual,referral,Pharmacology,simple,true,session_10855,false,18,2,357,40,16,21,Saturday,true,true,false,en,0.9,information_seeking,medium,neutral,Pharmacist vacancy,adequate,job;recruitment,false,staff
+qa_1779552515889_zchd1j3e,,Check kar ke batao,"I have checked the current recruitment section on the official KGMU website. Currently, there are no active advertisements specifically for a **Pharmacist** position listed on the main [Job Opportunities](https://www.kgmu.org/job_opportunity.php) or [Notice Board](https://kgmu.org/kgmu_notice_board.php) pages.
+
+Please continue to monitor those links periodically, as new vacancies are updated there as soon as they are officially released by the university administration.",2026-05-23T16:08:35.000Z,true,2026-05-23T16:06:56.876Z,en,0,general,factual,direct_answer,,simple,true,session_10855,true,18,4,474,57,16,21,Saturday,true,true,false,hi-Latn,0.8,information_seeking,medium,neutral,Check and tell,adequate,job;recruitment,false,staff
+qa_1779553857207_px72pew0,,Kgmu ot assistant ki final shortlist kab ayega,I am not able to provide real-time updates regarding specific recruitment results or shortlist dates. Please keep checking the official KGMU website's notice board regularly for the latest updates: [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php),2026-05-23T16:31:00.000Z,true,2026-05-23T16:30:23.113Z,en,0,general,temporal,direct_answer,,moderate,true,session_10856,false,46,8,278,30,16,22,Saturday,true,true,false,hi-Latn-en,0.9,information_seeking,medium,neutral,When will the final shortlist of KGMU OT assistant come?,adequate,admission;exam;recruitment,false,student
+qa_1779553893123_rnfwozzt,,Hindi m btao,मैं भर्ती से संबंधित विशिष्ट परिणामों या शॉर्टलिस्ट की तारीखों के बारे में जानकारी देने में असमर्थ हूँ। कृपया नवीनतम अपडेट के लिए नियमित रूप से KGMU की आधिकारिक वेबसाइट के नोटिस बोर्ड को चेक करते रहें: [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php),2026-05-23T16:31:36.000Z,true,2026-05-23T16:30:23.113Z,en,0,general,factual,direct_answer,,simple,true,session_10856,true,12,3,282,38,16,22,Saturday,true,true,false,hi,0.95,information_seeking,medium,neutral,Tell me in Hindi,comprehensive,admission;exam,false,student
+qa_1779554382735_x6o44jud,,Mujhe apna form fill krna hai cbt exam k liye,"KGMU mein kisi bhi exam ya admission process ke liye aapko university ki official website www.kgmu.org par jaana hoga.
+
+CBT (Computer Based Test) ya kisi bhi course ke application form ke liye aap niche diye gaye steps follow karein:
+
+1.  **Website par jayein:** [www.kgmu.org](https://www.kgmu.org) par visit karein.
+2.  **Admissions Section:** Website par 'Courses & Admission' ya 'Admission' tab ko dhundhein.
+3.  **Notifications:** Wahan par latest entrance exam ya recruitment notifications check karein.
+4.  **Application Link:** Agar koi exam form active hai, toh wahan 'Apply Online' ka link diya hoga.
+
+Agar aap kisi specific course (jaise MBBS, MD/MS, Nursing, ya koi aur) ya recruitment exam ki baat kar rahe hain, toh please uska naam batayein taaki main aapko sahi link provide kar saku.
+
+**Note:** I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+I was created by Dr. Ayush Yadav.",2026-05-23T16:39:42.000Z,true,2026-05-23T16:39:14.068Z,en,0,exams,factual,safety_redirect,,moderate,true,session_10857,false,45,10,1023,160,16,22,Saturday,true,true,true,hi-Latn,0.92,information_seeking,medium,neutral,I need to fill my form for CBT exam,comprehensive,exam;admission;cbt,false,student
+qa_1779554812015_yga4wbm3,,Kgmu kitna placement deta h apni taraf se,"KGMU ek medical university hai, koi engineering ya management college nahi, isliye yahan ""placement"" ka concept traditional corporate companies ki tarah nahi hota.
+
+KGMU mein career path kuch is tarah chalta hai:
+
+1. **MBBS Graduates:** MBBS karne ke baad students ya toh post-graduation (PG) ki taiyari karte hain (NEET PG exam ke zariye) ya phir Junior Residency (JR) join karte hain. KGMU mein hi Junior Residency ke liye kaafi posts nikalti hain jahan aap kaam kar sakte hain.
+2. **Post-Graduation (MD/MS/DM/MCh):** PG aur Super-specialization ke baad doctors ya toh government hospitals mein medical officer bante hain, private practice shuru karte hain, ya phir teaching (Assistant Professor) mein career banate hain.
+3. **Career Prospects:** KGMU se MBBS ya PG karne ka sabse bada fayda ye hai ki yahan ki **clinical exposure** aur **reputation** bahut zyada hai, jisse aapko desh ke kisi bhi bade hospital mein aasani se job ya residency mil jati hai. 
+
+Agar aap admission ya courses ke baare mein adhik jaankari chahte hain, toh aap yahan dekh sakte hain: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+*Note: I was created by Dr. Ayush Yadav.*",2026-05-23T16:46:53.000Z,true,2026-05-23T16:46:12.443Z,en,0,general,factual,direct_answer,,moderate,true,session_10858,false,41,8,1196,179,16,22,Saturday,true,true,true,hi-Latn,0.9,information_seeking,low,neutral,How much placement does KGMU provide?,comprehensive,placement,false,student
+qa_1779554889072_xfqerd2n,,Admission exam hota h ?,"KGMU mein admission ke liye exam dena hota hai, lekin yeh aapke course par nirbhar karta hai. KGMU mein admission ke liye koi ek single exam nahi hai, balki alag-alag courses ke liye alag national level exams hote hain:
+
+1. **MBBS:** NEET-UG (National Eligibility cum Entrance Test) exam ke madhyam se hota hai.
+2. **MD/MS (Post-Graduation):** NEET-PG exam ke madhyam se hota hai.
+3. **DM/MCh (Super-specialization):** NEET-SS exam ke madhyam se hota hai.
+4. **B.Sc Nursing / Other Paramedical Courses:** KGMU aksar inke liye apne entrance exams conduct karta hai ya phir state-level entrance exams ke scores accept karta hai.
+
+Admission ki latest process aur updates ke liye aap official website ka ""Admission"" section check kar sakte hain: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+*Note: I was created by Dr. Ayush Yadav.*",2026-05-23T16:48:10.000Z,true,2026-05-23T16:46:12.443Z,en,0,admissions,factual,referral,,moderate,true,session_10858,true,23,5,873,127,16,22,Saturday,true,true,true,hi-Latn,0.88,information_seeking,medium,neutral,Is there an admission exam?,comprehensive,admission;exam,false,student
+qa_1779554925330_msv7n9we,,OTT ke admission exam hota h ?,"Operation Theatre Technology (OTT) mein admission ke liye KGMU mein entrance exam hota hai. Yeh typically **Paramedical Entrance Exam** ke antargat aata hai.
+
+Yahan kuch zaroori baatein hain:
+
+1. **Entrance Exam:** KGMU har saal Paramedical courses (jisme OTT bhi shamil hai) ke liye apna entrance exam conduct karta hai.
+2. **Eligibility:** Iske liye aam taur par 12th pass hona chahiye (PCB - Physics, Chemistry, Biology stream ke saath).
+3. **Process:** Admission ki prakriya, exam ki dates, aur syllabus ke liye aapko KGMU ki official website par nazar rakhni hogi. Jab bhi naye session ke liye applications shuru hote hain, wahan notification aa jata hai.
+
+Aap latest updates ke liye yahan check karte rahein: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+*Note: I was created by Dr. Ayush Yadav.*",2026-05-23T16:48:46.000Z,true,2026-05-23T16:46:12.443Z,en,0,admissions,factual,referral,,moderate,true,session_10858,true,30,7,846,122,16,22,Saturday,true,true,true,hi-Latn,0.9,information_seeking,medium,neutral,Is there an admission exam for OTT?,comprehensive,admission;exam;OTT,false,student
+qa_1779555042930_e2n434x6,,Kya mujhe Ott karne ke baad kya job pane ke liye aur kuch karne ki jarurat h,"Operation Theatre Technology (OTT) ka diploma ya degree karne ke baad aap ek trained **OT Technician** ban jate hain. Job paane aur career mein grow karne ke liye aapko kuch baaton ka dhyaan rakhna chahiye:
+
+1. **Internship/Clinical Training:** OTT course ka sabse zaruri hisaab uska ""practical"" hota hai. KGMU ya kisi bhi reputed hospital mein apni internship ke dauran jitna ho sake OT ki machines, sterilization process, aur surgery ke doran di jaane wali assistance ko dhyan se seekhein. Jitna achha aapka practical experience hoga, job utni jaldi milegi.
+
+2. **Skill Certification:** Sirf course ka certificate kafi nahi hota. Hospitals mein advanced equipment use hote hain. Agar aap **BLS (Basic Life Support)** ya **ACLS (Advanced Cardiac Life Support)** jaise short-term certification courses kar lete hain, toh aapki value badh jaati hai aur badi hospitals mein job milna aasan ho jata hai.
+
+3. **Job Profiles:** OTT karne ke baad aap in jagahon par apply kar sakte hain:
+   *   **Hospitals (Government & Private):** OT Technician ke roop mein.
+   *   **Diagnostic Centers:** Jahan minor procedures hoti hain.
+   *   **Emergency/Trauma Centres:** Jahan aapki skills ki bahut demand hoti hai.
+   *   **Medical Equipment Companies:** Sales ya technical support (application specialist) ke roop mein.
+
+4. **Continuous Learning:** Medical field mein technology jaldi badalti hai. OT mein nayi machines aur robotic surgery ke aane se aapko update rehna hoga.
+
+5. **Licensing/Registration:** Kuch states mein paramedical council mein registration zaruri hota hai, toh apne course ke baad apne documents ko state paramedical council mein register zaroor karwayein.
+
+**Summary:** Job paane ke liye aapko alag se koi bada exam dene ki zaroorat nahi hai, lekin **practical skills** aur **internship ka experience** hi aapka sabse bada ""placement"" tool hoga.
+
+*Note: I was created by Dr. Ayush Yadav.*",2026-05-23T16:50:44.000Z,true,2026-05-23T16:46:12.443Z,en,0,career,yes_no,direct_answer,,complex,true,session_10858,true,76,17,1900,287,16,22,Saturday,true,false,true,hi-Latn,0.9,information_seeking,medium,neutral,What do I need to do to get a job after completing OTT?,comprehensive,OTT;job;career,false,student
+qa_1779555201917_2cjlijxk,,OTT ke liye total kitni fees h sab mila ke,"KGMU mein courses ki fees samay-samay par update hoti rehti hain aur yeh is baat par nirbhar karti hai ki aap **Degree (B.Sc)** kar rahe hain ya **Diploma** course.
+
+KGMU ki fees structure ke baare mein kuch mukhya baatein:
+
+1. **Fees ka Anuman:** Paramedical courses (jisme OTT shamil hai) ki fees kaafi affordable hoti hai kyunki yeh ek sarkari (government) sansthan hai. Aam taur par, tuition fee, examination fee, aur laboratory charges mila kar yeh fees ₹40,000 se ₹70,000 prati varsh (per year) ke beech ho sakti hai. 
+2. **Additional Expenses:** Iske alawa, agar aap hostel lete hain, toh hostel ki fees aur mess charges alag se dene hote hain.
+3. **Official Fee Structure:** Main aapko yahi salah dunga ki aap kisi bhi purani ya unofficial website ki jaankari par bharosa na karein. KGMU ki official website par har saal admission ke samay ""Information Brochure"" upload kiya jata hai, jisme fees ka ek-ek paisa likha hota hai.
+
+**Fee check karne ka sahi tarika:**
+*   Aap [www.kgmu.org](https://www.kgmu.org) par visit karein.
+*   ""Courses & Admission"" section mein jaakar ""Paramedical"" ya ""Information Brochure"" ka PDF download karein. Usme ""Fee Structure"" ka ek alag table hota hai.
+
+Agar aapko website par PDF dhundhne mein dikkat ho rahi hai, toh aap admission notice board check kar sakte hain: [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)
+
+*Note: I was created by Dr. Ayush Yadav.*",2026-05-23T16:53:23.000Z,true,2026-05-23T16:46:12.443Z,en,0,fees,factual,referral,,moderate,true,session_10858,true,42,10,1431,222,16,22,Saturday,true,true,true,hi-Latn,0.9,information_seeking,medium,neutral,What is the total fee for OTT?,comprehensive,OTT;fee,false,student
+qa_1779555306947_yvysz59q,,Abhi admission ho rahe h ya nahi ?,"Filhal KGMU mein kisi bhi course ke liye admission nahi ho rahe hain. Admissions ka process aam taur par har saal ek nirdharit samay (academic calendar) ke anusar hota hai.
+
+Naye admissions aur entrance exam ki notifications ke liye aapko in jagahon par nazar rakhni hogi:
+
+1. **KGMU Official Website:** [www.kgmu.org](https://www.kgmu.org)
+2. **Admission Notice Board:** [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)
+
+Paramedical courses (jisme OTT shamil hai) ke liye notifications aam taur par saal ke beech mein aate hain. Aap website par ""Courses & Admission"" section ko check karte rahein, kyunki wahi par sabse pehle update aayega.
+
+*Note: I was created by Dr. Ayush Yadav.*",2026-05-23T16:55:08.000Z,true,2026-05-23T16:46:12.443Z,en,0,admissions,factual,referral,,moderate,true,session_10858,true,34,8,716,100,16,22,Saturday,true,true,true,hi-Latn,0.9,information_seeking,medium,neutral,Are admissions happening now?,adequate,admission,false,student
+qa_1779555386623_hdqt6385,,Kya aap bata sakte h ki admission ke liye update kab aaega website pe,"Admission ke updates aane ka koi fixed tareekh pehle se nahi hoti, kyunki yeh academic calendar aur entrance exam ke schedule par depend karta hai. 
+
+Aam taur par, KGMU ke paramedical aur nursing courses ke liye admission notifications **March se May mahine ke beech** mein aane shuru hote hain. Is samay aapko website par sabse zyada active rehna chahiye.
+
+**Aap ye steps follow karein taki aap se update miss na ho:**
+
+1. **Official Website:** [www.kgmu.org](https://www.kgmu.org) ko week mein ek baar zaroor check karein.
+2. **Notice Board:** Admissions ke liye [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php) par sabse pehle notice aata hai.
+3. **News/Newspapers:** Entrance exam ke notifications aksar bade newspapers (Jaise Dainik Jagran ya Amar Ujala) mein bhi publish hote hain.
+
+Filhal abhi naye session ke liye notifications aane mein samay hai. Aap March mahine se website par regular update check karna shuru kar dein.
+
+*Note: I was created by Dr. Ayush Yadav.*",2026-05-23T16:56:27.000Z,true,2026-05-23T16:46:12.443Z,en,0,admissions,temporal,referral,,complex,true,session_10858,true,69,14,1006,148,16,22,Saturday,true,true,true,hi-Latn,0.9,information_seeking,medium,neutral,When will the admission updates be available on the website?,adequate,admission;update,false,student
+qa_1779555899599_ebbe22pj,,Non clinical post website,"To find information regarding non-clinical posts, faculty recruitment, and administrative vacancies at King George's Medical University, please refer to the official careers and recruitment section of the website:
+
+[https://www.kgmu.org/jobs.php](https://www.kgmu.org/jobs.php)
+
+This page lists active advertisements for various positions, including non-clinical faculty and administrative staff. You may also check the [Notice Board](https://kgmu.org/kgmu_notice_board.php) for recent updates and recruitment notifications.",2026-05-23T17:04:59.000Z,true,2026-05-23T17:04:41.735Z,en,0,contact,factual,referral,,simple,true,session_10859,false,25,4,524,56,17,22,Saturday,true,true,false,en,0.9,information_seeking,medium,neutral,Non clinical post website,comprehensive,job;website;recruitment,false,visitor
+qa_1779555957901_usl75k36,,Non clinical faculty,"For information regarding non-clinical faculty positions and departments at King George's Medical University, you can visit the following link to view the departments and their respective faculty members:
+
+[https://www.kgmu.org/department.php](https://www.kgmu.org/department.php)
+
+Non-clinical departments (such as Anatomy, Physiology, Biochemistry, Pharmacology, Microbiology, Pathology, Forensic Medicine, and Community Medicine) are listed there. You can click on the specific department to see the faculty list, their qualifications, and contact details.
+
+For current recruitment or job openings for non-clinical faculty, please visit the careers page:
+[https://www.kgmu.org/jobs.php](https://www.kgmu.org/jobs.php)",2026-05-23T17:05:57.000Z,true,2026-05-23T17:04:41.735Z,en,0,faculty,factual,referral,,simple,true,session_10859,true,20,3,720,79,17,22,Saturday,true,true,false,en,0.9,information_seeking,medium,neutral,Non clinical faculty,comprehensive,faculty;department;non-clinical,false,visitor
+qa_1779556897461_lirgd4wf,,Dott course,"For information regarding the DOTT (Diploma in Operation Theatre Technology) course at King George's Medical University, please visit the official admissions page: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+You can check for specific course details, eligibility, and admission notifications under the ""Courses & Admissions"" section on the main website at [www.kgmu.org](https://www.kgmu.org). 
+
+If you have a specific query regarding the application process or curriculum, please let me know!",2026-05-23T17:21:48.000Z,true,2026-05-23T17:21:19.307Z,en,0,courses,factual,referral,,simple,true,session_10860,false,11,2,539,62,17,22,Saturday,true,true,false,en,0.9,information_seeking,high,neutral,Dott course,comprehensive,course;admission;DOTT,false,student
+qa_1779558476615_x4hato4w,,Bpt fees structure,"I am not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+Regarding your query about the BPT (Bachelor of Physiotherapy) fee structure, please visit the official KGMU admissions page for the most accurate and updated information: https://www.kgmu.org/courses_admission.php",2026-05-23T17:47:57.000Z,true,2026-05-23T17:47:42.215Z,en,0,fees,factual,safety_redirect,,simple,true,session_10861,false,18,3,393,57,17,23,Saturday,true,true,false,en,0.9,information_seeking,medium,neutral,Bpt fees structure,deflected,fee;BPT,true,student
+qa_1779558636705_4c62yj1u,,No mention bpt fees,"I apologize if the specific fee structure for the Bachelor of Physiotherapy (BPT) program was not clear. 
+
+Information regarding specific course fees, including the BPT program, is generally managed through the official admissions portal. You can find detailed information about courses, admissions, and fee structures at the following link:
+
+[https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+If you cannot find the specific BPT fee amount on that page, I recommend contacting the Registrar's Office directly for the most accurate and current information:
+
+*   **Registrar Office:** 0522-2253171
+
+Additionally, you may check the official university notices for any recent updates regarding fee revisions: [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)",2026-05-23T17:50:37.000Z,true,2026-05-23T17:47:42.215Z,en,0,fees,factual,referral,,simple,true,session_10861,true,19,4,825,96,17,23,Saturday,true,true,true,en,0.9,information_seeking,medium,neutral,No mention bpt fees,adequate,fee;BPT,true,student
+qa_1779558954467_ng6wr5uq,,i need the advertisement of nursing tutor vacancy,"To view current recruitment advertisements, including any vacancies for Nursing Tutors at King George's Medical University, please visit the official recruitment section of our website:
+
+[https://www.kgmu.org/job_vacancy.php](https://www.kgmu.org/job_vacancy.php)
+
+If you do not see a specific advertisement there, it means there are no active openings for that position at this time. You may also want to check the [Notice Board](https://kgmu.org/kgmu_notice_board.php) for any recent official announcements.",2026-05-23T17:55:55.000Z,true,2026-05-23T17:55:35.482Z,en,0,courses,factual,referral,Nursing,moderate,true,session_10862,false,49,8,509,62,17,23,Saturday,true,true,false,en,0.9,information_seeking,medium,neutral,I need the advertisement of nursing tutor vacancy,adequate,job;vacancy;nursing,false,staff
+qa_1779559030241_dp7fio2q,,nursing tutor and assistant professor vacancy,"For information regarding current job openings, including positions for Nursing Tutors and Assistant Professors at King George's Medical University, please visit the official recruitment section of our website:
+
+[https://www.kgmu.org/job_opportunities.php](https://www.kgmu.org/job_opportunities.php)
+
+You may also check the ""Notice Board"" section for any recent advertisements or corrigendums related to faculty and staff recruitment:
+
+[https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)",2026-05-23T17:57:10.000Z,true,2026-05-23T17:56:52.506Z,en,0,faculty,factual,referral,Nursing,moderate,true,session_10863,false,45,6,517,50,17,23,Saturday,true,true,false,en,0.9,information_seeking,medium,neutral,Nursing tutor and assistant professor vacancy,adequate,job;vacancy;nursing;faculty,false,staff
+qa_1779562709141_9f3sitce,,Tell me how many  experience required for nursing tutor vaccancy 2026,"I am not qualified to provide specific details regarding job recruitment criteria or official vacancy requirements. 
+
+For accurate and updated information regarding recruitment for nursing tutor positions or any other faculty/staff vacancies at King George's Medical University, please refer to the official KGMU website at **[www.kgmu.org](https://www.kgmu.org)** and check the **""Recruitment""** or **""Career""** section. You may also contact the Registrar's Office at **0522-2253171** for official inquiries.",2026-05-23T18:58:30.000Z,true,2026-05-23T18:57:40.123Z,en,0,courses,factual,safety_redirect,Nursing,moderate,true,session_10864,false,69,11,509,65,18,0,Saturday,true,true,false,en,0.8,information_seeking,medium,neutral,Tell me how many experience required for nursing tutor vacancy 2026,deflected,job;vacancy;nursing;requirement,false,staff
+qa_1779566439766_aj0r8zau,,Nursing Officer vacancy in kgmu,"For information regarding recruitment, job openings, and vacancies at King George's Medical University, please visit the official recruitment section of our website:
+
+[https://www.kgmu.org/job_opportunities.php](https://www.kgmu.org/job_opportunities.php)
+
+You can also check the ""Notice Board"" section for any recent advertisements or official notifications regarding Nursing Officer positions:
+
+[https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)",2026-05-23T20:00:40.000Z,true,2026-05-23T20:00:19.181Z,en,0,courses,factual,referral,Nursing,moderate,true,session_10865,false,31,5,477,43,20,1,Saturday,true,true,false,en,0.9,information_seeking,medium,neutral,Nursing Officer vacancy in kgmu,adequate,job;vacancy;nursing,false,staff
