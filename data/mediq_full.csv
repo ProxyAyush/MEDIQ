@@ -98643,3 +98643,101 @@ qa_1780055678484_gmoomkvk,,Appointment chahie,"To book an appointment at KGMU, p
 If you have a medical emergency, please proceed directly to the **Trauma Centre (Gate 14)**. 
 
 *I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline at 0522-2258880 / 0522-3539333. Also, please avoid sharing personal health details, Aadhaar numbers, or phone numbers in this chat for your safety.*",2026-05-29T11:54:39.000Z,true,2026-05-29T11:54:17.443Z,en,0,appointment,factual,safety_redirect,,simple,true,session_11062,false,18,2,1323,198,11,17,Friday,false,true,true,hi-Latn,0.9,scheduling,high,neutral,I want an appointment,comprehensive,appointment;online_portal,false,patient
+qa_1780058654174_dhuhsxde,,KGMU nursing officer exam date out kab tak hoga,I am not qualified to provide information regarding the scheduling of recruitment examinations. Please regularly check the official KGMU website at [www.kgmu.org](https://www.kgmu.org) and the official notice board at [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php) for any official updates or announcements regarding the Nursing Officer examination.,2026-05-29T12:44:14.000Z,true,2026-04-24T18:18:24.238Z,en,0,exams,temporal,safety_redirect,Nursing,moderate,true,session_09385,true,47,9,383,40,12,18,Friday,false,true,false,hi-Latn,0.9,information_seeking,medium,neutral,When will the KGMU nursing officer exam date be out,adequate,exam;admission,false,student
+qa_1780060444246_u144q3ts,,I need Dental appointment,"To book a dental appointment at KGMU, please follow these steps:
+
+1.  **Online Booking:** The most efficient way is to book through the **Online Registration System (ORS)** at [www.ors.gov.in](https://www.ors.gov.in).
+2.  **Mobile App:** You can also use the **ABHA / Health Care App** available on the KGMU Play Store.
+3.  **SMS Booking:** Send an SMS with the text ""APPOINTMENT [Patient Name]"" to **8887019134**.
+4.  **Walk-in:** You can visit the hospital in person. Please bring your **Aadhaar card** and an active mobile number to the registration counter.
+
+**Important Information:**
+*   **Registration Fee:** There is a flat fee of ₹50 for the OPD slip.
+*   **Timings:** OPD counters are open Monday–Friday from 9:00 AM to 1:00 PM and Saturday from 9:00 AM to 12:00 PM (Closed on Sundays).
+*   **Pre-booking:** It is strongly recommended to book in advance to avoid long wait times.
+
+I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline at **0522-2258880** or **0522-3539333**. Also, please avoid sharing personal details (like Aadhaar numbers or phone numbers) in this chat for your safety.",2026-05-29T13:14:04.000Z,true,2026-05-29T13:13:29.660Z,en,0,appointment,factual,safety_redirect,,simple,true,session_11063,false,25,4,1147,180,13,18,Friday,false,true,true,en,0.95,scheduling,high,neutral,I need Dental appointment,comprehensive,appointment;dental,false,patient
+qa_1780060810219_9grfycpc,,Hospital appointment,"To book an appointment at KGMU, you can use any of the following methods:
+
+**1. Online Portal (Recommended)**
+*   Visit: [www.ors.gov.in](https://ors.gov.in)
+*   Select State: **Uttar Pradesh**
+*   Select Hospital: **King George's Medical University (KGMU)**
+*   Click 'New Appointment', choose the department, date, and time slot, then pay the ₹50 fee online.
+
+**2. Mobile App**
+*   Download the **ABHA** or **Health Care App** from the KGMU Play Store.
+*   Register with your mobile number and follow the same steps as the ORS portal.
+
+**3. SMS Booking**
+*   Send an SMS in the format: **""APPOINTMENT <NAME>""** to **8887019134**.
+
+**4. Walk-in (On-Site)**
+*   Visit the hospital registration counters.
+*   **Requirements:** You must bring your **Aadhaar card** and an active mobile number to receive the OTP.
+*   The registration fee is **₹50**.
+*   *Note:* Registration counters close at **1:00 PM** (Mon–Fri) and **12:00 PM** (Sat).
+
+**Important Information:**
+*   **Pre-booking is strongly recommended** to avoid long wait times.
+*   If you are coming from outside Lucknow, please bring a valid referral for your specific department.
+*   I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline at **0522-2258880** or **0522-3539333**. Also, please avoid sharing personal details (Aadhaar number, phone number, etc.) in this chat for your safety.",2026-05-29T13:20:12.000Z,true,2026-05-29T13:15:50.537Z,en,0,appointment,factual,safety_redirect,,simple,true,session_11064,false,20,2,1396,210,13,18,Friday,false,true,true,en,0.95,scheduling,high,neutral,Hospital appointment,comprehensive,appointment;hospital,false,patient
+qa_1780060877012_9s9ew59e,,Appointment online link bhejo,"You can book your appointment online using the following link:
+
+[https://ors.gov.in](https://ors.gov.in)
+
+Please follow the steps on the website to select King George's Medical University (KGMU) and book your slot.
+
+I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline at 0522-2258880 or 0522-3539333. Also, please avoid sharing personal details (Aadhaar number, phone number, etc.) in this chat for your safety.",2026-05-29T13:21:19.000Z,true,2026-05-29T13:15:50.537Z,en,0,appointment,factual,safety_redirect,,simple,true,session_11064,true,29,4,461,68,13,18,Friday,false,true,false,hi-Latn-en,0.8,scheduling,high,neutral,Send me the online appointment link,adequate,appointment;online,false,patient
+qa_1780063107109_w462qpdp,,Bsc nursing cut off,"I am not qualified to provide information on admission cut-offs or predict them. For accurate and official information regarding B.Sc. Nursing admissions and related cut-offs, please visit the official KGMU website at [www.kgmu.org](https://www.kgmu.org) or check the dedicated admissions page at [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php).",2026-05-29T13:58:27.000Z,true,2026-05-29T13:57:35.091Z,en,0,admissions,factual,safety_redirect,Nursing,simple,true,session_11065,false,19,4,386,41,13,19,Friday,false,true,false,en,0.95,information_seeking,medium,neutral,Bsc nursing cut off,adequate,admission;cutoff,false,student
+qa_1780069430265_2cz3ejj8,,Opd timing,"KGMU OPD timings are as follows:
+
+*   **Monday to Friday:** 9:00 AM – 1:00 PM
+*   **Saturday:** 9:00 AM – 12:00 PM
+*   **Sunday:** Closed
+
+**Important Information:**
+*   **Registration:** Online registration is mandatory. You can book an appointment at [www.ors.gov.in](https://www.ors.gov.in), by calling 0522-2258880 / 0522-3539333, or by sending an SMS ""APPOINTMENT [NAME]"" to 8887019134.
+*   **Fees:** There is a flat fee of ₹50 for the OPD slip.
+*   **Note:** The Parchi (ticket) counter closes at 1:00 PM sharp, so it is strongly recommended to arrive early or book your appointment in advance to avoid long wait times. 
+
+If you have a medical emergency, please proceed directly to the Trauma Centre (Gate 14). Please remember that I am not qualified to provide medical advice; for any health concerns, please consult a doctor at KGMU OPD. Also, for your safety, please avoid sharing personal health details, Aadhaar numbers, or contact information in this chat.",2026-05-29T15:43:50.000Z,true,2026-05-29T15:43:35.314Z,en,0,opd,temporal,safety_redirect,,simple,true,session_11066,false,10,2,968,152,15,21,Friday,false,true,true,hi-Latn,0.9,information_seeking,medium,neutral,OPD timing,comprehensive,opd;timing,false,patient
+qa_1780072664065_lolk1dg4,,Mujhe dott diploma karna hai,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+Regarding your query about a ""dott diploma,"" could you please clarify what you mean? If you are looking for information on courses offered at King George's Medical University, you can visit our admissions page at: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+If you are referring to a different program or need specific information, please provide more details so I can assist you better.",2026-05-29T16:37:50.000Z,true,2026-05-29T16:36:34.993Z,en,0,courses,factual,safety_redirect,,moderate,true,session_11067,false,28,5,611,88,16,22,Friday,false,true,false,hi,0.9,information_seeking,low,neutral,I want to do a dott diploma,partial,course,true,student
+qa_1780073752185_vx3bqdn9,,Help,"I can help you find information about KGMU. You can ask about departments, courses, admissions, faculty, research, facilities, or any other university-related topics. | ""मैं KGMU के बारे में जानकारी खोजने में आपकी मदद कर सकता हूँ। आप विभागों, पाठ्यक्रमों, प्रवेश, संकाय, अनुसंधान, सुविधाओं या विश्वविद्यालय से संबंधित किसी भी अन्य विषय के बारे में पूछ सकते हैं।""",2026-05-29T16:55:53.000Z,true,2026-05-29T16:55:42.121Z,en,0,general,factual,direct_answer,,simple,true,session_11068,false,4,1,362,58,16,22,Friday,false,false,false,en,0.9,greeting,none,neutral,Help,adequate,,true,unknown
+qa_1780073789199_iboipjqy,,I need job,"To explore career opportunities at King George's Medical University (KGMU), please visit the official recruitment section on our website: [https://www.kgmu.org/job_opportunities.php](https://www.kgmu.org/job_opportunities.php).
+
+All official job notifications, walk-in interview schedules, and application procedures are posted there. You can also monitor the university's main website at [www.kgmu.org](https://www.kgmu.org) for any new announcements regarding faculty or non-teaching positions.",2026-05-29T16:56:30.000Z,true,2026-05-29T16:55:42.121Z,en,0,career,factual,referral,,simple,true,session_11068,true,10,3,496,52,16,22,Friday,false,true,false,en,0.9,information_seeking,none,neutral,I need job,comprehensive,job;recruitment,false,visitor
+qa_1780075257419_171tcby6,,Yellow fever vaccination ka slot book kise kare,"KGMU mein Yellow Fever vaccination ke liye aapko Department of Community Medicine se sampark karna hoga.
+
+Iske liye mahatvapurn jaankari niche di gayi hai:
+
+*   **Samay:** Registration subah 9:00 baje se 10:00 baje ke beech hota hai.
+*   **Din:** Sirf Somvar (Monday) aur Guruvar (Thursday).
+*   **Location:** Department of Community Medicine.
+*   **Process:** Aapko swayam wahan jakar registration karwana hoga. Iske liye koi online slot booking ki suvidha nahi hai.
+
+Kripya jane se pehle official PDF dekhen: [Yellow Fever Vaccination Sessions](https://kgmu.org/download/yellow_fever_new.pdf)
+
+**Sachet:** Main ek AI assistant hoon aur medical advice nahi de sakta. Agar aapko koi medical emergency hai ya health se sambandhit koi samasya hai, toh kripya turant KGMU OPD ya doctor se paramarsh lein. Suraksha ke liye chat mein apni niji jankari (Aadhaar number, phone number, aadi) share na karein.",2026-05-29T17:20:59.000Z,true,2026-05-29T17:20:16.980Z,en,0,appointment,factual,direct_answer,,moderate,true,session_11069,false,47,8,900,132,17,22,Friday,false,true,true,hi-Latn-en,0.8,information_seeking,high,neutral,Yellow fever vaccination slot booking,comprehensive,vaccination;slot booking,false,patient
+qa_1780075339474_l10th34z,,Online nahi hota hai,"Ji haan, bilkul sahi samjhe aap. KGMU mein Yellow Fever vaccination ke liye **koi online booking ki suvidha uplabdh nahi hai**.
+
+Iske liye aapko **swayam (physically)** Department of Community Medicine mein jana hoga. 
+
+**Ek baar phir se process dhyan rakhein:**
+*   **Din:** Somvar (Monday) aur Guruvar (Thursday).
+*   **Samay:** Registration ke liye aapko subah 9:00 baje se 10:00 baje ke beech wahan pahunchna hoga.
+*   **Process:** Wahan jaakar aapko registration karwana hoga, tabhi vaccination ki prakriya shuru hogi.
+
+Main ek AI assistant hoon aur medical advice nahi de sakta. Kripya dhyan rakhein ki chat mein apni koi bhi niji jankari (jaise Aadhaar number ya phone number) share na karein.",2026-05-29T17:22:20.000Z,true,2026-05-29T17:20:16.980Z,en,0,general,factual,direct_answer,,simple,true,session_11069,true,20,4,700,109,17,22,Friday,false,false,true,hi,0.9,information_seeking,high,neutral,Online booking is not available,comprehensive,vaccination;booking;department,false,patient
+qa_1780075597696_e90c3xfx,,Need to job in Kgmu Hospital,"To explore job opportunities at King George's Medical University (KGMU), please regularly check the official website's ""Recruitment"" or ""Careers"" section.
+
+You can find the latest job notifications and application guidelines here: **[https://www.kgmu.org/job_notification.php](https://www.kgmu.org/job_notification.php)**
+
+Additionally, you may want to monitor the **[Notice Board](https://kgmu.org/kgmu_notice_board.php)** for any announcements regarding administrative, medical, or support staff vacancies. Please ensure you only apply through the official KGMU website to avoid fraudulent job offers.",2026-05-29T17:26:38.000Z,true,2026-05-29T17:26:02.518Z,en,0,career,factual,referral,,moderate,true,session_11070,false,28,6,603,66,17,22,Friday,false,true,false,en,0.9,information_seeking,low,neutral,Need to job in Kgmu Hospital,adequate,job;recruitment,false,staff
+qa_1780077194267_ggev8a5m,,Admission process,"For information regarding the admission process for various courses at King George's Medical University, please visit the official admissions portal: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+This page provides details on eligibility, entrance examinations, and the application procedure for undergraduate, postgraduate, and super-specialty programs.",2026-05-29T17:53:15.000Z,true,2026-05-29T17:53:03.432Z,en,0,admissions,procedural,referral,,simple,true,session_11071,false,17,2,398,39,17,23,Friday,false,true,false,en,0.9,information_seeking,low,neutral,Admission process,adequate,admission;courses,false,student
