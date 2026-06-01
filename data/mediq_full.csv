@@ -101424,3 +101424,34 @@ qa_1780337706324_40k53hio,,I want to book appointment for tomorrow of dermatolog
 *   **Safety:** I am not qualified to provide medical advice. Please consult a doctor at the KGMU OPD. Also, for your safety, please avoid sharing personal health details, Aadhaar numbers, or phone numbers in this chat.
 
 I was created by Dr. Ayush Yadav.",2026-06-01T18:10:52.000Z,true,2026-06-01T18:14:34.719Z,en,0,appointment,factual,safety_redirect,Dermatology,moderate,true,session_11238,false,56,9,1231,194,18,23,Monday,false,true,true,hi-Latn-en,0.8,scheduling,high,neutral,I want to book an appointment for tomorrow with a dermatologist,comprehensive,appointment;dermatology,false,patient
+qa_1780344921987_2nxxrn4p,,Schedule of dr vivek Aggrawal in child opd,"I am not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+Regarding your query, Dr. Vivek Agarwal is listed under the **Department of Psychiatry** as an HOD specializing in Child and Adolescent Psychiatry. He is not listed under the Department of Pediatrics.
+
+For OPD schedules, please note:
+*   **Department of Pediatrics (Child OPD)** is located on the **Fourth Floor** of the OPD building and operates **Monday to Saturday**.
+*   You can verify the current availability of any faculty member by visiting the official KGMU website at [www.kgmu.org](https://www.kgmu.org) or by contacting the PRO office at [https://www.kgmu.org/pro_cug.php](https://www.kgmu.org/pro_cug.php).
+
+To book an appointment, please use the official channels:
+*   **Online:** [www.ors.gov.in](https://ors.gov.in)
+*   **Helpline:** 0522-2258880 or 0522-3539333
+*   **SMS:** Send ""APPOINTMENT <NAME>"" to 8887019134",2026-06-01T20:15:22.000Z,true,2026-06-01T20:14:44.383Z,en,0,opd,temporal,safety_redirect,Pediatrics,moderate,true,session_11239,false,42,8,1010,139,20,1,Monday,false,true,true,en,0.9,information_seeking,high,neutral,Schedule of dr vivek Aggrawal in child opd,deflected,opd;faculty;department,true,patient
+qa_1780347748860_rpmo4xpi,,Doctor opd schedule,"To help you with the OPD schedule, please note that KGMU OPDs generally operate from **Monday to Friday (9:00 AM – 1:00 PM)** and **Saturday (9:00 AM – 12:00 PM)**. OPDs are closed on Sundays and gazetted holidays.
+
+Since KGMU has many specialized departments, you can find the specific room numbers and days for various departments within the New OPD building here:
+
+*   **OPD Registration:** Online registration is mandatory. You can book an appointment via [www.ors.gov.in](https://www.ors.gov.in), the mobile app, or by calling **0522-2258880 / 0522-3539333**.
+*   **Fees:** There is a flat fee of ₹50 for the OPD slip.
+*   **Location:** Most OPD services are located in the **New OPD Building (Gate 2)**.
+
+**Important Reminders:**
+*   **Parchi (Ticket) Counter:** Closes at 1:00 PM sharp. Please arrive early.
+*   **Medical Advice:** I am not qualified to provide medical diagnosis or treatment advice. If you have specific health concerns, please consult a doctor at the KGMU OPD.
+*   **Privacy:** For your safety, please do not share personal health details, Aadhaar numbers, or phone numbers in this chat.
+
+If you are looking for a specific department (e.g., Cardiology, Orthopedics, Pediatrics), please let me know, and I can provide the direct link to that department's information.",2026-06-01T21:02:29.000Z,true,2026-06-01T20:14:44.383Z,en,0,opd,temporal,safety_redirect,,simple,true,session_11239,true,19,3,1292,201,21,2,Monday,false,true,true,en,0.9,information_seeking,medium,neutral,Doctor opd schedule,adequate,opd;timing,false,patient
+qa_1780347781023_6wmn40r3,,Schedule of dr vivek Aggrawal,"I am not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+Regarding your request, there are multiple faculty members with the name ""Vivek"" at KGMU. To ensure I provide the correct information, could you please specify the department they are associated with?
+
+Alternatively, you can verify faculty details and their respective departments through the official KGMU website here: [https://www.kgmu.org/department.php](https://www.kgmu.org/department.php)",2026-06-01T21:03:01.000Z,true,2026-06-01T20:14:44.383Z,en,0,general,temporal,safety_redirect,,moderate,true,session_11239,true,29,5,574,79,21,2,Monday,false,true,false,en,0.9,information_seeking,high,neutral,Schedule of dr vivek Aggrawal,deflected,faculty;opd,true,patient
