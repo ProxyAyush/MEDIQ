@@ -105771,3 +105771,183 @@ Kya aapne abhi koi coaching join ki hai ya aap self-study kar rahe hain?",2026-0
 qa_1780759564848_umxz3h0w,,Bmlt course hota hai kya yaha,"KGMU mein BMLT (Bachelor of Medical Laboratory Technology) course ke baare mein jaankari ke liye aap KGMU ki official website par courses aur admissions section ko check kar sakte hain: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
 
 Yadi aapko wahan specific course ki jaankari nahi milti hai, toh aap KGMU ke admission cell ya registrar office se sampark kar sakte hain. Aap [https://www.kgmu.org/department.php](https://www.kgmu.org/department.php) par jaakar departments ki list bhi dekh sakte hain.",2026-06-06T15:26:06.000Z,true,2026-06-06T15:25:40.992Z,en,0,courses,factual,referral,,moderate,true,session_11515,false,29,6,545,66,15,20,Saturday,true,true,false,hi-Latn,0.9,information_seeking,high,neutral,Is BMLT course available here,adequate,BMLT;course;KGMU,false,student
+qa_1780762609881_7uwduzps,,Hi mujhe appointment book karna hai kaise kare,"KGMU mein OPD appointment book karne ke liye aap niche diye gaye tareekon mein se kisi ek ka upyog kar sakte hain:
+
+1. **Online Portal (ORS):** [www.ors.gov.in](https://www.ors.gov.in) par jayein. Wahan apna state (Uttar Pradesh) aur hospital (KGMU) select karke 'New Appointment' par click karein aur apni details bharein.
+2. **Mobile App:** Aap KGMU Play Store se 'ABHA' ya 'Health Care' app download karke bhi appointment book kar sakte hain.
+3. **SMS dwara:** Apne mobile se **""APPOINTMENT <Patient Name>""** likhkar **8887019134** par SMS bhejein.
+4. **Phone Call:** Aap **0522-2258880** ya **0522-3539333** par call karke bhi jankari le sakte hain.
+5. **Walk-in (On-site):** Aap hospital jakar bhi registration counter par apna Aadhaar card aur mobile number dikhakar parchi (ticket) banwa sakte hain.
+
+**Kuch zaroori baatein:**
+* OPD registration ki fees ₹50 hai.
+* OPD ka samay: Somwar se Shukravar (9:00 AM – 1:00 PM) aur Shanivar (9:00 AM – 12:00 PM). Ravivar ko OPD band rehti hai.
+* Online booking ki salah di jati hai taaki aapko lambi line mein na khada hona pade.
+* Yadi aap shehar se bahar se aa rahe hain, toh apne saath sambandhit vibhag ka valid referral zaroor layein.
+
+*Main ek AI assistant hoon, medical salah nahi de sakta. Kripya medical advice ke liye KGMU OPD mein doctor se sampark karein. Apni suraksha ke liye chat mein koi bhi niji swasthya jankari ya personal details share na karein.*",2026-06-06T16:16:51.000Z,true,2026-06-06T16:15:58.473Z,en,0,appointment,procedural,direct_answer,,moderate,true,session_11516,false,46,8,1415,231,16,21,Saturday,true,true,true,hi-Latn-en,0.9,scheduling,high,neutral,"Hi, I want to book an appointment, how to do it",comprehensive,appointment;opd,false,patient
+qa_1780763013717_pssnwbtm,,Appointment book kaise kare,"KGMU mein OPD appointment book karne ke liye aap niche diye gaye tarikon ka upyog kar sakte hain:
+
+**1. Online Portal (ORS):**
+*   Website: [www.ors.gov.in](https://ors.gov.in) par jayein.
+*   ""New Appointment"" par click karein.
+*   State (Uttar Pradesh) aur Hospital (KGMU) select karein.
+*   Department, Date, aur Time slot chunein.
+*   Patient ki details bharein aur ₹50 ka online bhugtan (payment) karke slip download kar lein.
+
+**2. Mobile App:**
+*   Aap **ABHA** ya **Health Care App** ko KGMU Play Store se download karke, same process follow kar sakte hain.
+
+**3. SMS Booking:**
+*   Apne mobile se **""APPOINTMENT <Patient Name>""** likhkar **8887019134** par SMS bhejein.
+
+**4. Walk-in (On-site):**
+*   Aap hospital jakar bhi registration kar sakte hain.
+*   **Zaroori cheezein:** Patient ka **Aadhaar Card** aur ek **active mobile number** (OTP ke liye).
+*   Counter par details dein, OTP verify karein aur ₹50 ka shulk (fee) jama karke OPD slip prapt karein.
+
+**Kuch mahatvapurn baatein:**
+*   **OPD Timings:** Somvar se Shukravar (9:00 AM – 1:00 PM) aur Shanivar (9:00 AM – 12:00 PM). Ravivar ko OPD band rehti hai.
+*   **Parchi Counter:** registration counter dopahar 1:00 baje band ho jate hain, isliye samay se pahunchein.
+*   **Outside-city patients:** Agar aap Lucknow ke bahar se aa rahe hain, toh apne sambandhit vibhag (department) ka valid referral lekar aayein.
+
+**Sachet:** Main ek AI assistant hoon, medical salah nahi de sakta. Agar aapko koi emergency hai, toh turant **Trauma Centre (Gate 14)** par sampark karein. Kripya chat mein apni personal health details ya Aadhaar number share na karein.",2026-06-06T16:23:35.000Z,true,2026-06-06T16:15:58.473Z,en,0,appointment,procedural,direct_answer,,simple,true,session_11516,true,27,4,1620,252,16,21,Saturday,true,true,true,hi-Latn,0.8,scheduling,high,neutral,How to book an appointment,comprehensive,appointment;opd,false,patient
+qa_1780763139340_7wyqa6nf,,I want to take admission in bsc cardiovascular technology,"To get information regarding admissions for the B.Sc. Cardiovascular Technology course at King George's Medical University, please visit the official admissions page: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php).
+
+This page contains the latest information on course availability, eligibility criteria, and the application process. 
+
+I was created by Dr. Ayush Yadav.",2026-06-06T16:25:41.000Z,true,2026-06-06T16:25:11.322Z,en,0,admissions,factual,referral,,moderate,true,session_11517,false,57,9,410,45,16,21,Saturday,true,true,false,en,1,information_seeking,medium,neutral,I want to take admission in BSc Cardiovascular Technology,adequate,admission;course,false,student
+qa_1780764060957_grk7w986,,Gnm 2025 ki vacancy ka admit card kb ayega,I am not qualified to provide information regarding recruitment schedules or admit card release dates for GNM vacancies. Please check the official KGMU website at www.kgmu.org or the official recruitment portal regularly for the latest updates and notifications.,2026-06-06T16:41:02.000Z,true,2026-06-06T16:39:57.263Z,en,0,career,factual,safety_redirect,,moderate,true,session_11518,false,42,9,262,38,16,22,Saturday,true,false,false,hi-Latn,0.9,information_seeking,low,neutral,When will the admit card for GNM 2025 vacancy come,deflected,recruitment;admit_card,false,staff
+qa_1780764093931_9tjlct1f,,In hindi,मैं जीएनएम (GNM) भर्ती या एडमिट कार्ड जारी होने की तारीखों के बारे में जानकारी देने के लिए अधिकृत नहीं हूँ। कृपया नवीनतम अपडेट और सूचनाओं के लिए नियमित रूप से KGMU की आधिकारिक वेबसाइट www.kgmu.org या भर्ती पोर्टल को चेक करते रहें।,2026-06-06T16:41:34.000Z,true,2026-06-06T16:39:57.263Z,en,0,general,factual,direct_answer,,simple,true,session_11518,true,8,2,230,43,16,22,Saturday,true,false,false,hi,1,information_seeking,low,neutral,In Hindi,deflected,recruitment;admit_card,false,staff
+qa_1780764848224_2v64pi6g,,Kgmu non teaching post msso appointment letter issue date,"I am not qualified to provide information regarding specific administrative recruitment processes or the status of individual appointment letters.
+
+For inquiries regarding non-teaching recruitment, you should contact the **KGMU Registrar's Office** or the **Recruitment Cell** directly. You can find the contact details for the Registrar's Office at 0522-2253171 or check the official website at [www.kgmu.org](https://www.kgmu.org) under the ""Recruitment"" or ""Notice Board"" sections for any official updates.
+
+Additionally, I was created by Dr. Ayush Yadav.",2026-06-06T16:54:10.000Z,true,2026-05-08T13:27:41.675Z,en,0,appointment,temporal,safety_redirect,,moderate,true,session_10082,true,57,9,558,74,16,22,Saturday,true,true,false,hi-Latn-en,0.8,information_seeking,medium,neutral,Kgmu non teaching post msso appointment letter issue date,adequate,recruitment;appointment;non-teaching,true,staff
+qa_1780764915761_1vwrz50d,,Any idea regarding joining,"I am not qualified to provide information regarding individual recruitment status, joining dates, or administrative procedures. 
+
+For updates on your joining status, please contact the **Registrar's Office** at **0522-2253171** or reach out to the recruitment section of the KGMU administration. You may also check the official KGMU website at [www.kgmu.org](https://www.kgmu.org) under the ""Recruitment"" or ""Notice Board"" sections for any official notifications.
+
+I was created by Dr. Ayush Yadav.",2026-06-06T16:55:17.000Z,true,2026-05-08T13:27:41.675Z,en,0,general,factual,safety_redirect,,simple,true,session_10082,true,26,4,498,68,16,22,Saturday,true,true,false,en,0.9,information_seeking,medium,neutral,Any idea regarding joining,adequate,recruitment;joining,true,staff
+qa_1780765010192_fmfnlwvk,,Pharmacist ji job vacancy,"For information regarding job vacancies and recruitment at King George's Medical University, please visit the official recruitment section of our website:
+
+https://www.kgmu.org/job_opportunity.php
+
+You can view current openings, download application forms, and check for any active notifications for pharmacist or other staff positions there.",2026-06-06T16:56:51.000Z,true,2026-06-06T16:56:21.648Z,en,0,departments,factual,referral,Pharmacology,simple,true,session_11519,false,25,4,342,43,16,22,Saturday,true,true,false,hi-Latn-en,0.7,information_seeking,medium,neutral,Pharmacist ji job vacancy,comprehensive,job vacancy;pharmacist,false,staff
+qa_1780765119195_2o1e5lgf,,8th june walk in interview,"I am not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+Regarding your query about a walk-in interview on June 8th, please visit the official KGMU Notice Board at [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php) to check for any official recruitment notifications or interview schedules. If the information is not listed there, you may contact the Registrar's Office at 0522-2253171 for clarification.",2026-06-06T16:58:39.000Z,true,2026-06-06T16:58:20.351Z,en,0,general,factual,safety_redirect,,moderate,true,session_11520,false,26,5,556,77,16,22,Saturday,true,true,false,en,0.9,information_seeking,low,neutral,8th june walk in interview,adequate,interview;recruitment,false,staff
+qa_1780765153891_93sk5f5z,,How many application for the interview on 8 june,"I do not have access to real-time administrative data, such as the number of applications received for specific recruitment processes.
+
+To obtain accurate information regarding the interview scheduled for June 8th, please check the official **KGMU Notice Board** at [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php). For specific inquiries about recruitment status or application counts, you should contact the **Registrar's Office** directly at **0522-2253171**.",2026-06-06T16:59:14.000Z,true,2026-06-06T16:58:20.351Z,en,0,general,factual,referral,,moderate,true,session_11520,true,48,9,494,58,16,22,Saturday,true,true,false,en,0.9,information_seeking,medium,neutral,How many application for the interview on 8 june,adequate,interview;application,false,staff
+qa_1780765406239_xlmvm6lb,,How can I get admission in bpt course,"To get admission into the Bachelor of Physiotherapy (BPT) course at King George's Medical University, you should regularly monitor the official website for admission notifications.
+
+1. **Check for Updates:** Please visit [www.kgmu.org](https://www.kgmu.org) and navigate to the **""Courses & Admission""** section: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php) for the latest brochures, eligibility criteria, and entrance examination schedules.
+2. **Eligibility and Process:** Admissions are typically conducted based on a university-level entrance examination. Detailed information regarding the application process, seat intake, and counseling will be released in the official admission brochure for the current academic session.
+
+I was created by Dr. Ayush Yadav.",2026-06-06T17:03:27.000Z,true,2026-06-06T17:03:01.368Z,en,0,admissions,procedural,referral,,moderate,true,session_11521,false,37,8,807,95,17,22,Saturday,true,true,true,en,0.9,information_seeking,medium,neutral,How can I get admission in bpt course,comprehensive,admission;course;bpt,false,student
+qa_1780769170093_puj9fd2u,,Admission open?,"Admission information for various courses at King George's Medical University can be found on our official admissions page: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php). 
+
+Please check this link for the latest updates on open applications, eligibility, and admission procedures.",2026-06-06T18:06:11.000Z,true,2026-06-06T18:05:08.531Z,en,0,admissions,factual,referral,,simple,true,session_11522,false,15,2,322,34,18,23,Saturday,true,true,false,en,0.9,information_seeking,medium,neutral,Admission open?,adequate,admission,false,student
+qa_1780769844903_h24koqyb,,Stomach  ha liver me Dr ko dikhana hai,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+For stomach and liver-related concerns, you should visit the **Department of Gastroenterology** or **Medical Gastroenterology**.
+
+**How to book an appointment:**
+*   **Online:** Visit [www.ors.gov.in](https://www.ors.gov.in) to book an appointment.
+*   **Phone:** Call 0522-2258880 or 0522-3539333.
+*   **SMS:** Send ""APPOINTMENT <NAME>"" to 8887019134.
+*   **Walk-in:** You can visit the OPD registration counter with your Aadhaar card. Please note that online pre-booking is strongly recommended to avoid long wait times.
+
+**OPD Timings:**
+*   Monday–Friday: 9:00 AM – 1:00 PM
+*   Saturday: 9:00 AM – 12:00 PM
+*   Closed on Sundays and Gazetted Holidays.
+
+**Important Note:** The OPD ticket (Parchi) counter closes at 1:00 PM sharp, so it is best to arrive early. If you are coming from outside the city, please carry a valid referral letter for the department.",2026-06-06T18:17:26.000Z,true,2026-06-06T18:16:36.317Z,en,0,general,factual,safety_redirect,,moderate,true,session_11523,false,38,8,1040,156,18,23,Saturday,true,true,true,hi-Latn,0.8,information_seeking,high,neutral,I need to show a doctor for stomach and liver issues,partial,medical;gastroenterology,false,patient
+qa_1780771409085_blk8o7fg,,Job ke liye kb apply jru,"KGMU mein jobs aur vacancies ke liye aap samay-samay par hamari official website **www.kgmu.org** ka ""Recruitment"" ya ""Notice Board"" section check karte rahein.
+
+Wahan par teaching, non-teaching, aur project-based posts ke liye naye notifications update kiye jaate hain. Aap seedhe is link par bhi ja sakte hain: [https://www.kgmu.org/kgmu_notice_board.php](https://www.kgmu.org/kgmu_notice_board.php)
+
+Agar aap kisi specific department ya post ke baare mein jaanna chahte hain, toh kripya vistar mein batayein.",2026-06-06T18:43:30.000Z,true,2026-06-05T10:59:35.713Z,en,0,career,factual,referral,,moderate,true,session_11450,true,24,6,511,66,18,0,Saturday,true,true,false,hi-Latn,0.8,information_seeking,low,neutral,When can I apply for a job?,adequate,job;recruitment,false,staff
+qa_1780771454678_e0nfxzon,,Contract based job gov kb niklengi,"KGMU mein contract-based jobs (project-based or contractual appointments) ki koi fix date nahi hoti hai; ye vacancies zaroorat ke hisaab se samay-samay par nikalti rehti hain.
+
+Aap in steps ko follow karke updates check kar sakte hain:
+
+1.  **Official Notice Board:** Sabse sahi aur latest jaankari ke liye regular taur par [https://www.kgmu.org/kgmu_notice_board.php](https://www.kgmu.org/kgmu_notice_board.php) check karte rahein.
+2.  **Departmental Websites:** Kabhi-kabhi specific departments (jaise ki Microbiology, Community Medicine, ya Research Units) apni projects ke liye alag se vacancy nikalte hain, unhe bhi website ke ""Department"" section mein dekha ja sakta hai.
+3.  **Newspaper:** KGMU ki vacancies aksar bade samachar patro (newspapers) mein bhi advertise ki jaati hain.
+
+Main aapko salah doonga ki aap haftay mein ek baar website ka ""Notice Board"" section zaroor dekhein taaki koi bhi opportunity aapse miss na ho.
+
+*Disclaimer: I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.*",2026-06-06T18:44:15.000Z,true,2026-06-05T10:59:35.713Z,en,0,career,factual,safety_redirect,,moderate,true,session_11450,true,34,6,1124,161,18,0,Saturday,true,true,true,hi-Latn,0.8,information_seeking,low,neutral,When will contract-based government jobs be available?,adequate,job;contract,false,staff
+qa_1780773330247_52fs2jcy,,Pharmacist job vacancy,"To find information regarding job vacancies at King George's Medical University, please visit the official recruitment section of our website: [https://www.kgmu.org/jobs.php](https://www.kgmu.org/jobs.php).
+
+All official notifications for staff positions, including pharmacists, are posted there. I recommend checking that page regularly for any current or upcoming openings.",2026-06-06T19:15:32.000Z,true,2026-06-06T19:15:16.384Z,en,0,departments,factual,referral,Pharmacology,simple,true,session_11524,false,22,3,375,44,19,0,Saturday,true,true,false,en,0.9,information_seeking,low,neutral,Pharmacist job vacancy,comprehensive,job;vacancy;pharmacy,false,visitor
+qa_1780774308198_3lzk4sws,,Mai login nhi kar pa raha hu,"लॉगिन में समस्या आने के लिए खेद है। कृपया स्पष्ट करें कि आप किस पोर्टल (ORS/ऑनलाइन अपॉइंटमेंट, छात्र पोर्टल, या अन्य) पर लॉग इन करने का प्रयास कर रहे हैं?
+
+यदि आप **ऑनलाइन अपॉइंटमेंट (ORS)** के लिए लॉग इन नहीं कर पा रहे हैं, तो कृपया निम्नलिखित जाँचें:
+
+1. **वेबसाइट:** सुनिश्चित करें कि आप [www.ors.gov.in](https://www.ors.gov.in) का उपयोग कर रहे हैं।
+2. **मोबाइल नंबर और OTP:** सुनिश्चित करें कि आपने वही मोबाइल नंबर दर्ज किया है जिससे आप पंजीकृत (Register) हैं। कभी-कभी नेटवर्क के कारण OTP आने में देरी हो सकती है।
+3. **ब्राउज़र:** यदि समस्या बनी रहती है, तो कृपया ब्राउज़र की 'Cache' और 'Cookies' साफ़ करें या किसी अन्य ब्राउज़र (जैसे Chrome या Firefox) का उपयोग करके देखें।
+
+यदि आप किसी अन्य विशिष्ट पोर्टल के बारे में बात कर रहे हैं, तो कृपया उसका नाम बताएं ताकि मैं आपकी बेहतर सहायता कर सकूँ।
+
+*नोट: मैं एक AI सहायक हूँ। यदि आपको स्वास्थ्य संबंधी कोई समस्या है, तो कृपया व्यक्तिगत स्वास्थ्य विवरण यहाँ साझा न करें और KGMU की OPD में जाकर डॉक्टर से परामर्श लें।*",2026-06-06T19:31:50.000Z,true,2026-06-06T19:31:04.644Z,en,0,general,factual,direct_answer,,moderate,true,session_11525,false,28,7,968,176,19,1,Saturday,true,true,true,hi,0.9,complaint,medium,negative,I am not able to login,comprehensive,login;issue,true,student
+qa_1780774392578_4r8is5ed,,Mujhe tifa karana hai,"""Tifa"" (टीफा) से आपका तात्पर्य संभवतः **TPA (Third Party Administrator)** या **बीमा (Insurance)** से संबंधित सहायता से है।
+
+यदि आप KGMU में बीमा या TPA के माध्यम से इलाज कराना चाहते हैं, तो कृपया ध्यान दें:
+
+1. **परामर्श (Consultation):** सबसे पहले आपको KGMU की संबंधित OPD में डॉक्टर को दिखाना होगा। OPD में पंजीकरण के लिए आप [www.ors.gov.in](https://www.ors.gov.in) पर ऑनलाइन अपॉइंटमेंट ले सकते हैं या सीधे काउंटर पर जाकर ₹50 का पर्चा बनवा सकते हैं।
+2. **TPA/बीमा डेस्क:** अस्पताल में भर्ती (Admission) के समय या इलाज के दौरान, आप संबंधित विभाग के **Patient Welfare Office** या **PRO Office** में जाकर बीमा या TPA से संबंधित प्रक्रिया के बारे में जानकारी ले सकते हैं।
+3. **दस्तावेज:** अपने साथ अपना आधार कार्ड, बीमा पॉलिसी के दस्तावेज और डॉक्टर द्वारा दी गई सलाह (Prescription) जरूर रखें।
+
+**महत्वपूर्ण:** मैं एक AI सहायक हूँ और चिकित्सा संबंधी निर्णय लेने या बीमा प्रक्रियाओं को प्रमाणित करने के लिए अधिकृत नहीं हूँ। कृपया अस्पताल के मुख्य द्वार या संबंधित विभाग के कार्यालय में जाकर वहां के कर्मचारियों से ""TPA/Insurance Counter"" के बारे में पूछें।
+
+*सुरक्षा के लिए: कृपया इस चैट में अपना आधार नंबर या कोई अन्य व्यक्तिगत स्वास्थ्य जानकारी साझा न करें। यदि आपको कोई गंभीर समस्या है, तो कृपया तुरंत KGMU की इमरजेंसी (Trauma Centre) में संपर्क करें।*",2026-06-06T19:33:14.000Z,true,2026-06-06T19:31:04.644Z,en,0,general,factual,direct_answer,,simple,true,session_11525,true,21,4,1251,213,19,1,Saturday,true,true,true,hi,0.9,information_seeking,high,neutral,I want to do TIFA,comprehensive,TIFA;medical test,true,patient
+qa_1780774723317_ptqzjpct,,Meri wife swaleen pregnant hai uska tifa karana hai,"आपकी पत्नी की गर्भावस्था (Pregnancy) के लिए टीफा (TIFFA) स्कैन, जिसे **Targeted Imaging for Fetal Anomalies (TIFFA) Scan** कहा जाता है, एक महत्वपूर्ण अल्ट्रासाउंड होता है।
+
+**कृपया ध्यान दें:** मैं एक AI सहायक हूँ और चिकित्सा संबंधी सलाह नहीं दे सकता। आपकी पत्नी की स्थिति के लिए कृपया तुरंत एक योग्य डॉक्टर से परामर्श लें।
+
+KGMU में इसके लिए प्रक्रिया इस प्रकार है:
+
+1. **डॉक्टर से परामर्श:** सबसे पहले आपको KGMU की **Obstetrics & Gynecology (Queen Mary's Hospital)** विभाग में डॉक्टर को दिखाना होगा। यदि आप अभी तक वहां नहीं गए हैं, तो कृपया OPD में पंजीकरण कराएं।
+2. **अपॉइंटमेंट:** टीफा स्कैन के लिए आपको डॉक्टर द्वारा दी गई सलाह (Prescription) की आवश्यकता होगी। डॉक्टर ही आपको स्कैन के लिए निर्देशित करेंगे और संबंधित विभाग का समय बताएंगे।
+3. **पंजीकरण (Registration):** यदि आपने अभी तक पंजीकरण नहीं कराया है, तो आप [www.ors.gov.in](https://www.ors.gov.in) पर जाकर या अस्पताल के काउंटर पर जाकर अपना पंजीकरण करवा सकते हैं।
+
+**महत्वपूर्ण जानकारी:**
+* **Queen Mary's Hospital (QMH):** गर्भावस्था से संबंधित सभी जांचें और इलाज यहीं होते हैं।
+* **संपर्क:** किसी भी प्रकार की सहायता के लिए आप Queen Mary's Hospital के PRO कार्यालय से **7839552570** पर संपर्क कर सकते हैं।
+* **सुरक्षा:** कृपया इस चैट में अपनी पत्नी का नाम, आधार नंबर या कोई अन्य संवेदनशील व्यक्तिगत जानकारी साझा न करें। 
+
+यदि उन्हें कोई दर्द, रक्तस्राव या अन्य आपातकालीन लक्षण महसूस हो रहे हैं, तो कृपया देरी न करें और **सीधे KGMU की इमरजेंसी (Trauma Centre या QMH इमरजेंसी)** में जाकर डॉक्टर को दिखाएं।",2026-06-06T19:38:45.000Z,true,2026-06-06T19:31:04.644Z,en,0,general,factual,direct_answer,,moderate,true,session_11525,true,51,9,1467,249,19,1,Saturday,true,true,true,hi-en,0.8,information_seeking,high,neutral,My wife Swaleen is pregnant and I want to do TIFA for her,comprehensive,pregnancy;TIFA;medical test,false,patient
+qa_1780774852880_8duuea9o,,Kgmu me tiffa ka koi charge hai ya nhi,"KGMU में टीफा (TIFFA) स्कैन सहित अन्य जांचों के शुल्क के संबंध में जानकारी नीचे दी गई है:
+
+1. **शुल्क (Charges):** KGMU एक सरकारी संस्थान है और यहाँ की जांचें निजी केंद्रों की तुलना में काफी सस्ती होती हैं। हालांकि, सभी जांचों का एक निर्धारित शुल्क होता है जो अस्पताल की आधिकारिक **Rate List** के अनुसार लिया जाता है। 
+2. **Rate List:** आप आधिकारिक वेबसाइट [https://www.kgmu.org/rate_list2223.htm](https://www.kgmu.org/rate_list2223.htm) पर जाकर जांचों का विवरण देख सकते हैं। 
+3. **भुगतान प्रक्रिया:** किसी भी जांच का शुल्क अस्पताल के संबंधित काउंटर पर ही जमा करना होता है। कृपया किसी भी बाहरी व्यक्ति या दलाल को पैसे न दें। रसीद अवश्य प्राप्त करें।
+4. **बीपीएल कार्डधारक:** यदि आप बीपीएल (BPL) श्रेणी में आते हैं, तो अपने साथ अपना वैध बीपीएल कार्ड/प्रमाण पत्र साथ रखें, क्योंकि कुछ सरकारी योजनाओं के अंतर्गत शुल्क में छूट या निःशुल्क सुविधा मिल सकती है। इसकी पुष्टि आप क्वीन मैरी अस्पताल (Queen Mary's Hospital) के पंजीकरण काउंटर या बिलिंग काउंटर पर कर सकते हैं।
+
+**सलाह:** 
+* टीफा स्कैन के लिए अस्पताल के रेडियोलॉजी विभाग या क्वीन मैरी अस्पताल के अल्ट्रासाउंड विभाग के काउंटर पर जाकर वर्तमान शुल्क (Current Charges) के बारे में पूछना सबसे सही रहेगा, क्योंकि समय-समय पर शुल्क में मामूली बदलाव हो सकते हैं।
+* **सावधानी:** अपनी सुरक्षा के लिए किसी भी अनजान व्यक्ति को अपनी व्यक्तिगत जानकारी या पैसे न दें।
+
+*याद रखें: मैं एक AI सहायक हूँ। कृपया स्वास्थ्य संबंधी परामर्श के लिए KGMU के डॉक्टर से ही मिलें। अपनी व्यक्तिगत स्वास्थ्य जानकारी यहाँ साझा न करें।*",2026-06-06T19:40:55.000Z,true,2026-06-06T19:31:04.644Z,en,0,fees,factual,direct_answer,,moderate,true,session_11525,true,38,9,1455,249,19,1,Saturday,true,true,true,hi-Latn-en,0.8,information_seeking,high,neutral,Is there any charge for TIFFA in KGMU,comprehensive,TIFFA;medical test;fee,false,patient
+qa_1780775489184_j0xugpgb,,Tiffa ka best time kya hai pregnancy me,"टीफा (TIFFA) स्कैन, जिसे 'एनामली स्कैन' (Anomaly Scan) भी कहा जाता है, आमतौर पर गर्भावस्था के **18 से 22 सप्ताह (18-22 weeks)** के बीच कराया जाता है।
+
+**इस समय के बारे में कुछ महत्वपूर्ण बातें:**
+* **क्यों जरूरी है:** इस समय के दौरान भ्रूण (fetus) के अंग पूरी तरह से विकसित हो रहे होते हैं और उनका आकार भी स्कैन के लिए पर्याप्त होता है, जिससे डॉक्टर अंगों की बनावट की स्पष्ट जांच कर सकते हैं।
+* **डॉक्टर की सलाह:** हालांकि 18-22 सप्ताह का समय मानक है, लेकिन आपकी पत्नी के मामले में सबसे सही समय वही होगा जो उनके डॉक्टर (Obstetrician) तय करेंगे। कृपया अपनी अगली विजिट में अपने डॉक्टर से इस बारे में स्पष्ट निर्देश लें।
+
+**KGMU में प्रक्रिया के लिए:**
+1. **डॉक्टर की पर्ची:** बिना डॉक्टर की सलाह (Prescription) के स्कैन नहीं होता है। सुनिश्चित करें कि आपके पास डॉक्टर की पर्ची है।
+2. **समय पर पहुंचें:** क्वीन मैरी अस्पताल (Queen Mary's Hospital) में अल्ट्रासाउंड के लिए भीड़ हो सकती है, इसलिए अपने अपॉइंटमेंट के दिन समय से पहले पहुंचें।
+3. **पंजीकरण:** यदि आपने अभी तक पंजीकरण नहीं कराया है, तो ऑनलाइन पोर्टल [www.ors.gov.in](https://www.ors.gov.in) का उपयोग करें।
+
+**चेतावनी:** मैं एक AI सहायक हूँ और चिकित्सा विशेषज्ञ नहीं हूँ। कृपया इस स्कैन के सही समय के लिए क्वीन मैरी अस्पताल (QMH) के अपने संबंधित डॉक्टर से ही परामर्श करें। 
+
+*सुरक्षा के लिए: कृपया इस चैट में अपनी पत्नी का नाम, आधार नंबर या अन्य कोई व्यक्तिगत जानकारी साझा न करें।*",2026-06-06T19:51:31.000Z,true,2026-06-06T19:31:04.644Z,en,0,general,factual,direct_answer,Obstetrics & Gynecology,moderate,true,session_11525,true,39,8,1338,242,19,1,Saturday,true,true,true,hi-Latn,0.9,information_seeking,high,neutral,What is the best time for TIFFA in pregnancy,comprehensive,pregnancy;scan;timing,false,patient
+qa_1780778935367_smrq5eqr,,Outsourcing m vecancy ayi h kya pharmacist ki,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+Regarding your question about job vacancies, please check the official KGMU website at www.kgmu.org under the ""Jobs/Careers"" or ""Notice Board"" section for any current recruitment notifications. Information about outsourcing vacancies is typically updated there.",2026-06-06T20:48:56.000Z,true,2026-06-06T20:48:14.854Z,en,0,departments,factual,safety_redirect,Pharmacology,moderate,true,session_11526,false,45,8,439,64,20,2,Saturday,true,false,false,hi-Latn-en,0.8,information_seeking,medium,neutral,Is there a vacancy for pharmacist in outsourcing,adequate,job;vacancy;pharmacist,false,staff
