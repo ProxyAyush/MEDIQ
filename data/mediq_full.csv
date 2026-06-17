@@ -117033,6 +117033,510 @@ qa_1781678601494_55woi19o,,Admission time for the courses..?,"Information regard
 qa_1781683801828_5hd74t45,,My uhid number,"I am not qualified to provide medical advice or access personal health records. Please do not share your UHID number or any other sensitive personal health information in this chat for your safety.
 
 If you need to retrieve your UHID or check your appointment details, please visit the official **Online Registration System (ORS)** portal at [www.ors.gov.in](https://www.ors.gov.in) or contact the KGMU help desk at **0522-2258880** or **0522-3539333**. You may also visit the registration counter at the hospital with your original ID proof.",2026-06-17T08:10:02.000Z,true,2026-05-11T07:32:56.933Z,en,0,contact,factual,safety_redirect,,simple,true,session_10259,true,14,3,541,81,8,13,Wednesday,false,true,false,en,1,information_seeking,high,neutral,My uhid number,comprehensive,patient_info,false,patient
+qa_1781685103195_i42r8w3k,,I want to get addmision in KGMU,"To get information regarding admissions at King George's Medical University, please visit the official admissions page on our website: https://www.kgmu.org/courses_admission.php
+
+This page provides details on the various undergraduate, postgraduate, and super-specialty courses offered, along with information regarding the admission process. 
+
+Please note that I am not qualified to provide medical advice. If you have any health concerns, please consult a doctor at KGMU OPD or call the helpline. Also, for your safety, please avoid sharing personal details such as Aadhaar numbers or phone numbers in this chat.
+
+I was created by Dr. Ayush Yadav. How else can I help you navigate our website?",2026-06-17T08:31:44.000Z,true,2026-06-17T08:30:38.069Z,en,0,general,factual,safety_redirect,,moderate,true,session_12375,false,31,7,695,103,8,14,Wednesday,false,true,false,en,0.9,information_seeking,medium,neutral,I want to get admission in KGMU,comprehensive,admission;course,false,student
+qa_1781685137329_s1b552tr,,There is BMLT course for me,"KGMU offers various paramedical courses. You can find detailed information regarding the available courses, eligibility criteria, and the admission process for paramedical programs by visiting the official admissions page: https://www.kgmu.org/courses_admission.php
+
+If you are looking for specific information regarding the BMLT (Bachelor of Medical Laboratory Technology) course, I recommend checking the ""Courses"" section on the website or the latest admission brochure available at the link provided above.
+
+I was created by Dr. Ayush Yadav. Please let me know if you need help finding other specific information on the website.",2026-06-17T08:32:18.000Z,true,2026-06-17T08:30:38.069Z,en,0,courses,factual,direct_answer,,moderate,true,session_12375,true,27,6,632,88,8,14,Wednesday,false,true,false,en,0.9,information_seeking,medium,neutral,There is BMLT course for me,comprehensive,course;admission,false,student
+qa_1781685499929_gyp3n745,,Mujhe campus ki real building dikhao,"KGMU ka campus bahut bada hai aur yahan bahut saari buildings hain. Aap campus ki photos aur virtual tour hamari official website par dekh sakte hain:
+
+[https://www.kgmu.org/event_gallery.php](https://www.kgmu.org/event_gallery.php)
+
+Agar aap kisi specific building (jaise Trauma Centre, New OPD, ya kisi Department) ke baare mein jaanna chahte hain, toh batayein. Main aapko wahan tak pahunchne ka raasta (navigation) bata sakta hoon.",2026-06-17T08:38:21.000Z,true,2026-06-17T08:37:53.442Z,en,0,campus,factual,direct_answer,,moderate,true,session_12376,false,36,6,435,59,8,14,Wednesday,false,true,false,hi,0.9,information_seeking,low,neutral,I want to see the real building of the campus,adequate,campus;infrastructure,false,student
+qa_1781686285692_9cgdp6j4,,Dmlt course ka application form link,"For information regarding the DMLT course and admission application forms, please visit the official KGMU admissions page: https://www.kgmu.org/courses_admission.php",2026-06-17T08:51:25.000Z,true,2026-06-17T08:49:17.610Z,en,0,courses,factual,referral,,moderate,true,session_12377,false,36,6,165,18,8,14,Wednesday,false,true,false,hi-Latn-en,0.8,information_seeking,medium,neutral,DMLT course application form link,comprehensive,course;admission,false,student
+qa_1781686566562_jk717kga,,Inquiry kaise kre  online,"KGMU mein online inquiry ya appointment ke liye aap niche diye gaye tareekon ka upyog kar sakte hain:
+
+1. **Online Appointment (ORS Portal):**
+   - Website: [www.ors.gov.in](https://www.ors.gov.in)
+   - Yahan aap apna State (Uttar Pradesh) aur Hospital (KGMU) select karke appointment book kar sakte hain.
+
+2. **Mobile App:**
+   - Aap KGMU Play Store se **ABHA** ya **ORS** app download karke bhi apna appointment book aur inquiry process manage kar sakte hain.
+
+3. **SMS dwara Booking:**
+   - Aap **8887019134** par ""APPOINTMENT <PATIENT NAME>"" format mein SMS bhej kar bhi appointment ki jankari le sakte hain.
+
+4. **Telephonic Inquiry:**
+   - Aap KGMU ki helpline par call karke bhi jankari prapt kar sakte hain: **0522-2258880** ya **0522-3539333**.
+
+**Zaroori Suchna:**
+- OPD ka samay: Som-Shukra (9:00 AM – 1:00 PM) aur Shanivar (9:00 AM – 12:00 PM).
+- OPD slip ka shulk ₹50 hai.
+- Online registration aur pre-booking ki salah di jati hai taaki aapka samay bache.
+
+*Main ek AI assistant hoon aur medical advice nahi de sakta. Agar aapko koi medical samasya hai, toh kripya KGMU OPD mein doctor se paramarsh lein. Apni suraksha ke liye chat mein koi bhi niji health details ya personal data share na karein.*",2026-06-17T08:56:09.000Z,true,2026-06-17T08:55:47.619Z,en,0,general,procedural,direct_answer,,simple,true,session_12378,false,25,4,1213,195,8,14,Wednesday,false,true,true,hi-Latn,0.9,information_seeking,medium,neutral,How to make an inquiry online,comprehensive,inquiry;online,false,patient
+qa_1781687340237_hv2m13qx,,Dmlt course,"For information regarding the DMLT (Diploma in Medical Laboratory Technology) course at King George's Medical University, please visit the official admissions portal at: https://www.kgmu.org/courses_admission.php
+
+You can also check the list of departments and available courses on the main website at www.kgmu.org. If you need specific details about curriculum or eligibility, I recommend checking the ""Academic"" section of the website or contacting the Registrar's office at 0522-2253171.",2026-06-17T09:09:02.000Z,true,2026-06-17T09:08:50.076Z,en,0,courses,factual,referral,,simple,true,session_12379,false,11,2,490,66,9,14,Wednesday,false,true,false,en,0.9,information_seeking,medium,neutral,Dmlt course,adequate,course;admission,false,student
+qa_1781687735993_t6zu838k,,Mujhe anm ke bare me knowledge chahiye kese hogi is college se or kitan.pesa lgega,"I am not qualified to provide medical or academic counseling, but I can guide you to the correct resources.
+
+Regarding ANM (Auxiliary Nurse Midwifery) admissions and course details at King George's Medical University (KGMU), please note that KGMU primarily focuses on MBBS, BDS, MD/MS, MDS, and various B.Sc./M.Sc. nursing and paramedical programs. 
+
+To confirm if an ANM course is currently offered or to get accurate information regarding the admission process and fee structure, please visit the official website: **[www.kgmu.org](https://www.kgmu.org)**.
+
+You can also check the official admissions page here: **[https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)**.
+
+For further assistance, you may contact the University's admission or academic office:
+*   **Registrar Office:** 0522-2253171
+*   **KGMU Helpline:** 0522-2258880
+
+Please avoid sharing personal information like phone numbers or Aadhaar details in this chat for your safety.",2026-06-17T09:15:37.000Z,true,2026-06-17T09:14:59.166Z,en,0,general,factual,safety_redirect,,complex,true,session_12380,false,82,15,981,126,9,14,Wednesday,false,true,true,hi,0.9,information_seeking,medium,neutral,"I need knowledge about ANM, how does it happen in this college and how much money will it cost?",adequate,course;admission;fee,false,student
+qa_1781687785877_oftof277,,8445614816,"I am not qualified to provide medical or academic counseling. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details, such as Aadhaar numbers or phone numbers, in this chat for your safety.
+
+For information regarding admissions and courses, please visit the official KGMU website at **[www.kgmu.org](https://www.kgmu.org)** or contact the Registrar's office at **0522-2253171**.",2026-06-17T09:16:26.000Z,true,2026-06-17T09:14:59.166Z,en,0,general,factual,safety_redirect,,simple,true,session_12380,true,10,1,425,61,9,14,Wednesday,false,true,false,en,0.9,off_topic,none,neutral,8445614816,deflected,,false,unknown
+qa_1781687823381_f0t5ylym,,Please tough me hindi,"मैं आपकी सहायता के लिए यहाँ हूँ। चूँकि मैं किंग जॉर्ज मेडिकल यूनिवर्सिटी (KGMU) का आधिकारिक एआई असिस्टेंट हूँ, मैं मुख्य रूप से KGMU से संबंधित जानकारी (जैसे विभाग, ओपीडी समय, या प्रवेश प्रक्रिया) देने में आपकी मदद कर सकता हूँ।
+
+यदि आप हिंदी में जानकारी प्राप्त करना चाहते हैं, तो आप अपना प्रश्न हिंदी में पूछ सकते हैं। मैं आपको हिंदी में ही उत्तर दूँगा।
+
+बताइए, मैं KGMU के बारे में आपकी किस प्रकार सहायता कर सकता हूँ?",2026-06-17T09:17:03.000Z,true,2026-06-17T09:14:59.166Z,en,0,general,factual,direct_answer,,simple,true,session_12380,true,21,4,419,79,9,14,Wednesday,false,false,false,hi-en,0.8,greeting,low,positive,Please teach me Hindi,comprehensive,,false,visitor
+qa_1781687868523_6h8dc8hy,,Mujhe radiology ka course Krna h kya isme entrance exam hota h iska,"जी हाँ, किंग जॉर्ज मेडिकल यूनिवर्सिटी (KGMU) में रेडियोलॉजी से संबंधित कोर्सेज (जैसे B.Sc. Radiotherapy या अन्य पैरामेडिकल कोर्सेज) में प्रवेश के लिए **प्रवेश परीक्षा (Entrance Exam)** देना अनिवार्य होता है।
+
+KGMU में कोर्सेज और प्रवेश प्रक्रिया के बारे में सटीक जानकारी के लिए आप निम्नलिखित स्टेप्स फॉलो कर सकते हैं:
+
+1. **आधिकारिक वेबसाइट देखें:** सभी कोर्सेज, उनकी पात्रता (Eligibility) और प्रवेश परीक्षा के विवरण के लिए आप [KGMU की आधिकारिक वेबसाइट](https://www.kgmu.org) पर 'Courses & Admissions' सेक्शन को देखें।
+2. **सीधा लिंक:** आप इस लिंक पर जाकर कोर्सेज के बारे में जानकारी प्राप्त कर सकते हैं: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+3. **नोटिस बोर्ड:** प्रवेश परीक्षा की तारीखों और फॉर्म भरने की प्रक्रिया के लिए आप [KGMU Notice Board](https://kgmu.org/kgmu_notice_board.php) को नियमित रूप से चेक करते रहें।
+
+**महत्वपूर्ण जानकारी:**
+* प्रवेश परीक्षा का आयोजन समय-समय पर यूनिवर्सिटी द्वारा किया जाता है, जिसके लिए नोटिफिकेशन वेबसाइट पर जारी होता है।
+* अधिक जानकारी के लिए आप रजिस्ट्रार कार्यालय के नंबर **0522-2253171** पर भी संपर्क कर सकते हैं।
+
+मैं आपको सलाह दूँगा कि आप समय-समय पर यूनिवर्सिटी की वेबसाइट चेक करते रहें ताकि आप किसी भी महत्वपूर्ण अपडेट या आवेदन की तिथि से न चूकें।",2026-06-17T09:17:49.000Z,true,2026-06-17T09:14:59.166Z,en,0,admissions,factual,direct_answer,Radiology,complex,true,session_12380,true,67,13,1242,188,9,14,Wednesday,false,true,true,hi,0.9,information_seeking,high,neutral,"I want to do a radiology course, is there an entrance exam for it?",comprehensive,course;admission;entrance_exam,false,student
+qa_1781687924320_ekjns7jp,,Iska form kb aata h,"KGMU में पैरामेडिकल और अन्य कोर्सेज के लिए आवेदन फॉर्म (Application Form) की कोई एक निश्चित तारीख नहीं होती है, यह हर साल यूनिवर्सिटी के शैक्षणिक कैलेंडर के अनुसार जारी किए जाते हैं।
+
+आमतौर पर, प्रवेश परीक्षाओं के लिए फॉर्म **अप्रैल से जून** के महीनों के बीच आने की संभावना रहती है, लेकिन यह कोर्सेज के अनुसार अलग-अलग हो सकते हैं।
+
+सही और सटीक जानकारी के लिए आप इन तरीकों का उपयोग करें:
+
+1.  **आधिकारिक वेबसाइट:** [www.kgmu.org](https://www.kgmu.org) पर 'Courses & Admissions' सेक्शन को नियमित रूप से देखते रहें।
+2.  **नोटिस बोर्ड:** [KGMU Notice Board](https://kgmu.org/kgmu_notice_board.php) पर सबसे पहले नोटिफिकेशन जारी किया जाता है।
+3.  **रजिस्ट्रार कार्यालय:** आप अधिक स्पष्टता के लिए सीधे रजिस्ट्रार कार्यालय को **0522-2253171** पर फोन करके पूछ सकते हैं कि रेडियोलॉजी (पैरामेडिकल) कोर्स के लिए फॉर्म कब तक आने की उम्मीद है।
+
+**सलाह:** चूंकि आप रेडियोलॉजी कोर्स में रुचि रखते हैं, तो मैं आपको सुझाव दूँगा कि आप अगले 1-2 महीने में वेबसाइट को सक्रिय रूप से चेक करते रहें, क्योंकि नई सत्र (Session) के लिए प्रक्रिया जल्द ही शुरू हो सकती है।",2026-06-17T09:18:45.000Z,true,2026-06-17T09:14:59.166Z,en,0,general,factual,direct_answer,,moderate,true,session_12380,true,19,5,1042,175,9,14,Wednesday,false,true,true,hi,0.9,information_seeking,medium,neutral,When does its form come,comprehensive,admission;form;course,false,student
+qa_1781688018278_n8t0oq0h,,Mujhe website pr kuch nhi mil rga,"अगर आपको वेबसाइट पर जानकारी खोजने में कठिनाई हो रही है, तो मैं आपको सीधे तरीके बता देता हूँ:
+
+1. **सीधा लिंक:** आप इस लिंक पर क्लिक करें: **[https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)**
+   यहाँ KGMU द्वारा कराए जाने वाले सभी कोर्सेज की लिस्ट दी गई है। आप यहाँ 'Paramedical' या 'Diploma/Degree' सेक्शन को देखें।
+
+2. **नोटिस बोर्ड देखें:** अक्सर कोर्सेज के फॉर्म आने पर सबसे पहले यहाँ जानकारी अपडेट होती है: **[https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)**
+
+3. **सीधा संपर्क (सबसे आसान तरीका):** वेबसाइट पर जानकारी कभी-कभी तकनीकी कारणों से नहीं मिल पाती है। आप सीधे इन नंबरों पर कॉल करके पूछें कि ""रेडियोलॉजी कोर्स के लिए फॉर्म कब आएंगे?"":
+   * **रजिस्ट्रार ऑफिस:** 0522-2253171
+   * **हेल्पलाइन:** 0522-2258880 
+   *(कॉल करने का समय: सुबह 9:00 बजे से दोपहर 1:00 बजे के बीच रखें)*
+
+**एक और जरूरी बात:**
+KGMU में पैरामेडिकल कोर्सेज के लिए अक्सर **UPUMS (सैफई)** या **ABVMU (अटल बिहारी वाजपेयी मेडिकल यूनिवर्सिटी)** के माध्यम से भी प्रवेश प्रक्रिया होती है। आप एक बार **[https://abvmuup.edu.in/](https://abvmuup.edu.in/)** वेबसाइट को भी चेक कर लें, क्योंकि उत्तर प्रदेश के कई सरकारी मेडिकल कॉलेजों में पैरामेडिकल प्रवेश अब इसी यूनिवर्सिटी के माध्यम से आयोजित किए जा रहे हैं।
+
+क्या आप मुझे बता सकते हैं कि आप 12वीं के बाद यह कोर्स करना चाहते हैं या ग्रेजुएशन के बाद? इससे मैं आपको बेहतर जानकारी दे पाऊँगा।",2026-06-17T09:20:19.000Z,true,2026-06-17T09:14:59.166Z,en,0,contact,factual,direct_answer,,moderate,true,session_12380,true,33,7,1381,209,9,14,Wednesday,false,true,true,hi,0.9,information_seeking,medium,neutral,I'm not finding anything on the website,adequate,website;information;admission,false,student
+qa_1781688087715_6oz9cokz,,12 ke baad upums se ho jaye to or acha h,"अगर आप 12वीं के बाद पैरामेडिकल (रेडियोलॉजी) कोर्स करना चाहते हैं और **UPUMS (सैफई)** में रुचि रखते हैं, तो यह एक बहुत अच्छा विकल्प है।
+
+यहाँ आपके लिए कुछ महत्वपूर्ण जानकारी है:
+
+1. **प्रवेश प्रक्रिया:** UPUMS में एडमिशन के लिए अब सामान्यतः **CPET (Common Paramedical Entrance Test)** होता है, जिसे **अटल बिहारी वाजपेयी मेडिकल यूनिवर्सिटी (ABVMU)** द्वारा आयोजित किया जाता है। 
+2. **वेबसाइट चेक करें:** UPUMS से जुड़ी सभी प्रवेश संबंधी जानकारी के लिए आप आधिकारिक वेबसाइट **[https://upums.ac.in/](https://upums.ac.in/)** पर जाएं। साथ ही, प्रवेश परीक्षा की अपडेट के लिए **[https://abvmuup.edu.in/](https://abvmuup.edu.in/)** को नियमित रूप से देखते रहें।
+3. **फॉर्म कब आता है:** पैरामेडिकल के लिए प्रवेश परीक्षाओं के फॉर्म आमतौर पर **मई या जून** के महीने में जारी किए जाते हैं। 
+4. **पात्रता (Eligibility):** आपके पास 12वीं कक्षा में **Physics, Chemistry, और Biology (PCB)** विषय होने चाहिए।
+
+**मेरे सुझाव:**
+*   अभी आप इन दोनों वेबसाइटों (upums.ac.in और abvmuup.edu.in) को बुकमार्क कर लें। 
+*   अगले 1-2 महीनों में इन वेबसाइटों पर 'Admission' या 'Entrance Exam' का नोटिफिकेशन आने की पूरी संभावना है। 
+*   आप अपनी 12वीं की पढ़ाई और प्रवेश परीक्षा (Entrance Exam) की तैयारी पर ध्यान दें, क्योंकि इन संस्थानों में बहुत प्रतिस्पर्धा (Competition) होती है।
+
+क्या आप अभी 12वीं में हैं या आपने 12वीं पास कर ली है? यदि आप तैयारी के बारे में कुछ पूछना चाहते हैं, तो मैं आपकी सहायता कर सकता हूँ।",2026-06-17T09:21:28.000Z,true,2026-06-17T09:14:59.166Z,en,0,general,factual,direct_answer,,moderate,true,session_12380,true,40,11,1381,224,9,14,Wednesday,false,true,true,hi,0.9,information_seeking,high,positive,"If I do paramedical after 12th, it's better",comprehensive,course;paramedical;admission,false,student
+qa_1781688186376_nt49luie,,Mujhe ye puchna h jo cpet ka exam   iska course kya rehta h,"CPET (Common Paramedical Entrance Test) का पाठ्यक्रम (Syllabus) मुख्य रूप से आपकी **11वीं और 12वीं कक्षा की NCERT** पर आधारित होता है। इसमें आपसे मुख्य रूप से विज्ञान के विषयों से प्रश्न पूछे जाते हैं।
+
+इसका मुख्य सिलेबस इस प्रकार है:
+
+1. **Physics (भौतिक विज्ञान):** इसमें 11वीं और 12वीं के सभी महत्वपूर्ण चैप्टर आते हैं, जैसे- Mechanics, Optics, Thermodynamics, Electrostatics, Current Electricity और Modern Physics।
+2. **Chemistry (रसायन विज्ञान):** इसमें Physical, Inorganic और Organic Chemistry के बेसिक सिद्धांत पूछे जाते हैं। 12वीं की केमिस्ट्री (जैसे- Solutions, Electrochemistry, Coordination Compounds) बहुत महत्वपूर्ण है।
+3. **Biology (जीव विज्ञान):** यह सबसे महत्वपूर्ण हिस्सा है। इसमें Botany और Zoology दोनों शामिल हैं। मुख्य टॉपिक्स हैं- Cell Biology, Genetics, Human Physiology, Plant Physiology, Reproduction और Ecology।
+4. **General Knowledge/English/Reasoning:** कुछ वर्षों से इसमें सामान्य ज्ञान, अंग्रेजी भाषा और तार्किक क्षमता (Reasoning) के भी कुछ बुनियादी प्रश्न शामिल किए जा रहे हैं।
+
+**तैयारी के लिए कुछ टिप्स:**
+* **NCERT पर पकड़:** सबसे पहले 11वीं और 12वीं की NCERT बायोलॉजी, फिजिक्स और केमिस्ट्री की किताबों को अच्छे से पढ़ें।
+* **पिछले साल के पेपर (Previous Year Papers):** ABVMU की वेबसाइट पर पिछले वर्षों के पेपर देखें, इससे आपको प्रश्नों के पैटर्न और कठिनता के स्तर का अंदाजा हो जाएगा।
+* **मॉक टेस्ट:** जितना हो सके उतने प्रश्न हल करें (MCQs), क्योंकि परीक्षा का स्वरूप वस्तुनिष्ठ (Objective) होता है।
+
+**नोट:** परीक्षा का सटीक सिलेबस जब नोटिफिकेशन आता है, तो उसके साथ एक 'Information Brochure' जारी होता है, उसमें हर विषय के चैप्टर वाइज टॉपिक्स विस्तार से लिखे होते हैं। 
+
+क्या आप अभी 12वीं की बोर्ड परीक्षा दे रहे हैं या पास कर चुके हैं? इससे मुझे यह बताने में आसानी होगी कि आपको अपनी तैयारी कैसे शुरू करनी चाहिए।",2026-06-17T09:23:07.000Z,true,2026-06-17T09:14:59.166Z,en,0,exams,factual,direct_answer,,complex,true,session_12380,true,59,13,1746,281,9,14,Wednesday,false,false,true,hi,0.9,information_seeking,high,neutral,I want to know about CPET exam syllabus,comprehensive,exam;cpet;syllabus,false,student
+qa_1781688234268_ohyjt3vf,,Paas kr chukhi,"यह बहुत अच्छी बात है कि आपने 12वीं पास कर ली है! अब आपके पास पूरा समय है कि आप अपनी तैयारी को एक सही दिशा दे सकें। चूंकि CPET का सिलेबस पूरी तरह से 11वीं और 12वीं की NCERT पर टिका है, तो आप अपनी तैयारी को इस तरह व्यवस्थित करें:
+
+### 1. विषय-वार रणनीति (Subject-wise Strategy):
+*   **Biology (सबसे महत्वपूर्ण):** इसमें से सबसे ज्यादा प्रश्न आते हैं। NCERT की बायोलॉजी की किताब को 'लाइन-बाय-लाइन' पढ़ें। डायग्राम्स और उनके नाम अच्छे से याद कर लें।
+*   **Physics:** इसमें बहुत गहराई में जाने के बजाय, बेसिक फॉर्मूले (Formulae) और उनके अनुप्रयोग (Applications) पर ध्यान दें। पिछले सालों के न्यूमेरिकल हल करने की प्रैक्टिस करें।
+*   **Chemistry:** 'Organic Chemistry' की नेमिंग रिएक्शन (Name Reactions) और 'Inorganic' की पीरियोडिक टेबल (Periodic Table) को अच्छे से रट लें।
+
+### 2. तैयारी का माध्यम:
+*   **NCERT Exemplar:** केवल NCERT की किताब ही काफी नहीं है, उसके पीछे दिए गए 'Exemplar' प्रश्नों को भी जरूर हल करें।
+*   **YouTube की मदद:** आप YouTube पर 'NEET' स्तर की तैयारी कराने वाले चैनल देख सकते हैं, क्योंकि CPET का स्तर भी लगभग वैसा ही होता है।
+*   **मॉक टेस्ट:** ABVMU की आधिकारिक वेबसाइट पर पिछले साल के जो प्रश्न पत्र उपलब्ध हैं, उन्हें एक बार जरूर देखें। इससे आपको पता चलेगा कि सवाल सीधे पूछे जाते हैं या घुमाकर।
+
+### 3. फॉर्म और अपडेट का ध्यान रखें:
+*   जैसा कि मैंने बताया, **[https://abvmuup.edu.in/](https://abvmuup.edu.in/)** वेबसाइट को हफ्ते में कम से कम एक बार जरूर चेक करें। फॉर्म आते ही आपको तुरंत भरना होगा क्योंकि समय बहुत कम मिलता है।
+
+**एक जरूरी सलाह:** 
+अगर आप कहीं कोचिंग नहीं ले रहे हैं, तो अभी से ही एक टाइम-टेबल बना लें। रोज कम से कम 4-5 घंटे पढ़ाई को दें। अगर आप किसी विशेष टॉपिक में फंस रहे हैं या आपको यह समझ नहीं आ रहा कि कौन सी किताब पढ़ें, तो आप मुझसे पूछ सकते हैं।
+
+क्या आप अभी किसी और परीक्षा (जैसे NEET) की भी तैयारी कर रहे हैं? इससे मुझे आपकी तैयारी के स्तर को समझने में आसानी होगी।",2026-06-17T09:23:55.000Z,true,2026-06-17T09:14:59.166Z,en,0,general,factual,direct_answer,,simple,true,session_12380,true,14,3,1814,341,9,14,Wednesday,false,true,true,hi,0.9,feedback,low,positive,I have passed,comprehensive,preparation;strategy,false,student
+qa_1781688313942_zp2iplxo,,Mene up Get ka exam diya tha kl pr mere usme 60 shi h pr 60 se mujhe college nhi milega me obc category se hu,"मैं समझ सकता हूँ कि आप अपनी स्थिति को लेकर चिंतित हैं। 60 अंक सरकारी कॉलेजों में प्रवेश के लिए कम हो सकते हैं, लेकिन अभी पूरी तरह निराश होने की जरूरत नहीं है।
+
+यहाँ कुछ बातें हैं जो आपको ध्यान में रखनी चाहिए:
+
+1. **काउंसलिंग प्रक्रिया का इंतज़ार करें:** प्रवेश परीक्षा के बाद 'काउंसलिंग' का राउंड होता है। कई बार सीटों की संख्या और आवेदन करने वाले छात्रों की संख्या के आधार पर कट-ऑफ ऊपर-नीचे होती है। हो सकता है कि आपकी कैटेगरी (OBC) और सीट आरक्षण (Reservation) के कारण आपको कोई कॉलेज मिल जाए, इसलिए काउंसलिंग प्रक्रिया में भाग जरूर लें।
+
+2. **कॉलेज की प्राथमिकता (Preference):** काउंसलिंग के समय कॉलेज चुनते समय केवल टॉप कॉलेजों को ही न भरें। अगर आपको रेडियोलॉजी में रुचि है, तो आप उन कॉलेजों को भी लिस्ट में डालें जहाँ सीटें ज्यादा हैं या जहाँ पिछले साल का कट-ऑफ कम गया था।
+
+3. **अगली रणनीति (Backup Plan):** अगर इस बार सरकारी कॉलेज नहीं मिल पाता है, तो आप इन विकल्पों पर विचार कर सकते हैं:
+   * **निजी कॉलेज (Private Colleges):** कई अच्छे निजी कॉलेज हैं जो ABVMU से संबद्ध हैं और अच्छी पढ़ाई कराते हैं। आप उनका शुल्क (Fee) और प्लेसमेंट रिकॉर्ड देख सकते हैं।
+   * **अगली बार की तैयारी:** जैसा कि हमने पहले बात की, CPET की तैयारी NEET के स्तर की होती है। अगर आप अगले साल के लिए बेहतर तैयारी करना चाहते हैं, तो आप अभी से अपनी कमियों (जैसे फिजिक्स या केमिस्ट्री के उन टॉपिक्स जिनमें आपके अंक कटे) पर काम करना शुरू कर सकते हैं।
+
+4. **KGMU और अन्य विकल्प:** KGMU में भी पैरामेडिकल के कई कोर्सेज होते हैं। KGMU की वेबसाइट **[www.kgmu.org](https://www.kgmu.org)** पर नज़र रखें, क्योंकि कभी-कभी वे अपने स्तर पर भी प्रवेश प्रक्रिया आयोजित करते हैं।
+
+**मेरी सलाह:**
+अभी काउंसलिंग के नोटिफिकेशन का इंतज़ार करें। घबराहट में कोई गलत फैसला न लें। अगर आप मुझे बता सकें कि आपने किस विषय में ज्यादा गलतियाँ कीं (जैसे फिजिक्स या बायोलॉजी), तो मैं आपको बता सकता हूँ कि आगे सुधार कैसे करें। 
+
+क्या आपके पास कोई और विकल्प है या आप सिर्फ रेडियोलॉजी ही करना चाहते हैं?",2026-06-17T09:25:15.000Z,true,2026-06-17T09:14:59.166Z,en,0,exams,factual,direct_answer,,complex,true,session_12380,true,109,26,1845,349,9,14,Wednesday,false,true,true,hi-Latn-en,0.9,information_seeking,medium,negative,"I gave the UP Get exam yesterday and I scored 60 marks, I am from the OBC category, will I not get admission to a college?",comprehensive,admission;exam,false,student
+qa_1781688891451_z4m2i2ah,,How to have admission for bpt,"For information regarding admissions to the Bachelor of Physiotherapy (BPT) program at KGMU, please visit the official admissions portal at: https://www.kgmu.org/courses_admission.php
+
+You can find detailed information about eligibility, the application process, and entrance requirements on that page.",2026-06-17T09:34:52.000Z,true,2026-06-17T09:34:27.784Z,en,0,admissions,procedural,referral,,moderate,true,session_12381,false,29,6,302,37,9,15,Wednesday,false,true,false,en,1,information_seeking,high,neutral,How to have admission for bpt,adequate,admission;bpt,false,student
+qa_1781688955489_guhm6qw3,,फॉर्म भरना है कैसे भरे,"KGMU में OPD अपॉइंटमेंट लेने के लिए ऑनलाइन पंजीकरण अनिवार्य है। आप नीचे दिए गए किसी भी तरीके से अपना फॉर्म (अपॉइंटमेंट) भर सकते हैं:
+
+**1. ऑनलाइन पोर्टल (ORS) के माध्यम से:**
+*   वेबसाइट पर जाएं: [www.ors.gov.in](https://www.ors.gov.in)
+*   अपना मोबाइल नंबर डालकर रजिस्टर/लॉगिन करें।
+*   राज्य में 'Uttar Pradesh' और अस्पताल में 'King George's Medical University' चुनें।
+*   'New Appointment' पर क्लिक करें।
+*   अपना विभाग (Department), तारीख और समय चुनें।
+*   मरीज का विवरण भरें और ₹50 का ऑनलाइन भुगतान करें।
+*   अपॉइंटमेंट स्लिप डाउनलोड कर लें।
+
+**2. मोबाइल ऐप के माध्यम से:**
+*   आप KGMU Play Store से 'ABHA' या 'ORS' ऐप डाउनलोड करके भी यही प्रक्रिया अपना सकते हैं।
+
+**3. SMS के माध्यम से:**
+*   अपने मोबाइल से **""Appointment [मरीज का नाम]""** लिखकर **8887019134** पर SMS भेजें। आपको बुकिंग कन्फर्मेशन का मैसेज प्राप्त होगा।
+
+**4. अस्पताल में आकर (Walk-in):**
+*   अगर आप अस्पताल आकर पंजीकरण कराना चाहते हैं, तो मरीज का **आधार कार्ड** और **सक्रिय मोबाइल नंबर** साथ लाएं।
+*   पंजीकरण काउंटर पर विवरण दें, आपके मोबाइल पर OTP आएगा।
+*   OTP वेरिफाई होने के बाद आपको टोकन मिलेगा और काउंटर पर ₹50 का शुल्क जमा करना होगा।
+
+**महत्वपूर्ण जानकारी:**
+*   **समय:** OPD काउंटर सुबह 9:00 बजे से दोपहर 1:00 बजे तक ही खुले रहते हैं (शनिवार को दोपहर 12:00 बजे तक)।
+*   **परामर्श:** मैं एक AI सहायक हूँ, यदि आप किसी स्वास्थ्य समस्या से जूझ रहे हैं तो कृपया किसी डॉक्टर से परामर्श लें या KGMU OPD में संपर्क करें। अपनी सुरक्षा के लिए चैट में कोई भी व्यक्तिगत विवरण (जैसे आधार नंबर, फोन नंबर आदि) साझा न करें।
+
+यदि आपको किसी विशेष विभाग या प्रक्रिया के बारे में अधिक जानकारी चाहिए, तो कृपया पूछें।",2026-06-17T09:35:58.000Z,true,2026-06-17T05:47:02.560Z,hi,1,general,factual,direct_answer,,moderate,true,session_12382,false,22,5,1578,279,9,15,Wednesday,false,true,true,hi-Latn,0.9,information_seeking,medium,neutral,How to fill out the form,comprehensive,opd;appointment,false,patient
+qa_1781691923244_hhu6cjck,,Maine bsc nursing kar rakhi hai,"B.Sc. Nursing karne ke liye aapko bahut-bahut badhai!
+
+Agar aap KGMU mein kisi career opportunity, higher studies (M.Sc. Nursing), ya kisi vacancy ke baare mein jaanna chahte hain, toh kripya apni query spasht roop se batayein.
+
+KGMU mein nursing aur anya courses se sambandhit jaankari aap yahan dekh sakte hain:
+[https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+Agar aap kisi specific department ya faculty se sampark karna chahte hain, toh aap university ki website [www.kgmu.org](http://www.kgmu.org) par visit kar sakte hain.
+
+Kya aap kisi khaas cheez (jaise admission, vacancy, ya notice board) ke baare mein jaanna chahte hain?",2026-06-17T10:25:24.000Z,true,2026-06-17T10:25:01.481Z,en,0,courses,factual,referral,Nursing,moderate,true,session_12383,false,31,6,674,91,10,15,Wednesday,false,true,false,hi-Latn,0.9,information_seeking,low,positive,I have completed B.Sc. Nursing,adequate,nursing,true,faculty
+qa_1781691971725_od5hch50,,Mujhe kgmu mein as a nurs kam karna hai koi vecancy hai kya,"KGMU mein kisi bhi vacancy ya recruitment ki jaankari ke liye, aapko university ki official website ke **""Recruitment""** ya **""Notice Board""** section ko regular check karna hoga.
+
+Aap yahan se latest updates dekh sakte hain:
+*   **KGMU Official Website:** [www.kgmu.org](https://www.kgmu.org)
+*   **Notice Board:** [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)
+
+**Kuch zaroori baatein:**
+1.  KGMU mein nursing ki vacancies aksar government ke niyam anusar nikalti hain, jinhe aap website par 'Career' ya 'Recruitment' tab mein dekh sakte hain.
+2.  KGMU ki official website ke alawa, kisi bhi anya unofficial source par bharosa na karein.
+3.  Samay-samay par website visit karte rahein taaki koi bhi notification aane par aap turant apply kar sakein.
+
+Agar aapko website par koi specific link nahi mil raha hai, toh aap PRO (Public Relations Office) se bhi sampark kar sakte hain: [https://www.kgmu.org/pro_cug.php](https://www.kgmu.org/pro_cug.php)",2026-06-17T10:26:12.000Z,true,2026-06-17T10:25:01.481Z,en,0,general,factual,referral,,complex,true,session_12383,true,59,13,984,130,10,15,Wednesday,false,true,true,hi-Latn-en,0.8,information_seeking,high,neutral,"I want to work as a nurse at KGMU, is there any vacancy?",comprehensive,nursing;vacancy,false,staff
+qa_1781691995129_x2bidfq6,,generate id card,"I am unable to generate identification cards. As the KGMU AI Assistant, I am designed to help you with information regarding university departments, hospital services, appointments, and campus navigation.
+
+If you are a student or staff member requiring an official ID card, please contact the relevant administrative office or the Registrar's office at KGMU. You can find contact details for the administrative offices here: [https://kgmu.org/ipphonedirctory.php](https://kgmu.org/ipphonedirctory.php)",2026-06-17T10:26:41.000Z,true,2026-06-17T10:26:19.943Z,en,0,general,factual,direct_answer,,simple,true,session_12384,false,16,3,501,65,10,15,Wednesday,false,true,false,en,0.9,information_seeking,medium,neutral,generate id card,adequate,document;id_card,false,student
+qa_1781692217540_wsyfis9e,,Parcha kitne ka banata hai,OPD (Parcha) ka shulk ₹50 hai.,2026-06-17T10:30:25.000Z,true,2026-06-17T10:30:02.083Z,en,0,general,factual,direct_answer,,moderate,true,session_12385,false,26,5,30,6,10,16,Wednesday,false,false,false,hi,0.9,information_seeking,high,neutral,How much does a OPD ticket cost?,comprehensive,opd;fee,false,patient
+qa_1781692250774_b5sb1j4x,,Mere cervical pain hai to kisse dikhana chahiye,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+For cervical pain, you may consider visiting the **Department of Physical Medicine & Rehabilitation (PMR)** or the **Department of Orthopedic Surgery**.
+
+You can book an appointment online at [www.ors.gov.in](https://www.ors.gov.in) or call the KGMU helpline at **0522-2258880** / **0522-3539333**. Remember that online registration is mandatory for OPD consultations.",2026-06-17T10:30:51.000Z,true,2026-06-17T10:30:02.083Z,en,0,general,factual,safety_redirect,,moderate,true,session_12385,true,47,8,546,77,10,16,Wednesday,false,true,false,hi,0.9,information_seeking,high,concerned,"I have cervical pain, whom should I consult?",adequate,department;consultation,false,patient
+qa_1781692300051_8oxye4fj,,Subha me bheed hoti hai to kitne baje Jana chahiye parcha lagwane ke liye,"OPD mein bheed se bachne ke liye aur samay par parcha (ticket) banwane ke liye, aapko **subah 8:00 baje se 8:30 baje ke beech** pahunch jana chahiye.
+
+Dhyan rakhein ki **Parcha (Ticket) counter dopahar 1:00 baje band ho jata hai**, isliye jitni jaldi ho sake pahunchein. 
+
+**Kuch mahatvapurn baatein:**
+*   **Pre-booking:** Wait time kam karne ke liye [www.ors.gov.in](https://www.ors.gov.in) par pehle se appointment book karna behtar hota hai.
+*   **Documents:** Apne saath Aadhaar card aur mobile number zaroor rakhein, kyunki registration ke liye OTP ki zaroorat hoti hai.
+*   **Samay:** OPD ka samay Som-Shukr (Mon-Fri) subah 9:00 se 1:00 baje tak aur Shani (Sat) subah 9:00 se 12:00 baje tak hota hai. 
+
+Der se pahunchne par bheed adhik ho sakti hai, isliye subah jaldi aana hi sabse achha vikalp hai.",2026-06-17T10:31:40.000Z,true,2026-06-17T10:30:02.083Z,en,0,general,factual,direct_answer,,complex,true,session_12385,true,73,14,807,129,10,16,Wednesday,false,true,true,hi,0.9,scheduling,high,concerned,"If there is a crowd in the morning, what time should I go to get a OPD ticket?",comprehensive,opd;timing,false,patient
+qa_1781692452098_wtxoirek,,Sir kya epididymis or spermatic card scrotum me soojan है क्या ठीक हो sakta hai,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+You can book an appointment for a specialist consultation through the following methods:
+*   **Online Portal:** [www.ors.gov.in](https://www.ors.gov.in)
+*   **Phone:** 0522-2258880 or 0522-3539333
+*   **SMS:** Send ""APPOINTMENT <NAME>"" to 8887019134
+
+For your visit, please ensure you have your Aadhaar card and a valid referral if you are traveling from outside Lucknow.",2026-06-17T10:34:04.000Z,true,2026-06-17T10:32:48.687Z,hi-en,0.17,general,factual,safety_redirect,,complex,true,session_12386,false,79,15,549,80,10,16,Wednesday,false,true,true,hi,0.9,information_seeking,high,concerned,"Sir, is epididymis or spermatic cord swelling in scrotum curable?",adequate,medical_condition;treatment,false,patient
+qa_1781692473154_wq6gwd4z,,Hamko ot technician mein addmission chahiye,"KGMU में विभिन्न पाठ्यक्रमों में प्रवेश के लिए आप आधिकारिक वेबसाइट [www.kgmu.org](https://www.kgmu.org) पर 'Courses & Admission' सेक्शन देख सकते हैं।
+
+मैं एक AI सहायक हूँ और मैं सीधे प्रवेश (admission) नहीं दिला सकता। प्रवेश से संबंधित सटीक जानकारी, पात्रता (eligibility) और आवेदन प्रक्रिया के लिए कृपया यहाँ जाएँ: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+आप विश्वविद्यालय के प्रवेश कार्यालय (Admission Cell) से भी संपर्क कर सकते हैं या वेबसाइट पर दिए गए नवीनतम नोटिस बोर्ड (Notice Board) को नियमित रूप से देखते रहें।",2026-06-17T10:34:33.000Z,true,2026-06-17T10:33:49.890Z,en,0,general,factual,direct_answer,,moderate,true,session_12387,false,43,6,566,78,10,16,Wednesday,false,true,false,hi-Latn,0.9,information_seeking,medium,neutral,We want admission in OT technician,comprehensive,admission;course,false,student
+qa_1781692492529_6dg85qdw,,Hme jodo ke dard se related doctor ko dikhana hai,"Jodo ke dard (joint pain) ke liye aap **Department of Orthopedic Surgery** (Haddi rog vibhag) ya **Department of Physical Medicine & Rehabilitation (PMR)** mein dikha sakte hain.
+
+I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+**OPD Appointment ke liye niche diye gaye tareeke apnayein:**
+
+*   **Online Booking:** [www.ors.gov.in](https://www.ors.gov.in) par login karke appointment book karein.
+*   **SMS dwara:** ""APPOINTMENT <NAME>"" likhkar **8887019134** par SMS bhejein.
+*   **Helpline:** Aap 0522-2258880 ya 0522-3539333 par call karke jaankari le sakte hain.
+*   **Walk-in:** Aap seedhe KGMU OPD counter par bhi ja sakte hain (Aadhaar card saath rakhein). OPD ki parchi ka shulk (fee) ₹50 hai.
+
+**Dhyan dein:**
+*   OPD ka samay: Somvar se Shukravar (9:00 AM – 1:00 PM) aur Shanivar (9:00 AM – 12:00 PM).
+*   Ravivar ko OPD band rehti hai.
+*   Kripya samay se pahunchein kyunki registration counter 1:00 PM par band ho jata hai.",2026-06-17T10:34:56.000Z,true,2026-06-17T10:33:48.257Z,en,0,general,factual,safety_redirect,,moderate,true,session_12388,false,49,10,1065,166,10,16,Wednesday,false,true,true,hi-Latn,0.9,information_seeking,high,neutral,We need to show a doctor related to joint pain,comprehensive,department;faculty,false,patient
+qa_1781692615786_dfmhemqw,,Kya aap mujhe addmission kaise mil sakta bata sakte hain,"KGMU में प्रवेश (Admission) के लिए प्रक्रिया मुख्य रूप से निम्नलिखित चरणों में होती है:
+
+1. **आधिकारिक वेबसाइट देखें:** सबसे पहले [www.kgmu.org](https://www.kgmu.org) पर जाएं और **'Courses & Admission'** सेक्शन पर क्लिक करें। वहां आपको सभी उपलब्ध पाठ्यक्रमों (Courses) की सूची और उनके लिए पात्रता (Eligibility) की जानकारी मिलेगी।
+2. **नोटिस बोर्ड चेक करें:** प्रवेश के लिए आवेदन पत्र (Application forms) और प्रवेश परीक्षा (Entrance Exam) की सूचनाएं **'Notice Board'** ([https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)) पर समय-समय पर जारी की जाती हैं।
+3. **प्रवेश परीक्षा:** KGMU अपने विभिन्न पाठ्यक्रमों के लिए अलग-अलग प्रवेश परीक्षाएं आयोजित करता है। आपको उस विशेष परीक्षा के लिए ऑनलाइन आवेदन करना होगा।
+4. **काउंसलिंग:** परीक्षा में सफल होने के बाद, मेरिट के आधार पर काउंसलिंग प्रक्रिया होती है, जिसमें आपको दस्तावेज सत्यापन (Document Verification) के लिए बुलाया जाता है।
+
+**महत्वपूर्ण सुझाव:**
+* चूंकि आप OT Technician (Operation Theatre Technician) कोर्स के बारे में पूछ रहे हैं, तो कृपया वेबसाइट पर **'Paramedical Courses'** या **'Diploma Courses'** वाले सेक्शन को ध्यान से देखें।
+* किसी भी प्रकार की धोखाधड़ी से बचें; प्रवेश केवल आधिकारिक वेबसाइट के माध्यम से ही होता है। 
+* आप प्रवेश संबंधी अधिक जानकारी के लिए KGMU के **प्रवेश कार्यालय (Admission Cell)** से उनके आधिकारिक फोन नंबरों पर संपर्क कर सकते हैं, जो वेबसाइट के 'Contact Us' सेक्शन में उपलब्ध हैं।
+
+यदि आपको किसी विशेष कोर्स के लिए लिंक चाहिए, तो कृपया मुझे बताएं।",2026-06-17T10:36:56.000Z,true,2026-06-17T10:33:49.890Z,en,0,general,procedural,direct_answer,,moderate,true,session_12387,true,56,10,1462,225,10,16,Wednesday,false,true,true,hi-Latn,0.9,information_seeking,medium,neutral,Can you tell me how to get admission,comprehensive,admission;process,false,student
+qa_1781692625688_5zsgfh04,,Kgmu kha hai,"King George's Medical University (KGMU) **Chowk, Lucknow, Uttar Pradesh, India** mein sthit hai.",2026-06-17T10:37:07.000Z,true,2026-06-17T10:33:48.257Z,en,0,general,factual,direct_answer,,simple,true,session_12388,true,12,3,96,13,10,16,Wednesday,false,false,false,hi-Latn,0.9,navigation,low,neutral,Where is KGMU located,adequate,location,false,visitor
+qa_1781692685117_nvlfdcvz,,Badshah nagr distance,"Badshah Nagar se KGMU (Chowk) ki doori lagbhag **7 se 9 kilometer** hai, jo traffic ke hisaab se lagbhag **25 se 40 minute** ka safar ho sakta hai.
+
+Aap wahan tak pahunchne ke liye auto, taxi ya cab (Ola/Uber) ka istemal kar sakte hain.
+
+**KGMU aane ke liye kuch zaroori baatein:**
+*   **Gate 2 (Main Hospital/OPD):** Agar aap OPD dikhane aa rahe hain, toh Gate 2 sabse nazdeek aur sahi entry point hai.
+*   **Emergency:** Agar koi emergency hai, toh seedhe **Gate 14 (Trauma Centre)** par jayein.
+
+Kripya yaad rakhein ki OPD mein dikhane ke liye pehle online (ORS portal) ya SMS ke zariye appointment lena behtar hota hai taaki aapka samay bache.",2026-06-17T10:38:05.000Z,true,2026-06-17T10:33:48.257Z,en,0,general,factual,direct_answer,,simple,true,session_12388,true,21,3,647,113,10,16,Wednesday,false,false,true,hi-Latn,0.9,navigation,low,neutral,Distance from Badshah Nagar,comprehensive,location;distance,false,visitor
+qa_1781692718154_3zgvmkiw,,Nursing tutor vaccancy,"For information regarding current job openings, including vacancies for Nursing Tutors, please visit the official KGMU recruitment page: https://www.kgmu.org/job_opportunities.php
+
+You may also keep an eye on the ""Notice Board"" section of the main website at www.kgmu.org for any new notifications or advertisements related to faculty and staff recruitment.",2026-06-17T10:38:42.000Z,true,2026-06-17T10:38:11.440Z,en,0,courses,factual,referral,Nursing,simple,true,session_12389,false,22,3,357,48,10,16,Wednesday,false,true,false,en,0.9,information_seeking,medium,neutral,Nursing tutor vacancy,comprehensive,job;recruitment;nursing,false,visitor
+qa_1781692774503_fz0udrph,,Ors,"ORS (Online Registration System) ka upyog karke aap KGMU mein apni OPD appointment asani se book kar sakte hain. Iske liye niche diye gaye steps follow karein:
+
+1.  **Website par jayein:** [www.ors.gov.in](https://ors.gov.in) par visit karein.
+2.  **Login/Register:** Apne mobile number aur OTP ka upyog karke login karein.
+3.  **Hospital Select karein:** 'State' mein 'Uttar Pradesh' aur 'Hospital' mein 'King George's Medical University' (KGMU) chunein.
+4.  **Appointment Book karein:** 'New Appointment' par click karein aur apna department (jaise Orthopedics ya PMR) select karein.
+5.  **Details bharein:** Patient ki jankari (Aadhaar number) bharein aur date/time slot chunein.
+6.  **Fee Payment:** ₹50 ka online bhugtan (payment) karein.
+7.  **Slip Download:** Appointment confirm hone ke baad slip download kar lein, jise hospital aate samay dikhana hoga.
+
+**Kuch zaroori baatein:**
+*   Online booking se aapka wait time kafi kam ho jata hai.
+*   Hospital aate samay apna **Aadhaar Card** aur **Appointment Slip** zaroor saath layein.
+*   Yadi aapko online booking mein koi dikkat aaye, toh aap 0522-2258880 ya 0522-3539333 par call karke madad le sakte hain.
+
+I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.",2026-06-17T10:39:36.000Z,true,2026-06-17T10:33:48.257Z,en,0,general,factual,safety_redirect,,simple,true,session_12388,true,3,1,1344,201,10,16,Wednesday,false,true,true,hi-Latn-en,0.8,information_seeking,high,neutral,ORS,comprehensive,opd;appointment;ors,false,patient
+qa_1781692924184_wnz8lgur,,Thanks dear 😊,"Aapka swagat hai! Agar aapko KGMU se sambandhit koi aur jaankari chahiye ho, toh zaroor puchein. Swasth rahein! 😊",2026-06-17T10:42:06.000Z,true,2026-06-17T10:33:48.257Z,en,0,general,factual,direct_answer,,simple,true,session_12388,true,14,3,114,19,10,16,Wednesday,false,false,false,en,0.9,feedback,none,positive,Thanks dear,adequate,,false,visitor
+qa_1781692989070_quzavoey,,I want to know about BPT,"The Bachelor of Physiotherapy (BPT) is a professional undergraduate course offered at King George's Medical University. It is designed to train students in the physical rehabilitation of patients through therapeutic exercises, physical agents, and manual techniques.
+
+For detailed information regarding the BPT course, including admission procedures, eligibility criteria, and the academic curriculum, please visit the official KGMU website at: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+If you are looking for specific information about the Department of Physical Medicine and Rehabilitation, you can find it here: [https://www.kgmu.org/department_details.php?dept_id=4&dept_type=2](https://www.kgmu.org/department_details.php?dept_id=4&dept_type=2)
+
+If you have any further questions about the admission process, please let me know!",2026-06-17T10:43:09.000Z,true,2026-06-17T10:42:50.041Z,en,0,general,factual,referral,,moderate,true,session_12390,false,24,6,881,95,10,16,Wednesday,false,true,false,en,0.9,information_seeking,medium,neutral,I want to know about BPT,comprehensive,course;bpt,false,student
+qa_1781693148189_rqvvfksl,,Main jankari chahta hoon pharmacist post ki joining ke bare me,"KGMU mein kisi bhi post (jaise ki Pharmacist) ki bharti aur joining se sambandhit jaankari ke liye, aapko university ki official website par ""Recruitment"" ya ""Notice Board"" section check karna chahiye.
+
+Aap niche diye gaye links par jaakar latest updates aur results dekh sakte hain:
+
+*   **KGMU Official Website:** [www.kgmu.org](https://www.kgmu.org)
+*   **Notice Board:** [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)
+
+Agar aapne kisi specific exam ya recruitment process mein bhag liya hai, toh kripya uska naam ya reference number batayein taaki main aapko sahi link provide kar sakoon. 
+
+Iske alawa, aap seedhe **Registrar Office** se bhi sampark kar sakte hain:
+*   **Phone Number:** 0522-2253171
+
+*Note: Main ek AI assistant hoon, official joining letter ya personal appointment status ke liye aapko university ke administrative department se hi sampark karna hoga.*",2026-06-17T10:45:49.000Z,true,2026-06-17T10:44:28.095Z,en,0,departments,factual,referral,Pharmacology,moderate,true,session_12391,false,62,11,909,123,10,16,Wednesday,false,true,true,hi,0.9,information_seeking,medium,neutral,I want information about pharmacist post joining,comprehensive,job;pharmacist;recruitment,false,visitor
+qa_1781693216125_35z2bey9,,Phamamcy grade 2,"Pharmacy Grade 2 (Pharmacist) bharti aur uski joining process se sambandhit updates ke liye, aap neeche diye gaye official links ko check karte rahein:
+
+1.  **KGMU Notice Board:** Yahan par bharti se judi sabhi latest notifications aur joining lists upload ki jaati hain: [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)
+2.  **Career/Recruitment Section:** University ki website par 'Career' ya 'Recruitment' tab ko regularly check karein: [www.kgmu.org](https://www.kgmu.org)
+
+**Mahatvapurn Sujhaav:**
+*   Agar aapka selection ho gaya hai aur aap joining letter ka intezar kar rahe hain, toh aap **Registrar Office** se sampark kar sakte hain: **0522-2253171**.
+*   Yadi ye bharti kisi external agency (jaise UPSSSC) ke madhyam se hui hai, toh unki official website par bhi apna status check karein.
+
+Main ek AI assistant hoon, isliye main aapke personal joining status ko access nahi kar sakta. Kripya official portal ya administrative office se hi adhikarik pushti karein.",2026-06-17T10:46:57.000Z,true,2026-06-17T10:44:28.095Z,en,0,exams,factual,referral,,simple,true,session_12391,true,16,3,1007,139,10,16,Wednesday,false,true,true,hi-Latn-en,0.8,information_seeking,medium,neutral,Pharmacy grade 2,comprehensive,pharmacy;job;recruitment,false,visitor
+qa_1781693284096_lgmr8cmn,,Main yahi pooch rha hoo ki kisi joining hui ki nhi,"Pharmacist Grade-2 ki bharti aur uske joining status ke baare mein adhikarik jaankari prapt karne ke liye, aap in steps ka palan karein:
+
+1. **Official Notice Board Check Karein:** KGMU ki website par koi bhi joining list ya naya notification sabse pehle [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php) par update kiya jaata hai. Aap yahan ""Recruitment"" ya ""Appointment"" se sambandhit PDFs check kar sakte hain.
+2. **Registrar Office se Sampark Karein:** Agar website par koi list nahi dikh rahi hai, toh iska matlab hai ki abhi tak koi public notice jari nahi hua hai. Joining ki sthiti (status) ki pushti karne ke liye aap Registrar Office ke is number par call karke pooch sakte hain: **0522-2253171**.
+3. **PRO Office:** Aap Public Relations Office (PRO) se bhi sampark kar sakte hain, jo bharti aur administrative jaankari mein madad kar sakte hain: [https://kgmu.org/pro_cug.php](https://kgmu.org/pro_cug.php).
+
+Main ek AI assistant hoon aur mere paas internal administrative files ya real-time joining status ka access nahi hota hai, isliye main aapko joining hui hai ya nahi, iski pushti nahi kar sakta. Sahi aur sahi jaankari ke liye **Registrar Office** se sampark karna hi sabse behtar vikalp hai.",2026-06-17T10:48:05.000Z,true,2026-06-17T10:44:28.095Z,en,0,general,factual,referral,,moderate,true,session_12391,true,50,11,1241,185,10,16,Wednesday,false,true,true,hi,0.9,information_seeking,medium,neutral,I am asking if any joining has happened,comprehensive,job;recruitment;joining,false,applicant
+qa_1781696351379_093pihdx,,Mujhe kgm mein naukari ki jankari chahie kya post nikali Hai Koi,"KGMU mein naukri (jobs) aur recruitment se sambandhit jankari ke liye aap kripya KGMU ki official website ka ""Recruitment"" section dekhein.
+
+Aap yahan se latest notifications aur vacancies check kar sakte hain:
+**[https://www.kgmu.org/jobs.php](https://www.kgmu.org/jobs.php)**
+
+Iske alawa, aap KGMU ki main website **[www.kgmu.org](https://www.kgmu.org)** par jaakar ""Notice Board"" ya ""Recruitment"" tab ko regular check karte rahein, kyunki sabhi sarkari naukriyon ki jaankari wahi par update ki jaati hai.",2026-06-17T11:39:13.000Z,true,2026-06-17T11:38:43.161Z,en,0,general,factual,referral,,moderate,true,session_12392,false,64,12,507,65,11,17,Wednesday,false,true,false,hi,0.9,information_seeking,medium,neutral,"I want information about jobs in KGMU, any posts are vacant?",comprehensive,job;recruitment;vacancy,false,applicant
+qa_1781696551019_cy194wfp,,How can i apply for mbbs,"Admission to the MBBS program at King George's Medical University is conducted through the national-level **NEET-UG** examination.
+
+To apply, please follow these steps:
+
+1.  **NEET-UG Examination:** You must appear for and qualify for the National Eligibility cum Entrance Test (NEET-UG) conducted by the National Testing Agency (NTA).
+2.  **Counseling Process:** Admission is strictly based on the merit list generated through the NEET-UG counseling process. You must register for the state-level counseling conducted by the **Directorate General of Medical Education and Training (DGME), Uttar Pradesh** (https://upneet.gov.in/).
+3.  **Official Information:** For specific details regarding eligibility criteria, seat matrix, and admission guidelines at KGMU, please visit the official admissions page on our website: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php).
+
+Please keep an eye on the official KGMU website and the UP NEET counseling portal for notifications regarding the application schedule.",2026-06-17T11:42:32.000Z,true,2026-06-17T11:42:14.348Z,en,0,courses,procedural,referral,,moderate,true,session_12393,false,24,6,1046,132,11,17,Wednesday,false,true,true,en,1,information_seeking,high,neutral,How can i apply for mbbs,comprehensive,admission;mbbs;neet,false,student
+qa_1781696779166_0e7qhoaa,,Main ye janana chahta hoo ki pharmacist ki posting hui ki nhi,"KGMU mein pharmacist ya kisi bhi pad par bharti aur posting se sambandhit adhikarik jaankari ke liye aapko KGMU ki website ka ""Notice Board"" section check karna chahiye.
+
+Aap is link par jaakar latest notifications dekh sakte hain:
+[https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)
+
+Yadi wahan koi jankari uplabdh nahi hai, toh aap adhikarik pushti ke liye **Registrar Office** se sampark kar sakte hain:
+*   **Phone:** 0522-2253171
+
+Main aapko salah doonga ki aap samay-samay par upar diye gaye official notice board link ko check karte rahein.",2026-06-17T11:46:20.000Z,true,2026-06-17T10:44:28.095Z,en,0,departments,factual,referral,Pharmacology,moderate,true,session_12391,true,61,12,576,81,11,17,Wednesday,false,true,true,hi,0.9,information_seeking,medium,neutral,I want to know if pharmacist posting has happened,comprehensive,pharmacy;job;posting,false,applicant
+qa_1781696954752_nvl0cx72,,PGDLMT course,"The **Post Graduate Diploma in Laboratory Medicine Technology (PGDLMT)** is one of the specialized courses offered at King George's Medical University.
+
+You can find detailed information regarding admissions, course structure, and eligibility criteria on the official KGMU website here: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+If you are looking for specific admission notifications or the latest prospectus, please check the **Admission/Course** section on the main website at [www.kgmu.org](https://www.kgmu.org).",2026-06-17T11:49:15.000Z,true,2026-06-15T09:52:17.049Z,en,0,courses,factual,referral,,simple,true,session_12133,true,13,2,565,63,11,17,Wednesday,false,true,false,en,0.9,information_seeking,medium,neutral,PGDLMT course,comprehensive,course;admission,false,student
+qa_1781698252507_tiz070h7,,I want to download admit card for nursing officer recruitment,"I am not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+Regarding your request, please visit the official KGMU website at **[www.kgmu.org](https://www.kgmu.org)** and check the **""Recruitment""** or **""Notice Board""** sections for any active links related to Nursing Officer recruitment admit cards. 
+
+If you are having trouble finding the link, you may contact the Registrar's Office at **0522-2253171** for further guidance.",2026-06-17T12:10:54.000Z,true,2026-06-17T12:10:27.179Z,en,0,courses,factual,safety_redirect,Nursing,moderate,true,session_12394,false,61,10,548,80,12,17,Wednesday,false,true,false,en,0.9,information_seeking,low,neutral,I want to download admit card for nursing officer recruitment,adequate,admission;recruitment,false,applicant
+qa_1781698817499_vf715anh,,ot technician ka form kab ayega,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+Regarding your query about the OT Technician recruitment, please note that I am a chatbot designed to assist with university and hospital information. For the latest updates on job vacancies, recruitment forms, and career opportunities at King George's Medical University, please regularly check the official KGMU website at **[www.kgmu.org](https://www.kgmu.org)** under the **""Career""** or **""Recruitment""** section.",2026-06-17T12:20:19.000Z,true,2026-06-17T12:19:47.882Z,en,0,general,temporal,safety_redirect,,moderate,true,session_12395,false,31,6,596,85,12,17,Wednesday,false,true,false,hi-Latn,0.8,information_seeking,medium,neutral,When will the OT technician form be available?,deflected,recruitment;ot technician,true,applicant
+qa_1781698882435_6xembjcy,,can you speak a hindi,"जी हाँ, मैं हिंदी में बात कर सकता हूँ। मैं आपकी किस प्रकार सहायता कर सकता हूँ?",2026-06-17T12:21:24.000Z,true,2026-06-17T12:19:47.882Z,en,0,general,yes_no,direct_answer,,moderate,true,session_12395,true,21,5,78,17,12,17,Wednesday,false,false,false,en,0.9,greeting,none,positive,can you speak a hindi,comprehensive,,false,visitor
+qa_1781698916671_rzillat6,,ot technician ka form kab ata hai,"OT Technician (या अन्य पैरामेडिकल पदों) की भर्ती के लिए कोई निश्चित समय-सारणी नहीं होती है। यह भर्तियाँ विश्वविद्यालय की आवश्यकता के अनुसार समय-समय पर निकाली जाती हैं।
+
+इसकी जानकारी पाने के लिए आप निम्नलिखित कदम उठा सकते हैं:
+
+1. **आधिकारिक वेबसाइट:** कृपया नियमित रूप से KGMU की आधिकारिक वेबसाइट **[www.kgmu.org](https://www.kgmu.org)** देखते रहें।
+2. **करियर सेक्शन:** वेबसाइट पर **'Career'** या **'Recruitment'** सेक्शन में जाएँ, जहाँ सभी नई भर्तियों के विज्ञापन जारी किए जाते हैं।
+3. **नोटिस बोर्ड:** आप [KGMU Notice Board](https://kgmu.org/kgmu_notice_board.php) को भी समय-समय पर चेक कर सकते हैं।
+
+जब भी कोई नई भर्ती आएगी, उसका विज्ञापन और आवेदन करने की पूरी प्रक्रिया वेबसाइट पर अपलोड कर दी जाएगी।
+
+*नोट: मैं एक AI सहायक हूँ जिसे डॉ. आयुष यादव द्वारा बनाया गया है। मैं केवल वेबसाइट पर उपलब्ध जानकारी के आधार पर आपकी मदद कर सकता हूँ।*",2026-06-17T12:21:58.000Z,true,2026-06-17T12:19:47.882Z,en,0,general,temporal,direct_answer,,moderate,true,session_12395,true,33,7,839,137,12,17,Wednesday,false,true,true,hi-Latn,0.8,information_seeking,medium,neutral,When does the OT technician form arrive?,comprehensive,recruitment;ot technician,false,applicant
+qa_1781698953777_m80jnpc3,,mai entrence exam ki baat kar raha hu,"यदि आप KGMU में **OT Technician (Diploma/Certificate)** या किसी संबंधित पैरामेडिकल कोर्स में प्रवेश परीक्षा (Entrance Exam) की बात कर रहे हैं, तो इसके लिए आपको निम्नलिखित जानकारी ध्यान में रखनी चाहिए:
+
+1. **प्रवेश परीक्षा की जानकारी:** KGMU के पैरामेडिकल और डिप्लोमा कोर्सेज के लिए प्रवेश परीक्षा (Entrance Exam) के फॉर्म आमतौर पर हर साल **मई से जुलाई** के बीच आते हैं।
+2. **आधिकारिक वेबसाइट:** सभी प्रवेश परीक्षाओं के फॉर्म, नोटिफिकेशन और तिथियों की जानकारी के लिए आपको **[www.kgmu.org](https://www.kgmu.org)** पर **'Courses & Admission'** सेक्शन को नियमित रूप से चेक करना चाहिए।
+3. **एडमिशन पोर्टल:** आप [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php) लिंक पर जाकर उपलब्ध कोर्सेज और उनके एडमिशन प्रोसेस की जानकारी देख सकते हैं।
+
+**महत्वपूर्ण सुझाव:**
+* चूँकि हर साल शैक्षणिक कैलेंडर में बदलाव हो सकता है, इसलिए आप वेबसाइट पर दिए गए **'Admission Notice'** सेक्शन पर नज़र रखें।
+* यदि आप किसी विशिष्ट कोर्स (जैसे B.Sc. Paramedical) के बारे में पूछना चाहते हैं, तो कृपया कोर्स का नाम बताएँ ताकि मैं आपको सही जानकारी दे सकूँ।
+
+*मैं डॉ. आयुष यादव द्वारा बनाया गया KGMU AI सहायक हूँ, और मैं केवल विश्वविद्यालय की आधिकारिक वेबसाइट पर उपलब्ध जानकारी के अनुसार ही आपकी सहायता कर सकता हूँ।*",2026-06-17T12:22:35.000Z,true,2026-06-17T12:19:47.882Z,en,0,exams,factual,direct_answer,,moderate,true,session_12395,true,37,8,1221,192,12,17,Wednesday,false,true,true,hi-Latn,0.9,information_seeking,medium,neutral,I am talking about the entrance exam,comprehensive,admission;exam;entrance,false,student
+qa_1781699098590_qwa9jof0,,to mujhe bataiye ki OT Technician ka form kab ayega,"OT Technician कोर्स के लिए प्रवेश परीक्षा (Entrance Exam) के फॉर्म कब आएंगे, इसकी **कोई एक निश्चित तारीख पहले से तय नहीं होती है।** यह KGMU के शैक्षणिक कैलेंडर (Academic Calendar) पर निर्भर करता है।
+
+आमतौर पर KGMU में पैरामेडिकल कोर्सेज के लिए प्रवेश प्रक्रिया इस प्रकार चलती है:
+
+1. **समय:** आमतौर पर प्रवेश परीक्षा के फॉर्म **मई, जून या जुलाई** के महीनों में जारी किए जाते हैं।
+2. **जानकारी कहाँ देखें:** आप KGMU की वेबसाइट **[www.kgmu.org](https://www.kgmu.org)** पर जाकर **""Courses & Admission""** सेक्शन को नियमित रूप से चेक करते रहें।
+3. **नोटिस बोर्ड:** आप [KGMU Notice Board](https://kgmu.org/kgmu_notice_board.php) पर भी लेटेस्ट अपडेट देख सकते हैं।
+
+**मेरी सलाह:**
+अभी 2026 के शैक्षणिक सत्र के लिए आधिकारिक अधिसूचना (Official Notification) का इंतज़ार करें। जैसे ही फॉर्म जारी होंगे, उनकी पूरी जानकारी और आवेदन करने का लिंक वेबसाइट पर उपलब्ध करा दिया जाएगा।
+
+*मैं डॉ. आयुष यादव द्वारा बनाया गया KGMU AI सहायक हूँ। यदि आपको इसके अलावा किसी और विभाग या कैंपस की जानकारी चाहिए, तो कृपया पूछें।*",2026-06-17T12:25:00.000Z,true,2026-06-17T12:19:47.882Z,en,0,general,temporal,direct_answer,,moderate,true,session_12395,true,51,10,998,165,12,17,Wednesday,false,true,true,hi-Latn,0.9,information_seeking,medium,neutral,"So, tell me when the OT Technician form will come",comprehensive,admission;form;OT Technician,false,student
+qa_1781699461277_t618zj52,,What was the last cutoff marks for bds in 2025,"I am not able to provide cutoff marks or predict admission results. For the most accurate and official information regarding admissions and cutoffs, please visit the official KGMU admissions page at https://www.kgmu.org/courses_admission.php.",2026-06-17T12:31:02.000Z,true,2026-06-17T12:30:34.843Z,en,0,admissions,factual,referral,,moderate,true,session_12396,false,46,10,242,32,12,18,Wednesday,false,true,false,en,1,information_seeking,high,neutral,What was the last cutoff marks for bds in 2025,deflected,admission;cutoff;BDS,false,student
+qa_1781699879401_d6uxuogt,,Mai ek MBA student hu mujhe kgmu me job karne hai non technical field me any vacancies?,"KGMU mein job vacancies ke liye aapko samay-samay par university ki official website **[www.kgmu.org](https://www.kgmu.org)** par ""Careers"" ya ""Recruitment"" section ko check karte rehna chahiye.
+
+Non-technical roles mein aksar Hospital Administration, Finance, ya HR departments mein avsar hote hain. Aap in links par apni nazar bana kar rakhein:
+
+1.  **Recruitment/Vacancies Page:** [https://www.kgmu.org/job_opportunity.php](https://www.kgmu.org/job_opportunity.php)
+2.  **Notice Board:** [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)
+
+KGMU mein zyada tar bhartiyan advertisement ke zariye hoti hain, isliye website ko regular visit karna hi sabse sahi tarika hai. Aap university ke Administration ya Registrar office mein bhi kisi vigyapan (advertisement) ke bare mein inquiry kar sakte hain.
+
+*I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.*",2026-06-17T12:38:01.000Z,true,2026-06-17T12:37:14.364Z,en,0,career,factual,safety_redirect,,complex,true,session_12397,false,87,17,1010,125,12,18,Wednesday,false,true,true,hi-Latn-en,0.8,information_seeking,low,neutral,"I am an MBA student, I want to work in KGMU in a non-technical field, any vacancies?",comprehensive,job;vacancy;non-technical,false,student
+qa_1781700111263_qshcloa1,,Bpt registration,"For information regarding BPT (Bachelor of Physiotherapy) admissions and registration, please visit the official KGMU website at [www.kgmu.org](https://www.kgmu.org) and navigate to the **""Courses & Admission""** section.
+
+You can find detailed information on available courses and the admission process here: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+If you have specific questions about the application timeline or eligibility, I recommend checking the admission brochure linked on that page or contacting the Registrar's office at 0522-2253171.",2026-06-17T12:41:51.000Z,true,2026-06-17T10:42:50.041Z,en,0,appointment,factual,referral,,simple,true,session_12390,true,16,2,594,68,12,18,Wednesday,false,true,false,en,1,information_seeking,high,neutral,Bpt registration,adequate,admission;registration;BPT,false,student
+qa_1781700116853_ofbsz88k,,Ward boy,"I'm not qualified to provide medical advice or handle specific employment or internal staffing inquiries regarding ""ward boys."" Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+If you are looking for official information regarding KGMU, you can contact the **Public Relations Office (PRO)** or visit the official website at [www.kgmu.org](https://www.kgmu.org). 
+
+For administrative or employment inquiries, please check the [KGMU Notice Board](https://kgmu.org/kgmu_notice_board.php) or contact the **Registrar's Office** at [0522-2253171].",2026-06-17T12:41:57.000Z,true,2026-06-17T12:41:26.880Z,en,0,general,factual,safety_redirect,,simple,true,session_12398,false,8,2,625,83,12,18,Wednesday,false,true,false,en,0.9,information_seeking,low,neutral,Ward boy,adequate,staff;employment,false,visitor
+qa_1781700153538_igigfkeh,,Ward boy job,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+Regarding job inquiries at King George's Medical University, please note that I am the KGMU AI Chatbot created by Dr. Ayush Yadav, and I cannot assist with individual job placement or recruitment. 
+
+For all official information regarding vacancies, recruitment notices, and application procedures, please visit the **official KGMU website** at [www.kgmu.org](https://www.kgmu.org) and check the **Notice Board** or the **Careers/Recruitment** section. You may also contact the **Registrar's Office** at 0522-2253171 for official guidance.",2026-06-17T12:42:34.000Z,true,2026-06-17T12:41:26.880Z,en,0,career,factual,safety_redirect,,simple,true,session_12398,true,12,3,716,102,12,18,Wednesday,false,true,false,en,0.9,information_seeking,low,neutral,Ward boy job,adequate,staff;employment,false,visitor
+qa_1781700199752_p9lzn9hy,,Registration time,"For OPD registration at KGMU, please note the following:
+
+*   **Registration Timings:** 
+    *   **Monday to Friday:** 9:00 AM – 1:00 PM
+    *   **Saturday:** 9:00 AM – 12:00 PM
+    *   **Sundays:** Closed
+
+*   **Important Note:** The registration counters close strictly at the times mentioned above. It is strongly recommended to arrive early to complete your registration.
+
+*   **How to book:**
+    *   **Online:** [www.ors.gov.in](https://www.ors.gov.in)
+    *   **SMS:** Send ""APPOINTMENT <NAME>"" to 8887019134.
+    *   **Walk-in:** You can register on-site by providing your Aadhaar number and an active mobile number.
+
+I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline at 0522-2258880 / 0522-3539333. Also, please avoid sharing personal details like Aadhaar numbers or phone numbers in this chat for your safety.",2026-06-17T12:43:20.000Z,true,2026-06-17T10:42:50.041Z,en,0,appointment,factual,safety_redirect,,simple,true,session_12390,true,17,2,871,125,12,18,Wednesday,false,true,true,en,0.9,scheduling,medium,neutral,Registration time,comprehensive,registration;timing;opd,false,patient
+qa_1781700231967_gax2gwqe,,Registration date,"OPD registration at KGMU is an ongoing daily process, not tied to a specific calendar date. You can register on any working day (Monday through Saturday). 
+
+To secure an appointment, you should use the online booking methods (ORS portal or SMS) or visit the registration counter on the day you wish to consult. Please remember that registration counters close at 1:00 PM (Monday–Friday) and 12:00 PM (Saturday).
+
+If you are referring to **admission registration** for a specific academic course, please visit [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php) for the latest admission schedules and notifications. 
+
+I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline at 0522-2258880 / 0522-3539333. Also, please avoid sharing personal details in this chat for your safety.",2026-06-17T12:43:52.000Z,true,2026-06-17T10:42:50.041Z,en,0,appointment,temporal,safety_redirect,,simple,true,session_12390,true,17,2,861,123,12,18,Wednesday,false,true,false,en,0.9,scheduling,medium,neutral,Registration date,comprehensive,registration;opd,false,patient
+qa_1781700481926_r6ktot8o,,How to book opd apointment,"To book an OPD appointment at KGMU, you must have a valid Aadhaar number and an active mobile number. Please choose one of the following methods:
+
+**1. Online Portal (Recommended)**
+*   Visit the official portal: [www.ors.gov.in](https://ors.gov.in)
+*   Select State: **Uttar Pradesh**
+*   Select Hospital: **King George's Medical University (KGMU)**
+*   Click **'New Appointment'**, select your department, date, and time slot.
+*   Enter patient details and pay the **₹50 fee** online to download your appointment slip.
+
+**2. Mobile App**
+*   Download the **ABHA** or **ORS** app from the KGMU Play Store.
+*   Register using your mobile number and follow the same steps as the online portal.
+
+**3. SMS Booking**
+*   Send an SMS in the following format: **""APPOINTMENT <Patient Name>""** to **8887019134**.
+*   You will receive a confirmation regarding your booking.
+
+**4. Walk-in (On-Site)**
+*   You can visit the hospital registration counters.
+*   **Requirements:** You must provide your Aadhaar number and an active mobile number.
+*   An OTP will be sent to your mobile for verification.
+*   Pay the **₹50 fee** at the counter to receive your physical OPD slip.
+
+**Important Reminders:**
+*   **Pre-booking is strongly recommended** to avoid long wait times.
+*   The registration counters close at **1:00 PM sharp**.
+*   If you are coming from outside Lucknow, please ensure you carry a valid referral letter for your specific department.
+*   I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline at **0522-2258880** / **0522-3539333**. For your safety, please avoid sharing personal health details, Aadhaar numbers, or phone numbers in this chat.",2026-06-17T12:48:02.000Z,true,2026-06-17T12:47:35.088Z,en,0,opd,procedural,safety_redirect,,moderate,true,session_12399,false,26,5,1697,260,12,18,Wednesday,false,true,true,en,0.9,scheduling,high,neutral,How to book opd appointment,comprehensive,appointment;opd;registration,false,patient
+qa_1781700544242_j9izigqw,,Dr amreesh old cardiology,"I am not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+Regarding your query, you can find information about the Department of Cardiology and its faculty members here: [https://www.kgmu.org/department_details.php?dept_id=9&dept_type=2](https://www.kgmu.org/department_details.php?dept_id=9&dept_type=2)
+
+If you are trying to reach the Lari Cardiology PRO office, you can contact them at 9415099528.",2026-06-17T12:49:03.000Z,true,2026-06-17T12:47:36.001Z,en,0,departments,factual,safety_redirect,Cardiology,simple,true,session_12400,false,25,4,521,66,12,18,Wednesday,false,true,false,hi-Latn-en,0.8,information_seeking,high,neutral,Dr Amreesh old cardiology,deflected,faculty;cardiology;department,false,patient
 qa_1781964200166_8encof9w,,hello sir . hamko dental hy,"Hello. I understand you are looking for information regarding the Dental department.
 
 To help you better, could you please clarify your query? Are you looking for:
@@ -117043,12 +117547,12 @@ To help you better, could you please clarify your query? Are you looking for:
 
 Please let me know how I can assist you further.
 
-*Reminder: I am not qualified to provide medical advice. If you are experiencing symptoms, please consult a doctor at KGMU OPD or visit the relevant department. For your safety, please avoid sharing sensitive personal details like Aadhaar numbers or phone numbers in this chat.*",2026-06-16T13:00:56.000Z,true,2026-06-20T14:01:32.160Z,en,0,general,factual,safety_redirect,,moderate,true,session_12375,false,27,6,799,113,13,18,Tuesday,false,true,true,hi-Latn-en,0.8,information_seeking,high,neutral,"Hello sir, I need dental information",partial,dental;department;opd,true,patient
+*Reminder: I am not qualified to provide medical advice. If you are experiencing symptoms, please consult a doctor at KGMU OPD or visit the relevant department. For your safety, please avoid sharing sensitive personal details like Aadhaar numbers or phone numbers in this chat.*",2026-06-16T13:00:56.000Z,true,2026-06-20T14:01:32.160Z,en,0,general,factual,safety_redirect,,moderate,true,session_12401,false,27,6,799,113,13,18,Tuesday,false,true,true,hi-Latn-en,0.8,information_seeking,high,neutral,"Hello sir, I need dental information",partial,dental;department;opd,true,patient
 qa_1781964801845_ukl9euaj,,"Since you are looking to take admission this year, I can help you out! Would you like me to find information about top dental hygiene colleges, eligibility criteria, fees, or entrance exams? Just let me know which country or state you are planning to study in!","I am the KGMU AI Chatbot, created by Dr. Ayush Yadav. My purpose is to assist you with information regarding King George's Medical University, Lucknow.
 
 If you are interested in admissions at KGMU, you can find detailed information about our courses and the admission process on our official website here: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php).
 
-If you have questions about a specific department or service at KGMU, please feel free to ask!",2026-06-16T13:10:58.000Z,true,2026-06-20T14:01:32.160Z,en,0,admissions,factual,direct_answer,,complex,true,session_12375,true,260,46,491,68,13,18,Tuesday,false,true,false,en,0.9,information_seeking,low,positive,"Since you are looking to take admission this year, I can help you out! Would you like me to find information about top dental hygiene colleges, eligibility criteria, fees, or entrance exams? Just let me know which country or state you are planning to study in!",comprehensive,admission;dental hygiene;colleges,true,student
+If you have questions about a specific department or service at KGMU, please feel free to ask!",2026-06-16T13:10:58.000Z,true,2026-06-20T14:01:32.160Z,en,0,admissions,factual,direct_answer,,complex,true,session_12401,true,260,46,491,68,13,18,Tuesday,false,true,false,en,0.9,information_seeking,low,positive,"Since you are looking to take admission this year, I can help you out! Would you like me to find information about top dental hygiene colleges, eligibility criteria, fees, or entrance exams? Just let me know which country or state you are planning to study in!",comprehensive,admission;dental hygiene;colleges,true,student
 qa_1781965087789_tpsl2y2s,,kya mujhe dr aayush sir ka nomber mil sakta hai,"I am the KGMU AI Chatbot, created by Dr. Ayush Yadav. As an AI assistant, I do not have access to or authorization to share the personal contact information of the developer.
 
-If you have any questions regarding KGMU, its departments, or services, I am here to help you find that information on the official website. For any official communication, please contact the university administration or the PRO office through the details available at [https://kgmu.org/imp_numbers.php](https://kgmu.org/imp_numbers.php).",2026-06-16T13:15:44.000Z,true,2026-06-20T14:01:32.160Z,en,0,general,yes_no,unable_to_answer,,moderate,true,session_12375,true,47,10,514,75,13,18,Tuesday,false,true,false,hi-Latn,0.9,information_seeking,medium,neutral,Can I get Dr. Ayush sir's number?,adequate,faculty;contact,false,patient
+If you have any questions regarding KGMU, its departments, or services, I am here to help you find that information on the official website. For any official communication, please contact the university administration or the PRO office through the details available at [https://kgmu.org/imp_numbers.php](https://kgmu.org/imp_numbers.php).",2026-06-16T13:15:44.000Z,true,2026-06-20T14:01:32.160Z,en,0,general,yes_no,unable_to_answer,,moderate,true,session_12401,true,47,10,514,75,13,18,Tuesday,false,true,false,hi-Latn,0.9,information_seeking,medium,neutral,Can I get Dr. Ayush sir's number?,adequate,faculty;contact,false,patient
