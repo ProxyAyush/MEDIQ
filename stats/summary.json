@@ -1,64 +1,64 @@
 {
-  "totalEntries": 16753,
+  "totalEntries": 16764,
   "dateRange": {
     "start": "2025-04-01",
     "end": "2026-06-22"
   },
   "totalDays": 320,
-  "totalSessions": 12676,
-  "dailyAverage": 52.35,
-  "botAnswerRate": 95.59,
+  "totalSessions": 12680,
+  "dailyAverage": 52.39,
+  "botAnswerRate": 95.6,
   "languageDistribution": {
-    "en": 16198,
+    "en": 16209,
     "hi": 394,
     "hi-en": 161
   },
   "categoryDistribution": {
-    "general": 5612,
+    "general": 5616,
     "admissions": 2070,
     "exams": 1647,
-    "courses": 1622,
+    "courses": 1623,
     "appointment": 1345,
     "opd": 1113,
-    "departments": 1109,
+    "departments": 1110,
     "career": 864,
-    "contact": 486,
-    "fees": 417,
-    "faculty": 326,
+    "contact": 488,
+    "fees": 418,
+    "faculty": 327,
     "emergency": 67,
-    "campus": 65,
+    "campus": 66,
     "research": 10
   },
   "questionTypeDistribution": {
-    "factual": 12010,
+    "factual": 12019,
+    "procedural": 1652,
     "temporal": 1651,
-    "procedural": 1651,
-    "yes_no": 1032,
+    "yes_no": 1033,
     "entity": 218,
     "navigational": 191
   },
   "responseTypeDistribution": {
-    "direct_answer": 7103,
-    "referral": 4761,
-    "safety_redirect": 2510,
+    "direct_answer": 7107,
+    "referral": 4764,
+    "safety_redirect": 2514,
     "unable_to_answer": 2379
   },
   "queryComplexityDistribution": {
-    "moderate": 9227,
-    "simple": 5919,
-    "complex": 1607
+    "moderate": 9231,
+    "simple": 5922,
+    "complex": 1611
   },
   "departmentMentions": {
-    "Nursing": 1527,
+    "Nursing": 1528,
     "Pharmacology": 353,
-    "Radiology": 324,
+    "Radiology": 325,
     "Cardiology": 229,
     "Surgery": 139,
     "Neurology": 99,
     "Dermatology": 91,
     "Orthopedics": 88,
     "ENT": 84,
-    "Pediatrics": 65,
+    "Pediatrics": 66,
     "Ophthalmology": 55,
     "Urology": 52,
     "Pathology": 48,
@@ -76,8 +76,8 @@
     "Anatomy": 5
   },
   "hourlyDistributionIST": {
-    "0": 420,
-    "1": 256,
+    "0": 425,
+    "1": 262,
     "2": 146,
     "3": 71,
     "4": 103,
@@ -104,26 +104,26 @@
   "dailyDistribution": {
     "Tuesday": 2431,
     "Thursday": 2450,
-    "Monday": 2704,
+    "Monday": 2715,
     "Wednesday": 2314,
     "Sunday": 2258,
     "Saturday": 2308,
     "Friday": 2288
   },
   "aiEnrichment": {
-    "totalEnriched": 14442,
+    "totalEnriched": 14453,
     "coveragePercent": 86.21,
     "languageDistribution": {
-      "en": 7941,
+      "en": 7947,
       "hi-Latn-en": 3079,
       "hi-Latn": 2543,
-      "hi": 785,
-      "hi-en": 89,
+      "hi": 789,
+      "hi-en": 90,
       "en-hi-Latn": 3,
       "en-hi": 2
     },
     "intentDistribution": {
-      "information_seeking": 11115,
+      "information_seeking": 11126,
       "scheduling": 2551,
       "navigation": 293,
       "complaint": 266,
@@ -135,13 +135,13 @@
       "request": 1
     },
     "medicalRelevanceDistribution": {
-      "medium": 5312,
-      "high": 5267,
-      "low": 3486,
+      "medium": 5317,
+      "high": 5271,
+      "low": 3488,
       "none": 377
     },
     "sentimentDistribution": {
-      "neutral": 13705,
+      "neutral": 13716,
       "frustrated": 281,
       "positive": 246,
       "negative": 187,
@@ -154,26 +154,26 @@
       "curious": 1
     },
     "answerQualityDistribution": {
-      "adequate": 4982,
-      "comprehensive": 4176,
+      "adequate": 4983,
+      "comprehensive": 4186,
       "partial": 2765,
       "deflected": 2516,
       "incorrect": 3
     },
     "userTypeDistribution": {
-      "student": 4941,
+      "student": 4945,
       "unknown": 4169,
-      "patient": 3581,
+      "patient": 3582,
       "staff": 1016,
-      "visitor": 623,
+      "visitor": 626,
       "faculty": 66,
       "applicant": 26,
       "job_seeker": 12,
+      "parent": 4,
       "job seeker": 3,
       "alumni": 2,
-      "prospective_student": 2,
-      "parent": 1
+      "prospective_student": 2
     }
   },
-  "lastUpdated": "2026-06-22T18:42:49.259Z"
+  "lastUpdated": "2026-06-22T22:50:15.084Z"
 }
