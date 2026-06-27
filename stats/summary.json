@@ -1,57 +1,57 @@
 {
-  "totalEntries": 17215,
+  "totalEntries": 17230,
   "dateRange": {
     "start": "2025-04-01",
     "end": "2026-06-27"
   },
   "totalDays": 325,
-  "totalSessions": 12935,
-  "dailyAverage": 52.97,
-  "botAnswerRate": 95.71,
+  "totalSessions": 12942,
+  "dailyAverage": 53.02,
+  "botAnswerRate": 95.72,
   "languageDistribution": {
-    "en": 16646,
+    "en": 16661,
     "hi": 401,
     "hi-en": 168
   },
   "categoryDistribution": {
-    "general": 5742,
-    "admissions": 2161,
+    "general": 5747,
+    "admissions": 2163,
+    "courses": 1673,
     "exams": 1672,
-    "courses": 1670,
     "appointment": 1362,
     "opd": 1150,
     "departments": 1141,
-    "career": 892,
+    "career": 895,
     "contact": 502,
-    "fees": 434,
+    "fees": 436,
     "faculty": 343,
     "campus": 69,
     "emergency": 67,
     "research": 10
   },
   "questionTypeDistribution": {
-    "factual": 12344,
-    "procedural": 1703,
+    "factual": 12357,
+    "procedural": 1705,
     "temporal": 1675,
     "yes_no": 1070,
     "entity": 227,
     "navigational": 196
   },
   "responseTypeDistribution": {
-    "direct_answer": 7218,
-    "referral": 4953,
-    "safety_redirect": 2660,
+    "direct_answer": 7221,
+    "referral": 4961,
+    "safety_redirect": 2664,
     "unable_to_answer": 2384
   },
   "queryComplexityDistribution": {
-    "moderate": 9492,
-    "simple": 6071,
-    "complex": 1652
+    "moderate": 9500,
+    "simple": 6077,
+    "complex": 1653
   },
   "departmentMentions": {
-    "Nursing": 1570,
+    "Nursing": 1572,
     "Pharmacology": 357,
-    "Radiology": 339,
+    "Radiology": 340,
     "Cardiology": 230,
     "Surgery": 145,
     "Neurology": 102,
@@ -92,12 +92,12 @@
     "13": 1182,
     "14": 1196,
     "15": 1225,
-    "16": 1080,
-    "17": 1074,
-    "18": 962,
+    "16": 1084,
+    "17": 1077,
+    "18": 965,
     "19": 895,
-    "20": 829,
-    "21": 826,
+    "20": 833,
+    "21": 827,
     "22": 763,
     "23": 677
   },
@@ -107,27 +107,27 @@
     "Monday": 2715,
     "Wednesday": 2407,
     "Sunday": 2258,
-    "Saturday": 2345,
+    "Saturday": 2360,
     "Friday": 2366
   },
   "aiEnrichment": {
-    "totalEnriched": 14904,
-    "coveragePercent": 86.58,
+    "totalEnriched": 14919,
+    "coveragePercent": 86.59,
     "languageDistribution": {
-      "en": 8204,
-      "hi-Latn-en": 3144,
-      "hi-Latn": 2630,
-      "hi": 826,
+      "en": 8208,
+      "hi-Latn-en": 3150,
+      "hi-Latn": 2634,
+      "hi": 827,
       "hi-en": 94,
       "en-hi-Latn": 3,
       "en-hi": 3
     },
     "intentDistribution": {
-      "information_seeking": 11524,
+      "information_seeking": 11538,
       "scheduling": 2572,
       "navigation": 297,
       "complaint": 282,
-      "greeting": 129,
+      "greeting": 130,
       "feedback": 55,
       "off_topic": 30,
       "emergency": 8,
@@ -137,14 +137,14 @@
       "job_search": 1
     },
     "medicalRelevanceDistribution": {
-      "medium": 5521,
-      "high": 5425,
-      "low": 3572,
-      "none": 386
+      "medium": 5528,
+      "high": 5428,
+      "low": 3575,
+      "none": 388
     },
     "sentimentDistribution": {
-      "neutral": 14123,
-      "frustrated": 292,
+      "neutral": 14135,
+      "frustrated": 295,
       "positive": 263,
       "negative": 199,
       "concerned": 15,
@@ -156,17 +156,17 @@
       "curious": 1
     },
     "answerQualityDistribution": {
-      "adequate": 5167,
-      "comprehensive": 4381,
-      "partial": 2809,
+      "adequate": 5175,
+      "comprehensive": 4387,
+      "partial": 2810,
       "deflected": 2544,
       "incorrect": 3
     },
     "userTypeDistribution": {
-      "student": 5182,
-      "unknown": 4175,
-      "patient": 3716,
-      "staff": 1044,
+      "student": 5186,
+      "unknown": 4177,
+      "patient": 3717,
+      "staff": 1052,
       "visitor": 671,
       "faculty": 67,
       "applicant": 26,
@@ -177,5 +177,5 @@
       "prospective_student": 2
     }
   },
-  "lastUpdated": "2026-06-27T11:00:36.559Z"
+  "lastUpdated": "2026-06-27T16:01:00.745Z"
 }
