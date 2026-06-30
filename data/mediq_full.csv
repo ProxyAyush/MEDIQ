@@ -126913,3 +126913,343 @@ qa_1782802293600_6ylijq76,,Cardiology OPD me dikhane ke liye kya process h,"Card
 
 **Suraksha Chetawani:**
 Main ek AI sahayak hoon aur chikitsakiya (medical) salah nahi de sakta. Kripya apni bimari ya swasthya sambandhi niji jankari yahan share na karein. Sahi ilaj aur paramarsh ke liye KGMU OPD mein doctor se milne ki salah di jati hai.",2026-06-30T06:51:35.000Z,true,2026-06-30T06:51:03.075Z,en,0,opd,procedural,direct_answer,Cardiology,moderate,true,session_13064,false,47,9,1487,238,6,12,Tuesday,false,true,true,hi-Latn,0.9,information_seeking,high,neutral,What is the process to get seen in Cardiology OPD,comprehensive,opd;cardiology;process,false,patient
+qa_1782802813914_s5yt1c7h,,Skin grafting hota hai vitiligo case me,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+For information regarding vitiligo treatment options, you may consult the **Department of Dermatology, Venereology & Leprosy** at KGMU. You can find more details about the department here: [https://www.kgmu.org/department_details.php?dept_id=12&dept_type=2](https://www.kgmu.org/department_details.php?dept_id=12&dept_type=2)
+
+To book an appointment for a consultation, please use the official portal at [www.ors.gov.in](https://www.ors.gov.in) or call the KGMU appointment helpline at **0522-2258880** / **0522-3539333**.",2026-06-30T07:00:16.000Z,true,2026-06-30T06:59:42.544Z,en,0,general,factual,safety_redirect,Dermatology,moderate,true,session_13065,false,39,7,700,82,7,12,Tuesday,false,true,false,hi-Latn-en,0.8,information_seeking,high,neutral,Skin grafting happens in vitiligo cases,adequate,department;treatment;medical,false,patient
+qa_1782802896234_6legrp40,,Mujhe anm m admission lena h,"KGMU mein ANM (Auxiliary Nurse Midwife) mein admission lene ke liye, aapko university ki official website [www.kgmu.org](https://www.kgmu.org) par jaakar ""Courses & Admission"" section check karna chahiye.
+
+Wahan se aap admission ki latest guidelines, eligibility, aur application process ki jaankari prapt kar sakte hain. Aap direct is link par bhi ja sakte hain: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+Kripya dhyan dein ki main ek AI assistant hoon aur admission ki process ya cutoff ke baare mein exact bhavishyavani nahi kar sakta. Aap website par diye gaye notices ko regularly check karte rahein.",2026-06-30T07:01:37.000Z,true,2026-06-30T07:01:14.678Z,en,0,admissions,factual,referral,,moderate,true,session_13066,false,28,6,652,87,7,12,Tuesday,false,true,false,hi-Latn,0.9,information_seeking,medium,neutral,I want to take admission in ANM,comprehensive,admission;course;nursing,false,student
+qa_1782803442386_j3zwbwju,,Mujhe apni CV upload krni h job ke liye,"KGMU mein jobs ya recruitment ke liye aapko university ki official website www.kgmu.org par 'Recruitment' section check karna hoga. 
+
+Aap yahan direct link dekh sakte hain: [https://www.kgmu.org/job_opportunity.php](https://www.kgmu.org/job_opportunity.php)
+
+**Kuch zaroori baatein:**
+1. KGMU mein jobs ke liye aamtaur par online application form bharna hota hai, sirf CV upload karne ka option har baar nahi hota.
+2. Aap upar diye gaye link par jakar current vacancies check karein. Agar koi vacancy nikli hui hai, toh wahan diye gaye instructions ke anusar hi apply karein.
+3. Agar aap kisi specific department mein faculty ya staff position ke liye dekh rahe hain, toh website par 'Career' ya 'Recruitment' section ko regularly check karte rahein.
+
+I was created by Dr. Ayush Yadav. Agar aapko kisi aur department ya specific recruitment notice ke baare mein jaankari chahiye, toh batayein.",2026-06-30T07:10:45.000Z,true,2026-06-30T07:10:00.627Z,en,0,career,factual,referral,,moderate,true,session_13067,false,39,9,893,133,7,12,Tuesday,false,true,true,hi-Latn-en,0.7,information_seeking,low,neutral,I need to upload my CV for a job,comprehensive,job;recruitment;placement,false,staff
+qa_1782803525916_lnpp6zjt,,Website nhi open ho rhi,"Agar KGMU ki website load hone mein samasya aa rahi hai, toh aap ye steps try kar sakte hain:
+
+1. **Browser Change Karein:** Kabhi-kabhi Chrome ki jagah Microsoft Edge ya Firefox par website behtar chalti hai.
+2. **Clear Cache:** Apne browser ki 'Cache' aur 'Cookies' clear karke phir se try karein.
+3. **Direct Link Try Karein:** Agar main page (www.kgmu.org) nahi khul raha, toh seedha recruitment page ka link try karein: [https://www.kgmu.org/job_opportunity.php](https://www.kgmu.org/job_opportunity.php)
+4. **Network:** Agar aap university campus ke Wi-Fi par hain, toh kabhi-kabhi firewall ki wajah se access block ho sakta hai. Mobile data par try karke dekhein.
+
+**Ek zaroori baat:** KGMU ki website kabhi-kabhi maintenance ke karan temporary down ho sakti hai. Aap thodi der baad phir se koshish karein.
+
+Agar aapko kisi specific job vacancy ka pdf ya notification chahiye, toh aap mujhe bata sakte hain, main aapko wahan ki jaankari de dunga.
+
+I was created by Dr. Ayush Yadav.",2026-06-30T07:12:07.000Z,true,2026-06-30T07:10:00.627Z,en,0,contact,factual,direct_answer,,moderate,true,session_13067,true,23,5,988,153,7,12,Tuesday,false,true,true,hi-Latn,0.9,complaint,low,frustrated,The website is not opening,adequate,website;technical_issue,false,visitor
+qa_1782804763895_0e3bq2z8,,How to apply for bpt,"To get information regarding admissions for the Bachelor of Physiotherapy (BPT) program at KGMU, please visit the official admissions page on our website: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+This page contains the latest information on eligibility criteria, application forms, and the selection process for all courses offered by the university.
+
+I was created by Dr. Ayush Yadav.",2026-06-30T07:32:45.000Z,true,2026-06-30T07:26:14.626Z,en,0,career,procedural,referral,,moderate,true,session_13068,false,20,5,434,53,7,13,Tuesday,false,true,false,en,1,information_seeking,medium,neutral,How to apply for BPT,adequate,admission;course;physiotherapy,false,student
+qa_1782805092466_1q0uo54s,,I want to connect with you via call,"I am an AI assistant and cannot engage in phone calls. However, you can reach the KGMU help desk or specific departments for assistance:
+
+*   **General KGMU Helpline:** 0522-2258880 or 0522-3539333
+*   **VC Office:** 0522-2257540
+*   **Registrar Office:** 0522-2253171
+
+If you have a specific question about KGMU, its departments, or how to book an appointment, please type it here and I will be happy to assist you. 
+
+I was created by Dr. Ayush Yadav.",2026-06-30T07:38:13.000Z,true,2026-06-30T07:37:47.705Z,en,0,contact,factual,direct_answer,,moderate,true,session_13069,false,35,8,452,74,7,13,Tuesday,false,false,true,en,0.9,greeting,low,neutral,I want to connect with you via call,comprehensive,contact,false,visitor
+qa_1782805242538_6ld4h315,,Can we  take direct addmission in bpt,"I am not qualified to provide information regarding direct admission policies. Please visit the official KGMU admissions page at https://www.kgmu.org/courses_admission.php for accurate information on admission procedures, eligibility, and entrance requirements.",2026-06-30T07:40:43.000Z,true,2026-06-30T07:26:14.626Z,en,0,general,yes_no,safety_redirect,,moderate,true,session_13068,true,37,7,261,30,7,13,Tuesday,false,true,false,hi-Latn-en,0.8,information_seeking,medium,neutral,Can we take direct admission in BPT,adequate,admission;course,false,student
+qa_1782805887590_lupxztnz,,क्या यहां पर पेशेंट को बुलाकर उनके साथ मजाक किया जाता है क्या 20-20 घंटा भूखा रखकर उनके जांच कराई जाती है 12 घंटा बोलते हैं और बैठ के रखे हैं यहां पर 7 घंटे से,"मैं आपकी परेशानी समझ सकता हूँ और इस असुविधा के लिए मुझे खेद है। 
+
+मैं एक एआई सहायक हूँ और आपकी शिकायतों को सीधे अस्पताल प्रशासन तक नहीं पहुँचा सकता। यदि आपको अस्पताल में सेवा, लंबी प्रतीक्षा अवधि (waiting time), या चिकित्सा प्रक्रिया के दौरान किसी भी प्रकार के दुर्व्यवहार का सामना करना पड़ा है, तो कृपया निम्नलिखित माध्यमों से अपनी शिकायत दर्ज करें:
+
+1. **PRO ऑफिस से संपर्क करें:** आप अस्पताल के पब्लिक रिलेशंस ऑफिस (PRO) में जाकर अपनी शिकायत लिखित रूप में दे सकते हैं। आप यहाँ से संपर्क कर सकते हैं: [https://www.kgmu.org/pro_cug.php](https://www.kgmu.org/pro_cug.php)
+2. **मुख्य चिकित्सा अधीक्षक (CMS) कार्यालय:** आप अस्पताल के CMS कार्यालय में भी अपनी लिखित शिकायत दर्ज करा सकते हैं।
+3. **ऑनलाइन शिकायत:** आप KGMU की आधिकारिक वेबसाइट [www.kgmu.org](http://www.kgmu.org) पर जाकर संपर्क अनुभाग (Contact Section) में अपनी प्रतिक्रिया दे सकते हैं।
+
+मैं आपको सलाह दूँगा कि धैर्य बनाए रखें। यदि रोगी की स्थिति गंभीर है या आपको किसी आपातकालीन सहायता की आवश्यकता है, तो कृपया तुरंत नजदीकी ड्यूटी डॉक्टर या ट्रॉमा सेंटर के हेल्प डेस्क (0522-2258880) से संपर्क करें।
+
+**महत्वपूर्ण:** मैं एक एआई हूँ और चिकित्सा सलाह देने में सक्षम नहीं हूँ। कृपया अपनी स्वास्थ्य संबंधी चिंताओं के लिए सीधे संबंधित विभाग के वरिष्ठ डॉक्टरों या ड्यूटी पर मौजूद चिकित्सा अधिकारियों से बात करें।",2026-06-30T07:51:28.000Z,true,2026-06-30T07:51:03.281Z,hi,1,general,factual,direct_answer,,complex,true,session_13070,false,159,36,1267,209,7,13,Tuesday,false,true,true,hi,0.9,complaint,high,negative,Is it here that patients are called and teased with them? Are they kept hungry for 20-20 hours and their tests done? They are told to sit for 12 hours and kept sitting here for 7 hours,partial,complaint;patient,true,patient
+qa_1782807046878_dgeeiqr4,,do we have nursing tutor vacncy at kgmu,"To check for current nursing tutor vacancies or any other job openings at King George's Medical University, please visit the official recruitment section of the university website:
+
+[https://www.kgmu.org/job_opportunity.php](https://www.kgmu.org/job_opportunity.php)
+
+This page is updated regularly with all active notifications and application procedures.",2026-06-30T08:10:47.000Z,true,2026-06-30T08:10:24.490Z,en,0,courses,yes_no,referral,Nursing,moderate,true,session_13071,false,39,8,356,40,8,13,Tuesday,false,true,false,en,0.9,information_seeking,medium,neutral,Do we have nursing tutor vacancy at KGMU,adequate,job;faculty,false,staff
+qa_1782807807376_k7cw6tg7,,Maine arthritis department me dr.abhishek maurya ko opd.me dikhaya tha...jo dawa unhone likhi h wo medical store wale ko samajh nhi aa rhi h kya aap mujhe bataa sakti h...mai door se hu,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+Regarding your prescription, since I am an AI, I cannot interpret or read handwritten medical prescriptions. For your safety and to ensure the correct medication is provided, please follow one of these steps:
+
+1. **Contact the Department:** You can try to contact the Department of Rheumatology directly through their official office or reach out to the doctor's department. You can find the department details here: [https://www.kgmu.org/department_details.php?dept_id=30&dept_type=2](https://www.kgmu.org/department_details.php?dept_id=30&dept_type=2)
+2. **Tele-consultation/Helpline:** You may call the KGMU help line at **0522-2258880** to ask if there is a way to verify the prescription or to get guidance on how to proceed.
+3. **Local Consultation:** If you are unable to reach the doctor, please visit a qualified physician or a registered pharmacist in your area to help you understand the prescription, or visit the KGMU OPD again with the original slip.
+
+Please do not attempt to guess the medicine names, as taking the wrong medication can be dangerous.",2026-06-30T08:23:29.000Z,true,2026-06-30T08:21:44.555Z,en,0,opd,factual,safety_redirect,Rheumatology,complex,true,session_13072,false,185,33,1243,182,8,13,Tuesday,false,true,true,hi-Latn-en,0.8,information_seeking,high,frustrated,I showed Dr. Abhishek Maurya in the arthritis department OPD...the medication he prescribed was not understood by the medical store...can you tell me...I am far away,partial,opd;department;medication,true,patient
+qa_1782807840730_6es4syww,,Please give me helpline,You can reach the KGMU helpline at **0522-2258880** or **0522-3539333**.,2026-06-30T08:24:02.000Z,true,2026-06-30T08:21:44.555Z,en,0,emergency,factual,direct_answer,,simple,true,session_13072,true,23,4,72,10,8,13,Tuesday,false,false,false,en,0.9,information_seeking,medium,neutral,Please give me helpline,comprehensive,contact;helpline,false,patient
+qa_1782808887739_hz0gn2af,,appointment letter verify karna ha,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+To verify your appointment, please check the status through the official portal where you booked your appointment:
+
+*   **Online Portal:** Visit [www.ors.gov.in](https://www.ors.gov.in) and log in to your account to view your appointment status.
+*   **Mobile App:** Check the ABHA or relevant health app used for booking.
+*   **Helpline:** If you have trouble verifying it, you can call the KGMU help desk at **0522-2258880** or **0522-3539333** for assistance.
+
+Please ensure you have your appointment reference number or the mobile number used during registration ready.",2026-06-30T08:41:28.000Z,true,2026-06-30T08:40:21.301Z,en,0,appointment,factual,safety_redirect,,moderate,true,session_13073,false,34,5,750,113,8,14,Tuesday,false,true,true,hi-Latn-en,0.8,information_seeking,high,neutral,I want to verify my appointment letter,adequate,appointment;verification,false,patient
+qa_1782808950775_q0w70wr5,,Verify appointment letter,"I am not qualified to provide medical advice or verify the authenticity of appointment documents. For your safety, please do not share personal details, appointment letters, or sensitive information in this chat.
+
+To verify your appointment at King George's Medical University (KGMU), please use the following official channels:
+
+1.  **Online Portal:** Log in to your account at [www.ors.gov.in](https://www.ors.gov.in) to check the status of your booked appointment.
+2.  **Official Helpline:** You may contact the KGMU help desk at **0522-2258880** or **0522-3539333** for assistance.
+3.  **Visit in Person:** If you are unsure about your appointment, please visit the KGMU OPD registration area with your patient details (Aadhaar card/registration number) during working hours (Mon–Fri 9:00 AM–1:00 PM; Sat 9:00 AM–12:00 PM).
+
+If you are concerned about potential fraud, please contact the **Public Relations Office (PRO)** at [https://www.kgmu.org/pro_cug.php](https://www.kgmu.org/pro_cug.php) or report it to the nearest KGMU administrative office.",2026-06-30T08:42:31.000Z,true,2026-06-30T08:40:21.301Z,en,0,appointment,factual,safety_redirect,,simple,true,session_13073,true,25,3,1053,143,8,14,Tuesday,false,true,true,en,0.9,information_seeking,high,neutral,Verify appointment letter,adequate,appointment;verification,false,patient
+qa_1782808983156_uvlpmjww,,Verify appointment letter,"I am not qualified to provide medical advice or verify the authenticity of official documents. 
+
+For the verification of your appointment letter or any concerns regarding your scheduled visit, please contact the KGMU Patient Welfare Office or the relevant department directly. You can find the contact details on the official website at www.kgmu.org or by calling the KGMU helpline at 0522-2258880.
+
+Please do not share your appointment letter, personal health details, Aadhaar number, or other sensitive information in this chat for your safety. Please consult the hospital authorities directly at the KGMU OPD or via their official contact channels.",2026-06-30T08:43:03.000Z,true,2026-06-30T08:40:21.301Z,en,0,appointment,factual,safety_redirect,,simple,true,session_13073,true,25,3,651,99,8,14,Tuesday,false,false,false,en,0.9,information_seeking,high,neutral,Verify appointment letter,adequate,appointment;verification,false,patient
+qa_1782809339696_qw6zcbl6,,Ot technician job,"For information regarding job openings and recruitment at King George's Medical University, please visit the official recruitment section of our website: [https://www.kgmu.org/job_opportunities.php](https://www.kgmu.org/job_opportunities.php).
+
+You can also check the ""Notice Board"" section for any recent advertisements or notifications related to paramedical and technical staff positions: [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php).",2026-06-30T08:49:00.000Z,true,2026-06-30T08:48:47.180Z,en,0,career,factual,referral,,simple,true,session_13074,false,17,3,473,44,8,14,Tuesday,false,true,false,en,0.9,information_seeking,low,neutral,Ot technician job,comprehensive,job;recruitment,false,staff
+qa_1782809519903_27gc7wp4,,Kjmu medical college mein OT technician need hai kya,"KGMU में किसी भी पद पर भर्ती के लिए आधिकारिक अधिसूचना (Official Notification) हमारी वेबसाइट पर जारी की जाती है। वर्तमान में OT टेक्नीशियन की भर्ती के बारे में जानकारी के लिए आप कृपया निम्नलिखित लिंक चेक करते रहें:
+
+1. **भर्ती/नौकरी के अवसर:** [https://www.kgmu.org/job_opportunities.php](https://www.kgmu.org/job_opportunities.php)
+2. **नोटिस बोर्ड:** [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)
+
+मैं आपको सलाह देता हूँ कि किसी भी अनौपचारिक स्रोत पर भरोसा न करें और केवल आधिकारिक वेबसाइट पर दी गई जानकारी पर ही ध्यान दें। समय-समय पर वेबसाइट देखते रहें, जैसे ही कोई रिक्ति (vacancy) निकलेगी, वह इन्हीं लिंक्स पर अपडेट कर दी जाएगी।",2026-06-30T08:52:00.000Z,true,2026-06-30T08:48:47.180Z,en,0,general,factual,direct_answer,,moderate,true,session_13074,true,52,9,666,93,8,14,Tuesday,false,true,true,hi-Latn,0.9,information_seeking,medium,neutral,Is there a need for an OT technician in KGMU medical college?,adequate,job_opportunities;ot_technician;recruitment,false,visitor
+qa_1782809521704_gjnva5m4,,Bsc radiology course is available,"Information regarding courses and admissions at King George's Medical University can be found on the official website here: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+You can check that page for the list of available undergraduate and postgraduate courses. If you have any further questions, please feel free to ask.",2026-06-30T08:52:03.000Z,true,2026-06-30T08:51:40.290Z,en,0,departments,factual,referral,Radiology,moderate,true,session_13075,false,33,5,363,44,8,14,Tuesday,false,true,false,en,0.95,information_seeking,high,neutral,Is Bsc radiology course available,adequate,courses;admissions;radiology,false,student
+qa_1782810886635_sjjk7cov,,Radiology girls ko hostel milta h kgmu me,"KGMU mein hostel ki suvidha uplabdh hai, lekin hostel ka allotment aapke course (jaise ki MD, DM, ya M.Sc Radiodiagnosis) aur university ke niyam-kanoon ke anusar hota hai.
+
+Hostel allotment aur availability ke baare mein sahi jaankari prapt karne ke liye aap niche diye gaye madhyamon ka upyog kar sakte hain:
+
+1. **Dean Office:** Hostel allotment se sambandhit adhikarik jaankari ke liye aap KGMU ke Dean Office (Academic Section) se sampark karein.
+2. **Website:** Aap university ki website [www.kgmu.org](https://www.kgmu.org) par jakar 'Students' ya 'Admissions' section mein hostel se sambandhit niyam dekh sakte hain.
+3. **Department:** Aap apne Radiology department ke office mein bhi is baare mein puch sakte hain, kyunki kai baar residents/students ke liye department-wise bhi jaankari hoti hai.
+
+Main aapko salah doonga ki aap seedhe university ke Academic Section ya Warden office se sampark karein, wahi aapko latest availability aur allotment process ke baare mein sahi aur verify ki hui jaankari de payenge.",2026-06-30T09:14:48.000Z,true,2026-06-30T09:14:24.381Z,en,0,departments,factual,direct_answer,Radiology,moderate,true,session_13076,false,41,8,1022,155,9,14,Tuesday,false,true,true,hi-Latn,0.9,information_seeking,medium,neutral,Do radiology girls get a hostel in KGMU?,adequate,hostel;radiology;accommodation,false,student
+qa_1782811060447_gtv8opit,,Hostel room k bare me btao,"KGMU mein hostel allotment aur rooms se sambandhit jankari ke liye aapko apne department ya university ke **Hostel Office/Dean Office** se sampark karna chahiye.
+
+Hostel allotment ki prakriya aam taur par niche diye gaye steps par nirbhar karti hai:
+
+1. **Eligibility:** Hostel ki suvidha mukhyatah MBBS, PG students aur interns ke liye hoti hai.
+2. **Application:** Aapko hostel allotment ke liye nirdharit form bharna hota hai jo Dean Office se milta hai.
+3. **Documents:** Allotment ke samay aapko apna Admission Letter aur University ID card ki zarurat hoti hai.
+4. **Campus Navigation:** Hostels ke liye ""Hostel Ramp"" ka rasta istemal hota hai jo Kalam Centre se hokar jata hai.
+
+**Zaruri Salah:**
+*   Aap apni specific department ki office ya **Dean Office** mein jakar ""Hostel Allotment"" ke bare mein puchiye.
+*   Hostel ka allotment university ke niyam aur uplabdhta (availability) ke aadhar par hota hai.
+*   Academic aur Administrative office **Gate 1** ke paas sthit hai, aap wahan se sahi vibhag ka pata laga sakte hain.
+
+Agar aap kisi specific hostel ya mess ki policy ke bare mein puchna chahte hain, toh kripya batayein, main aapko sambhavit contact ya direction provide kar sakta hoon.",2026-06-30T09:17:42.000Z,true,2026-06-30T09:14:24.381Z,en,0,campus,factual,direct_answer,,moderate,true,session_13076,true,26,6,1201,193,9,14,Tuesday,false,false,true,hi-Latn,0.85,information_seeking,low,neutral,Tell me about hostel rooms,adequate,hostel;rooms;accommodation,false,student
+qa_1782811106973_5k3a03q1,,Radiology girls k liye,"KGMU mein Radiodiagnosis (Radiology) department mein PG ya resident girls ke hostel allotment ke liye aapko **Dean (Academic) Office** ya **Radiodiagnosis Department** ke office mein sampark karna hoga.
+
+Hostel se sambandhit kuch mahatvapurn baatein:
+
+1.  **Allotment:** KGMU mein PG students (residents) ko unke course aur batch ke hisaab se hostel allot kiya jata hai. Radiodiagnosis ki girls residents ke liye university ke niyam anusar designated girls' hostel mein jagah di jati hai.
+2.  **Process:** Aapko apne department ke office se 'No Dues' ya 'Allotment Request' letter lena pad sakta hai, jise **Dean Office** mein jama karke hostel allot karaya jata hai.
+3.  **Campus Location:** KGMU ka campus kafi bada hai. Hostels tak pahunchne ke liye aap **Gate 1** (Academic/Admin gate) ka istemal kar sakti hain, jo Kalam Centre aur Dean Office ke paas hai.
+4.  **Contact:** Aap seedhe **Department of Radiodiagnosis** ke office mein jakar apne seniors ya department clerk se puchiye ki current batch ki girls residents kahan reh rahi hain.
+
+**Zaruri Suchna:**
+*   Main ek AI assistant hoon, isliye main direct hostel room allot nahi kar sakta.
+*   Kripya apne department ke HOD ya office staff se milkar formal application process pura karein.
+*   Agar aapko department ka contact ya location jan'ni ho, toh aap [Radiodiagnosis Department](https://www.kgmu.org/department_details.php?dept_id=28&dept_type=2) ki website check kar sakti hain.
+
+Kya aapko department ke office ya kisi specific officer ka contact number chahiye?",2026-06-30T09:18:28.000Z,true,2026-06-30T09:14:24.381Z,en,0,departments,factual,referral,Radiology,simple,true,session_13076,true,22,4,1529,228,9,14,Tuesday,false,true,true,hi-Latn,0.8,information_seeking,high,neutral,For radiology girls,adequate,radiology;hostel;pg_students,false,student
+qa_1782811401935_vj6kxd20,,Agle saal radiology k students ko room mile the,"I was created by Dr. Ayush Yadav.
+
+Regarding your query about hostel accommodation for Radiology students, please note that room allotment is managed by the office of the Dean or the respective hostel warden. 
+
+For the most accurate and up-to-date information regarding accommodation for the current or upcoming academic session, I recommend you:
+
+1. **Visit the Dean's Office:** They maintain the records and guidelines for student housing.
+2. **Contact the Hostel Warden:** You can find the contact details for the various hostels on the KGMU website under the student or administration sections.
+3. **Check the Official Notice Board:** You can view the latest updates and circulars here: [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)
+
+If you are a student, you may also want to check with your department's office for any specific internal procedures regarding hostel applications.",2026-06-30T09:23:24.000Z,true,2026-06-30T09:14:24.381Z,en,0,departments,factual,referral,Radiology,moderate,true,session_13076,true,47,9,919,131,9,14,Tuesday,false,true,true,hi,0.9,information_seeking,medium,neutral,"Next year, radiology students were allotted rooms",adequate,hostel;admission;department,false,student
+qa_1782811538625_w5vu6rmt,,यह सरकारी हैं या प्राइवेट,किंग जॉर्ज चिकित्सा विश्वविद्यालय (KGMU) एक **सरकारी (Public/Government)** विश्वविद्यालय और अस्पताल है। यह उत्तर प्रदेश सरकार द्वारा वित्तपोषित और संचालित है।,2026-06-30T09:25:40.000Z,true,2026-06-30T09:25:09.220Z,hi,1,general,factual,direct_answer,,moderate,true,session_13077,false,25,5,158,21,9,14,Tuesday,false,false,false,hi,0.95,information_seeking,low,neutral,Is it a government or private institution?,comprehensive,affiliation;other,false,visitor
+qa_1782811610035_osjl3r4e,,Opd के लिए पर्ची कैसे औऱ कितनी क़ी कटती हैं,"KGMU में OPD के लिए पर्ची (टिकट) की प्रक्रिया और शुल्क निम्नलिखित है:
+
+**शुल्क:**
+OPD पर्ची का शुल्क **₹50 (फ्लैट रेट)** है। यह सभी बुकिंग माध्यमों के लिए समान है।
+
+**पर्ची (अपॉइंटमेंट) बुक करने के तरीके:**
+
+1.  **ऑनलाइन पोर्टल (ORS):**
+    *   वेबसाइट [www.ors.gov.in](https://ors.gov.in) पर जाएं।
+    *   राज्य (उत्तर प्रदेश) और अस्पताल (KGMU) चुनें।
+    *   'New Appointment' पर क्लिक करें, विभाग और तारीख चुनें।
+    *   अपनी जानकारी भरें और ₹50 का भुगतान ऑनलाइन करें। अपॉइंटमेंट स्लिप डाउनलोड कर लें।
+
+2.  **मोबाइल ऐप:**
+    *   आप **ABHA** या **Health Care App** का उपयोग कर सकते हैं। प्रक्रिया ORS पोर्टल जैसी ही है।
+
+3.  **SMS द्वारा:**
+    *   आप **8887019134** नंबर पर ""Appointment [मरीज का नाम]"" लिखकर SMS भेज सकते हैं।
+
+4.  **ऑन-साइट (अस्पताल आकर):**
+    *   आप सीधे अस्पताल के रजिस्ट्रेशन काउंटर पर भी जा सकते हैं।
+    *   इसके लिए मरीज का **आधार कार्ड** और **सक्रिय मोबाइल नंबर** साथ होना अनिवार्य है।
+    *   काउंटर पर जानकारी देने के बाद मोबाइल पर OTP आएगा, जिसे दर्ज करने के बाद आप ₹50 का भुगतान करके पर्ची ले सकते हैं।
+
+**महत्वपूर्ण जानकारी:**
+*   OPD का समय: सोमवार से शुक्रवार (सुबह 9:00 से दोपहर 1:00 बजे तक) और शनिवार (सुबह 9:00 से दोपहर 12:00 बजे तक)। रविवार को OPD बंद रहती है।
+*   पर्ची काउंटर दोपहर 1:00 बजे बंद हो जाते हैं, इसलिए समय से पहले पहुंचना बेहतर है।
+*   यदि आप शहर से बाहर के मरीज हैं, तो अपने संबंधित विभाग का वैध रेफरल (Referral) पत्र साथ जरूर लाएं।
+
+*नोट: मैं एक AI हूँ, यदि आपको कोई गंभीर स्वास्थ्य समस्या है, तो कृपया KGMU OPD में जाकर डॉक्टर से परामर्श लें। अपनी सुरक्षा के लिए चैट में कोई भी व्यक्तिगत स्वास्थ्य विवरण साझा न करें।*",2026-06-30T09:26:51.000Z,true,2026-06-30T09:25:09.220Z,hi-en,0.91,opd,factual,direct_answer,,moderate,true,session_13077,true,42,10,1574,277,9,14,Tuesday,false,true,true,hi,0.92,information_seeking,high,neutral,How and how much does the OPD prescription cost?,comprehensive,opd;timing;fee,false,patient
+qa_1782811626496_e02wlewa,,Bpt course enquiry,"For inquiries regarding the Bachelor of Physiotherapy (BPT) course at King George's Medical University, you can find detailed information on our official website's admissions page: https://www.kgmu.org/courses_admission.php
+
+If you need specific details regarding the curriculum, eligibility, or upcoming admission cycles, please visit the main website at www.kgmu.org or contact the Registrar's Office at 0522-2253171.",2026-06-30T09:27:07.000Z,true,2026-06-30T09:26:33.903Z,en,0,courses,factual,referral,,simple,true,session_13078,false,18,3,419,53,9,14,Tuesday,false,true,false,en,0.95,information_seeking,medium,neutral,Bpt course enquiry,adequate,course;admission,false,student
+qa_1782811693832_igkjjq4f,,Piles जैसे सर्जरी के लिए कितना खर्च आएगा,"मैं एक AI हूँ और मैं आपको सर्जरी के सटीक खर्च या उपचार के बारे में चिकित्सा सलाह नहीं दे सकता। सर्जरी का खर्च मरीज की स्थिति, सर्जरी के प्रकार और आवश्यक दवाओं पर निर्भर करता है।
+
+पाइल्स (बवासीर) से संबंधित उपचार और परामर्श के लिए आपको **जनरल सर्जरी विभाग (General Surgery Department)** में डॉक्टर से मिलना चाहिए।
+
+**आप ये कदम उठा सकते हैं:**
+1. **OPD परामर्श:** सबसे पहले ₹50 की OPD पर्ची बनवाकर जनरल सर्जरी विभाग के डॉक्टर को दिखाएं। डॉक्टर मरीज की जांच करने के बाद ही सर्जरी की आवश्यकता और उसके अनुमानित खर्च के बारे में आपको सही जानकारी दे पाएंगे।
+2. **शुल्क की जानकारी:** KGMU की आधिकारिक वेबसाइट [https://www.kgmu.org/rate_list2223.htm](https://www.kgmu.org/rate_list2223.htm) पर विभिन्न प्रक्रियाओं का अनुमानित रेट लिस्ट उपलब्ध है, आप वहां देख सकते हैं।
+3. **अस्पताल में संपर्क:** आप अधिक जानकारी के लिए KGMU की हेल्पलाइन **0522-2258880** या **0522-3539333** पर कॉल कर सकते हैं।
+
+**महत्वपूर्ण सलाह:** 
+कृपया स्वास्थ्य संबंधी व्यक्तिगत विवरण यहाँ साझा न करें। बेहतर होगा कि आप सीधे KGMU OPD में जाकर किसी विशेषज्ञ डॉक्टर से परामर्श लें।",2026-06-30T09:28:15.000Z,true,2026-06-30T09:25:09.220Z,hi-en,0.85,general,factual,direct_answer,,moderate,true,session_13077,true,40,8,1041,173,9,14,Tuesday,false,true,true,hi,0.9,information_seeking,high,neutral,How much will surgery for piles cost?,partial,surgery;department;fee,true,patient
+qa_1782811730832_id00djgt,,Admission for bpt,"For information regarding admissions to the Bachelor of Physiotherapy (BPT) program at KGMU, please visit the official admissions portal at: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+You can find details regarding eligibility, application procedures, and course information on that page.",2026-06-30T09:28:51.000Z,true,2026-06-30T09:26:33.903Z,en,0,admissions,factual,referral,,simple,true,session_13078,true,17,3,335,35,9,14,Tuesday,false,true,false,en,0.9,information_seeking,medium,neutral,Admission for bpt,comprehensive,admission;bpt,false,student
+qa_1782811775456_vw6fo9g2,,दवा निशुल्क हैं या खरीदना पड़ता हैं,"KGMU में दवाओं के संबंध में जानकारी इस प्रकार है:
+
+*   **आपातकालीन (Emergency) स्थिति:** KGMU में आपातकालीन स्थिति में भर्ती होने वाले मरीजों को उपचार के **पहले 24 घंटों** के लिए दवाएं और जरूरी सामग्री निःशुल्क प्रदान की जाती है।
+*   **सामान्य OPD और वार्ड:** सामान्य OPD परामर्श और उपचार के दौरान, उपलब्ध स्टॉक के अनुसार कुछ दवाएं अस्पताल से निःशुल्क दी जाती हैं, लेकिन यदि कोई विशिष्ट दवा अस्पताल की फार्मेसी में उपलब्ध नहीं है, तो उसे बाहर से खरीदना पड़ सकता है।
+*   **सरकारी योजनाएं:** यदि मरीज आयुष्मान भारत या किसी अन्य सरकारी स्वास्थ्य योजना के अंतर्गत पंजीकृत है, तो योजना के नियमों के अनुसार उपचार और दवाओं की सुविधा का लाभ मिल सकता है।
+
+**सुझाव:**
+दवाओं की उपलब्धता और खर्च के बारे में सटीक जानकारी के लिए आप अस्पताल के **पेशेंट वेलफेयर ऑफिस (Patient Welfare Office)** या संबंधित विभाग के काउंटर पर संपर्क कर सकते हैं।
+
+*मैं एक AI हूँ, कृपया अपनी व्यक्तिगत स्वास्थ्य जानकारी यहाँ साझा न करें। स्वास्थ्य संबंधी किसी भी निर्णय के लिए कृपया KGMU के डॉक्टर से सीधे परामर्श लें।*",2026-06-30T09:29:36.000Z,true,2026-06-30T09:25:09.220Z,hi,1,general,factual,direct_answer,,moderate,true,session_13077,true,34,7,984,177,9,14,Tuesday,false,false,true,hi,0.9,information_seeking,high,neutral,Are medicines free or do I have to buy them,comprehensive,medication;cost,false,patient
+qa_1782811870699_rgurxll8,,Piles जैसी सर्जरी के लिए कितना खर्च आएगा,"मैं एक एआई सहायक हूँ और चिकित्सा संबंधी सलाह या सटीक उपचार की लागत नहीं बता सकता। अस्पताल के खर्च कई कारकों पर निर्भर करते हैं, जैसे सर्जरी का प्रकार, मरीज की स्थिति और अस्पताल में रहने की अवधि।
+
+पाइल्स (बवासीर) के इलाज और संबंधित खर्चों की जानकारी के लिए कृपया निम्नलिखित कदम उठाएं:
+
+1. **ओपीडी (OPD) परामर्श:** आप केजीएमयू के **'जनरल सर्जरी' (General Surgery)** विभाग में ओपीडी पर्ची बनवाकर डॉक्टर से परामर्श लें। वे आपकी स्थिति की जांच करके सही उपचार और अनुमानित खर्च के बारे में बता पाएंगे।
+2. **परामर्श का समय:** ओपीडी का समय सोमवार से शुक्रवार सुबह 9:00 बजे से दोपहर 1:00 बजे तक और शनिवार को सुबह 9:00 बजे से दोपहर 12:00 बजे तक है।
+3. **ऑनलाइन अपॉइंटमेंट:** आप [www.ors.gov.in](https://www.ors.gov.in) पर जाकर या 0522-2258880 पर कॉल करके अपना अपॉइंटमेंट बुक कर सकते हैं।
+4. **रेट लिस्ट:** आप केजीएमयू की वेबसाइट पर [रेट लिस्ट](https://www.kgmu.org/rate_list2223.htm) देख सकते हैं, लेकिन अंतिम खर्च डॉक्टर के परामर्श के बाद ही स्पष्ट होगा।
+
+**महत्वपूर्ण:** मैं चिकित्सा सलाह देने के लिए योग्य नहीं हूँ। कृपया केजीएमयू ओपीडी में किसी डॉक्टर से परामर्श लें। साथ ही, अपनी सुरक्षा के लिए इस चैट में कोई भी व्यक्तिगत स्वास्थ्य विवरण साझा न करें।",2026-06-30T09:31:12.000Z,true,2026-06-30T09:25:09.220Z,hi-en,0.85,general,factual,direct_answer,,moderate,true,session_13077,true,40,8,1145,198,9,15,Tuesday,false,true,true,hi,0.9,information_seeking,high,neutral,How much will surgery for piles cost,adequate,surgery;cost;piles,false,patient
+qa_1782811896524_3a4gskha,,I can't find information about bpt on your website,"Information regarding various courses, including the Bachelor of Physiotherapy (BPT) program at King George's Medical University, can be found in the admissions section of our website.
+
+You can access the course and admission details here: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+If you have specific questions about the curriculum or eligibility, you may also want to check the [Department of Physical Medicine & Rehabilitation](https://www.kgmu.org/department_details.php?dept_id=4&dept_type=2) page, as they oversee the physiotherapy training programs.",2026-06-30T09:31:37.000Z,true,2026-06-30T09:26:33.903Z,en,0,contact,factual,referral,,moderate,true,session_13078,true,50,9,605,67,9,15,Tuesday,false,true,false,en,0.9,information_seeking,medium,neutral,I can't find information about bpt on your website,comprehensive,bpt;admission,false,student
+qa_1782812037199_pdjs4446,,Can you give me number so that I can talk about bpt,"For inquiries regarding the Bachelor of Physiotherapy (BPT) program at KGMU, you can contact the administrative offices or the relevant department.
+
+You may reach out to the **Registrar Office** at **0522-2253171** or the **KGMU Help Line** at **0522-2258880** for guidance on admissions and course information.
+
+Additionally, you can visit the official website at [www.kgmu.org](https://www.kgmu.org) and check the [Courses and Admissions](https://www.kgmu.org/courses_admission.php) section for specific details regarding the BPT program.",2026-06-30T09:33:57.000Z,true,2026-06-30T09:26:33.903Z,en,0,contact,yes_no,referral,,moderate,true,session_13078,true,51,12,540,68,9,15,Tuesday,false,true,false,en,0.9,information_seeking,medium,neutral,Can you give me number so that I can talk about bpt,adequate,contact;bpt,false,student
+qa_1782813571739_chic61kc,,"Hi..this is Shivani Sharma, RCI registered ASLP. I wanted to enquire if there is a vacancy for the post of audiologist and speech therapist.","Hello Shivani, thank you for reaching out.
+
+I am the KGMU AI Assistant, created by Dr. Ayush Yadav. Regarding your query about job vacancies for an Audiologist and Speech Therapist, please note that KGMU generally advertises all recruitment opportunities, including contractual and permanent positions, on the official university website.
+
+I recommend you keep a regular check on the **""Recruitment""** or **""Notice Board""** section of the website at [www.kgmu.org](https://www.kgmu.org) for any active advertisements. 
+
+Additionally, you may want to visit or contact the **Department of Otorhinolaryngology (ENT)** or the **Human Resources/Establishment section** of KGMU for specific inquiries regarding departmental requirements. You can find contact details for various offices here: [https://kgmu.org/ipphonedirctory.php](https://kgmu.org/ipphonedirctory.php).",2026-06-30T09:59:32.000Z,true,2026-06-30T09:58:44.829Z,en,0,career,factual,referral,,complex,true,session_13079,false,140,24,864,108,9,15,Tuesday,false,true,false,en,0.9,information_seeking,medium,neutral,"Hi..this is Shivani Sharma, RCI registered ASLP. I wanted to enquire if there is a vacancy for the post of audiologist and speech therapist.",comprehensive,job;vacancy;audiologist;speech_therapist,false,staff
+qa_1782813786051_b22dh3bf,,Yellow fever,"For Yellow Fever vaccination at KGMU, please note the following information:
+
+*   **Department:** The vaccination is provided by the **Department of Community Medicine**.
+*   **Registration Timings:** 9:00 AM – 10:00 AM.
+*   **Days:** Mondays and Thursdays.
+
+Please ensure you carry your travel documents and identification. For any further assistance or to confirm current availability, you may contact the Department of Community Medicine or the KGMU help line at 0522-2258880.
+
+You can also view the official guidelines here: [https://kgmu.org/download/yellow_fever_new.pdf](https://kgmu.org/download/yellow_fever_new.pdf)",2026-06-30T10:03:06.000Z,true,2026-06-30T10:00:56.970Z,en,0,general,factual,direct_answer,,simple,true,session_13080,false,12,2,625,78,10,15,Tuesday,false,true,true,en,0.9,information_seeking,high,neutral,Yellow fever,comprehensive,yellow_fever;vaccination;department,false,patient
+qa_1782813855387_85qz34g5,,Document ma kay kay chiya,"Yellow Fever vaccination ke liye aapko nimnlikhit documents ki aavashyakta hogi:
+
+1.  **Passport:** Aapka original passport hona anivarya hai.
+2.  **Visa:** Agar aap kisi aise desh ki yatra kar rahe hain jahan Yellow Fever vaccination mandatory hai, to uska valid Visa hona chahiye.
+3.  **Aadhaar Card:** Pehchan ke liye apna Aadhaar card saath rakhein.
+4.  **Travel Ticket:** Aapki yatra ka proof ya flight ticket ki copy.
+
+**Kuch mahatvapurn baatein:**
+*   **Registration:** Aapko subah 9:00 AM se 10:00 AM ke beech Department of Community Medicine mein report karna hoga.
+*   **Din:** Vaccination sirf **Somwar (Monday)** aur **Guruwar (Thursday)** ko hoti hai.
+*   **Safety:** Kripya koi bhi personal health details, Aadhaar number ya phone number yahan chat mein share na karein.
+
+Adhik jaankari ke liye aap is link ko check kar sakte hain: [https://kgmu.org/download/yellow_fever_new.pdf](https://kgmu.org/download/yellow_fever_new.pdf)",2026-06-30T10:04:15.000Z,true,2026-06-30T10:00:56.970Z,en,0,general,factual,referral,,moderate,true,session_13080,true,25,5,942,132,10,15,Tuesday,false,true,true,hi-Latn,0.8,information_seeking,high,neutral,What documents are required,comprehensive,documents;yellow_fever;vaccination,false,patient
+qa_1782813944040_uhlyp5pc,,Ma marchent Navi ma job karata hu,"Merchant Navy mein kaam karne ke karan, Yellow Fever vaccination aapke liye bahut mahatvapurn hai kyunki aapko aksar aise deshon ki yatra karni padti hai jahan yeh vaccination mandatory hoti hai.
+
+Yadi aap Merchant Navy mein hain, to vaccination ke liye upar bataye gaye documents ke saath-saath yeh cheezein bhi saath rakhein:
+
+1.  **CDC (Continuous Discharge Certificate):** Merchant Navy ka ID card ya CDC.
+2.  **Company Letter/Contract:** Aapki company ka letter jo yeh verify kare ki aapko yatra ke liye is vaccination ki aavashyakta hai.
+3.  **Passport aur Visa:** Jaisa ki pehle bataya gaya, original passport aur visa (yadi lagu ho) zaroori hai.
+
+**Dhyan dein:**
+*   **Registration:** Department of Community Medicine mein subah 9:00 se 10:00 baje ke beech pahunchein.
+*   **Din:** Somwar (Monday) ya Guruwar (Thursday).
+*   **Salah:** Kyunki aap ek professional yatra par hain, isliye apne saath apne employer dwara diya gaya koi bhi official document zaroor rakhein jisse ki process mein aasani ho.
+
+Main aapko medical advice nahi de sakta, isliye vaccination se pehle apne health status ke bare mein doctor se paramarsh zaroor lein. KGMU OPD ya kisi registered medical practitioner se milna behtar rahega.
+
+Apni safety ke liye kripya is chat mein apna personal mobile number, Aadhaar number ya koi aur sensitive jaankari share na karein.",2026-06-30T10:05:44.000Z,true,2026-06-30T10:00:56.970Z,en,0,career,factual,direct_answer,,moderate,true,session_13080,true,33,7,1348,211,10,15,Tuesday,false,false,true,hi-Latn,0.7,information_seeking,high,neutral,I work in Merchant Navy,comprehensive,merchant_navy;yellow_fever;vaccination,false,staff
+qa_1782814049560_rvlqera3,,7317299501,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details, such as Aadhaar numbers or phone numbers, in this chat for your safety. 
+
+If you have questions regarding the Yellow Fever vaccination process, please refer to the information provided above or visit the Department of Community Medicine on Monday or Thursday between 9:00 AM and 10:00 AM.",2026-06-30T10:07:29.000Z,true,2026-06-30T10:00:56.970Z,en,0,general,factual,safety_redirect,,simple,true,session_13080,true,10,1,436,71,10,15,Tuesday,false,false,false,en,0.9,off_topic,none,neutral,7317299501,adequate,,false,unknown
+qa_1782814182227_1plgpobt,,Yellow fever ka date kb ka milaga ga,"Yellow Fever vaccination ke liye koi advance online booking system nahi hai. Aapko **Somwar (Monday)** ya **Guruwar (Thursday)** ko subah **9:00 AM se 10:00 AM** ke beech **Department of Community Medicine** mein physically report karna hoga.
+
+Wahin par registration aur baaki prakriya puri ki jayegi. Aap koshish karein ki subah 9 baje se pehle hi pahunch jayein kyunki vaccination limited slots mein hoti hai.
+
+**Yaad rakhein:**
+*   Apne saare original documents (Passport, CDC, Ticket/Contract letter) saath layein.
+*   Kisi bhi personal detail (jaise phone number) ko yahan share na karein.
+*   Yadi aapko medical advice ki zaroorat ho, to kripya KGMU OPD mein doctor se sampark karein.",2026-06-30T10:09:42.000Z,true,2026-06-30T10:00:56.970Z,en,0,general,temporal,direct_answer,,moderate,true,session_13080,true,36,8,690,107,10,15,Tuesday,false,false,true,hi-Latn,0.9,information_seeking,high,neutral,When will the yellow fever date be available?,comprehensive,department;vaccination;timing,false,patient
+qa_1782814425259_mpnx7svy,,Hostel accommodation inquiry,"For inquiries regarding hostel accommodation at King George's Medical University, please refer to the official university website at [www.kgmu.org](https://www.kgmu.org). 
+
+You can find relevant information regarding student services, campus life, and contact details for the Dean’s office or the Provost’s office on the website. For specific administrative assistance, you may also refer to the [KGMU IP Phone Directory](https://kgmu.org/ipphonedirctory.php) to reach the relevant hostel administration office directly.",2026-06-30T10:13:45.000Z,true,2026-06-30T10:13:14.975Z,en,0,campus,factual,referral,,simple,true,session_13081,false,28,3,520,65,10,15,Tuesday,false,true,false,en,0.95,information_seeking,low,neutral,Hostel accommodation inquiry,adequate,hostel;accommodation;inquiry,false,student
+qa_1782814530036_ktunn0u1,,Where to check,"To find information regarding hostel accommodation, you should visit the official website at **[www.kgmu.org](https://www.kgmu.org)**.
+
+Once on the website, you can navigate to the **""Student""** or **""Administration""** sections. Additionally, for specific contact information regarding hostel administration, you can check the **[KGMU IP Phone Directory](https://kgmu.org/ipphonedirctory.php)** to find the direct contact numbers for the Provost's office or hostel wardens.",2026-06-30T10:15:29.000Z,true,2026-06-30T10:13:14.975Z,en,0,general,navigational,referral,,simple,true,session_13081,true,14,3,473,56,10,15,Tuesday,false,true,false,en,0.95,navigation,low,neutral,Where to check,adequate,hostel;website;information,false,student
+qa_1782816572118_l80nraw3,,पेट के डॉक्टर कल बैठेंगे,"KGMU में पेट (Gastroenterology) से संबंधित विभागों की जानकारी नीचे दी गई है:
+
+1. **Medical Gastroenterology:** OPD नए ओपीडी भवन (New OPD Building) की तीसरी मंजिल (3rd Floor), कमरा नंबर 312 में बैठती है। यह सोमवार, मंगलवार, शुक्रवार और शनिवार को उपलब्ध रहती है।
+2. **Surgical Gastroenterology:** यह उसी भवन की दूसरी मंजिल (2nd Floor), कमरा नंबर 202 में सोमवार, बुधवार और शुक्रवार को बैठती है।
+
+**महत्वपूर्ण निर्देश:**
+*   **ऑनलाइन पंजीकरण अनिवार्य है:** कृपया अपनी अपॉइंटमेंट [www.ors.gov.in](https://www.ors.gov.in) पर पहले से बुक कर लें।
+*   **समय:** OPD का समय सुबह 9:00 बजे से दोपहर 1:00 बजे तक है। पर्ची काउंटर दोपहर 1:00 बजे बंद हो जाते हैं, इसलिए जल्दी पहुँचें।
+*   **परामर्श:** यदि आप बाहर से आ रहे हैं, तो अपने स्थानीय डॉक्टर का रेफरल लेटर (Referral Letter) साथ लाएं।
+
+मैं एक एआई सहायक हूँ और चिकित्सा परामर्श नहीं दे सकता। कृपया अपनी स्थिति के लिए KGMU ओपीडी में जाकर डॉक्टर से मिलें। अपनी सुरक्षा के लिए चैट में कोई भी व्यक्तिगत विवरण (जैसे मोबाइल नंबर या आधार) साझा न करें।",2026-06-30T10:49:39.000Z,true,2026-06-30T10:49:08.117Z,hi,1,general,factual,direct_answer,,moderate,true,session_13082,false,24,5,984,170,10,16,Tuesday,false,true,true,hi,0.95,information_seeking,high,neutral,Will the stomach doctor be available tomorrow?,comprehensive,department;doctor;gastroenterology,false,patient
+qa_1782816713332_ol08pkry,,गुप्त रोग के डॉक्टर कब मिलेंगे,"गुप्त रोग (Sexually Transmitted Infections/Dermatology) के परामर्श के लिए आप **Dermatology, Venereology & Leprosy** विभाग से संपर्क कर सकते हैं।
+
+**OPD की जानकारी:**
+* **स्थान:** नया ओपीडी भवन (New OPD Building), तीसरी मंजिल (3rd Floor), कमरा नंबर 303 और 304।
+* **दिन:** मंगलवार (Tuesday), बुधवार (Wednesday) और शनिवार (Saturday)।
+* **समय:** सुबह 9:00 बजे से दोपहर 1:00 बजे तक।
+
+**महत्वपूर्ण जानकारी:**
+1. **पंजीकरण:** ऑनलाइन अपॉइंटमेंट अनिवार्य है। आप [www.ors.gov.in](https://www.ors.gov.in) पर जाकर या मोबाइल ऐप (ABHA/Health Care App) के माध्यम से अपना स्लॉट बुक कर सकते हैं।
+2. **पर्ची काउंटर:** काउंटर दोपहर 1:00 बजे बंद हो जाते हैं, इसलिए समय से पहले पहुँचें।
+3. **परामर्श:** मैं एक एआई सहायक हूँ और चिकित्सा परामर्श प्रदान नहीं कर सकता। कृपया KGMU ओपीडी में जाकर योग्य डॉक्टर से मिलें।
+
+**सुरक्षा चेतावनी:** अपनी सुरक्षा के लिए कृपया इस चैट में अपना नाम, फोन नंबर, आधार कार्ड या अन्य कोई भी व्यक्तिगत स्वास्थ्य जानकारी साझा न करें। किसी भी चिकित्सीय समस्या के लिए सीधे KGMU के संबंधित विभाग में जाकर डॉक्टर से परामर्श लें।",2026-06-30T10:51:58.000Z,true,2026-06-30T10:49:08.117Z,hi,1,general,factual,direct_answer,,moderate,true,session_13082,true,30,6,1029,168,10,16,Tuesday,false,true,true,hi,0.95,information_seeking,high,neutral,When will the doctor for sexually transmitted diseases be available?,comprehensive,department;doctor;dermatology,false,patient
+qa_1782817708841_6jsjq01h,,Addmission kaise le,"KGMU mein admission lene ki jaankari aap website [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php) par dekh sakte hain.
+
+Admission prakriya (process) aur eligibility course ke anusar alag hoti hai. Aap apni pasand ka course select karke uski puri details wahan check kar sakte hain.
+
+Main aapko yaad dila du ki main Dr. Ayush Yadav dwara banaya gaya KGMU AI Assistant hoon. Agar aapko kisi specific course ya admission exam ke baare mein jaanna hai, toh kripya uska naam batayein.",2026-06-30T11:08:29.000Z,true,2026-06-30T11:08:07.247Z,en,0,general,procedural,referral,,simple,true,session_13083,false,19,3,519,74,11,16,Tuesday,false,true,false,hi-Latn,0.9,information_seeking,medium,neutral,How to take admission,adequate,admission;course,false,student
+qa_1782817753058_a31sc7oq,,Md mch,"KGMU mein MD/MS aur M.Ch/DM courses mein admission ke liye, aapko National Eligibility cum Entrance Test (NEET) PG aur NEET SS (Super Speciality) exams ke dwara aana hota hai.
+
+Admission ki vistrit jaankari ke liye aap in links ka upyog kar sakte hain:
+
+*   **Admission Portal:** [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+*   **Courses List:** [https://www.kgmu.org/department.php](https://www.kgmu.org/department.php) (Yahan aap apne department aur uske courses ki details dekh sakte hain).
+
+Kripya dhyan dein ki admission counseling aur seat allotment ke niyam NEET PG/SS ke guidelines ke anusar hote hain. Aap samay-samay par KGMU ki official website par notices check karte rahein.",2026-06-30T11:09:13.000Z,true,2026-06-30T11:08:07.247Z,en,0,courses,factual,referral,,simple,true,session_13083,true,6,2,732,94,11,16,Tuesday,false,true,true,hi-Latn,0.9,information_seeking,high,neutral,MD MCH,comprehensive,admission;faculty;course,false,student
+qa_1782817877697_xbic1r5k,,Lari Hospital ki report online dikhegi??,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+Regarding your question about reports for Lari Cardiology, you can generally check for lab results or updates through the official KGMU website at **[www.kgmu.org](https://www.kgmu.org)**. 
+
+Please check the **""Patient Corner""** or **""Examination Results""** sections on the website for any available portals to view reports. If your report is not available online, you should visit the Lari Cardiology department counter directly or contact the **PRO Office of Lari Cardiology at 9415099528** for assistance.",2026-06-30T11:11:18.000Z,true,2026-06-30T11:10:53.011Z,en,0,general,factual,safety_redirect,,moderate,true,session_13084,false,40,6,686,101,11,16,Tuesday,false,true,false,hi-Latn,0.9,information_seeking,high,neutral,Will Lari Hospital report show online?,partial,lab;report,false,patient
