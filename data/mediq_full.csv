@@ -128021,3 +128021,273 @@ KGMU ki OPD mein har baar naya registration (Parchi) banwana anivarya (mandatory
 *   **Referral:** Agar aapne pehle referral ke sath dikhaya tha, toh check kar lein ki aapka referral abhi bhi valid hai ya nahi.
 
 Main ek AI assistant hoon aur medical advice ya treatment ke baare mein faisle nahi le sakta. Kripya apne doctor se hi aage ki jaanch ya follow-up ke baare mein baat karein. Suraksha ke liye chat mein apni niji medical jankari share na karein.",2026-07-01T06:56:18.000Z,true,2026-07-01T06:52:43.121Z,en,0,appointment,factual,referral,,complex,true,session_13125,true,140,26,1217,202,6,12,Wednesday,false,true,true,hi-Latn,0.8,information_seeking,high,frustrated,"I have already shown to the doctor once, do I need to take appointment again and pay fees",adequate,opd;appointment;fees,false,patient
+qa_1782891714135_5vlirsv8,,Gastroenterology opd,"The Gastroenterology OPD is located at the KGMU Hospital. Please note the following details:
+
+*   **Department:** Medical Gastroenterology
+*   **Location:** Third Floor, New OPD Building
+*   **OPD Days:** Monday, Tuesday, Friday, and Saturday
+
+**Important Instructions:**
+*   **Online Registration:** Online registration is mandatory for all patients. You can book your appointment via [www.ors.gov.in](https://www.ors.gov.in), the ABHA mobile app, or by sending an SMS ""APPOINTMENT <NAME>"" to 8887019134.
+*   **Timing:** The OPD registration counter closes at **1:00 PM**. It is strongly recommended to arrive early to avoid long wait times.
+*   **Fee:** There is a flat fee of ₹50 for the OPD slip.
+*   **Referral:** If you are visiting from outside Lucknow, please ensure you carry a valid referral letter for the department.
+
+If you are experiencing a medical emergency, please proceed directly to the **Trauma Centre (Gate 14)**, which operates 24/7.
+
+I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline at 0522-2258880 / 0522-3539333. Also, please avoid sharing personal health details, Aadhaar numbers, or phone numbers in this chat for your safety.",2026-07-01T07:41:54.000Z,true,2026-06-04T12:07:17.228Z,en,0,opd,factual,safety_redirect,,simple,true,session_11389,true,20,2,1206,179,7,13,Wednesday,false,true,true,en,0.9,information_seeking,high,neutral,Gastroenterology opd,comprehensive,opd;department;gastroenterology,false,patient
+qa_1782895021443_ok71689j,,Apply karna h,"To apply for an appointment at KGMU, please follow one of the methods below. Please note that online registration is mandatory.
+
+**1. Online Portal (Recommended)**
+*   Visit: [www.ors.gov.in](https://ors.gov.in)
+*   **Steps:** 
+    *   Login/Register using your mobile number.
+    *   Select ""Uttar Pradesh"" as the State and ""King George's Medical University"" as the Hospital.
+    *   Click ""New Appointment,"" choose your Department, date, and time slot.
+    *   Enter patient details and pay the ₹50 fee online.
+    *   Download your appointment slip.
+
+**2. Mobile App**
+*   Download the **ABHA** or **ORS Patient Portal** app from the KGMU Play Store.
+*   Follow the same registration and booking process as the online portal.
+
+**3. SMS Booking**
+*   Send an SMS in the following format to **8887019134**:
+    *   `APPOINTMENT [Patient Name]`
+*   You will receive a confirmation message.
+
+**4. Walk-in (On-Site)**
+*   You can visit the registration counters at KGMU.
+*   **Requirements:** You must bring the patient’s **Aadhaar Card** and an active mobile number.
+*   **Process:** Provide your details at the counter, receive an OTP on your phone, pay the ₹50 fee, and collect your physical OPD slip.
+
+**Important Reminders:**
+*   **OPD Timings:** Monday–Friday: 9:00 AM – 1:00 PM | Saturday: 9:00 AM – 12:00 PM | Sunday: Closed.
+*   **Counters:** Registration counters close at 1:00 PM sharp. It is strongly recommended to book in advance to avoid long wait times.
+*   **Referral:** If you are coming from outside Lucknow, please ensure you have a valid referral for your specific department.
+
+I am not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline at **0522-2258880 / 0522-3539333**. For your safety, please avoid sharing personal health details, Aadhaar numbers, or phone numbers in this chat.",2026-07-01T08:37:04.000Z,true,2026-05-18T06:27:31.927Z,en,0,career,factual,safety_redirect,,simple,true,session_10612,true,13,3,1846,283,8,14,Wednesday,false,true,true,hi-Latn-en,0.8,information_seeking,medium,neutral,How to apply,comprehensive,admission;appointment,false,patient
+qa_1782897955388_qz92vzqy,,How to apply for radiography course at kgmu,"To apply for courses at King George's Medical University, please visit the official admissions page: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php).
+
+This page contains the latest information regarding available courses, eligibility criteria, and the application process for various programs, including those in Radiography. Please monitor the website regularly for notifications on admission cycles and entrance examination details.
+
+I was created by Dr. Ayush Yadav.",2026-07-01T09:25:56.000Z,true,2026-07-01T09:25:32.388Z,en,0,courses,procedural,referral,,moderate,true,session_13126,false,43,8,510,59,9,14,Wednesday,false,true,false,en,0.9,information_seeking,low,neutral,How to apply for radiography course at kgmu,adequate,course;admission;radiography,false,student
+qa_1782897992584_xjbsebg1,,Mujhe addmission chahiye dental course ke liye,"KGMU mein dental courses (BDS/MDS) mein admission ke liye aapko official website www.kgmu.org par 'Courses & Admission' section check karna hoga.
+
+KGMU mein admission process ke liye ye jankari mahatvapurn hai:
+1. **Admissions Link:** Aap [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php) par jaakar courses aur admission ki prakriya dekh sakte hain.
+2. **Eligibility:** BDS aur MDS courses ke liye admission NEET (UG) aur NEET (MDS) ki counseling ke madhyam se hote hain.
+3. **Important Notice:** KGMU admission cutoff ya seat prediction nahi karta hai. Aapko counseling ke samay KGMU ko apne preference mein chuna hoga.
+
+Kripya samay-samay par website ka 'Notice Board' check karte rahein taaki aapko latest notifications mil sakein. 
+
+*I was created by Dr. Ayush Yadav.*",2026-07-01T09:26:33.000Z,true,2026-07-01T09:25:56.577Z,en,0,courses,factual,referral,,moderate,true,session_13127,false,46,7,812,113,9,14,Wednesday,false,true,true,hi-Latn,0.9,information_seeking,high,positive,I need admission for dental course,comprehensive,admission;dental,false,student
+qa_1782898106749_y7mzyvbg,,Dental hygiene karna hai,"Dental Hygiene mein course ki jankari ke liye aap KGMU ki official website par 'Courses & Admission' section ko check kar sakte hain.
+
+Aap is link par jaakar courses ki list dekh sakte hain: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+KGMU mein kisi bhi course mein pravesh ke liye, main website [www.kgmu.org](https://www.kgmu.org) par jakar 'Notice Board' ya 'Admission' section mein latest notifications dekhte rahein, kyunki admission prakriya aur eligibility criteria samay-samay par badal sakte hain.
+
+*I was created by Dr. Ayush Yadav.*",2026-07-01T09:28:27.000Z,true,2026-07-01T09:25:56.577Z,en,0,general,factual,referral,,simple,true,session_13127,true,24,4,589,77,9,14,Wednesday,false,true,false,hi-Latn,0.9,information_seeking,high,neutral,I want to do dental hygiene,adequate,course;dental hygiene,false,student
+qa_1782898124251_ajd6z61g,,We can get direct admission at kgmu for radiography?,"No, KGMU does not offer direct admission for any courses. Admission to all academic programs at King George's Medical University is strictly based on merit, usually through national or state-level entrance examinations and the university's own counseling process.
+
+For detailed information regarding courses, eligibility criteria, and the admission process, please visit the official admissions page: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+I am KGMU AI CHATBOT, created by Dr. Ayush Yadav. Please rely only on the official website for admission-related updates to avoid misinformation.",2026-07-01T09:28:44.000Z,true,2026-07-01T09:25:32.388Z,en,0,admissions,factual,referral,,moderate,true,session_13126,true,52,9,636,79,9,14,Wednesday,false,true,false,en,0.9,information_seeking,medium,neutral,We can get direct admission at kgmu for radiography?,comprehensive,admission;radiography,false,student
+qa_1782898498510_zl5ak305,,Admission regarding help in bsc optometry pr bsc radiography,"For information regarding admissions for B.Sc. Optometry, B.Sc. Radiography, and other courses at King George's Medical University, please visit the official admissions page: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+You can also check the official university website at [www.kgmu.org](https://www.kgmu.org) for the latest admission notifications, brochures, and eligibility criteria.
+
+I was created by Dr. Ayush Yadav.",2026-07-01T09:34:58.000Z,true,2026-07-01T09:34:27.357Z,en,0,admissions,factual,referral,,moderate,true,session_13128,false,60,9,467,50,9,15,Wednesday,false,true,false,hi-Latn-en,0.8,information_seeking,medium,neutral,Admission regarding help in bsc optometry or bsc radiography,adequate,admission;bsc optometry;bsc radiography,false,student
+qa_1782898513075_k2ev2oc9,,Dental hygiene karna hai,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+For dental concerns, you may visit the **KGMU Faculty of Dental Sciences**. You can find information about the various dental departments here: [https://www.kgmu.org/department.php](https://www.kgmu.org/department.php) (look under the ""Dental"" section).
+
+To book an appointment for an OPD consultation:
+*   **Online:** [www.ors.gov.in](https://www.ors.gov.in)
+*   **Phone:** 0522-2258880 or 0522-3539333
+*   **SMS:** Send ""APPOINTMENT <NAME>"" to 8887019134
+*   **Registration:** Online booking is strongly recommended to avoid long wait times. The fee is ₹50.",2026-07-01T09:35:13.000Z,true,2026-07-01T09:25:56.577Z,en,0,general,factual,safety_redirect,,simple,true,session_13127,true,24,4,737,97,9,15,Wednesday,false,true,true,hi,0.9,information_seeking,high,neutral,I want to do dental hygiene,partial,dental hygiene,false,patient
+qa_1782898547923_u1kxbplr,,Admission in allied course with neet score or 12th merit basis,"Admission criteria for allied health science courses at KGMU vary depending on the specific program and the current academic year's guidelines. 
+
+Generally, KGMU conducts its own entrance examinations for many of its paramedical and allied health courses. Admission is typically based on the merit secured in these specific university-level entrance exams rather than purely on NEET scores or 12th-grade marks.
+
+To ensure you have the most accurate and up-to-date information for the upcoming session:
+
+1.  **Check the Admissions Portal:** Visit [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php) for official prospectuses and notifications.
+2.  **Monitor the Notice Board:** Keep an eye on the [KGMU Notice Board](https://kgmu.org/kgmu_notice_board.php) for the release of admission brochures, which detail the selection process for each specific course.
+3.  **Verify Eligibility:** The brochure will explicitly state whether a course requires a university entrance exam, accepts NEET scores, or follows another merit-based process.
+
+I was created by Dr. Ayush Yadav.",2026-07-01T09:35:47.000Z,true,2026-07-01T09:34:27.357Z,en,0,admissions,factual,referral,,moderate,true,session_13128,true,62,11,1106,145,9,15,Wednesday,false,true,true,en,0.9,information_seeking,medium,neutral,Admission in allied course with neet score or 12th merit basis,comprehensive,admission;allied course,false,student
+qa_1782899378747_od96my99,,Mai ek pharmacy student hu aur hospital training/internship regarding query hai,"Pharmacy students ke hospital training ya internship ke liye aapko **KGMU ke Office of the Chief Medical Superintendent (CMS)** ya **Pharmacy Department** se sampark karna hoga.
+
+Aap niche diye gaye steps follow kar sakte hain:
+
+1.  **Official Website Check Karein:** Sabse pehle [www.kgmu.org](https://www.kgmu.org) par jaakar 'Notice Board' ya 'Academic' section dekhein, wahan kabhi-kabhi internship ya training se related guidelines upload ki jaati hain.
+2.  **CMS Office Se Sampark:** Hospital training ke liye permission aam taur par CMS office se milti hai. Aap wahan jakar administrative formalities aur required documents (jaise college se NOC, application letter, etc.) ke baare mein pata kar sakte hain.
+3.  **Pharmacy Department/Store:** KGMU mein pharmacy training ke liye aap hospital ke Pharmacy Store ya related in-charge se bhi baat kar sakte hain.
+4.  **Contact:** Aap KGMU ke Help Line number **0522-2258880** par call karke CMS office ka sahi extension number ya unka office timing pooch sakte hain.
+
+**Zaroori Suchna:** 
+*   Apne sath apne college ka Identity Card aur Principal dwara signed ""Training Request Letter/NOC"" zaroor leke jayein.
+*   KGMU campus mein discipline aur rules ka palan karna anivarya hai.
+
+Kya aapko kisi specific department ya procedure ke baare mein jaankari chahiye?",2026-07-01T09:49:40.000Z,true,2026-07-01T09:49:00.530Z,en,0,departments,factual,referral,Pharmacology,moderate,true,session_13129,false,79,11,1314,195,9,15,Wednesday,false,true,true,hi-Latn,0.9,information_seeking,high,neutral,I am a pharmacy student and have a query regarding hospital training/internship,comprehensive,pharmacy;internship,false,student
+qa_1782899447442_ndsuy95h,,How can i take admission in bpt,"To take admission in the Bachelor of Physiotherapy (BPT) course at King George's Medical University, you should regularly monitor the official KGMU website, specifically the admissions section.
+
+Detailed information regarding courses, eligibility criteria, and the admission process can be found here: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+Please note that KGMU typically follows the guidelines and entrance examination procedures specified in their official admission brochures for the academic session. I recommend checking the ""Admissions"" tab on [www.kgmu.org](https://www.kgmu.org) for the latest updates, notifications, and application forms.",2026-07-01T09:50:48.000Z,true,2026-07-01T09:50:30.508Z,en,0,admissions,procedural,direct_answer,,moderate,true,session_13130,false,31,7,700,80,9,15,Wednesday,false,true,false,en,0.9,information_seeking,medium,neutral,How can i take admission in bpt,comprehensive,admission;bpt,false,student
+qa_1782899467168_rysv3285,,Mene call kiya tha 0522-3539333 is number pe to mujhse bole ki training nahi karate hai,"Samajhne ke liye shukriya. Agar aapko wahan se mana kiya gaya hai, toh iska matlab yeh ho sakta hai ki hospital ke paas abhi formal pharmacy internship program ke liye slots available nahi hain ya unka process kisi aur department ke through hota hai.
+
+KGMU mein hospital training ke liye kuch aur raste hain jo aap try kar sakte hain:
+
+1. **Dean Office (Faculty of Pharmacy):** Agar aapka college KGMU se affiliated hai ya aap kisi aur college se hain, toh aapko **Dean, Faculty of Pharmacy** ke office mein ek formal application dena chahiye. Kabhi-kabhi training ki permission administrative level par Dean office se process hoti hai.
+2. **Medical Superintendent Office:** 0522-3539333/2258880 aam taur par OPD/Patient inquiries ke liye hote hain. Aap **Office of the Medical Superintendent (MS)** mein jakar ek baar physical visit karein. Physical application (letter head par) dene se zyada clear response milta hai.
+3. **Training Cell/Academic Section:** KGMU mein ek Academic Section hota hai jo student postings aur clinical rotations handle karta hai. Aap wahan jakar pata karein ki kya ""Observational Training"" ya ""Clinical Posting"" ke liye koi provision hai.
+4. **Alternative:** Agar KGMU mein official seats full hain ya wo allow nahi kar rahe, toh aap Lucknow mein hi sthit anya government hospitals (jaise Civil Hospital ya Balrampur Hospital) mein bhi try kar sakte hain, kyunki wahan pharmacy students ke liye training process aksar alag hota hai.
+
+**Ek Salah:** Jab aap visit karein, toh apne college ke Head of Department (HOD) ya Principal se ek ""Request Letter"" likhwakar le jayein, jisme saaf likha ho ki aapki degree ke liye hospital training compulsory hai. Bina official letter ke hospital staff aksar mana kar dete hain.
+
+Kya aapne Dean office mein baat ki hai ya sirf call hi kiya tha?",2026-07-01T09:51:08.000Z,true,2026-07-01T09:49:00.530Z,en,0,contact,factual,direct_answer,,complex,true,session_13129,true,87,16,1810,293,9,15,Wednesday,false,false,true,hi-Latn,0.8,complaint,high,negative,I called 0522-3539333 and they told me they don't provide training,adequate,pharmacy;training;complaint,true,student
+qa_1782899538290_nmbxffwd,,Mujhe ye btaye ki kaha or kiske pass jana hai or jaroori documents kya lane hai,"Pharmacy student ke roop mein hospital training ke liye aapko administrative process follow karna hoga. Hospital ki OPD helpline (jo aapne call ki thi) sirf patients ke liye hoti hai, isliye wahan se aapko sahi jaankari nahi mili.
+
+Aapko **Academic/Administrative** channel se jana hoga. Niche diye gaye steps follow karein:
+
+### 1. Kiske Paas Jana Hai?
+Aapko **Office of the Registrar, KGMU** ya **Dean, Faculty of Pharmacy** (agar aap KGMU ke hi student hain) ke office mein sampark karna chahiye.
+*   **Location:** Administrative Block (Gate 1 ke paas).
+*   **Person to Meet:** Aap Registrar office mein ""Academic Section"" ya ""Training/Internship In-charge"" se milein. Wahan puchne par wo aapko bata denge ki training ki permission ke liye file kahan move karni hai (aam taur par yeh CMS office ya Concerned Department ke Head ke approval se hoti hai).
+
+### 2. Zaroori Documents (File Taiyaar Rakhein)
+Jab aap office jayein, toh ek file mein yeh documents zaroor rakhein:
+1.  **Formal Application Letter:** Apne College ke Principal/HOD ke letterhead par ek request letter. Isme likha hona chahiye ki aapka naam, roll number, course, aur training ki duration (kitne din/mahine) kya hai.
+2.  **NOC (No Objection Certificate):** Aapke college se ek letter ki unhe aapki hospital training ke liye bahar jaane mein koi aapatti nahi hai.
+3.  **Identity Proof:** Aapke College ka valid ID card (Original aur Photocopy).
+4.  **Aadhaar Card:** Original aur photocopy.
+5.  **Passport Size Photos:** 2-3 photos sath rakhein.
+6.  **Curriculum/Syllabus Copy:** Aapke college ka wo page jahan ""Hospital Pharmacy Training"" mandatory likha hai (yeh request ko majboot banata hai).
+
+### 3. Process Kya Hoga?
+1.  **Application Submit:** Sabse pehle Registrar office ya Academic section mein apni application submit karein.
+2.  **Endorsement:** Wahan se aapki file Medical Superintendent (MS) ya CMS office bheji jayegi.
+3.  **Approval:** Ek baar approval milne par, aapko ek letter milega jise lekar aapko Pharmacy/Hospital store department mein report karna hoga.
+
+**Important Note:** 
+*   **Gate 1 (Administrative Gate)** par jayein, wahan ""Administrative Block"" ki enquiry se puchein ki ""Student Internship/Training"" ka office kahan hai.
+*   **Timing:** Subah 10:00 AM se 1:00 PM ke beech hi jayein, kyunki dopahar ke baad administrative kaam dheere ho jate hain.
+*   **Safety:** Kripya apni personal medical history ya contact details yahan share na karein.
+
+**Salah:** Agar KGMU mein seats ki wajah se mana ho jaye, toh apne college ke TPO (Training and Placement Officer) se kahein ki wo KGMU ke administrative office ko formal mail/letter bhejein, kyunki college-to-college communication zyada effective hota hai.",2026-07-01T09:52:19.000Z,true,2026-07-01T09:49:00.530Z,en,0,general,factual,direct_answer,,complex,true,session_13129,true,79,16,2706,412,9,15,Wednesday,false,false,true,hi-Latn,0.9,information_seeking,high,neutral,Can you tell me where to go and what documents are required,comprehensive,pharmacy;training;documents,false,student
+qa_1782899705246_tmtx5v9a,,Mujhe oppiment cahiye,"KGMU mein appointment lene ke liye aap niche diye gaye tareekon ka istemal kar sakte hain:
+
+1. **Online Booking (ORS Portal):** Sabse aasaan tarika hai [www.ors.gov.in](https://www.ors.gov.in) par jayein. Wahan ""New Appointment"" par click karke apna rajya (Uttar Pradesh) aur hospital (KGMU) chunein, fir department aur date select karke ₹50 ka online bhugtan karein.
+2. **Mobile App:** Aap ""ABHA"" ya ""Health Care"" app play store se download karke bhi appointment book kar sakte hain.
+3. **SMS Booking:** Aap apne mobile se **""APPOINTMENT [Patient Name]""** likhkar **8887019134** par SMS bhej sakte hain.
+4. **Phone:** Aap 0522-2258880 ya 0522-3539333 par call karke bhi jankari le sakte hain.
+5. **Walk-in:** Aap seedhe KGMU bhi ja sakte hain, lekin wahan bheed hone ke karan online booking ki salah di jati hai. Counter par apna Aadhaar card aur mobile number zaroor le jayein.
+
+**Zaroori baatein:**
+* OPD ki fee ₹50 hai.
+* OPD ka samay: Somvar se Shukravar (9:00 AM – 1:00 PM) aur Shanivar (9:00 AM – 12:00 PM) tak hai.
+* Agar aap sheher se bahar se aa rahe hain, toh apne department ka valid referral letter saath zaroor layein.
+
+*Main ek AI assistant hoon, isliye kripya chat mein apni koi bhi medical jankari (jaise bimari ka naam, report, ya personal data) share na karein. Apni sehat ke liye hamesha doctor se sampark karein.*",2026-07-01T09:55:06.000Z,true,2026-07-01T09:54:42.816Z,en,0,general,factual,direct_answer,,simple,true,session_13131,false,21,3,1334,220,9,15,Wednesday,false,true,true,hi-Latn,0.8,scheduling,high,neutral,I need an appointment,comprehensive,appointment;opd,false,patient
+qa_1782899707822_03ncykiw,,"Mere college se nahi bhejte hai, or mera ek original NOC submit ho gya hai cmo office Lakhimpur Kheri me or mai kgmu ka nahi balki aktu affiliated college hai institute of pharmacy","Agar aapka college khud letter nahi bhej raha aur aapka NOC pehle hi Lakhimpur Kheri ke CMO office mein hai, toh situation thodi alag hai. KGMU ek Autonomous (swatantra) university hai, isliye yahan ki training ki permission ka process Lucknow ke baki hospitals se alag hota hai.
+
+Chunki aap AKTU affiliated college ke student hain, aapko ye steps follow karne chahiye:
+
+### 1. KGMU mein ""Direct"" Training ka Process
+KGMU mein kisi bhi bahar ke student ko training dene ka adhikar **Office of the Medical Superintendent (MS)** aur **Chief Medical Superintendent (CMS)** ke paas hota hai. Kyunki aapke paas college ka support letter nahi hai, isliye aapko khud **""Self-Request Application""** deni hogi.
+
+**Aapko kahan jana hai:**
+*   **Location:** KGMU Administrative Block (Gate No. 1).
+*   **Office:** Medical Superintendent (MS) Office ya Registrar Office mein jayein.
+*   **Kisse milein:** Wahan ke Senior Administrative Officer ya ""Academic/Training In-charge"" se milein. Unhe batayein ki aap Pharmacy student hain aur aapko apni degree ke liye hospital training complete karni hai.
+
+### 2. Documents Jo Aapko Chahiye (Agar College Letter nahi de raha)
+Agar college se letter nahi mil raha, toh aapko apni application ko bahut strong banana hoga:
+*   **Application Letter (Swayam likhit):** Ek saaf application likhein jisme apna pura vivaran (Name, College Name, Enrollment Number) dein aur batayein ki training kyun zaroori hai.
+*   **NOC ki Photocopy:** Jo NOC aapne Lakhimpur Kheri mein di hai, agar uski photocopy ya receipt ho, toh wo zaroor attach karein.
+*   **AKTU ka Syllabus/Guideline:** Apne course ka wo page print nikal kar sath rakhein jahan ""Hospital Training"" mandatory likha hai. Ye proof ke taur par kaam karega ki aap ye shauk se nahi, balki padhai ki majboori mein kar rahe hain.
+*   **Aadhaar Card:** Original aur copy.
+
+### 3. Ek Zaroori Salah (Important)
+KGMU mein bahar ke students ko training milna thoda mushkil hota hai kyunki wahan pehle se hi KGMU ke apne students ka load hota hai. Agar aapko wahan se bhi mana kiya jata hai, toh:
+
+*   **Training ka ""Observational"" Status:** Jab aap baat karein, toh ""Internship"" ke bajaye **""Observational Posting""** ya **""Clinical Exposure""** shabd ka istemal karein. Aksar hospitals ""Internship"" ke liye mana kar dete hain par ""Observational training"" ke liye permission mil jati hai.
+*   **Pharmacy Store In-charge:** Administrative permission lene ke baad, aapko hospital ke **Main Pharmacy Store** ke in-charge se milna hoga. Aksar wahi final faisla lete hain ki wo aapko training ke liye allow karenge ya nahi.
+
+**Kya karein agar wahan bhi mana ho jaye?**
+Agar KGMU mein administrative approval nahi milta, toh aap Lucknow mein hi **""Balrampur Hospital""** ya **""Civil Hospital""** (Lucknow) mein try karein. Wahan pharmacy students ke liye training ka process KGMU ke muqable thoda zyada accessible (aasaan) hota hai.
+
+**Reminder:** Main Dr. Ayush Yadav dwara banaya gaya assistant hoon. Main aapko sahi rasta dikha sakta hoon, lekin final permission hospital ke MS office se hi milegi. Jab aap wahan jayein toh formal kapde (dress code) mein jayein aur discipline banaye rakhein, isse permission milne ke chances badh jate hain.",2026-07-01T09:55:09.000Z,true,2026-07-01T09:49:00.530Z,en,0,departments,factual,direct_answer,Pharmacology,complex,true,session_13129,true,180,33,3204,503,9,15,Wednesday,false,false,true,hi-Latn,0.9,information_seeking,high,frustrated,My college is not sending (NOC) and I have already submitted an original NOC to CMO office Lakhimpur Kheri,adequate,pharmacy;noc;training,true,student
+qa_1782899929558_lzopiuof,,MS ya CMS ka koi office number ya mail jisse me confirm kar saku ki vacancy hai ya nahi,"KGMU ke administrative offices (MS/CMS) aam taur par phone ya email par ""vacancy"" ki jankari nahi dete, kyunki yeh academic/clinical posting ka mamla hota hai. Phir bhi, aap niche diye gaye contacts par sampark karke ek baar koshish kar sakte hain:
+
+### 1. KGMU Administrative Contacts
+*   **Office of the Medical Superintendent (MS):** 0522-2257540
+*   **Office of the Registrar:** 0522-2253171
+*   **KGMU Help Line:** 0522-2258880 (Yahan call karke aap MS office ka exact extension number pooch sakte hain).
+
+### 2. Email (Official)
+Aap KGMU ki official email ID par ek formal request mail bhej sakte hain. Mail hamesha professional honi chahiye:
+*   **Email:** **registrar@kgmcindia.edu** ya **ms@kgmcindia.edu**
+
+**Mail ka format (Sample):**
+> **Subject:** Request for Observational Pharmacy Training / Clinical Posting - [Your Name]
+>
+> Respected Sir/Madam,
+>
+> I am a student of [Your College Name], pursuing [B.Pharm/D.Pharm]. As part of my curriculum, I am required to complete a hospital training program. I am very keen to gain practical exposure at KGMU due to its esteemed clinical environment.
+> 
+> I have my college ID and necessary documents. Could you please guide me on the procedure to apply for an observational posting in the Pharmacy department? I would be grateful if you could let me know if there is any availability for the same.
+>
+> Thank you,
+> [Your Name]
+> [Phone Number]
+
+### 3. Ek Zaroori Advice (Pro-Tip)
+Mail ka jawab aane mein samay lag sakta hai ya ho sakta hai jawab na aaye. KGMU jaise bade sansthan mein **physical visit** (office jakar milna) hi sabse best tareeka hai.
+
+*   **Kahan jayein:** Administrative Block (Gate 1).
+*   **Kab jayein:** Subah 10:00 AM - 11:00 AM ke beech.
+*   **Kya bolein:** ""Sir, mujhe Pharmacy department mein 1 mahine ki observational training karni hai, kya iske liye koi form bharna hoga ya permission letter dena hoga?""
+
+**Ek aur baat:** Agar KGMU se koi response nahi milta, toh aap **""Dr. Ram Manohar Lohia Institute of Medical Sciences (RMLIMS), Lucknow""** mein bhi try kar sakte hain. Wahan bhi Pharmacy students ki training hoti hai aur kabhi-kabhi wahan process KGMU se thoda zyada structured hota hai.
+
+*Disclaimer: Main Dr. Ayush Yadav ka banaya hua assistant hoon. KGMU mein training ki permission dena puri tarah hospital administration ke discretion (adhikar) par nirbhar karta hai.*",2026-07-01T09:58:51.000Z,true,2026-07-01T09:49:00.530Z,en,0,courses,factual,direct_answer,,complex,true,session_13129,true,87,19,2364,381,9,15,Wednesday,false,false,true,hi-Latn,0.9,information_seeking,medium,neutral,Is there an office number or email for MS or CMS where I can confirm if there is a vacancy?,comprehensive,vacancy;contact;admission,false,staff
+qa_1782900702934_hjc54ush,,staff nurse vaccancy,"For information regarding recruitment, staff nurse vacancies, and career opportunities at King George's Medical University, please visit the official website's recruitment section:
+
+[https://www.kgmu.org/recruitment.php](https://www.kgmu.org/recruitment.php)
+
+You can also check the ""Notice Board"" section on the main website at [www.kgmu.org](https://www.kgmu.org) for the latest official notifications and advertisements.",2026-07-01T10:11:43.000Z,true,2026-07-01T10:11:20.749Z,en,0,faculty,factual,referral,Nursing,simple,true,session_13132,false,20,3,423,44,10,15,Wednesday,false,true,false,en,0.95,information_seeking,medium,neutral,staff nurse vacancy,adequate,vacancy;recruitment;staff,false,staff
+qa_1782901452398_pqwod9y8,,Vacancy non pg jr,"For information regarding Non-PG Junior Resident vacancies at King George's Medical University, please visit the official recruitment notice board on our website: [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)
+
+All official advertisements, eligibility criteria, and application procedures for such positions are published there. I recommend checking this page regularly for the latest updates.",2026-07-01T10:24:11.000Z,true,2026-07-01T10:23:30.559Z,en,0,career,factual,referral,,simple,true,session_13133,false,17,4,427,47,10,15,Wednesday,false,true,false,hi-Latn,0.9,information_seeking,medium,neutral,Vacancy for non-PG junior resident,comprehensive,vacancy;admission,false,student
+qa_1782902790764_mfne4r52,,Nursing officer requirement 2025 exam kab hoga,"I am not aware of any officially announced date for a Nursing Officer recruitment exam for 2025 at KGMU at this moment.
+
+For the most accurate and updated information regarding recruitment notifications, examination schedules, and vacancy details, please keep checking the official KGMU website's notice board regularly: [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php) or the careers section at [https://www.kgmu.org/recruitment.php](https://www.kgmu.org/recruitment.php).",2026-07-01T10:46:31.000Z,true,2026-07-01T10:45:56.735Z,en,0,exams,temporal,direct_answer,Nursing,moderate,true,session_13134,false,46,7,505,54,10,16,Wednesday,false,true,false,hi-Latn-en,0.8,information_seeking,medium,neutral,When will the 2025 Nursing Officer requirement exam take place?,adequate,recruitment;exam;nursing,false,staff
+qa_1782902825052_wklsujfe,,Ye cancel ho gaya h kya,"I have no information regarding the cancellation of any specific Nursing Officer recruitment exam. Please verify any such news by checking the official **KGMU Notice Board** at https://kgmu.org/kgmu_notice_board.php or the **Recruitment** section at https://www.kgmu.org/recruitment.php. 
+
+Official updates are only posted on the university website; please avoid relying on unofficial sources.",2026-07-01T10:47:05.000Z,true,2026-07-01T10:45:56.735Z,en,0,general,factual,direct_answer,,moderate,true,session_13134,true,23,6,393,49,10,16,Wednesday,false,true,false,hi-Latn,0.9,information_seeking,low,neutral,Has it been cancelled?,adequate,query;recruitment,true,staff
+qa_1782902858075_exos6m4z,,Pr vahan bhi koi bhi update nhi h please help me,"If there is no information on the official KGMU website, it means no official notification regarding the exam, its scheduling, or any cancellation has been released by the university administration.
+
+As an AI, I only have access to the information provided through official KGMU channels. If you are not seeing any updates on the [KGMU Notice Board](https://kgmu.org/kgmu_notice_board.php) or the [Recruitment Section](https://www.kgmu.org/recruitment.php), it is best to wait for an official circular.
+
+For the most reliable information, you may contact the **Registrar's Office** directly:
+*   **Phone:** 0522-2253171
+
+Please refrain from trusting rumors or unofficial social media posts. The university will post any updates regarding recruitment status directly on the official portal.",2026-07-01T10:47:38.000Z,true,2026-07-01T10:45:56.735Z,en,0,general,factual,direct_answer,,moderate,true,session_13134,true,48,11,789,109,10,16,Wednesday,false,true,true,hi-Latn,0.9,information_seeking,low,frustrated,There is no update there please help me,partial,exam;information,true,student
+qa_1782905394390_gm55un8e,,Is there any tender related to canteen and kitchen in kgmu,"To check for current tenders related to canteen and kitchen facilities at KGMU, please visit the official tender portal on the university website:
+
+[https://www.kgmu.org/tenders.php](https://www.kgmu.org/tenders.php)
+
+You can find all active and archived notices regarding procurement, contracts, and services there. If you do not see a specific tender listed, you may contact the relevant administrative department or the office of the Registrar for further clarification.",2026-07-01T11:29:54.000Z,true,2026-07-01T11:29:34.622Z,en,0,campus,yes_no,referral,,moderate,true,session_13135,false,58,11,473,63,11,16,Wednesday,false,true,false,en,0.95,information_seeking,medium,neutral,Is there any tender related to canteen and kitchen in kgmu,comprehensive,tender;canteen;kitchen,false,visitor
+qa_1782907451439_qcvsoad4,,In which date released a it cell job in kgmu,"I am not aware of any specific, recently released job notification for the IT Cell. 
+
+Please check the official KGMU website's **""Notice Board""** or the **""Recruitment""** section regularly for the most accurate and up-to-date information regarding job openings:
+
+*   **Official Website:** [www.kgmu.org](https://www.kgmu.org)
+*   **Direct Notice Board Link:** [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)
+
+If you are looking for a specific advertisement, I recommend checking those sections or contacting the Recruitment/Establishment office directly via the phone directory available at [https://kgmu.org/ipphonedirctory.php](https://kgmu.org/ipphonedirctory.php).",2026-07-01T12:04:11.000Z,true,2026-07-01T12:03:21.101Z,en,0,career,temporal,referral,,moderate,true,session_13136,false,44,10,701,74,12,17,Wednesday,false,true,true,hi-Latn-en,0.8,information_seeking,medium,neutral,In which date was an IT cell job released in KGMU,partial,job;it cell;recruitment,false,student
