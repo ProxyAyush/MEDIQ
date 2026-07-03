@@ -1,57 +1,57 @@
 {
-  "totalEntries": 17812,
+  "totalEntries": 17833,
   "dateRange": {
     "start": "2025-04-01",
     "end": "2026-07-03"
   },
   "totalDays": 331,
-  "totalSessions": 13227,
-  "dailyAverage": 53.81,
+  "totalSessions": 13240,
+  "dailyAverage": 53.88,
   "botAnswerRate": 95.86,
   "languageDistribution": {
-    "en": 17210,
+    "en": 17231,
     "hi": 422,
     "hi-en": 180
   },
   "categoryDistribution": {
-    "general": 5946,
-    "admissions": 2275,
-    "courses": 1727,
-    "exams": 1695,
+    "general": 5955,
+    "admissions": 2279,
+    "courses": 1729,
+    "exams": 1696,
     "appointment": 1398,
-    "departments": 1190,
+    "departments": 1192,
     "opd": 1186,
     "career": 922,
-    "contact": 521,
-    "fees": 451,
+    "contact": 522,
+    "fees": 452,
     "faculty": 348,
-    "campus": 73,
+    "campus": 74,
     "emergency": 70,
     "research": 10
   },
   "questionTypeDistribution": {
-    "factual": 12776,
-    "procedural": 1777,
-    "temporal": 1711,
+    "factual": 12794,
+    "procedural": 1778,
+    "temporal": 1713,
     "yes_no": 1110,
     "entity": 234,
     "navigational": 204
   },
   "responseTypeDistribution": {
-    "direct_answer": 7369,
-    "referral": 5182,
-    "safety_redirect": 2873,
+    "direct_answer": 7373,
+    "referral": 5194,
+    "safety_redirect": 2878,
     "unable_to_answer": 2388
   },
   "queryComplexityDistribution": {
-    "moderate": 9813,
-    "simple": 6260,
-    "complex": 1739
+    "moderate": 9822,
+    "simple": 6269,
+    "complex": 1742
   },
   "departmentMentions": {
-    "Nursing": 1615,
+    "Nursing": 1617,
     "Pharmacology": 362,
-    "Radiology": 354,
+    "Radiology": 357,
     "Cardiology": 236,
     "Surgery": 150,
     "Neurology": 105,
@@ -88,11 +88,11 @@
     "9": 839,
     "10": 1045,
     "11": 1064,
-    "12": 1143,
-    "13": 1207,
-    "14": 1227,
-    "15": 1276,
-    "16": 1105,
+    "12": 1147,
+    "13": 1208,
+    "14": 1235,
+    "15": 1279,
+    "16": 1110,
     "17": 1098,
     "18": 1011,
     "19": 917,
@@ -108,25 +108,25 @@
     "Wednesday": 2503,
     "Sunday": 2342,
     "Saturday": 2370,
-    "Friday": 2407
+    "Friday": 2428
   },
   "aiEnrichment": {
-    "totalEnriched": 15501,
-    "coveragePercent": 87.03,
+    "totalEnriched": 15522,
+    "coveragePercent": 87.04,
     "languageDistribution": {
-      "en": 8492,
-      "hi-Latn-en": 3215,
-      "hi-Latn": 2779,
-      "hi": 903,
-      "hi-en": 105,
+      "en": 8503,
+      "hi-Latn-en": 3217,
+      "hi-Latn": 2783,
+      "hi": 906,
+      "hi-en": 106,
       "en-hi": 4,
       "en-hi-Latn": 3
     },
     "intentDistribution": {
-      "information_seeking": 12036,
+      "information_seeking": 12056,
       "scheduling": 2617,
       "navigation": 302,
-      "complaint": 301,
+      "complaint": 302,
       "greeting": 139,
       "feedback": 57,
       "off_topic": 31,
@@ -137,14 +137,14 @@
       "job_search": 1
     },
     "medicalRelevanceDistribution": {
-      "medium": 5761,
-      "high": 5658,
-      "low": 3682,
-      "none": 400
+      "medium": 5772,
+      "high": 5662,
+      "low": 3687,
+      "none": 401
     },
     "sentimentDistribution": {
-      "neutral": 14645,
-      "frustrated": 319,
+      "neutral": 14664,
+      "frustrated": 321,
       "positive": 285,
       "negative": 213,
       "concerned": 21,
@@ -157,20 +157,20 @@
       "disappointed": 1
     },
     "answerQualityDistribution": {
-      "adequate": 5407,
-      "comprehensive": 4679,
+      "adequate": 5415,
+      "comprehensive": 4690,
       "partial": 2847,
-      "deflected": 2565,
+      "deflected": 2567,
       "incorrect": 3
     },
     "userTypeDistribution": {
-      "student": 5458,
+      "student": 5471,
       "unknown": 4181,
-      "patient": 3930,
-      "staff": 1103,
-      "visitor": 710,
+      "patient": 3934,
+      "staff": 1105,
+      "visitor": 711,
       "faculty": 67,
-      "applicant": 28,
+      "applicant": 29,
       "job_seeker": 12,
       "parent": 5,
       "job seeker": 3,
@@ -178,5 +178,5 @@
       "prospective_student": 2
     }
   },
-  "lastUpdated": "2026-07-03T06:36:33.120Z"
+  "lastUpdated": "2026-07-03T11:34:29.773Z"
 }
