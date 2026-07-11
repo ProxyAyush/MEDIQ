@@ -137786,3 +137786,139 @@ qa_1783748254779_maxtr2nq,,Timing,"The Outpatient Department (OPD) timings at KG
 *   **Holidays:** OPD and OT services remain closed on all General (Gazetted) Holidays.
 
 For your safety, please avoid sharing personal health details or sensitive information in this chat. I am not qualified to provide medical advice; please consult a doctor at KGMU OPD or call the helpline at 0522-2258880 / 0522-3539333 for clinical guidance.",2026-07-11T05:37:36.000Z,true,2026-07-11T05:37:20.573Z,en,0,general,temporal,safety_redirect,,simple,true,session_13761,false,6,1,734,113,5,11,Saturday,true,false,true,en,0.9,information_seeking,medium,neutral,Timing,comprehensive,opd;timing,false,patient
+qa_1783748588915_ph0ud3br,,क्या न्यूरो के लिए ओपीडी खुली है,"न्यूरोलॉजी (Neurology) विभाग की ओपीडी सोमवार, मंगलवार, गुरुवार और शुक्रवार को सुबह 9:00 बजे से दोपहर 1:00 बजे तक खुली रहती है।
+
+कृपया ध्यान दें:
+1. ओपीडी में दिखाने के लिए ऑनलाइन पंजीकरण (Online Registration) अनिवार्य है। आप www.ors.gov.in पर अपॉइंटमेंट बुक कर सकते हैं।
+2. ओपीडी काउंटर दोपहर 1:00 बजे बंद हो जाते हैं, इसलिए कृपया समय से पहुंचें।
+3. यदि आप शहर से बाहर से आ रहे हैं, तो संबंधित विभाग के लिए वैध रेफरल (Referral) साथ लाएं।
+
+मैं एक एआई सहायक हूँ और चिकित्सा संबंधी सलाह नहीं दे सकता। यदि यह कोई आपातकालीन स्थिति (Emergency) है, तो कृपया सीधे केजीएमयू ट्रामा सेंटर (Gate 14) जाएं। साथ ही, अपनी सुरक्षा के लिए कृपया इस चैट में अपना आधार नंबर या अन्य कोई व्यक्तिगत स्वास्थ्य जानकारी साझा न करें।",2026-07-11T05:43:09.000Z,true,2026-07-11T05:41:52.035Z,hi,1,general,factual,direct_answer,,moderate,true,session_13762,false,32,7,706,130,5,11,Saturday,true,false,true,hi,0.99,information_seeking,high,neutral,Is the OPD open for neuro,comprehensive,opd;neurology;timing,false,patient
+qa_1783750231248_9vl63lwj,,Cardiac perfusion course ke liye admission kse hoga,"For information regarding admission to the Cardiac Perfusion course at King George's Medical University, please visit our official website at [www.kgmu.org](https://www.kgmu.org) and navigate to the **""Courses & Admission""** section: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php).
+
+You can find detailed information about eligibility, the application process, and important notifications for various academic programs there.
+
+I was created by Dr. Ayush Yadav.",2026-07-11T06:10:33.000Z,true,2026-07-11T06:10:13.235Z,en,0,admissions,factual,referral,,moderate,true,session_13763,false,51,8,502,55,6,11,Saturday,true,true,false,hi-Latn-en,0.95,information_seeking,medium,neutral,How will admission be for Cardiac Perfusion course,adequate,admission;course;cardiac_perfusion,false,student
+qa_1783751450819_1arf4g1v,,Nursing vaccancy notification,"For the latest updates regarding nursing vacancies and recruitment notifications at King George's Medical University, please visit the official recruitment section on our website:
+
+[https://www.kgmu.org/job-opportunities.php](https://www.kgmu.org/job-opportunities.php)
+
+You may also check the ""Notice Board"" section for any recent circulars or official announcements:
+[https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)",2026-07-11T06:30:51.000Z,true,2026-07-11T06:30:28.397Z,en,0,courses,factual,referral,Nursing,simple,true,session_13764,false,29,3,449,41,6,12,Saturday,true,true,false,en,0.99,information_seeking,low,neutral,Nursing vacancy notification,adequate,job_opportunities;nursing,false,visitor
+qa_1783752058263_ad92c160,,Kya 2nd year bpt students ki list mil sakti h,"I am not qualified to provide student lists or private academic records. For information regarding student enrollment or academic lists, please contact the office of the Dean or the relevant department office at KGMU. You can find contact information for the various offices on the KGMU website at www.kgmu.org.",2026-07-11T06:41:01.000Z,true,2026-07-11T06:40:17.662Z,en,0,general,yes_no,safety_redirect,,moderate,true,session_13765,false,45,10,311,49,6,12,Saturday,true,false,false,hi-Latn,0.98,information_seeking,low,neutral,Can I get the list of 2nd year BPT students,deflected,student_list;bpt,false,student
+qa_1783752098108_xnx1z4it,,Bpt me kitane students hai,"I do not have access to real-time enrollment statistics or specific student counts for the BPT program. For accurate information regarding student numbers, intake capacity, or academic details, please visit the official KGMU website at www.kgmu.org or contact the Dean's office/relevant department directly.",2026-07-11T06:41:38.000Z,true,2026-07-11T06:40:17.662Z,en,0,general,factual,unable_to_answer,,moderate,true,session_13765,true,26,5,307,43,6,12,Saturday,true,false,false,hi-Latn,0.98,information_seeking,low,neutral,How many students are in BPT,deflected,student_count;bpt,false,student
+qa_1783752266786_hjgnb5jg,,Sir mere paas hospital administration me bechlor degree hai koi vacany hai contract base pe,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+Regarding job vacancies, please visit the official KGMU website at **[www.kgmu.org](https://www.kgmu.org)** and check the **""Recruitment""** or **""Notice Board""** sections regularly. All official notifications for regular and contractual positions are published there.",2026-07-11T06:44:27.000Z,true,2026-07-11T06:43:16.713Z,en,0,courses,factual,safety_redirect,,complex,true,session_13766,false,91,15,445,61,6,12,Saturday,true,true,false,hi-Latn-en,0.9,information_seeking,medium,neutral,"Sir, I have a bachelor's degree in hospital administration. Is there a contract-based vacancy?",adequate,job;vacancy;admission,false,staff
+qa_1783752353094_5b8ix1oy,,how to apply for courses online can you provide me the link,You can find information regarding admissions and apply for courses through the official KGMU website at: https://www.kgmu.org/courses_admission.php,2026-07-11T06:45:53.000Z,true,2026-07-11T06:45:20.521Z,en,0,courses,procedural,direct_answer,,moderate,true,session_13767,false,59,12,148,17,6,12,Saturday,true,true,false,en,1,information_seeking,low,neutral,how to apply for courses online can you provide me the link,comprehensive,course;admission;online application,false,student
+qa_1783752936923_0yz2wshx,,3rd prof part 1 subject total,"For information regarding the curriculum, subjects, and examination schemes for the MBBS 3rd Professional Part 1 course, please visit the official KGMU website at:
+
+https://www.kgmu.org/courses_admission.php
+
+You can also check the official notices for examination schemes and academic regulations here:
+https://kgmu.org/exam_scheme.php
+https://kgmu.org/kgmu_notice_board.php",2026-07-11T06:55:37.000Z,true,2026-07-11T06:55:04.588Z,en,0,general,factual,referral,,moderate,true,session_13768,false,29,6,375,41,6,12,Saturday,true,true,false,en,1,information_seeking,low,neutral,3rd prof part 1 subject total,comprehensive,course;examination;academic,false,student
+qa_1783754048041_k3ur9juy,,Lab technician ki form kab open honge,"I am not qualified to provide information regarding job recruitment or specific application dates for lab technician positions.
+
+For the most accurate and official information regarding recruitment, vacancies, and application forms, please visit the official KGMU website at **[www.kgmu.org](https://www.kgmu.org)** and check the **""Recruitment""** or **""Notice Board""** sections.
+
+Also, please avoid sharing personal details in this chat for your safety. I was created by Dr. Ayush Yadav.",2026-07-11T07:14:09.000Z,true,2026-07-11T07:13:32.215Z,en,0,general,temporal,safety_redirect,,moderate,true,session_13769,false,37,7,488,66,7,12,Saturday,true,true,false,hi-Latn,0.9,information_seeking,medium,neutral,When will the lab technician application form be available?,adequate,job;vacancy;lab technician,false,staff
+qa_1783755795541_vhoc1w0w,,I want to know about nursing officer exam,"For information regarding the Nursing Officer recruitment or related examinations at King George's Medical University, please visit the official recruitment section on our website at [www.kgmu.org](https://www.kgmu.org).
+
+You can find current notifications, job openings, and exam guidelines in the ""Recruitment"" or ""Notice Board"" sections of the portal. If you are specifically looking for recent results or exam schemes, you may also check the [Notice Board](https://kgmu.org/kgmu_notice_board.php) directly.
+
+If you have a specific query about an ongoing recruitment process, I recommend contacting the Registrar's Office at 0522-2253171 for the most accurate and up-to-date information.",2026-07-11T07:43:16.000Z,true,2026-07-11T07:42:40.688Z,en,0,exams,factual,referral,Nursing,moderate,true,session_13770,false,41,8,690,91,7,13,Saturday,true,true,false,en,1,information_seeking,medium,neutral,I want to know about nursing officer exam,comprehensive,exam;nursing officer;recruitment,false,staff
+qa_1783756755412_qe54e2qe,,When will conduct nursing officer exam 2026,I am not aware of any specific dates for a 2026 Nursing Officer examination at this time. Please monitor the official KGMU website at [www.kgmu.org](https://www.kgmu.org) and the [Notice Board](https://kgmu.org/kgmu_notice_board.php) regularly for any official announcements or recruitment notifications regarding this.,2026-07-11T07:59:14.000Z,true,2026-07-11T07:58:55.259Z,en,0,exams,temporal,direct_answer,Nursing,moderate,true,session_13771,false,43,7,319,39,7,13,Saturday,true,true,false,en,0.9,information_seeking,medium,neutral,When will conduct nursing officer exam 2026,adequate,exam;admission,false,student
+qa_1783758100803_i255si71,,Mujhe addmission chahiye le a hai  optometry mein,"KGMU में प्रवेश से संबंधित जानकारी के लिए आप आधिकारिक वेबसाइट [www.kgmu.org](https://www.kgmu.org) पर 'Courses & Admission' सेक्शन देख सकते हैं।
+
+आप यहाँ से सीधे प्रवेश संबंधी जानकारी प्राप्त कर सकते हैं: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+वहाँ आपको ऑप्टोमेट्री (Optometry) या संबंधित पैरामेडिकल पाठ्यक्रमों के लिए पात्रता, आवेदन प्रक्रिया और प्रवेश परीक्षा के बारे में पूरी जानकारी मिल जाएगी। कृपया समय-समय पर वेबसाइट के 'Notice Board' को चेक करते रहें ताकि आप किसी भी अपडेट से न चूकें।
+
+**नोट:** मैं डॉ. आयुष यादव द्वारा निर्मित KGMU AI असिस्टेंट हूँ। यदि आपको स्वास्थ्य संबंधी कोई समस्या है, तो कृपया KGMU OPD में डॉक्टर से परामर्श लें। अपनी सुरक्षा के लिए चैट में व्यक्तिगत स्वास्थ्य जानकारी साझा न करें।",2026-07-11T08:21:42.000Z,true,2026-07-11T08:20:46.536Z,en,0,general,factual,direct_answer,,moderate,true,session_13772,false,49,8,763,113,8,13,Saturday,true,true,false,hi-Latn,0.8,information_seeking,medium,neutral,I want admission in optometry,comprehensive,admission;course,false,student
+qa_1783758382979_z6oqq9y8,,Mujhe admission lena hai Lucknow college mai bmlt mai,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+Regarding your query about admission to the BMLT (Bachelor of Medical Laboratory Technology) course, please visit the official KGMU admissions page for detailed information on eligibility, the application process, and available courses: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+You can also check the university's notice board for the latest admission-related updates: [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)",2026-07-11T08:26:23.000Z,true,2026-07-11T08:25:48.737Z,en,0,admissions,factual,safety_redirect,,moderate,true,session_13773,false,53,9,676,77,8,13,Saturday,true,true,false,hi-Latn,0.9,information_seeking,medium,neutral,I want to take admission in BMLT in Lucknow college,deflected,admission;course,false,student
+qa_1783758416631_i4o4pl4g,,Hota hai iss samye,"Admission procedures for various courses at KGMU follow specific schedules published by the university. As an AI assistant, I do not have real-time access to current, ongoing admission forms for the specific academic session unless they are explicitly live on the website.
+
+To check if BMLT or other paramedical admissions are currently open, please check these official links regularly:
+
+1. **Admissions Page:** [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+2. **Notice Board:** [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)
+
+If you are asking about my identity, I was created by Dr. Ayush Yadav.",2026-07-11T08:26:56.000Z,true,2026-07-11T08:25:48.737Z,en,0,general,factual,referral,,simple,true,session_13773,true,18,4,675,81,8,13,Saturday,true,true,true,hi,0.8,information_seeking,low,neutral,It happens at this time,partial,admission,true,student
+qa_1783758712910_he4azfzv,,Mujhe bsc radiotherapy course Krna hai,"KGMU mein admission aur courses se sambandhit jaankari ke liye aap KGMU ki official website [www.kgmu.org](https://www.kgmu.org) par ""Courses & Admission"" section check kar sakte hain.
+
+Wahan aapko courses ki list, eligibility criteria, aur admission process ki vistrit jaankari mil jayegi. Aap is link par directly ja sakte hain: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+Yadi aapko kisi specific department ya admission helpline ke baare mein jaanna hai, toh batayein.",2026-07-11T08:31:53.000Z,true,2026-07-11T08:31:09.457Z,en,0,courses,factual,referral,,moderate,true,session_13774,false,38,6,518,64,8,14,Saturday,true,true,false,hi-Latn,0.9,information_seeking,medium,neutral,I want to do BSc Radiotherapy course,comprehensive,course;admission,false,student
+qa_1783759224732_binb6n5s,,Mujhe yeh janna hai ki bpt ki seat hai?,"KGMU mein BPT (Bachelor of Physiotherapy) course se sambandhit jankari ke liye aap KGMU ki official website [www.kgmu.org](https://www.kgmu.org) par jaakar ""Courses & Admissions"" section check kar sakte hain. Wahan aapko seats aur admission process ki update mil jayegi.
+
+Agar aapko admission ya kisi specific course ke baare mein adhik jankari chahiye, toh aap [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php) par visit kar sakte hain.",2026-07-11T08:40:25.000Z,true,2026-07-11T08:40:04.670Z,en,0,admissions,factual,referral,,moderate,true,session_13775,false,39,9,476,59,8,14,Saturday,true,true,false,hi-Latn,0.9,information_seeking,medium,neutral,I want to know if there is a BPT seat available?,adequate,admission;course;bpt,false,student
+qa_1783759418630_y1goqhp7,,Kaise pta krna hai,"BPT (Bachelor of Physiotherapy) ya kisi bhi course mein seats aur admission ki jankari ke liye aap ye steps follow karein:
+
+1.  **Official Website par jayein:** Sabse pehle [www.kgmu.org](https://www.kgmu.org) open karein.
+2.  **Courses Section:** Website par **""Courses & Admission""** ka tab hoga, us par click karein.
+3.  **Admission Brochure:** Wahan aapko ""Admission Brochure"" ya ""Course Details"" ki PDF file milegi. Is PDF mein har course ke liye seat matrix (total kitni seats hain) di gayi hoti hai.
+4.  **Notice Board:** Agar koi naya admission notice nikla hoga, toh wo [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php) par show hoga.
+
+**Ek zaroori baat:** KGMU mein physiotherapy se sambandhit courses aksar ""Faculty of Paramedical Sciences"" ke antargat aate hain. Aap website par ""Departments"" section mein jakar ""Paramedical"" department ki details bhi check kar sakte hain.
+
+Agar aapko website par direct link nahi mil raha hai, toh aap **Registrar Office** se bhi sampark kar sakte hain: **0522-2253171**.",2026-07-11T08:43:38.000Z,true,2026-07-11T08:40:04.670Z,en,0,general,procedural,referral,,simple,true,session_13775,true,18,4,1049,148,8,14,Saturday,true,true,true,hi-Latn,0.9,information_seeking,medium,neutral,How to find out?,adequate,admission;course,false,student
+qa_1783759936443_dmtzqpmz,,Direct admission in which  paramedical course ?,"I am not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+Regarding your query about admissions, KGMU does not offer ""direct admission"" to paramedical courses. All admissions are conducted through a competitive entrance examination process.
+
+You can find detailed information regarding courses and the admission process on the official KGMU website here: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+I was created by Dr. Ayush Yadav.",2026-07-11T08:52:17.000Z,true,2026-07-11T08:51:41.674Z,en,0,admissions,factual,safety_redirect,,moderate,true,session_13776,false,47,7,599,80,8,14,Saturday,true,true,false,en,0.9,information_seeking,high,neutral,Direct admission in which paramedical course?,comprehensive,admission;paramedical;course,false,student
+qa_1783760301198_4a90d2w0,,Admission bsc nursing,"For information regarding admissions for B.Sc. Nursing and other courses at King George's Medical University, please visit the official admissions page:
+
+[https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+This page provides the latest details on eligibility, entrance procedures, and important notifications.",2026-07-11T08:58:23.000Z,true,2026-07-11T08:58:01.534Z,en,0,admissions,factual,referral,Nursing,simple,true,session_13777,false,21,3,347,35,8,14,Saturday,true,true,false,hi-en,0.8,information_seeking,medium,neutral,Admission in BSc nursing,adequate,admission;bsc_nursing,false,student
+qa_1783763891931_eidcgpig,,Admission in bpt is available in your college,"Yes, KGMU offers a Bachelor of Physiotherapy (BPT) program. You can find detailed information regarding the course, eligibility, and admission process on the official website here: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php).
+
+For any specific admission-related queries, you may also contact the Admission Cell or the concerned department office directly.",2026-07-11T09:58:12.000Z,true,2026-07-11T09:57:31.223Z,en,0,admissions,factual,direct_answer,,moderate,true,session_13778,false,45,8,400,45,9,15,Saturday,true,true,false,hi-Latn-en,0.8,information_seeking,medium,positive,Is admission in BPT available in your college?,adequate,admission;bpt,false,student
+qa_1783763912222_9df34je4,,PhD admissions in Obg nursing,"For information regarding PhD admissions, including specialized programs like Nursing, please visit the official KGMU admissions page at [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php).
+
+You can also check the [KGMU Notice Board](https://kgmu.org/kgmu_notice_board.php) for the latest updates on admission notifications, brochures, and eligibility criteria. If you have specific queries regarding the curriculum or research opportunities, you may contact the relevant department or the Registrar's Office at 0522-2253171.",2026-07-11T09:58:32.000Z,true,2026-07-11T09:58:12.841Z,en,0,admissions,factual,referral,Nursing,moderate,true,session_13779,false,29,5,562,61,9,15,Saturday,true,true,false,en,0.9,information_seeking,medium,neutral,PhD admissions in Obg nursing,comprehensive,admission;research;nursing,false,student
+qa_1783763977635_yj40uaax,,न्यू ऑर्थो बिल्डिंग डॉली गंज वाले को ऑनलाइन रजिस्ट्रेशन में क्या लिखेंगे,"ऑनलाइन रजिस्ट्रेशन (ORS) करते समय, यदि आप ऑर्थोपेडिक्स (हड्डी रोग) विभाग के लिए अपॉइंटमेंट लेना चाहते हैं, तो आपको विभाग की सूची में **""Orthopaedic Surgery""** चुनना होगा। 
+
+कृपया ध्यान दें:
+1. **विभाग का चयन:** ऑनलाइन पोर्टल (www.ors.gov.in) पर 'Department' के विकल्प में 'Orthopaedic Surgery' सर्च करें और उसे चुनें।
+2. **स्थान:** केजीएमयू में ऑर्थोपेडिक्स विभाग की ओपीडी मुख्य रूप से शाहमीना रोड स्थित परिसर में संचालित होती है।
+3. **पंजीकरण:** ऑनलाइन रजिस्ट्रेशन के बाद आपको ₹50 का शुल्क जमा करना होगा और अपॉइंटमेंट स्लिप डाउनलोड करनी होगी।
+
+यदि आप किसी विशिष्ट डॉक्टर या ओपीडी रूम नंबर के बारे में जानना चाहते हैं, तो कृपया स्पष्ट करें। साथ ही, अपनी स्वास्थ्य संबंधी जानकारी साझा न करें। यदि आपको कोई चिकित्सीय समस्या है, तो कृपया केजीएमयू ओपीडी में जाकर डॉक्टर से परामर्श लें।",2026-07-11T09:59:39.000Z,true,2026-07-11T09:58:30.004Z,hi,1,general,factual,direct_answer,,moderate,true,session_13780,false,72,12,781,131,9,15,Saturday,true,false,true,hi,0.9,information_seeking,high,neutral,What to write in online registration for new orthopedic building Dolly Ganj,comprehensive,registration;orthopaedic;department,false,patient
+qa_1783763979551_ufrdihbs,,Want to be research project,"To explore research opportunities or join a research project at KGMU, you can follow these steps:
+
+1.  **Check the Departmental Faculty:** Identify the department that aligns with your research interest (e.g., Obstetrics & Gynecology, Nursing, or Community Medicine). You can find the list of departments and faculty contact details here: [https://www.kgmu.org/department.php](https://www.kgmu.org/department.php).
+2.  **Contact Faculty Directly:** You may reach out to the faculty members or HODs via their official email addresses provided in the faculty list to inquire about ongoing projects or potential openings for research assistants/scholars.
+3.  **Check for Vacancies:** Keep an eye on the [KGMU Notice Board](https://kgmu.org/kgmu_notice_board.php), as project-based recruitment (such as Junior Research Fellow or Research Assistant positions) is regularly posted there.
+4.  **Explore Specialized Units:** You may also want to look into the **Centre for Advanced Research (CFAR)** or the **DHR-MRU (Multidisciplinary Research Unit)** at [https://kgmudhrmru.in/](https://kgmudhrmru.in/) for information on current research initiatives.
+
+If you are a student or external researcher, please ensure you have a clear research proposal or area of interest when contacting the department.",2026-07-11T09:59:39.000Z,true,2026-07-11T09:58:12.841Z,en,0,research,factual,referral,,moderate,true,session_13779,true,27,5,1292,169,9,15,Saturday,true,true,true,en,0.9,information_seeking,medium,neutral,Want to be research project,comprehensive,research;project,false,student
+qa_1783764044346_doq2m02y,,अभिषेक सैनी सर,"डॉ. अभिषेक सैनी, ऑर्थोपेडिक्स विभाग में असिस्टेंट प्रोफेसर हैं। उनके बारे में जानकारी निम्नलिखित है:
+
+* **विभाग:** ऑर्थोपेडिक सर्जरी (Orthopaedic Surgery)
+* **विशेषज्ञता:** शोल्डर आर्थ्रोस्कोपी (Shoulder Arthroscopy), रिवीज़न आर्थ्रोस्कोपी (Revision Arthroscopy)
+* **संपर्क ईमेल:** abhisheksaini1034@kgmcindia.edu
+
+यदि आप उनसे परामर्श लेना चाहते हैं, तो आपको **'Orthopaedic Surgery'** विभाग के अंतर्गत ऑनलाइन अपॉइंटमेंट (www.ors.gov.in) लेना होगा। 
+
+**महत्वपूर्ण:** मैं एक एआई सहायक हूँ और चिकित्सा संबंधी सलाह नहीं दे सकता। यदि आप किसी स्वास्थ्य समस्या से जूझ रहे हैं, तो कृपया केजीएमयू ओपीडी (OPD) में जाकर संबंधित डॉक्टर से परामर्श लें। कृपया अपनी व्यक्तिगत स्वास्थ्य जानकारी यहाँ साझा न करें।",2026-07-11T10:00:45.000Z,true,2026-07-11T09:58:30.004Z,hi,1,general,factual,direct_answer,,simple,true,session_13780,true,14,3,695,97,10,15,Saturday,true,false,true,hi,0.9,information_seeking,high,neutral,Abhishek Saini sir,comprehensive,faculty;orthopaedic,false,patient
+qa_1783764061343_o76wz4ey,,Research projects for me,"If you are a student or researcher looking for opportunities at KGMU, you can explore various research projects and academic resources through the following channels:
+
+*   **Centre for Advanced Research (CFAR):** This is a primary hub for advanced research activities at the university. You can find more information here: [https://www.kgmu.org/department_details.php?dept_id=91&dept_type=2](https://www.kgmu.org/department_details.php?dept_id=91&dept_type=2)
+*   **DHR Multidisciplinary Research Unit (MRU):** The MRU focuses on multidisciplinary research and is located at the Kalam Centre. You can explore their ongoing work at [https://kgmudhrmru.in/](https://kgmudhrmru.in/).
+*   **Departmental Research:** Most departments at KGMU conduct specific research projects. You can visit the [Departments page](https://www.kgmu.org/department.php) to identify a department relevant to your interest and contact the faculty members listed there to inquire about potential research opportunities or ongoing projects.
+*   **Notice Board:** Keep an eye on the official [KGMU Notice Board](https://kgmu.org/kgmu_notice_board.php) for announcements regarding research positions, project fellowships, or clinical trial recruitments.
+*   **E-Library:** You can access research papers, journals, and academic databases through the [KGMU E-Library](http://elibrary.kgmu.org/) to support your literature review and project development.
+
+I was created by Dr. Ayush Yadav. Please let me know if you have a specific medical specialty or field of study in mind, and I can direct you to the relevant department.",2026-07-11T10:01:01.000Z,true,2026-07-11T09:58:12.841Z,en,0,research,factual,referral,,simple,true,session_13779,true,24,4,1594,197,10,15,Saturday,true,true,true,en,0.9,information_seeking,medium,neutral,Research projects for me,comprehensive,research;project,false,student
+qa_1783764537910_ykclwd6w,,Mri rate,"The rate for an MRI at KGMU ranges from **₹100 to ₹5,500**, depending on the specific type of scan and the body part involved.
+
+For a detailed breakdown of costs, you can refer to the official rate list here: [https://www.kgmu.org/rate_list2223.htm](https://www.kgmu.org/rate_list2223.htm)",2026-07-11T10:08:59.000Z,true,2026-07-11T10:08:39.625Z,en,0,general,factual,direct_answer,Radiology,simple,true,session_13781,false,8,2,289,40,10,15,Saturday,true,true,false,en,0.9,information_seeking,high,neutral,MRI rate,comprehensive,fee;lab,false,patient
