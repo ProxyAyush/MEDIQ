@@ -138596,3 +138596,302 @@ qa_1783801756813_8yia4ivv,,The website link is not working,"I apologize for the 
 If you are currently at the hospital, please visit the specific laboratory department where the test was conducted; they can provide a printed copy or verify the status of your report.
 
 *Note: I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.*",2026-07-11T20:29:16.000Z,true,2026-07-11T20:27:41.984Z,en,0,contact,factual,safety_redirect,,moderate,true,session_13822,true,31,6,808,125,20,1,Saturday,true,true,true,en,0.9,complaint,medium,negative,The website link is not working,adequate,online_result;technical_issue,false,patient
+qa_1783823466993_0zcytux5,,non teaching post result for assistant security officer,"To check the results for non-teaching posts, please visit the official KGMU examination results page: [https://kgmu.org/kgmu_result/examination_result.php](https://kgmu.org/kgmu_result/examination_result.php).
+
+If you are unable to find the specific result for the ""Assistant Security Officer"" post, please check the [KGMU Notice Board](https://kgmu.org/kgmu_notice_board.php), as recruitment results and merit lists are often published there as official notifications.",2026-07-12T02:31:05.000Z,true,2026-07-12T02:30:30.800Z,en,0,exams,factual,referral,,moderate,true,session_13823,false,55,8,469,50,2,8,Sunday,true,true,false,en,0.9,information_seeking,medium,neutral,non teaching post result for assistant security officer,comprehensive,job;result;non-teaching,false,staff
+qa_1783824996522_o8vdi5yz,,Mujhe patient ka number lagbana hai,"KGMU mein OPD appointment lene ke liye aap niche diye gaye tareekon mein se kisi ek ka upyog kar sakte hain:
+
+1. **Online Portal (ORS):** [www.ors.gov.in](https://www.ors.gov.in) par login karke aap apni pasand ka department aur date chun sakte hain.
+2. **Mobile App:** Aap 'ABHA' ya 'Health Care' app ka istemal kar sakte hain.
+3. **SMS Booking:** ""Appointment [Patient Name]"" likhkar **8887019134** par SMS bhejein.
+4. **Helpline Number:** Aap **0522-2258880** ya **0522-3539333** par call karke bhi jankari le sakte hain.
+5. **Walk-in (On-site):** Aap seedhe OPD counter par bhi ja sakte hain. Iske liye patient ka **Aadhaar card** aur **active mobile number** hona anivarya hai.
+
+**Kuch zaroori baatein:**
+*   OPD registration ka shulk (fee) ₹50 hai.
+*   OPD counter subah 9:00 baje se dopahar 1:00 baje tak khule rehte hain (Somvar se Shukravar). Shaniwar ko samay 12:00 baje tak hai.
+*   Yadi aap Lucknow se bahar ke hain, toh apne department se sambandhit **valid referral** lekar aana na bhulein.
+*   Bheed se bachne ke liye pehle se booking (pre-booking) ki salah di jaati hai.
+
+Main ek AI sahayak hoon, aur mujhe Dr. Ayush Yadav dwara banaya gaya hai. Yadi aapko kisi medical samasya ke liye salah chahiye, toh kripya KGMU OPD mein doctor se sampark karein. Apni suraksha ke liye chat mein koi bhi niji swasthya jankari (medical records, symptoms) ya personal details share na karein.",2026-07-12T02:56:38.000Z,true,2026-07-12T02:56:12.798Z,en,0,contact,factual,direct_answer,,moderate,true,session_13824,false,35,6,1394,225,2,8,Sunday,true,true,true,hi-Latn,0.8,scheduling,high,neutral,I need to get a patient's number,comprehensive,opd;appointment,false,patient
+qa_1783825119222_kv7trtlu,,Ot technical details,"For information regarding the Operation Theatre (OT) services, equipment, or specific technical protocols at King George's Medical University, please refer to the official website at [www.kgmu.org](https://www.kgmu.org).
+
+If you are a student or faculty member seeking specific technical manuals or departmental guidelines, you may check the [E-Library](http://elibrary.kgmu.org/) or contact the relevant department head directly. You can find the contact details for various departments and faculty members in the [KGMU IP Phone Directory](https://kgmu.org/ipphonedirctory.php).
+
+If you are a patient, please note that all surgical scheduling is handled through the respective clinical departments (e.g., Department of Surgery, Orthopedic Surgery, etc.) following an OPD consultation. 
+
+If this query is related to a medical emergency, please proceed immediately to the **Trauma Centre (Gate 14)**.",2026-07-12T02:58:39.000Z,true,2026-07-12T02:57:37.371Z,en,0,general,factual,referral,,simple,true,session_13825,false,20,3,899,118,2,8,Sunday,true,true,false,en,0.9,information_seeking,high,neutral,OT technical details,comprehensive,ot;technical,false,faculty
+qa_1783825808690_486ihusx,,Radiology technologist vacancy is available.,"Please visit the official KGMU website at www.kgmu.org and check the ""Jobs/Careers"" or ""Notices"" section for any current recruitment notifications regarding Radiology Technologist positions. If there is an active vacancy, the details, eligibility criteria, and application process will be posted there.",2026-07-12T03:10:09.000Z,true,2026-07-12T03:09:24.646Z,en,0,departments,factual,direct_answer,Radiology,moderate,true,session_13826,false,44,5,302,41,3,8,Sunday,true,false,false,en,0.9,information_seeking,medium,neutral,Radiology technologist vacancy is available.,comprehensive,job;vacancy;radiology,false,staff
+qa_1783825869277_gzedhzv0,,Present me radiology technologist ki vacancy hai y nahi,"KGMU mein kisi bhi naye recruitment ya vacancy ki jaankari ke liye, aapko humari official website **www.kgmu.org** par ""Jobs/Careers"" ya ""Notice Board"" section check karna chahiye. 
+
+Wahan par sabhi current vacancies aur unke recruitment rules ki official update uplabdh hoti hai. Kripya wahan regular check karte rahein.",2026-07-12T03:11:09.000Z,true,2026-07-12T03:09:24.646Z,en,0,departments,factual,direct_answer,Radiology,moderate,true,session_13826,true,55,9,321,47,3,8,Sunday,true,false,false,hi-Latn,0.8,information_seeking,medium,neutral,Is there a vacancy for radiology technologist?,comprehensive,job;vacancy;radiology,false,staff
+qa_1783828415123_9n2znkhf,,हम आपके कॉलेज में एडमिशन लेना चाहते हैं डिप्लोमा कोर्स के लिए,"KGMU में डिप्लोमा और अन्य कोर्सेज में प्रवेश (Admission) से संबंधित जानकारी के लिए आप आधिकारिक वेबसाइट के इस लिंक पर देख सकते हैं: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+वहाँ आपको उपलब्ध डिप्लोमा कोर्सेज, उनकी पात्रता (Eligibility) और प्रवेश प्रक्रिया के बारे में विस्तृत जानकारी मिल जाएगी।
+
+मैं डॉ. आयुष यादव द्वारा निर्मित 'KGMU AI CHATBOT' हूँ। यदि आपको किसी विशेष कोर्स या प्रक्रिया को समझने में कठिनाई हो, तो आप पूछ सकते हैं।",2026-07-12T03:53:36.000Z,true,2026-07-12T03:52:57.519Z,hi,1,general,factual,direct_answer,,moderate,true,session_13827,false,61,12,481,70,3,9,Sunday,true,true,false,hi,0.99,information_seeking,medium,neutral,We want to take admission in your college for a diploma course.,comprehensive,admission;diploma;course,false,student
+qa_1783828463580_dtrqpd3s,,तो हमें आप डिप्लोमा कोर्स के बारे में समझाइए पैरामेडिकल क्षेत्र में,"KGMU में पैरामेडिकल डिप्लोमा कोर्सेज के संबंध में जानकारी के लिए आप सीधे इस लिंक पर जा सकते हैं: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+सामान्यतः पैरामेडिकल डिप्लोमा कोर्सेज में प्रवेश के लिए महत्वपूर्ण बातें निम्नलिखित हैं:
+
+1. **कोर्स की जानकारी:** KGMU विभिन्न पैरामेडिकल डिप्लोमा (जैसे- ऑप्टोमेट्री, फिजियोथेरेपी, रेडियोलॉजी, लैब तकनीशियन आदि) प्रदान करता है। इनकी विस्तृत सूची और सीटों का विवरण वेबसाइट के 'Admission' सेक्शन में उपलब्ध रहता है।
+2. **पात्रता (Eligibility):** अधिकांश डिप्लोमा कोर्सेज के लिए न्यूनतम योग्यता 10+2 (विज्ञान वर्ग - Physics, Chemistry, Biology) होती है।
+3. **प्रवेश प्रक्रिया:** KGMU में प्रवेश के लिए आपको आधिकारिक वेबसाइट पर जारी होने वाले प्रवेश सूचना (Admission Notification) पर नजर रखनी होगी। प्रवेश आमतौर पर प्रवेश परीक्षा (Entrance Exam) या मेरिट के आधार पर आयोजित किए जाते हैं।
+4. **अद्यतन जानकारी:** चूँकि प्रवेश के नियम और सत्र समय-समय पर बदलते रहते हैं, इसलिए मैं आपको सलाह दूँगा कि आप [www.kgmu.org](https://www.kgmu.org) पर 'Admission' टैब को नियमित रूप से चेक करें।
+
+यदि आप किसी विशेष डिप्लोमा कोर्स का नाम जानते हैं, तो आप पूछ सकते हैं, मैं आपको उसके बारे में अधिक सटीक जानकारी देने का प्रयास करूँगा।
+
+मैं डॉ. आयुष यादव द्वारा निर्मित 'KGMU AI CHATBOT' हूँ।",2026-07-12T03:54:24.000Z,true,2026-07-12T03:52:57.519Z,hi,1,general,factual,direct_answer,,moderate,true,session_13827,true,67,12,1256,191,3,9,Sunday,true,true,true,hi,0.99,information_seeking,medium,neutral,"So, can you explain to us about the diploma course in the paramedical field?",comprehensive,paramedical;diploma;course,false,student
+qa_1783828585493_jmn1blz3,,आप हमें दो कोर्स के बारे में बताइए पहले दी ओट दूसरा रेडियोलॉजी टेक्नोलॉजी,"KGMU में **डिप्लोमा इन ऑपरेशन थिएटर टेक्नोलॉजी (DOTT)** और **डिप्लोमा इन रेडियोलॉजी टेक्नोलॉजी (DRT)** पैरामेडिकल के अत्यंत महत्वपूर्ण कोर्सेज हैं। इनकी सामान्य जानकारी नीचे दी गई है:
+
+**1. डिप्लोमा इन ऑपरेशन थिएटर टेक्नोलॉजी (DOTT):**
+*   **कार्य:** इस कोर्स में छात्रों को ऑपरेशन थिएटर के उपकरणों को संभालने, एनेस्थीसिया में मदद करने, ओटी को स्टरलाइज़ (संक्रमण मुक्त) रखने और सर्जरी के दौरान सर्जन की सहायता करने का प्रशिक्षण दिया जाता है।
+*   **महत्व:** यह कोर्स अस्पताल के ओटी (OT) सेटअप में काम करने के लिए कुशल तकनीशियनों को तैयार करता है।
+
+**2. डिप्लोमा इन रेडियोलॉजी टेक्नोलॉजी (DRT):**
+*   **कार्य:** इसमें छात्रों को एक्स-रे (X-ray), सीटी स्कैन (CT Scan), एमआरआई (MRI) और अन्य इमेजिंग तकनीकों का उपयोग करना सिखाया जाता है।
+*   **महत्व:** रेडियोलॉजिस्ट या डॉक्टर द्वारा बीमारी का सही निदान करने के लिए रेडियोलॉजी तकनीशियन द्वारा ली गई स्पष्ट इमेज बहुत महत्वपूर्ण होती है।
+
+**प्रवेश और पात्रता:**
+*   **योग्यता:** इन दोनों कोर्सेज के लिए सामान्यतः 10+2 (फिजिक्स, केमिस्ट्री और बायोलॉजी के साथ) उत्तीर्ण होना अनिवार्य है।
+*   **आवेदन कैसे करें:** KGMU में इन कोर्सेज में प्रवेश के लिए आधिकारिक वेबसाइट [www.kgmu.org](https://www.kgmu.org) पर 'Admission' सेक्शन को समय-समय पर देखते रहें। प्रवेश के लिए विश्वविद्यालय द्वारा आयोजित प्रवेश परीक्षा (Entrance Exam) में शामिल होना आवश्यक होता है।
+
+**सलाह:**
+चूँकि कोर्सेज की उपलब्धता और सीटों की संख्या हर साल बदल सकती है, इसलिए आप [KGMU Admission Portal](https://www.kgmu.org/courses_admission.php) पर जाकर नवीनतम 'प्रोस्पेक्टस' (Prospectus) डाउनलोड कर सकते हैं, जिसमें इन कोर्सेज की अवधि, फीस और प्रवेश की पूरी प्रक्रिया विस्तार से दी गई होती है।
+
+मैं डॉ. आयुष यादव द्वारा निर्मित 'KGMU AI CHATBOT' हूँ। यदि आपको किसी और जानकारी की आवश्यकता हो, तो कृपया पूछें।",2026-07-12T03:56:26.000Z,true,2026-07-12T03:52:57.519Z,hi,1,general,factual,direct_answer,,complex,true,session_13827,true,73,14,1713,270,3,9,Sunday,true,true,true,hi,0.99,information_seeking,high,neutral,"Can you tell us about two courses, first Operation Theatre and second Radiology Technology?",comprehensive,operation_theatre;radiology_technology;course,false,student
+qa_1783828694289_xuahotv9,,प्रवेश के लिए या परीक्षा कब आयोजित होती है क्या हम बिना एंट्रेंस एग्जाम दिए 12th के आधार पर एडमिशन ले सकते हैं,"KGMU में प्रवेश के संबंध में आपके प्रश्नों के उत्तर निम्नलिखित हैं:
+
+1. **प्रवेश परीक्षा कब होती है?**: प्रवेश परीक्षाओं का कोई एक निश्चित महीना नहीं होता, यह विश्वविद्यालय के शैक्षणिक कैलेंडर और प्रवेश अधिसूचना (Admission Notification) पर निर्भर करता है। आमतौर पर, पैरामेडिकल कोर्सेज के लिए आवेदन प्रक्रिया शैक्षणिक सत्र शुरू होने से कुछ महीने पहले (अक्सर मई से जुलाई के बीच) शुरू होती है। सटीक तारीखों के लिए आपको [www.kgmu.org](https://www.kgmu.org) पर **'Admission'** सेक्शन को नियमित रूप से देखना होगा।
+
+2. **क्या 12वीं के आधार पर सीधे (बिना एंट्रेंस) एडमिशन मिल सकता है?**: KGMU एक प्रतिष्ठित सरकारी संस्थान है और यहाँ अधिकांश पैरामेडिकल कोर्सेज में प्रवेश **प्रवेश परीक्षा (Entrance Examination)** के माध्यम से ही होता है। सीधे 12वीं के अंकों के आधार पर (Direct Admission) प्रवेश का विकल्प सामान्यतः उपलब्ध नहीं होता है। पारदर्शिता और योग्यता सुनिश्चित करने के लिए विश्वविद्यालय प्रवेश परीक्षा आयोजित करना अनिवार्य समझता है।
+
+**मेरी सलाह:**
+* आप किसी भी अनधिकृत स्रोत या 'डायरेक्ट एडमिशन' का दावा करने वाले एजेंटों से सावधान रहें। KGMU में प्रवेश केवल आधिकारिक प्रक्रिया के माध्यम से ही होता है।
+* आप वेबसाइट पर जाकर पिछले वर्षों के 'Admission Brochure' देख सकते हैं, जिससे आपको परीक्षा के पैटर्न और प्रक्रिया का अंदाजा हो जाएगा।
+* नियमित अपडेट के लिए KGMU की वेबसाइट [www.kgmu.org](https://www.kgmu.org) का 'Admission' टैब ही सबसे विश्वसनीय स्रोत है।
+
+मैं डॉ. आयुष यादव द्वारा निर्मित 'KGMU AI CHATBOT' हूँ। यदि आपको कुछ और पूछना हो, तो बेझिझक पूछें।",2026-07-12T03:58:15.000Z,true,2026-07-12T03:52:57.519Z,hi-en,0.98,general,factual,direct_answer,,complex,true,session_13827,true,110,23,1458,240,3,9,Sunday,true,true,true,hi,0.99,information_seeking,medium,neutral,When is the entrance exam conducted for admission? Can we take admission without giving the entrance exam based on 12th?,comprehensive,admission;entrance_exam,false,student
+qa_1783828943530_qd2v1ya5,,क्या डॉक्टर राम मनोहर लोहिया आयुर्विज्ञान संस्थान में इसी प्रकार से एडमिशन होता है,"डॉक्टर राम मनोहर लोहिया आयुर्विज्ञान संस्थान (Dr. RMLIMS), लखनऊ, भी उत्तर प्रदेश का एक प्रमुख सरकारी संस्थान है। इसकी प्रवेश प्रक्रिया के बारे में मुख्य जानकारी निम्नलिखित है:
+
+1. **प्रवेश प्रक्रिया:** KGMU की तरह ही, डॉ. राम मनोहर लोहिया आयुर्विज्ञान संस्थान (RMLIMS) में भी पैरामेडिकल और अन्य कोर्सेज में प्रवेश के लिए **स्वतंत्र प्रवेश परीक्षा (Entrance Examination)** आयोजित की जाती है। यहाँ भी 12वीं के अंकों के आधार पर सीधे (Direct) प्रवेश नहीं होता है।
+
+2. **परीक्षा का स्वरूप:** RMLIMS अपनी प्रवेश परीक्षा का नोटिफिकेशन अपनी आधिकारिक वेबसाइट पर जारी करता है। इसमें शामिल होने के लिए आपको उनके द्वारा निर्धारित आवेदन प्रक्रिया को पूरा करना होता है।
+
+3. **आधिकारिक जानकारी:** चूँकि RMLIMS एक अलग संस्थान है, इसलिए इसकी प्रवेश संबंधी सटीक जानकारी, पाठ्यक्रम (Syllabus) और तिथियों के लिए आपको उनकी आधिकारिक वेबसाइट **[www.drrmlims.ac.in](https://www.drrmlims.ac.in)** पर ही जाना चाहिए।
+
+**महत्वपूर्ण सुझाव:**
+* उत्तर प्रदेश में सरकारी मेडिकल संस्थानों (जैसे KGMU, RMLIMS, या SGPGI) में प्रवेश के लिए हमेशा उनकी **आधिकारिक वेबसाइट** पर 'Admission' या 'Academic' सेक्शन को ही देखें।
+* किसी भी प्रकार के 'डायरेक्ट एडमिशन' के झांसे में न आएं, क्योंकि ये संस्थान पूरी तरह से मेरिट और प्रवेश परीक्षा के आधार पर ही चयन करते हैं।
+
+मैं डॉ. आयुष यादव द्वारा निर्मित 'KGMU AI CHATBOT' हूँ। यदि आपको KGMU से संबंधित कोई और जानकारी चाहिए, तो मैं आपकी सहायता के लिए यहाँ हूँ।",2026-07-12T04:02:24.000Z,true,2026-07-12T03:52:57.519Z,hi,1,general,factual,direct_answer,,complex,true,session_13827,true,82,14,1365,224,4,9,Sunday,true,true,true,hi,0.99,information_seeking,medium,neutral,Is the admission process similar in Dr. Ram Manohar Lohia Institute of Medical Sciences?,comprehensive,admission;other_institution,false,student
+qa_1783829011073_2yl7e9ni,,क्या रामचंद्र इंस्टीट्यूट आफ पैरामेडिकल एंड मैनेजमेंट साइंसेज में भी एडमिशन इस प्रकार से होता है या फिर डायरेक्ट हो सकता है,"रामचंद्र इंस्टीट्यूट ऑफ पैरामेडिकल एंड मैनेजमेंट साइंसेज (Ramchandra Institute of Paramedical and Management Sciences) एक निजी (Private) संस्थान है। सरकारी संस्थानों जैसे कि KGMU या RMLIMS की तुलना में निजी संस्थानों की प्रवेश प्रक्रिया अलग हो सकती है।
+
+इस बारे में ध्यान रखने योग्य महत्वपूर्ण बातें:
+
+1. **प्रवेश प्रक्रिया में अंतर:** सरकारी संस्थानों में प्रवेश केवल प्रवेश परीक्षा (Entrance Exam) के माध्यम से होता है, जबकि कई निजी संस्थान 'डायरेक्ट एडमिशन' (Direct Admission) की सुविधा देते हैं। यह उस संस्थान की अपनी नीति (Policy) पर निर्भर करता है।
+
+2. **मान्यता (Affiliation) की जाँच करें:** किसी भी संस्थान में एडमिशन लेने से पहले यह सुनिश्चित करना बहुत जरूरी है कि वह संस्थान किस विश्वविद्यालय या बोर्ड से मान्यता प्राप्त है (जैसे कि क्या वह उत्तर प्रदेश स्टेट मेडिकल फैकल्टी या किसी मान्यता प्राप्त यूनिवर्सिटी से संबद्ध है)। केवल मान्यता प्राप्त संस्थानों से किया गया डिप्लोमा ही सरकारी नौकरियों या आगे की पढ़ाई के लिए मान्य होता है।
+
+3. **सत्यापन (Verification):** 
+   - आप सीधे उस संस्थान की आधिकारिक वेबसाइट पर जाएँ या उनके एडमिशन ऑफिस में संपर्क करें।
+   - उनसे पूछें कि क्या वे 'डायरेक्ट एडमिशन' लेते हैं या किसी प्रवेश परीक्षा के माध्यम से।
+   - उनसे उनकी 'मान्यता का प्रमाण' (Affiliation Letter) मांगें।
+
+**मेरी सलाह:**
+सरकारी संस्थानों (जैसे KGMU) में प्रवेश परीक्षा के माध्यम से जाना हमेशा बेहतर होता है क्योंकि उनकी डिग्री की साख और पढ़ाई का स्तर बहुत ऊंचा होता है। यदि आप किसी निजी संस्थान में एडमिशन लेने का विचार कर रहे हैं, तो बहुत सावधानी बरतें और किसी भी एजेंट या अनधिकृत व्यक्ति को पैसे देने से बचें। हमेशा संस्थान के ऑफिस जाकर ही सारी जानकारी लें।
+
+मैं डॉ. आयुष यादव द्वारा निर्मित 'KGMU AI CHATBOT' हूँ। यदि आपको KGMU के बारे में कुछ और पूछना हो, तो आप पूछ सकते हैं।",2026-07-12T04:03:32.000Z,true,2026-07-12T03:52:57.519Z,hi,1,general,factual,direct_answer,,complex,true,session_13827,true,123,22,1696,295,4,9,Sunday,true,false,true,hi,0.99,information_seeking,medium,neutral,Is admission to Ramchandra Institute of Paramedical and Management Sciences also done in this way or can it be direct?,comprehensive,admission;private institution,false,student
+qa_1783829072631_xbkeu9zh,,Panjikaran karvana hai,"KGMU mein OPD ke liye online panjikaran (registration) karvana anivarya (mandatory) hai. Aap niche diye gaye tarikon mein se kisi ek ka chunav kar sakte hain:
+
+1. **Online Portal:** [www.ors.gov.in](https://www.ors.gov.in) par jakar 'New Appointment' par click karein, KGMU select karein aur apni vibhag (department) aur samay chun kar ₹50 ka bhugtan (payment) karein.
+2. **Mobile App:** Aap KGMU Play Store se 'ABHA' ya 'Health Care' app download karke bhi appointment book kar sakte hain.
+3. **SMS dwara:** Apne mobile se ""APPOINTMENT <NAME>"" likhkar **8887019134** par SMS bhejein.
+4. **Walk-in (Counter):** Yadi aap hospital aakar panjikaran karvana chahte hain, to kripya apna **Aadhaar card** aur **sakriya mobile number** saath layein. Counter par OTP ke madhyam se token prapt hoga aur ₹50 ka shulk (fee) dena hoga.
+
+**Mahatvapurn jankari:**
+*   OPD samay: Somvar–Shukravar (9:00 AM–1:00 PM) aur Shanivar (9:00 AM–12:00 PM).
+*   Ravivar ko OPD band rehti hai.
+*   Bheed se bachne ke liye pehle se booking (pre-booking) ki salah di jaati hai.
+*   Yadi aap Lucknow ke bahar se aa rahe hain, to apne vibhag ka valid referral saath zaroor layein.
+
+Kripya dhyan dein ki main ek AI sahayak hoon. Yadi aapko koi chikitsiya (medical) samasya hai, to kripya KGMU OPD mein doctor se paramarsh lein. Suraksha ke liye chat mein apni niji swasthya jankari ya Aadhaar number share na karein.",2026-07-12T04:04:33.000Z,true,2026-07-12T04:04:13.798Z,en,0,general,factual,direct_answer,,simple,true,session_13828,false,22,3,1385,220,4,9,Sunday,true,true,true,hi,0.99,scheduling,high,neutral,I need to register,comprehensive,panjikaran;OPD,false,patient
+qa_1783829081454_nbm951w8,,Is there any vacancy for project associate,"To check for current job openings, including positions for Project Associates, please visit the official KGMU website's recruitment section at [https://www.kgmu.org/job_opportunities.php](https://www.kgmu.org/job_opportunities.php). 
+
+Additionally, you may want to check the notice board for specific departments or the DHR MRU (Multidisciplinary Research Unit) website at [https://kgmudhrmru.in/](https://kgmudhrmru.in/), as project-based vacancies are often posted directly by those departments.",2026-07-12T04:04:42.000Z,true,2026-07-12T04:04:04.857Z,en,0,career,yes_no,referral,,moderate,true,session_13829,false,42,7,497,53,4,9,Sunday,true,true,false,en,0.99,information_seeking,low,neutral,Is there any vacancy for project associate,adequate,job;vacancy,false,staff
+qa_1783829183527_kwckrgxo,,No se nhi hoga,"Agar aapko upar diye gaye tarikon (Online/SMS) se samasya aa rahi hai, toh aap **seedhe KGMU hospital ke registration counter par jakar walk-in panjikaran (OPD slip)** karva sakte hain.
+
+**Counter par panjikaran ke liye ye steps follow karein:**
+
+1. **Zaroori Kagaz:** Apne saath apna **Aadhaar Card** aur ek **chalu mobile number** (jis par OTP aa sake) zaroor layein.
+2. **Kahan jayein:** KGMU ke **Gate No. 2 (Main Hospital/OPD Gate)** par jayein.
+3. **Parchhi Counter:** Wahan registration counter par jayein, apna Aadhaar card dikhayein.
+4. **OTP aur Fee:** Counter par aapke mobile number par ek OTP aayega, use batayein aur **₹50 ka shulk (fee)** jama karke apni OPD slip prapt karein.
+
+**Dhyan rakhne wali baatein:**
+*   **Samay:** Counter subah 9:00 baje khulta hai aur **1:00 baje dopahar** ko band ho jata hai. Isliye koshish karein ki subah jaldi pahunchein.
+*   **Referral:** Agar aap Lucknow ke bahar se aa rahe hain, toh apne ilaake ke doctor ka referral letter saath zaroor rakhein.
+*   **Bheed:** Pre-booking na hone par counter par bheed ho sakti hai, isliye thoda samay lekar aayein.
+
+Main ek AI sahayak hoon, isliye medical advice ke liye kripya KGMU ke doctor se hi milen. Suraksha ke liye apni niji jankari (jaise Aadhaar number) yahan chat mein na likhein.",2026-07-12T04:06:24.000Z,true,2026-07-12T04:04:13.798Z,en,0,general,factual,direct_answer,,simple,true,session_13828,true,14,4,1279,208,4,9,Sunday,true,false,true,hi,0.99,scheduling,high,frustrated,It won't happen by no,comprehensive,panjikaran;OPD,false,patient
+qa_1783829230134_1gwbfnxa,,Is there any vacancy in project associate,"You can check for current recruitment notifications, including project associate positions, on the official KGMU notice board here: https://kgmu.org/kgmu_notice_board.php
+
+Additionally, please keep an eye on the ""Careers"" or ""Job"" section of the main website at www.kgmu.org for any official advertisements.",2026-07-12T04:07:10.000Z,true,2026-07-12T04:04:04.857Z,en,0,career,yes_no,referral,,moderate,true,session_13829,true,41,7,307,40,4,9,Sunday,true,true,false,en,0.99,information_seeking,low,neutral,Is there any vacancy in project associate,adequate,job;vacancy,false,staff
+qa_1783829262090_7dxv3uzs,,प्रवेश परीक्षा कब होती है और इसकी प्रक्रिया क्या होती है,"KGMU में प्रवेश परीक्षा की प्रक्रिया और उसके समय के बारे में जानकारी नीचे दी गई है:
+
+### 1. प्रवेश परीक्षा कब होती है?
+KGMU में पैरामेडिकल कोर्सेज के लिए प्रवेश परीक्षा आमतौर पर **शैक्षणिक सत्र (Academic Session) शुरू होने से 2-3 महीने पहले** आयोजित की जाती है।
+* **समय:** सामान्यतः इसके आवेदन फॉर्म **मई से जुलाई** के बीच जारी होते हैं और परीक्षा **जुलाई या अगस्त** में आयोजित की जाती है।
+* **अद्यतन जानकारी:** सटीक तारीखें हर साल बदलती रहती हैं, इसलिए आपको [KGMU की आधिकारिक वेबसाइट](https://www.kgmu.org) पर **'Admission'** टैब को नियमित रूप से चेक करना होगा।
+
+### 2. प्रवेश प्रक्रिया (Step-by-Step)
+प्रवेश परीक्षा की प्रक्रिया आमतौर पर इन चरणों में पूरी होती है:
+
+* **चरण 1: अधिसूचना (Notification):** विश्वविद्यालय समाचार पत्रों और अपनी वेबसाइट पर प्रवेश का विज्ञापन जारी करता है।
+* **चरण 2: ऑनलाइन आवेदन (Online Application):** आपको KGMU की वेबसाइट पर जाकर ऑनलाइन आवेदन फॉर्म भरना होता है। इसमें आपको अपनी शैक्षणिक योग्यता (10th, 12th के अंक) और व्यक्तिगत विवरण दर्ज करना होता है।
+* **चरण 3: आवेदन शुल्क (Application Fee):** फॉर्म जमा करने के साथ ही आपको निर्धारित आवेदन शुल्क ऑनलाइन भुगतान करना होता है।
+* **चरण 4: प्रवेश पत्र (Admit Card):** परीक्षा से कुछ दिन पहले वेबसाइट से एडमिट कार्ड डाउनलोड करना होता है।
+* **चरण 5: प्रवेश परीक्षा (Entrance Exam):** यह एक लिखित परीक्षा होती है। पैरामेडिकल कोर्सेज के लिए इसमें आमतौर पर भौतिकी (Physics), रसायन विज्ञान (Chemistry) और जीव विज्ञान (Biology) से संबंधित प्रश्न पूछे जाते हैं।
+* **चरण 6: परिणाम और काउंसलिंग (Result & Counselling):** परीक्षा के बाद मेरिट लिस्ट जारी की जाती है। मेरिट में आने वाले छात्रों को 'काउंसलिंग' के लिए बुलाया जाता है, जहाँ आपको अपना मनपसंद कोर्स और कॉलेज आवंटित किया जाता है।
+
+### 3. महत्वपूर्ण सुझाव
+* **ऑफिशियल सोर्स:** केवल [www.kgmu.org](https://www.kgmu.org) पर दी गई जानकारी पर ही भरोसा करें।
+* **तैयारी:** परीक्षा में 12वीं स्तर का सिलेबस ही आता है, इसलिए आप अपनी NCERT की किताबों पर ध्यान दें।
+* **सतर्कता:** किसी भी ऐसे व्यक्ति या वेबसाइट पर भरोसा न करें जो आपको ""सीधे एडमिशन"" या ""पेपर लीक"" का झांसा देकर पैसे मांगे। सरकारी मेडिकल कॉलेज में प्रवेश पूरी तरह पारदर्शी और मेरिट-आधारित होता है।
+
+**नोट:** यदि आप वर्तमान वर्ष के लिए आवेदन करना चाहते हैं, तो अभी वेबसाइट पर 'Admission' सेक्शन चेक करें कि कहीं कोई नया नोटिफिकेशन तो नहीं आया है।
+
+मैं डॉ. आयुष यादव द्वारा निर्मित 'KGMU AI CHATBOT' हूँ। यदि आपको कुछ और पूछना हो, तो आप पूछ सकते हैं।",2026-07-12T04:07:43.000Z,true,2026-07-12T03:52:57.519Z,hi,1,general,factual,direct_answer,,moderate,true,session_13827,true,56,11,2334,408,4,9,Sunday,true,true,true,hi,0.99,information_seeking,medium,neutral,When does the entrance exam take place and what is its process?,comprehensive,admission;exam;entrance,false,student
+qa_1783829263758_8lex6430,,Why you are not directly tell me,"I apologize for any frustration. As an AI assistant, I do not have real-time access to live internal HR databases or the ability to confirm if a specific vacancy is currently active beyond what is officially published on the university website.
+
+To get the most accurate and up-to-date information regarding Project Associate vacancies, I recommend checking the following official resources:
+
+1.  **KGMU Notice Board:** This is where all official recruitment advertisements are posted: [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)
+2.  **Careers/Recruitment Page:** [https://www.kgmu.org/career.php](https://www.kgmu.org/career.php)
+3.  **Department Websites:** If you are looking for a position in a specific department (such as the DHR MRU), you can check their specific page here: [https://kgmudhrmru.in/](https://kgmudhrmru.in/)
+
+If you have a specific department in mind, I can provide you with their contact information so you can reach out to their office directly to inquire about potential openings.",2026-07-12T04:07:43.000Z,true,2026-07-12T04:04:04.857Z,en,0,general,factual,referral,,moderate,true,session_13829,true,32,7,1043,135,4,9,Sunday,true,true,true,en,0.99,complaint,low,negative,Why you are not directly tell me,adequate,complaint;communication,false,unknown
+qa_1783829394796_yfuc3zve,,प्रवेश परीक्षा किस संस्थान द्वारा कराई जाती है और यह कब होती है,"KGMU में प्रवेश परीक्षा के संबंध में स्पष्ट जानकारी नीचे दी गई है:
+
+**1. प्रवेश परीक्षा कौन कराता है?**
+KGMU में पैरामेडिकल, नर्सिंग और अन्य कोर्सेज के लिए प्रवेश परीक्षा **स्वयं किंग जॉर्ज मेडिकल यूनिवर्सिटी (KGMU)** द्वारा ही आयोजित की जाती है। विश्वविद्यालय का अपना 'परीक्षा सेल' (Examination Cell) होता है जो यह पूरी प्रक्रिया संचालित करता है। 
+
+*   **नोट:** कुछ विशेष कोर्सेज (जैसे MBBS या कुछ अन्य डिग्री कोर्सेज) के लिए राष्ट्रीय स्तर की परीक्षाएं जैसे **NEET (NTA द्वारा)** मान्य होती हैं, लेकिन पैरामेडिकल और डिप्लोमा कोर्सेज के लिए KGMU अक्सर अपनी खुद की प्रवेश परीक्षा आयोजित करता है।
+
+**2. परीक्षा कब होती है?**
+जैसा कि मैंने पहले बताया, इसका कोई फिक्स महीना नहीं होता है, लेकिन शैक्षणिक सत्र के अनुसार:
+*   **नोटिफिकेशन:** आमतौर पर **मई-जून** के महीने में इसके आवेदन (Application Forms) निकलते हैं।
+*   **परीक्षा:** परीक्षा अमूमन **जुलाई या अगस्त** के महीने में आयोजित की जाती है।
+*   **सत्र की शुरुआत:** नया शैक्षणिक सत्र आमतौर पर **अगस्त-सितंबर** से शुरू होता है।
+
+**आपको क्या करना चाहिए?**
+*   **वेबसाइट पर नजर रखें:** आपको [www.kgmu.org](https://www.kgmu.org) पर जाकर 'Admission' सेक्शन को नियमित रूप से देखते रहना चाहिए। 
+*   **नोटिफिकेशन का इंतजार:** जब तक आधिकारिक नोटिफिकेशन वेबसाइट पर न आ जाए, तब तक किसी भी अन्य जानकारी को अंतिम न मानें। 
+*   **तैयारी:** यदि आप इस साल के लिए तैयारी करना चाहते हैं, तो 12वीं (PCB - Physics, Chemistry, Biology) के पाठ्यक्रम को अच्छे से तैयार करें क्योंकि परीक्षा का स्तर वही होता है।
+
+मैं डॉ. आयुष यादव द्वारा निर्मित 'KGMU AI CHATBOT' हूँ। यदि आपको किसी और विभाग या प्रक्रिया के बारे में जानकारी चाहिए, तो कृपया पूछें।",2026-07-12T04:09:56.000Z,true,2026-07-12T03:52:57.519Z,hi,1,general,factual,direct_answer,,complex,true,session_13827,true,63,13,1575,267,4,9,Sunday,true,true,true,hi,0.99,information_seeking,medium,neutral,Who conducts the entrance exam and when does it take place?,comprehensive,admission;exam;entrance,false,student
+qa_1783829502259_8jw6zcbl,,क्या इस साल की प्रवेश परीक्षा हो चुकी है या फिर अभी होना बाकी है,"इस वर्ष (2026) के लिए प्रवेश परीक्षाओं की स्थिति जानने के लिए आपको KGMU की आधिकारिक वेबसाइट के **[Admission Section](https://www.kgmu.org/courses_admission.php)** और **[Notice Board](https://kgmu.org/kgmu_notice_board.php)** को देखना होगा।
+
+चूँकि शैक्षणिक कैलेंडर और प्रवेश तिथियाँ विभाग और कोर्स के अनुसार अलग-अलग होती हैं, इसलिए सबसे सटीक तरीका यह है:
+
+1.  **वेबसाइट चेक करें:** [www.kgmu.org](https://www.kgmu.org) पर जाएँ।
+2.  **Admission/Notice Board:** वहाँ 'Admission' टैब या 'Notice Board' पर जाकर देखें कि क्या आपके इच्छित कोर्स (पैरामेडिकल, नर्सिंग आदि) के लिए कोई नोटिफिकेशन आया है या परीक्षा की तारीख घोषित हो चुकी है।
+3.  **कोर्स का नाम:** यदि आप मुझे यह बता सकें कि आप **किस विशेष कोर्स** (जैसे: बी.एससी नर्सिंग, बी.ऑप्टोमेट्री, डिप्लोमा इन लैब टेक्नीशियन आदि) के बारे में पूछ रहे हैं, तो मैं आपको बेहतर जानकारी दे पाऊँगा कि उस विशेष कोर्स के लिए प्रक्रिया अभी चल रही है या समाप्त हो गई है।
+
+**सावधानी:** सोशल मीडिया या अन्य वेबसाइटों पर दी गई जानकारी के बजाय केवल KGMU की आधिकारिक वेबसाइट पर दी गई सूचनाओं पर ही विश्वास करें।
+
+मैं डॉ. आयुष यादव द्वारा निर्मित 'KGMU AI CHATBOT' हूँ। यदि आप कोर्स का नाम बताएंगे, तो मैं आपको उसके बारे में अधिक स्पष्ट जानकारी दे सकूँगा।",2026-07-12T04:11:43.000Z,true,2026-07-12T03:52:57.519Z,hi,1,general,factual,direct_answer,,complex,true,session_13827,true,64,15,1183,192,4,9,Sunday,true,true,true,hi,0.99,information_seeking,medium,neutral,Has the entrance exam for this year already taken place or is it still pending?,comprehensive,admission;exam;entrance,false,student
+qa_1783829632909_2zg61v25,,हम डिप्लोमा कोर्स की बात कर रहे हैं जिसमें DOTT और DRT शामिल है,"किंग जॉर्ज मेडिकल यूनिवर्सिटी (KGMU) में **DOTT (Diploma in Operation Theatre Technician)** और **DRT (Diploma in Radiotherapy Technician)** जैसे डिप्लोमा कोर्सेज के लिए प्रवेश प्रक्रिया आमतौर पर विश्वविद्यालय की अपनी प्रवेश परीक्षा के माध्यम से होती है।
+
+**वर्तमान स्थिति और जानकारी:**
+
+1. **वेबसाइट का उपयोग करें:** इन डिप्लोमा कोर्सेज के लिए आवेदन की स्थिति जानने हेतु आपको KGMU की आधिकारिक वेबसाइट के **[Admission Section](https://www.kgmu.org/courses_admission.php)** और **[Notice Board](https://kgmu.org/kgmu_notice_board.php)** पर नियमित रूप से नज़र रखनी चाहिए। 
+
+2. **प्रक्रिया कैसे देखें:**
+   - वेबसाइट पर **'Admission'** टैब पर क्लिक करें।
+   - वहाँ **'Diploma Courses'** या **'Paramedical Admission'** से संबंधित लिंक ढूंढें।
+   - यदि इस वर्ष के लिए आवेदन फॉर्म आ चुके होंगे, तो वहाँ 'Apply Online' का लिंक सक्रिय होगा। यदि वे लिंक अभी नहीं दिख रहे हैं, तो इसका अर्थ है कि प्रक्रिया अभी शुरू नहीं हुई है या अभी नोटिफिकेशन आना बाकी है।
+
+3. **महत्वपूर्ण सुझाव:**
+   - KGMU के डिप्लोमा कोर्सेज के लिए फॉर्म भरने की प्रक्रिया पूरी तरह ऑनलाइन होती है। 
+   - किसी भी बाहरी वेबसाइट या एजेंट के माध्यम से फॉर्म न भरें।
+   - परीक्षा की तारीखें और सिलेबस (Syllabus) भी उसी आधिकारिक नोटिफिकेशन में दिए जाते हैं।
+
+**मेरी सलाह:**
+चूँकि आप विशेष रूप से DOTT और DRT के बारे में पूछ रहे हैं, तो आप [KGMU की वेबसाइट](https://www.kgmu.org) पर जाकर 'Admission' सेक्शन में **'Admission Notice'** को चेक करें। यदि वहाँ कोई नया नोटिफिकेशन नहीं है, तो इसका मतलब है कि अभी आवेदन शुरू नहीं हुए हैं। आप अगले कुछ हफ्तों में वेबसाइट को दोबारा चेक करते रहें।
+
+मैं डॉ. आयुष यादव द्वारा निर्मित 'KGMU AI CHATBOT' हूँ। यदि आपको वेबसाइट नेविगेट करने में कोई और समस्या हो, तो आप पूछ सकते हैं।",2026-07-12T04:13:54.000Z,true,2026-07-12T03:52:57.519Z,hi-en,0.86,general,factual,direct_answer,,complex,true,session_13827,true,63,14,1669,273,4,9,Sunday,true,true,true,hi-en,0.8,information_seeking,high,neutral,We are talking about diploma courses including DOTT and DRT,comprehensive,admission;course;diploma,false,student
+qa_1783830236370_9a6gi7ny,,Chandra Kant Mishra,"I could not find a faculty member by the name ""Chandra Kant Mishra"" in the official KGMU database. 
+
+If you are looking for a specific department or faculty member, please check the [Department Directory](https://www.kgmu.org/department.php) or provide the correct spelling/department, and I would be happy to assist you further.",2026-07-12T04:23:56.000Z,true,2026-07-12T04:23:18.372Z,en,0,general,factual,referral,,simple,true,session_13830,false,19,3,329,48,4,9,Sunday,true,true,false,en,0.9,information_seeking,medium,neutral,Chandra Kant Mishra,adequate,faculty;department,true,visitor
+qa_1783830271302_f0pb58zq,,Mujhe MHA mein admission chahie,"King George's Medical University (KGMU) mein MHA (Master of Hospital Administration) course mein admission ke liye aapko university ki official website www.kgmu.org par jaana hoga.
+
+Admission se sambandhit saari jaankari, eligibility criteria, aur notification aap yahan check kar sakte hain:
+[https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+Aap samay-samay par website ka ""Admission"" section dekhte rahein taaki jab bhi form nikle, aap apply kar sakein.",2026-07-12T04:24:32.000Z,true,2026-07-12T04:24:11.996Z,en,0,admissions,factual,referral,,moderate,true,session_13831,false,31,5,495,59,4,9,Sunday,true,true,false,hi,0.9,information_seeking,low,neutral,I want admission in MHA,comprehensive,admission;course,false,student
+qa_1783830271524_a9jwj2k6,,Mujhe mata ji ko opd me dikhana hai,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+To show your mother at the KGMU OPD, please follow these steps:
+
+**1. Registration (Mandatory):**
+Online registration is mandatory for all patients. You can book an appointment using one of the following methods:
+*   **Online Portal:** Visit [www.ors.gov.in](https://www.ors.gov.in) to book an appointment.
+*   **Mobile App:** Download the **ABHA / Health Care App** from the KGMU Play Store.
+*   **SMS:** Send an SMS with the text ""APPOINTMENT [Patient Name]"" to **8887019134**.
+*   **On-Site:** If you visit the hospital directly, you must have the patient's **Aadhaar card** and an **active mobile number** to receive an OTP for registration.
+
+**2. OPD Fee:**
+There is a flat fee of **₹50** for the OPD slip, regardless of the booking method.
+
+**3. Important Information:**
+*   **Timings:** Monday–Friday: 9:00 AM–1:00 PM | Saturday: 9:00 AM–12:00 PM | Sunday: Closed.
+*   **Parchi (Ticket) Counter:** Closes at **1:00 PM sharp**. It is strongly recommended to arrive early to avoid long wait times.
+*   **Outside-city patients:** If you are coming from outside Lucknow, please ensure you carry a valid referral letter for the specific department you need to visit.
+*   **Helpline:** If you have trouble, you can call **0522-2258880** or **0522-3539333**.
+
+For information regarding specific departments, you can visit: [https://www.kgmu.org/department.php](https://www.kgmu.org/department.php)",2026-07-12T04:24:31.000Z,true,2026-07-12T04:23:18.372Z,en,0,opd,factual,safety_redirect,,moderate,true,session_13830,true,35,8,1575,230,4,9,Sunday,true,true,true,hi,0.9,scheduling,high,frustrated,I want to show my mother at OPD,adequate,opd;appointment,false,patient
+qa_1783830366048_2vhkrttb,,Diploma course form,"For information regarding Diploma courses and the admission process at King George's Medical University, please visit the official admissions page at: https://www.kgmu.org/courses_admission.php
+
+If you are looking for a specific course or application form, you can also check the university's notice board for the latest updates: https://kgmu.org/kgmu_notice_board.php",2026-07-12T04:20:30.000Z,true,2026-07-12T04:25:54.028Z,en,0,courses,factual,referral,,simple,true,session_13832,false,19,3,368,46,4,9,Sunday,true,true,false,en,0.9,information_seeking,low,neutral,Diploma course form,adequate,course;admission,false,student
+qa_1783832847480_ob561sx8,,Kidney stone ke liye kaha dikheye,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+For kidney stone-related issues, you should visit the **Department of Urology** at KGMU.
+
+**OPD Information:**
+*   **Location:** Urology OPD is located on the **4th Floor** of the New OPD building.
+*   **Registration:** Online registration is mandatory. You can book an appointment through [www.ors.gov.in](https://www.ors.gov.in), by calling 0522-2258880 / 0522-3539333, or by sending an SMS ""APPOINTMENT <NAME>"" to 8887019134.
+*   **Fees:** ₹50 flat for the OPD slip.
+*   **Timings:** Monday to Saturday, 9:00 AM – 1:00 PM (Saturday until 12:00 PM).
+
+Please ensure you carry all your previous medical reports and a valid referral if you are coming from outside the city.",2026-07-12T05:07:29.000Z,true,2026-07-12T05:06:16.122Z,en,0,general,factual,safety_redirect,Urology,moderate,true,session_13833,false,33,6,850,130,5,10,Sunday,true,true,true,hi,0.9,information_seeking,high,neutral,Where to show for kidney stone,adequate,opd;department,false,patient
+qa_1783833824568_ouwvvnwk,,Bpt,"I am not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+If you are looking for information regarding the **Bachelor of Physiotherapy (BPT)** course or the Department of Physical Medicine & Rehabilitation (PMR) at KGMU, you can find details here: [https://www.kgmu.org/department_details.php?dept_id=4&dept_type=2](https://www.kgmu.org/department_details.php?dept_id=4&dept_type=2)
+
+For general admission information, please visit: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)",2026-07-12T05:23:46.000Z,true,2026-07-12T05:23:29.631Z,en,0,general,factual,safety_redirect,,simple,true,session_13834,false,3,1,642,68,5,10,Sunday,true,true,false,en,0.9,information_seeking,medium,neutral,Bpt,comprehensive,course;admission,true,student
+qa_1783834585299_qr9hycn8,,Heyy i want to admission in bsc nursing vivekanand college,"I am the KGMU AI Assistant, created by Dr. Ayush Yadav.
+
+Please note that I can provide information regarding King George's Medical University (KGMU). Regarding admissions for B.Sc. Nursing at Vivekanand College, please contact that specific institution directly or visit their official website, as they are a separate entity from KGMU.
+
+For information on B.Sc. Nursing courses offered by KGMU, you can visit our official website at: https://www.kgmu.org/courses_admission.php",2026-07-12T05:36:27.000Z,true,2026-07-12T05:35:29.023Z,en,0,admissions,factual,referral,Nursing,moderate,true,session_13835,false,58,10,477,68,5,11,Sunday,true,true,false,hi-en,0.8,information_seeking,low,neutral,Heyy I want to admission in BSc Nursing Vivekanand College,adequate,admission;course,false,student
+qa_1783834874204_lawy6iqy,,Bsc nursing ke liye admission kya neet qualified ko mil sakta hai,"I am the KGMU AI Assistant, created by Dr. Ayush Yadav.
+
+Admission criteria for B.Sc. Nursing can vary by institution and state guidelines. At KGMU, admissions are typically conducted through a specific entrance examination process. 
+
+Regarding your question about whether NEET qualification is accepted for B.Sc. Nursing:
+*   Some institutions or states may use NEET scores for nursing admissions, while others (including KGMU) conduct their own specific entrance exams.
+*   I recommend checking the specific admission brochure or the official website of the college you are applying to for their current eligibility criteria.
+*   For KGMU-related admissions and course information, please visit: [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+If you are applying to a different institution, please refer to their official notification or website for the most accurate information.",2026-07-12T05:41:15.000Z,true,2026-07-12T05:35:29.023Z,en,0,admissions,factual,referral,Nursing,moderate,true,session_13835,true,65,12,925,124,5,11,Sunday,true,true,true,hi-Latn,0.9,information_seeking,medium,neutral,Can BSc nursing admission be given to NEET qualified students?,partial,admission;course,true,student
+qa_1783835299927_m02wh1ex,,Allied healthcare bachelor courses ka councelling kaise hoga ?,"KGMU mein Allied Healthcare bachelor courses ki counselling aur admission se sambandhit jaankari ke liye aap niche diye gaye steps follow karein:
+
+1. **Official Website Check Karein:** Sabhi courses ki admission process, counselling schedule aur merit list ki jaankari KGMU ki official website **[www.kgmu.org](https://www.kgmu.org)** par ""Courses & Admission"" section mein update ki jaati hai.
+2. **Admission Portal:** Aap is link par visit karke latest notifications check kar sakte hain: **[https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)**
+3. **Counselling Process:** Aam taur par counselling ke liye aapko official portal par register karna hota hai. Merit list nikalne ke baad, aapko document verification aur seat allotment ke liye campus bulaya ja sakta hai.
+4. **Updates:** Admission ke samay ""Notice Board"" ya ""Admission"" tab par nazar rakhein, kyunki counselling ki dates aur process mein badlav ho sakte hain.
+
+Agar aapko kisi specific course ya admission brochure ke baare mein jaanna hai, toh aap website par diye gaye helpline numbers par bhi sampark kar sakte hain.
+
+*I was created by Dr. Ayush Yadav.*",2026-07-12T05:48:28.000Z,true,2026-07-12T05:47:41.877Z,en,0,courses,procedural,referral,,moderate,true,session_13836,false,62,9,1158,163,5,11,Sunday,true,true,true,hi-Latn,0.9,information_seeking,high,neutral,How will counselling for Allied Healthcare bachelor courses be conducted?,comprehensive,counselling;admission;allied_healthcare,false,student
