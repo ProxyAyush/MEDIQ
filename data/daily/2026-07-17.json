@@ -7096,16 +7096,16 @@
       "is_weekend": false,
       "answer_has_links": true,
       "answer_has_list": false,
-      "ai_language": null,
-      "ai_language_confidence": null,
-      "ai_intent": null,
-      "ai_medical_relevance": null,
-      "ai_sentiment": null,
-      "ai_question_translated_en": null,
-      "ai_answer_quality": null,
-      "ai_topic_tags": null,
+      "ai_language": "en",
+      "ai_language_confidence": 0.99,
+      "ai_intent": "information_seeking",
+      "ai_medical_relevance": "high",
+      "ai_sentiment": "neutral",
+      "ai_question_translated_en": "Neet pg 2025 admission list",
+      "ai_answer_quality": "deflected",
+      "ai_topic_tags": "admission;exam",
       "ai_requires_followup": false,
-      "ai_user_type_guess": null
+      "ai_user_type_guess": "student"
     }
   ],
   "totalEntries": 187
