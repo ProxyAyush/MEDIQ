@@ -20,7 +20,7 @@
 <!-- Auto-updated by publish script -->
 | Metric | Value |
 |--------|-------|
-| Total QA pairs | 26,941 (see [stats/summary.json](stats/summary.json)) |
+| Total QA pairs | 26,996 (see [stats/summary.json](stats/summary.json)) |
 | Collection period | April 2025 – present |
 | Languages | Hindi (`hi`), Romanized Hindi (`hi-Latn`), English (`en`), Code-mixed (`hi-en`, `hi-Latn-en`) |
 | Update frequency | Daily |
