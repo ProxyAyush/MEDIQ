@@ -1,66 +1,66 @@
 {
-  "totalEntries": 31590,
+  "totalEntries": 31646,
   "dateRange": {
     "start": "2025-04-01",
     "end": "2026-10-12"
   },
   "totalDays": 432,
-  "totalSessions": 20579,
-  "dailyAverage": 73.13,
-  "botAnswerRate": 97.65,
+  "totalSessions": 20611,
+  "dailyAverage": 73.25,
+  "botAnswerRate": 97.66,
   "languageDistribution": {
-    "en": 30298,
-    "hi": 864,
-    "hi-en": 428
+    "en": 30352,
+    "hi": 865,
+    "hi-en": 429
   },
   "categoryDistribution": {
-    "general": 11282,
-    "admissions": 3846,
-    "appointment": 2920,
-    "courses": 2673,
-    "opd": 2203,
-    "departments": 2173,
-    "exams": 2157,
+    "general": 11312,
+    "admissions": 3848,
+    "appointment": 2926,
+    "courses": 2674,
+    "opd": 2210,
+    "departments": 2177,
+    "exams": 2159,
     "career": 1641,
     "contact": 928,
-    "fees": 763,
-    "faculty": 630,
+    "fees": 766,
+    "faculty": 631,
     "campus": 202,
     "emergency": 157,
     "research": 15
   },
   "questionTypeDistribution": {
-    "factual": 23130,
-    "procedural": 3160,
-    "temporal": 2494,
-    "yes_no": 2021,
-    "entity": 439,
+    "factual": 23175,
+    "procedural": 3165,
+    "temporal": 2498,
+    "yes_no": 2022,
+    "entity": 440,
     "navigational": 346
   },
   "responseTypeDistribution": {
-    "direct_answer": 12931,
-    "referral": 10381,
-    "safety_redirect": 5629,
+    "direct_answer": 12959,
+    "referral": 10402,
+    "safety_redirect": 5636,
     "unable_to_answer": 2649
   },
   "queryComplexityDistribution": {
-    "moderate": 17544,
-    "simple": 10625,
-    "complex": 3421
+    "moderate": 17583,
+    "simple": 10639,
+    "complex": 3424
   },
   "departmentMentions": {
-    "Nursing": 2337,
+    "Nursing": 2341,
     "Radiology": 548,
-    "Cardiology": 513,
+    "Cardiology": 514,
     "Pharmacology": 504,
-    "Surgery": 310,
+    "Surgery": 312,
     "Neurology": 241,
     "Dermatology": 229,
     "Orthopedics": 202,
     "ENT": 170,
-    "Urology": 138,
+    "Urology": 139,
     "Pediatrics": 133,
-    "Psychiatry": 105,
+    "Psychiatry": 106,
     "Pathology": 96,
     "Oncology": 91,
     "Ophthalmology": 89,
@@ -76,9 +76,9 @@
     "Anatomy": 8
   },
   "hourlyDistributionIST": {
-    "0": 899,
+    "0": 900,
     "1": 530,
-    "2": 281,
+    "2": 282,
     "3": 163,
     "4": 185,
     "5": 261,
@@ -91,20 +91,20 @@
     "12": 1996,
     "13": 2040,
     "14": 1946,
-    "15": 2073,
-    "16": 1920,
-    "17": 1734,
-    "18": 1718,
-    "19": 1671,
-    "20": 1559,
-    "21": 1542,
-    "22": 1559,
-    "23": 1260
+    "15": 2074,
+    "16": 1926,
+    "17": 1744,
+    "18": 1722,
+    "19": 1682,
+    "20": 1561,
+    "21": 1551,
+    "22": 1568,
+    "23": 1262
   },
   "dailyDistribution": {
     "Tuesday": 4709,
     "Thursday": 4634,
-    "Monday": 4989,
+    "Monday": 5045,
     "Wednesday": 4452,
     "Sunday": 4288,
     "Saturday": 4270,
@@ -112,7 +112,7 @@
   },
   "aiEnrichment": {
     "totalEnriched": 31278,
-    "coveragePercent": 99.01,
+    "coveragePercent": 98.84,
     "languageDistribution": {
       "en": 16667,
       "hi-Latn": 6196,
@@ -183,5 +183,5 @@
       "prospective_student": 2
     }
   },
-  "lastUpdated": "2026-10-12T10:44:17.163Z"
+  "lastUpdated": "2026-10-12T22:20:45.205Z"
 }
