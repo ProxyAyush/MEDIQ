@@ -1,28 +1,28 @@
 {
-  "totalEntries": 31867,
+  "totalEntries": 31910,
   "dateRange": {
     "start": "2025-04-01",
     "end": "2026-10-15"
   },
   "totalDays": 435,
-  "totalSessions": 20730,
-  "dailyAverage": 73.26,
+  "totalSessions": 20760,
+  "dailyAverage": 73.36,
   "botAnswerRate": 97.67,
   "languageDistribution": {
-    "en": 30556,
+    "en": 30597,
     "hi": 875,
-    "hi-en": 436
+    "hi-en": 438
   },
   "categoryDistribution": {
-    "general": 11412,
-    "admissions": 3856,
-    "appointment": 2953,
-    "courses": 2681,
-    "opd": 2236,
+    "general": 11427,
+    "admissions": 3859,
+    "appointment": 2959,
+    "courses": 2683,
+    "opd": 2242,
     "departments": 2194,
-    "exams": 2166,
-    "career": 1650,
-    "contact": 932,
+    "exams": 2168,
+    "career": 1655,
+    "contact": 936,
     "fees": 773,
     "faculty": 637,
     "campus": 204,
@@ -30,28 +30,28 @@
     "research": 15
   },
   "questionTypeDistribution": {
-    "factual": 23350,
-    "procedural": 3182,
-    "temporal": 2512,
-    "yes_no": 2034,
-    "entity": 440,
+    "factual": 23384,
+    "procedural": 3185,
+    "temporal": 2513,
+    "yes_no": 2037,
+    "entity": 442,
     "navigational": 349
   },
   "responseTypeDistribution": {
-    "direct_answer": 13056,
-    "referral": 10492,
-    "safety_redirect": 5665,
+    "direct_answer": 13066,
+    "referral": 10513,
+    "safety_redirect": 5677,
     "unable_to_answer": 2654
   },
   "queryComplexityDistribution": {
-    "moderate": 17701,
-    "simple": 10717,
-    "complex": 3449
+    "moderate": 17730,
+    "simple": 10727,
+    "complex": 3453
   },
   "departmentMentions": {
-    "Nursing": 2349,
+    "Nursing": 2350,
     "Radiology": 554,
-    "Cardiology": 516,
+    "Cardiology": 517,
     "Pharmacology": 506,
     "Surgery": 315,
     "Neurology": 242,
@@ -67,7 +67,7 @@
     "Pulmonology": 88,
     "Obstetrics & Gynecology": 75,
     "Microbiology": 63,
-    "Rheumatology": 50,
+    "Rheumatology": 51,
     "Physiology": 18,
     "Community Medicine": 18,
     "Forensic Medicine": 13,
@@ -89,21 +89,21 @@
     "10": 1926,
     "11": 1961,
     "12": 2007,
-    "13": 2057,
-    "14": 1955,
-    "15": 2088,
-    "16": 1929,
-    "17": 1754,
-    "18": 1733,
-    "19": 1697,
-    "20": 1569,
-    "21": 1556,
-    "22": 1568,
-    "23": 1264
+    "13": 2060,
+    "14": 1960,
+    "15": 2091,
+    "16": 1934,
+    "17": 1755,
+    "18": 1741,
+    "19": 1699,
+    "20": 1579,
+    "21": 1557,
+    "22": 1572,
+    "23": 1265
   },
   "dailyDistribution": {
     "Tuesday": 4808,
-    "Thursday": 4662,
+    "Thursday": 4705,
     "Monday": 5045,
     "Wednesday": 4546,
     "Sunday": 4288,
@@ -112,7 +112,7 @@
   },
   "aiEnrichment": {
     "totalEnriched": 31656,
-    "coveragePercent": 99.34,
+    "coveragePercent": 99.2,
     "languageDistribution": {
       "en": 16852,
       "hi-Latn": 6290,
@@ -183,5 +183,5 @@
       "prospective_student": 2
     }
   },
-  "lastUpdated": "2026-10-15T08:27:53.003Z"
+  "lastUpdated": "2026-10-15T18:47:48.850Z"
 }
