@@ -1,55 +1,55 @@
 {
-  "totalEntries": 32679,
+  "totalEntries": 32729,
   "dateRange": {
     "start": "2025-04-01",
     "end": "2026-10-23"
   },
   "totalDays": 443,
-  "totalSessions": 21114,
-  "dailyAverage": 73.77,
+  "totalSessions": 21141,
+  "dailyAverage": 73.88,
   "botAnswerRate": 97.73,
   "languageDistribution": {
-    "en": 31330,
-    "hi": 901,
+    "en": 31379,
+    "hi": 902,
     "hi-en": 448
   },
   "categoryDistribution": {
-    "general": 11815,
-    "admissions": 3884,
-    "appointment": 3037,
-    "courses": 2720,
-    "opd": 2329,
+    "general": 11840,
+    "admissions": 3887,
+    "appointment": 3042,
+    "courses": 2721,
+    "opd": 2336,
     "departments": 2243,
-    "exams": 2190,
-    "career": 1689,
+    "exams": 2192,
+    "career": 1691,
     "contact": 949,
-    "fees": 793,
-    "faculty": 649,
+    "fees": 795,
+    "faculty": 652,
     "campus": 205,
     "emergency": 160,
     "research": 16
   },
   "questionTypeDistribution": {
-    "factual": 23976,
-    "procedural": 3250,
-    "temporal": 2553,
-    "yes_no": 2093,
-    "entity": 455,
+    "factual": 24012,
+    "procedural": 3254,
+    "temporal": 2560,
+    "yes_no": 2095,
+    "entity": 456,
     "navigational": 352
   },
   "responseTypeDistribution": {
-    "direct_answer": 13450,
-    "referral": 10799,
-    "safety_redirect": 5769,
+    "direct_answer": 13476,
+    "referral": 10818,
+    "safety_redirect": 5774,
     "unable_to_answer": 2661
   },
   "queryComplexityDistribution": {
-    "moderate": 18171,
-    "simple": 10972,
-    "complex": 3536
+    "moderate": 18203,
+    "simple": 10985,
+    "complex": 3541
   },
   "departmentMentions": {
-    "Nursing": 2381,
+    "Nursing": 2383,
     "Radiology": 563,
     "Cardiology": 536,
     "Pharmacology": 513,
@@ -57,7 +57,7 @@
     "Neurology": 247,
     "Dermatology": 245,
     "Orthopedics": 208,
-    "ENT": 175,
+    "ENT": 176,
     "Urology": 143,
     "Pediatrics": 141,
     "Psychiatry": 110,
@@ -90,16 +90,16 @@
     "11": 2015,
     "12": 2044,
     "13": 2110,
-    "14": 1983,
-    "15": 2124,
-    "16": 1965,
-    "17": 1794,
-    "18": 1762,
-    "19": 1726,
-    "20": 1596,
-    "21": 1585,
-    "22": 1612,
-    "23": 1302
+    "14": 1987,
+    "15": 2128,
+    "16": 1968,
+    "17": 1809,
+    "18": 1767,
+    "19": 1727,
+    "20": 1605,
+    "21": 1590,
+    "22": 1613,
+    "23": 1305
   },
   "dailyDistribution": {
     "Tuesday": 4903,
@@ -108,11 +108,11 @@
     "Wednesday": 4657,
     "Sunday": 4440,
     "Saturday": 4402,
-    "Friday": 4366
+    "Friday": 4416
   },
   "aiEnrichment": {
     "totalEnriched": 32665,
-    "coveragePercent": 99.96,
+    "coveragePercent": 99.8,
     "languageDistribution": {
       "en": 17296,
       "hi-Latn": 6565,
@@ -183,5 +183,5 @@
       "prospective_student": 2
     }
   },
-  "lastUpdated": "2026-10-23T08:43:40.959Z"
+  "lastUpdated": "2026-10-23T18:50:12.946Z"
 }
