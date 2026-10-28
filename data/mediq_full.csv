@@ -272912,14 +272912,39 @@ qa_fbd653b6504e478d8bcb5634ce8ed127,,"I have Abha number now how I can book opd 
 
 *Note:* Online registration is mandatory, and pre-booking is strongly recommended to avoid long wait times. Outside-city patients must also bring a valid referral slip for their specific department.",2026-10-27T11:44:58.487Z,true,2026-10-27T10:59:45.043Z,en,0,opd,factual,referral,,complex,true,session_21313,true,61,13,1009,149,11,17,Tuesday,false,true,true,en,0.99,information_seeking,low,neutral,"I have Abha number now how I can book opd online, please help",partial,appointment;ABHA,true,patient
 qa_00d310832e2e4f94b01d16dd95d2f9b4,,Plz provide me notice came on 1 April 2026 nursing officer vaccancy,"Sorry, please ask an appropriate question related to KGMU.",2026-10-28T00:23:02.789Z,true,2026-10-28T00:22:01.346Z,en,0,courses,factual,direct_answer,Nursing,moderate,true,session_21352,false,67,12,58,9,0,5,Wednesday,false,false,false,en,0.96,information_seeking,none,neutral,Please provide me the notice that came on 1 April 2026 for nursing officer vacancy.,deflected,recruitment;nursing_officer,true,staff
+qa_05024aa1616048abbf53bddfd2dfda75,,is there any whatsapp for the queries?,"KGMU does not provide a direct WhatsApp number for general queries. However, you can contact the university and hospital through the following official communication channels:
+
+- **Main Help Line:** 0522-2258880 or 0522-3539333
+- **PRO Office (GM&AH KGMU):** 9415007710
+- **Official Website:** [www.kgmu.org](https://www.kgmu.org)
+- **PRO/CUG Directory:** [KGMU PRO/CUG Contacts](https://www.kgmu.org/pro_cug.php)",2026-10-28T13:33:04.262Z,true,2026-10-28T13:28:08.173Z,en,0,general,yes_no,direct_answer,,moderate,true,session_21353,false,38,7,413,48,13,19,Wednesday,false,true,true,en,0.99,information_seeking,low,neutral,is there any whatsapp for the queries?,adequate,contact;communication,false,patient
+qa_084cda95f70946b3afceb33bc9ca4707,,Jarnal medicine opd tuesday ko kaun se dr rahte hai,"Sorry, please ask an appropriate question related to KGMU.",2026-10-28T16:18:07.647Z,true,2026-10-28T16:15:31.484Z,en,0,opd,entity,direct_answer,,moderate,true,session_21354,false,51,10,58,9,16,21,Wednesday,false,false,false,hi-Latn,0.98,information_seeking,high,neutral,Which doctors are present in the Jarnal Medicine OPD on Tuesday?,deflected,opd;doctors;schedule,true,patient
 qa_0c21120af8c64f2c85ffe3be675d653c,,Queen mart me hua tha,"Since your child was born at Queen Mary's Hospital (KGMU), you can obtain the birth certificate by contacting the hospital's administrative or registration desk where birth records are processed, or through the local municipal corporation office (Lucknow Municipal Corporation) where hospital births are registered.
 
 For assistance, you can contact the Queen Mary's Hospital PRO Office:
 - **PRO Office, Queen Mary's Hospital:** 7839552570
 - **General Helpline:** 0522-2258880 or 0522-3539333
 
-Please visit the Queen Mary's Hospital administrative block with your discharge card, identity proof, and hospital registration papers to get the exact procedure and status of the birth certificate.",2026-10-28T06:34:49.107Z,true,2026-10-28T06:33:42.125Z,en,0,general,factual,direct_answer,,moderate,true,session_21353,false,21,5,691,97,6,12,Wednesday,false,false,true,hi-Latn,0.9,information_seeking,medium,neutral,It happened at Queen Mary's Hospital?,adequate,birth_certificate;queen_mary_hospital,false,patient
-qa_197dc028f32b4659a3820a64a2c1f966,,Spin tv mdr tv ki dava,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.",2026-10-28T02:26:32.468Z,true,2026-10-28T02:25:50.232Z,en,0,general,factual,safety_redirect,,moderate,true,session_21354,false,22,6,176,30,2,7,Wednesday,false,false,false,hi-Latn,0.85,information_seeking,high,neutral,What is the medicine for Spin TV MDR TV?,deflected,medication;consultation,true,patient
+Please visit the Queen Mary's Hospital administrative block with your discharge card, identity proof, and hospital registration papers to get the exact procedure and status of the birth certificate.",2026-10-28T06:34:49.107Z,true,2026-10-28T06:33:42.125Z,en,0,general,factual,direct_answer,,moderate,true,session_21355,false,21,5,691,97,6,12,Wednesday,false,false,true,hi-Latn,0.9,information_seeking,medium,neutral,It happened at Queen Mary's Hospital?,adequate,birth_certificate;queen_mary_hospital,false,patient
+qa_0c3d1ed286574ecebcbfbaa7aee5282f,,I want to book an appointment for cardiology,"To book an appointment for Cardiology at KGMU, online registration is mandatory. You can use any of the following booking methods:
+
+1. **Online Registration System (ORS):** Visit [ors.gov.in](https://ors.gov.in), select Uttar Pradesh, choose KGMU, select Cardiology, pick an available date and time, fill in your patient details, pay the ₹50 OPD slip fee, and download your appointment slip.
+2. **ABHA / Health Care App:** Register using your mobile number and OTP, then follow the same state and hospital selection flow to book your appointment.
+3. **SMS Booking:** Send an SMS in the format `Appointment [Patient Name]` to **8887019134**.
+4. **Walk-in:** Visit the hospital with your Aadhaar number and active mobile number to complete OTP verification, receive a physical token, pay the ₹50 OPD slip fee, and collect your OPD slip at the counter (counters close at 1:00 PM sharp).
+
+*Note: Pre-booking is strongly recommended to avoid long wait times. If you are coming from outside Lucknow, please bring a valid referral for Cardiology.*",2026-10-28T16:19:14.576Z,true,2026-10-28T16:18:16.122Z,en,0,appointment,factual,referral,Cardiology,moderate,true,session_21356,false,44,8,1040,162,16,21,Wednesday,false,true,true,en,0.99,scheduling,high,neutral,I want to book an appointment for cardiology,adequate,appointment;cardiology;booking,false,patient
+qa_13039caf5e794b8f8beead996d5195be,,CECT ka counter,"For CECT scans at King George's Medical University (KGMU), you need to visit the **Department of Radiodiagnosis**. 
+
+- **Location:** Radiodiagnosis Department (Ground/Imaging floor near the main hospital block).
+- **Important Link:** [Radiodiagnosis Department Details](https://www.kgmu.org/department_details.php?dept_id=28&dept_type=2)
+- **Rate List Reference:** CT/MRI charges range from ₹150 to ₹5,500 depending on the specific investigation prescribed.
+
+Please bring your treating doctor's prescription, valid OPD card, and required registration slips to the billing/counter area in the Radiodiagnosis department to book your appointment and complete the procedure formalities.",2026-10-28T19:47:06.747Z,true,2026-10-28T19:46:21.523Z,en,0,general,factual,referral,,simple,true,session_21357,false,15,3,682,81,19,1,Wednesday,false,true,true,hi-Latn,0.98,information_seeking,high,neutral,Where is the CECT counter?,adequate,radiology;ccept;location,false,patient
+qa_142177f23f8e4c4c9b29bc085527cd5f,,I’m not able to contact my nodal officer for medical pg admission of mcc round 1,"For queries regarding MCC Medical PG admission and contact details for nodal officers, please visit the official KGMU admissions page at [kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php) or contact the KGMU Registrar Office at 0522-2253171. 
+
+If you need urgent help or have general inquiries, you can also reach the PRO Office at 9415007710 or the main helpline at 0522-2258880.",2026-10-28T10:36:07.423Z,true,2026-10-28T10:35:24.066Z,en,0,admissions,factual,referral,,complex,true,session_21358,false,80,16,406,54,10,16,Wednesday,false,true,false,en,0.99,complaint,medium,negative,I’m not able to contact my nodal officer for medical PG admission of MCC round 1,adequate,admission;pg;contact,false,student
+qa_197dc028f32b4659a3820a64a2c1f966,,Spin tv mdr tv ki dava,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.",2026-10-28T02:26:32.468Z,true,2026-10-28T02:25:50.232Z,en,0,general,factual,safety_redirect,,moderate,true,session_21359,false,22,6,176,30,2,7,Wednesday,false,false,false,hi-Latn,0.85,information_seeking,high,neutral,What is the medicine for Spin TV MDR TV?,deflected,medication;consultation,true,patient
 qa_19e87f275ba04687b6af5286796a9390,,Opd regestration,"Online OPD registration at King George's Medical University (KGMU) is mandatory. Here are the details and booking methods:
 
 ### OPD Timings
@@ -272942,15 +272967,24 @@ qa_19e87f275ba04687b6af5286796a9390,,Opd regestration,"Online OPD registration a
 4. **Walk-in:** Visit the hospital with your Aadhaar number and an active mobile number to receive an OTP, collect a physical token, pay the ₹50 fee, and get your OPD slip.
 
 ### Contact Information
-- Phone: 0522-2258880 or 0522-3539333",2026-10-28T01:30:07.748Z,true,2026-10-28T01:29:50.246Z,en,0,opd,factual,referral,,simple,true,session_21355,false,16,2,1308,209,1,7,Wednesday,false,true,true,en,0.98,information_seeking,medium,neutral,OPD registration,adequate,OPD;registration,false,patient
+- Phone: 0522-2258880 or 0522-3539333",2026-10-28T01:30:07.748Z,true,2026-10-28T01:29:50.246Z,en,0,opd,factual,referral,,simple,true,session_21360,false,16,2,1308,209,1,7,Wednesday,false,true,true,en,0.98,information_seeking,medium,neutral,OPD registration,adequate,OPD;registration,false,patient
+qa_1b0daf7473cf407d9e1be0a891406389,,There is avelable seat for internship,"For information regarding available internship seats, eligibility criteria, and application procedures at King George's Medical University (KGMU), please visit the official admissions page at [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php) or check the notice board at [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php).",2026-10-28T12:47:31.351Z,true,2026-10-28T12:46:36.699Z,en,0,admissions,factual,referral,,moderate,true,session_21361,false,37,6,391,32,12,18,Wednesday,false,true,false,,,,,,,,,false,
 qa_1c5caae52b8e45b6a83ee81d0b61ce7a,,Mujhe apne beta k birth certificate chihye,"For issues regarding birth certificates, please contact the King George's Medical University (KGMU) PRO Office or the Registrar Office. 
 
 - **PRO Office, GM&AH KGMU:** 9415007710
 - **Registrar Office:** 0522-2253171
 - **Main Helpline:** 0522-2258880
 
-You can also check the official website at [www.kgmu.org](https://www.kgmu.org) or visit the administrative block for guidance on obtaining a birth certificate for a birth that took place at a KGMU facility (such as Queen Mary's Hospital).",2026-10-28T06:34:19.701Z,true,2026-10-28T06:33:42.125Z,en,0,general,factual,referral,,moderate,true,session_21353,true,42,7,490,69,6,12,Wednesday,false,true,true,hi,0.99,information_seeking,medium,neutral,I need my son's birth certificate.,adequate,birth_certificate;child,false,patient
-qa_2c5f15c773a344db92e0dcf6498d93ee,,OT walon ka Kabtak hoga,"Sorry, please ask an appropriate question related to KGMU.",2026-10-28T08:20:00.021Z,true,2026-10-28T08:19:32.682Z,en,0,general,factual,direct_answer,,moderate,true,session_21356,false,23,5,58,9,8,13,Wednesday,false,false,false,hi-Latn,0.95,information_seeking,high,neutral,When will the OT staff be available?,deflected,operating_theatre;schedule,true,patient
+You can also check the official website at [www.kgmu.org](https://www.kgmu.org) or visit the administrative block for guidance on obtaining a birth certificate for a birth that took place at a KGMU facility (such as Queen Mary's Hospital).",2026-10-28T06:34:19.701Z,true,2026-10-28T06:33:42.125Z,en,0,general,factual,referral,,moderate,true,session_21355,true,42,7,490,69,6,12,Wednesday,false,true,true,hi,0.99,information_seeking,medium,neutral,I need my son's birth certificate.,adequate,birth_certificate;child,false,patient
+qa_2a5497d0e8e0460ca4b4b75e3693ddf8,,Hospital attendant ki jankari chahiye,"KGMU mein hospital attendant ya anya pado par bharti se sambandhit jaankari ke liye aap niyamit roop se KGMU ki adhikarik website **[www.kgmu.org](https://www.kgmu.org)** ko check karte rahein.
+
+KGMU mein kisi bhi prakar ki bharti ya vacancy aane par official notice board par prakashit ki jaati hai:
+*   **Notice Board:** [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)
+*   **Admissions & Recruitment:** [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php)
+
+Kripya kisi bhi anadhikrit website ya vyakti ke jhagse mein na aayein. Kisi bhi bharti ke liye sirf official website par diye gaye nirdeshon ka hi palan karein.",2026-10-28T17:07:02.191Z,true,2026-10-28T17:06:26.111Z,en,0,general,factual,referral,,moderate,true,session_21362,false,37,5,688,83,17,22,Wednesday,false,true,true,,,,,,,,,false,
+qa_2b342f62e9ea4700900f64a108ffb986,,Bachlaer of physiotherapy,"For details regarding the Bachelor of Physiotherapy (BPT) course, admissions, eligibility, and related notifications at King George's Medical University (KGMU), please visit the official admissions page at [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php) or check the notice board at [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php).",2026-10-28T12:48:30.902Z,true,2026-10-28T12:46:36.699Z,en,0,general,factual,referral,,simple,true,session_21361,true,25,3,405,35,12,18,Wednesday,false,true,false,,,,,,,,,false,
+qa_2c5f15c773a344db92e0dcf6498d93ee,,OT walon ka Kabtak hoga,"Sorry, please ask an appropriate question related to KGMU.",2026-10-28T08:20:00.021Z,true,2026-10-28T08:19:32.682Z,en,0,general,factual,direct_answer,,moderate,true,session_21363,false,23,5,58,9,8,13,Wednesday,false,false,false,hi-Latn,0.95,information_seeking,high,neutral,When will the OT staff be available?,deflected,operating_theatre;schedule,true,patient
 qa_3641307dcd92467e97205c277086fd49,,I want help from nodal centre of king george medical University,"I was created by Dr. Ayush Yadav. 
 
 For assistance related to specific nodal centres at King George's Medical University (KGMU), you can contact the relevant PRO office or department:
@@ -272962,14 +272996,44 @@ For assistance related to specific nodal centres at King George's Medical Univer
 - **General Help Line:** 0522-2258880 or 0522-3539333
 - **Official Website:** [www.kgmu.org](https://www.kgmu.org)
 
-If you are looking for a specific nodal officer or service (such as Biomedical Waste Management, PC-PNDT monitoring, etc.), please provide more details so I can guide you to the right contact.",2026-10-28T04:01:39.652Z,true,2026-10-28T04:01:01.389Z,en,0,general,factual,direct_answer,,moderate,true,session_21357,false,63,11,676,97,4,9,Wednesday,false,true,true,en,0.99,information_seeking,medium,neutral,I want help from nodal centre of King George Medical University,partial,nodal_centre;contact,true,patient
+If you are looking for a specific nodal officer or service (such as Biomedical Waste Management, PC-PNDT monitoring, etc.), please provide more details so I can guide you to the right contact.",2026-10-28T04:01:39.652Z,true,2026-10-28T04:01:01.389Z,en,0,general,factual,direct_answer,,moderate,true,session_21364,false,63,11,676,97,4,9,Wednesday,false,true,true,en,0.99,information_seeking,medium,neutral,I want help from nodal centre of King George Medical University,partial,nodal_centre;contact,true,patient
 qa_375ccd0917e4451aa32b1d5a1eb844f8,,Line me to nahi lagna padega,"ऑनलाइन अपॉइंटमेंट (जैसे ORS पोर्टल या ABHA ऐप) बुक करने से आपको काउंटर पर लंबी लाइन में लगकर पर्ची बनवाने से काफी हद तक राहत मिल जाती है, क्योंकि आपका रजिस्ट्रेशन पहले ही हो चुका होता है। 
 
-फिर भी, अस्पताल परिसर में आने के बाद कुछ प्रक्रियाओं (जैसे डॉक्टर के कमरे के बाहर टोकन/वेरिफिकेशन या कंसल्टेशन के लिए अपनी बारी का इंतज़ार) के लिए आपको थोड़ा इंतज़ार करना पड़ सकता है। KGMU में मरीजों की संख्या अधिक होने के कारण भीड़ रहती है, इसलिए समय पर पहुंचना और पूर्व-बुकिंग करना सबसे सही रहता है।",2026-10-28T01:54:16.892Z,true,2026-10-28T01:52:09.970Z,en,0,general,factual,direct_answer,,moderate,true,session_21358,false,28,6,491,94,1,7,Wednesday,false,false,false,hi-Latn,0.95,information_seeking,medium,neutral,Will I not have to stand in line?,adequate,appointment;online_booking,false,patient
+फिर भी, अस्पताल परिसर में आने के बाद कुछ प्रक्रियाओं (जैसे डॉक्टर के कमरे के बाहर टोकन/वेरिफिकेशन या कंसल्टेशन के लिए अपनी बारी का इंतज़ार) के लिए आपको थोड़ा इंतज़ार करना पड़ सकता है। KGMU में मरीजों की संख्या अधिक होने के कारण भीड़ रहती है, इसलिए समय पर पहुंचना और पूर्व-बुकिंग करना सबसे सही रहता है।",2026-10-28T01:54:16.892Z,true,2026-10-28T01:52:09.970Z,en,0,general,factual,direct_answer,,moderate,true,session_21365,false,28,6,491,94,1,7,Wednesday,false,false,false,hi-Latn,0.95,information_seeking,medium,neutral,Will I not have to stand in line?,adequate,appointment;online_booking,false,patient
+qa_3fde0343b8214f81b246fe21344a77fb,,Original marksheets,"For inquiries regarding original marksheets, degree certificates, or academic transcripts at King George's Medical University (KGMU), please contact the Office of the Controller of Examinations or the Registrar Office. 
+
+- **Registrar Office:** 0522-2253171
+- **Main Website:** [www.kgmu.org](https://www.kgmu.org)
+- **Examination Results & Notices:** [KGMU Notice Board](https://kgmu.org/kgmu_notice_board.php)",2026-10-28T16:05:24.468Z,true,2026-10-28T11:30:35.527Z,en,0,general,factual,direct_answer,,simple,true,session_21366,false,19,2,411,45,16,21,Wednesday,false,true,true,,,,,,,,,false,
 qa_42d8d43187ff41a5a15f9257731a8650,,contact of student section,"For contact details and official inquiries regarding admissions, student affairs, and examinations, you can visit the [KGMU Admissions page](https://www.kgmu.org/courses_admission.php) or check the [KGMU IP Phone Directory](https://kgmu.org/ipphonedirctory.php). 
 
-For general assistance, you can also contact the Registrar Office at **0522-2253171** or the main helpline at **0522-2258880**.",2026-10-28T07:38:53.806Z,true,2026-10-28T07:38:24.560Z,en,0,contact,factual,referral,,simple,true,session_21359,false,26,4,392,44,7,13,Wednesday,false,true,false,en,0.99,information_seeking,low,neutral,contact of student section,partial,student_affairs;contact,true,student
-qa_455ed634eaf143938592485e7b94b20d,,Mujhe foundation course for palliative care k baare me janna hai,"Sorry, please ask an appropriate question related to KGMU.",2026-10-28T05:43:02.936Z,true,2026-10-28T05:42:16.977Z,en,0,courses,factual,direct_answer,,moderate,true,session_21360,false,64,11,58,9,5,11,Wednesday,false,false,false,hi-Latn,0.95,information_seeking,high,neutral,I want to know about the foundation course for palliative care,deflected,palliative_care;course,true,student
+For general assistance, you can also contact the Registrar Office at **0522-2253171** or the main helpline at **0522-2258880**.",2026-10-28T07:38:53.806Z,true,2026-10-28T07:38:24.560Z,en,0,contact,factual,referral,,simple,true,session_21367,false,26,4,392,44,7,13,Wednesday,false,true,false,en,0.99,information_seeking,low,neutral,contact of student section,partial,student_affairs;contact,true,student
+qa_455ed634eaf143938592485e7b94b20d,,Mujhe foundation course for palliative care k baare me janna hai,"Sorry, please ask an appropriate question related to KGMU.",2026-10-28T05:43:02.936Z,true,2026-10-28T05:42:16.977Z,en,0,courses,factual,direct_answer,,moderate,true,session_21368,false,64,11,58,9,5,11,Wednesday,false,false,false,hi-Latn,0.95,information_seeking,high,neutral,I want to know about the foundation course for palliative care,deflected,palliative_care;course,true,student
+qa_48b45e2c5d904024a6d1326d4afe5a8d,,How to book cardio appointment,"To book an appointment for Cardiology (Lari Cardiology) at King George's Medical University (KGMU), you can use any of the following official methods:
+
+1. **Online via ORS (Online Registration System):**
+   - Visit [ors.gov.in](https://ors.gov.in).
+   - Log in or register using your mobile number.
+   - Select **Uttar Pradesh** as your state and **KGMU** as the hospital.
+   - Choose ""New Appointment"", select the **Cardiology** department, and pick your preferred available date and time.
+   - Fill in the patient details and pay the ₹50 OPD slip fee online.
+   - Download/print your appointment slip.
+
+2. **Via ABHA / Health Care App:**
+   - Register on the mobile app using your mobile number and OTP, then follow the same state and hospital selection flow as above.
+
+3. **Via SMS:**
+   - Send an SMS in the format: `APPOINTMENT <Patient Name>` to **8887019134**.
+
+4. **Walk-in Registration:**
+   - Visit the hospital in person. Bring your Aadhaar card and an active mobile number to receive an OTP.
+   - Generate a physical token, pay the ₹50 OPD slip fee at the counter, and collect your slip. *(Note: Pre-booking is strongly recommended to avoid long wait times, and the ticket counter closes sharp at 1:00 PM).*
+
+**Important Notes:**
+- Online registration is mandatory. 
+- OPD timings are Monday–Friday (9:00 AM–1:00 PM) and Saturday (9:00 AM–12:00 PM); closed on Sundays.
+- If you are visiting from outside Lucknow, please bring a valid referral letter for the Cardiology department.
+- For patient welfare or queries regarding Lari Cardiology, you can contact the PRO Office at **9415099528**.",2026-10-28T11:00:38.849Z,true,2026-10-28T11:00:09.501Z,en,0,appointment,procedural,referral,,moderate,true,session_21369,false,30,5,1602,251,11,16,Wednesday,false,true,true,,,,,,,,,false,
 qa_498aacaf86364e36b05740f741af6989,,Cardio me online OPD me opanment kese hota hai,"To book an online OPD appointment for Cardiology at KGMU, you can use the Online Registration System (ORS) or other official booking methods. The OPD slip fee is ₹50. 
 
 Here are the ways to book your appointment:
@@ -273007,13 +273071,42 @@ qa_4e64aa1fdb4e41ebb610f9227330c4ef,,Appointment book karni hai,"KGMU OPD मे
 - पर्ची काउंटर दोपहर 1:00 बजे बंद हो जाता है।
 - शहर से बाहर के मरीजों के लिए संबंधित विभाग का वैध रेफरल लाना आवश्यक है।
 
-अधिक जानकारी के लिए आप KGMU हेल्पलाइन नंबर **0522-2258880** या **0522-3539333** पर संपर्क कर सकते हैं।",2026-10-28T01:52:49.955Z,true,2026-10-28T01:52:09.970Z,en,0,appointment,factual,direct_answer,,simple,true,session_21358,true,26,4,1131,202,1,7,Wednesday,false,true,true,hi-Latn-en,0.9,information_seeking,high,neutral,I want to book an appointment.,adequate,appointment;booking;OPD,false,patient
+अधिक जानकारी के लिए आप KGMU हेल्पलाइन नंबर **0522-2258880** या **0522-3539333** पर संपर्क कर सकते हैं।",2026-10-28T01:52:49.955Z,true,2026-10-28T01:52:09.970Z,en,0,appointment,factual,direct_answer,,simple,true,session_21365,true,26,4,1131,202,1,7,Wednesday,false,true,true,hi-Latn-en,0.9,information_seeking,high,neutral,I want to book an appointment.,adequate,appointment;booking;OPD,false,patient
 qa_54a9b3c920b94d1da886bb7e8dedab3d,,Counselling nodal center number for help related to round 3 counselling,"For assistance regarding counselling (such as the Allied and Healthcare Sciences/Paramedical Diploma Admission Batch 2026-27 3rd Round instructions), you can check the latest notices and updates on the [KGMU Admissions Page](https://www.kgmu.org/courses_admission.php) or refer to the official general notice:
 
 - [Regarding Instructions for Allied and Healthcare Sciences (Paramedical) Diploma Admission Batch 2026-27 3rd Round](https://www.kgmu.org/upload_file/user_download/f7bd57eb55964eaf5617bbde67f29e8b.pdf)
 - [Revised Instructions for 3rd Round Document Verification](https://www.kgmu.org/upload_file/user_download/7a7ebbbc4a3529298a4a59f9d1423628.pdf)
 
-For direct queries, you can contact the KGMU Help Line at **0522-2258880** or **0522-3539333**, or reach out to the Registrar Office at **0522-2253171**.",2026-10-28T04:02:18.630Z,true,2026-10-28T04:01:01.389Z,en,0,admissions,factual,referral,,moderate,true,session_21357,true,71,11,814,84,4,9,Wednesday,false,true,true,en,0.99,information_seeking,low,neutral,Counselling nodal center number for help related to round 3 counselling,partial,counselling;admissions;contact,true,student
+For direct queries, you can contact the KGMU Help Line at **0522-2258880** or **0522-3539333**, or reach out to the Registrar Office at **0522-2253171**.",2026-10-28T04:02:18.630Z,true,2026-10-28T04:01:01.389Z,en,0,admissions,factual,referral,,moderate,true,session_21364,true,71,11,814,84,4,9,Wednesday,false,true,true,en,0.99,information_seeking,low,neutral,Counselling nodal center number for help related to round 3 counselling,partial,counselling;admissions;contact,true,student
+qa_55fa9952bab148bbbda4f1c228813717,,I am Ranjeet Kumar OT Technician kya mere liye koe post hai,"Here is the latest active recruitment notice available at KGMU:
+
+- **Date:** 2027-07-31
+- **Title:** Application are invited from eligible India citizens for the following position under the SIB SHInE
+- **Reference:** Recruitment Notice
+- **URL:** https://www.kgmu.org/upload_file/user_download/728ca20147d6892fefa5185cc64034cc.pdf
+
+Please check the official notice link above to see if the OT Technician position is included or to review the specific eligibility criteria. You can also visit the official KGMU Notice Board at https://kgmu.org/kgmu_notice_board.php for further updates.",2026-10-28T09:49:02.272Z,true,2026-10-28T09:47:48.443Z,en,0,general,factual,referral,,moderate,true,session_21370,false,59,12,586,74,9,15,Wednesday,false,true,true,,,,,,,,,false,
+qa_57b073d6b9a744efae71aa8f0254c913,,Opd timming,"KGMU OPD Timings:
+
+- **Monday to Friday:** 9:00 AM – 1:00 PM
+- **Saturday:** 9:00 AM – 12:00 PM
+- **Sunday:** Closed
+
+*Note:* The parchi/ticket counter closes at 1:00 PM sharp. Online registration (via [ORS](https://ors.gov.in) or ABHA app) is mandatory, and the OPD slip fee is ₹50.",2026-10-28T15:54:08.711Z,true,2026-10-28T15:53:29.329Z,en,0,opd,factual,direct_answer,,simple,true,session_21371,false,11,2,283,47,15,21,Wednesday,false,true,true,,,,,,,,,false,
+qa_6a5f66ee1bc24faf861f626a111e0406,,Book appointment,"To book an OPD appointment at KGMU, online registration is mandatory. You can use any of the following methods:
+
+1. **Online (ORS):** Visit the [Online Registration System (ORS)](https://ors.gov.in) portal, select Uttar Pradesh, choose KGMU, pick the department and date, enter your details, pay the ₹50 fee, and download your appointment slip.
+2. **Mobile App:** Use the ABHA or Health Care mobile app, register with your mobile number and OTP, and follow the same hospital selection process.
+3. **SMS:** Send an SMS in the format `APPOINTMENT <Patient Name>` to **8887019134**.
+4. **Walk-in:** Visit the registration counter with your Aadhaar number and active mobile number to complete OTP verification, receive a physical token, pay the ₹50 OPD slip fee, and collect your slip (note: the ticket counter closes at 1:00 PM sharp).
+
+*Please note: Pre-booking is strongly recommended to avoid long wait times, and out-of-city patients must bring a valid referral for the specific department.*",2026-10-28T11:05:10.231Z,true,2026-10-28T11:00:09.501Z,en,0,appointment,factual,referral,,simple,true,session_21369,true,16,2,992,153,11,16,Wednesday,false,true,true,,,,,,,,,false,
+qa_6a917744067a46f29ba2b4f5c29c9ab6,,Kuchh workar yha apni manmani karte hai,"Sorry, please ask an appropriate question related to KGMU.",2026-10-28T17:37:25.143Z,true,2026-10-28T17:36:02.072Z,en,0,general,factual,direct_answer,,moderate,true,session_21372,false,39,7,58,9,17,23,Wednesday,false,false,false,,,,,,,,,false,
+qa_6e67c3d4944a4c519b3d29bfffbe73ca,,Allergy sambandhit doctor ka number,"For general queries, appointment assistance, or to reach the relevant department desks, you can contact the KGMU PRO Office at **9415007710** or the main help line at **0522-2258880** / **0522-3539333**. 
+
+To book an OPD appointment directly, please visit [ORS](https://ors.gov.in) or use one of the other booking methods. 
+
+*Medical Disclaimer:* I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.",2026-10-28T12:53:34.462Z,true,2026-10-28T12:52:23.619Z,en,0,contact,factual,safety_redirect,,moderate,true,session_21373,false,35,5,523,79,12,18,Wednesday,false,true,false,,,,,,,,,false,
 qa_706962e8c9a846d790eaf0fd559c56c8,,where to coctact for neet pg document verification,"For NEET PG document verification queries and official updates at King George's Medical University (KGMU), you can contact the administrative offices or check the main portal:
 
 - **Main Website:** [www.kgmu.org](https://www.kgmu.org)
@@ -273021,12 +273114,13 @@ qa_706962e8c9a846d790eaf0fd559c56c8,,where to coctact for neet pg document verif
 - **Registrar Office:** 0522-2253171
 - **KGMU Help Line:** 0522-2258880
 
-If you are a student or patient requiring urgent guidance, you can also reach the PRO Office at **9415007710**.",2026-10-28T07:45:24.685Z,true,2026-10-28T07:38:24.560Z,en,0,admissions,navigational,referral,,moderate,true,session_21359,true,50,8,522,62,7,13,Wednesday,false,true,true,en,0.99,information_seeking,low,neutral,Where to contact for NEET PG document verification,partial,NEET PG;document verification;contact,true,student
+If you are a student or patient requiring urgent guidance, you can also reach the PRO Office at **9415007710**.",2026-10-28T07:45:24.685Z,true,2026-10-28T07:38:24.560Z,en,0,admissions,navigational,referral,,moderate,true,session_21367,true,50,8,522,62,7,13,Wednesday,false,true,true,en,0.99,information_seeking,low,neutral,Where to contact for NEET PG document verification,partial,NEET PG;document verification;contact,true,student
 qa_726b8649a22e4005b15c7b8be799b744,,Can you provide contact number of Dr Ranjeet Kumar raman,"|Name|Qualifications|Position|Specialization||Email|
 |---|---|---|---|---|---|
 |Dr. Rajesh Raman|MD|Addl Prof|Critical care, Organ transplant, Difficâ€¦||ramanrajesh83 @gmail.com|
 
-If you meant Dr. Rajesh Raman, his details are listed above. If you are looking for another faculty member, please check the KGMU IP Phone Directory at https://kgmu.org/ipphonedirctory.php or contact the PRO Office at 9415007710.",2026-10-28T07:29:52.390Z,true,2026-10-28T07:28:52.010Z,en,0,contact,yes_no,referral,,moderate,true,session_21361,false,56,10,410,46,7,12,Wednesday,false,true,false,en,0.99,information_seeking,high,neutral,Can you provide contact number of Dr Ranjeet Kumar Raman,deflected,faculty contact;doctor;information,true,patient
+If you meant Dr. Rajesh Raman, his details are listed above. If you are looking for another faculty member, please check the KGMU IP Phone Directory at https://kgmu.org/ipphonedirctory.php or contact the PRO Office at 9415007710.",2026-10-28T07:29:52.390Z,true,2026-10-28T07:28:52.010Z,en,0,contact,yes_no,referral,,moderate,true,session_21374,false,56,10,410,46,7,12,Wednesday,false,true,false,en,0.99,information_seeking,high,neutral,Can you provide contact number of Dr Ranjeet Kumar Raman,deflected,faculty contact;doctor;information,true,patient
+qa_77a656161ce54b7d92a372c8b9056931,,Pediatric Cardiologist,"Sorry, please ask an appropriate question related to KGMU.",2026-10-28T13:45:35.183Z,true,2026-09-24T00:50:49.393Z,en,0,departments,factual,direct_answer,Cardiology,simple,true,session_19657,true,22,2,58,9,13,19,Wednesday,false,false,false,,,,,,,,,false,
 qa_77eb46a0064b4fc7ba412d64aae6db7e,,हिन्दी में बताए,"केजीवीएमयू (KGMU) में कार्डियोलॉजी (Cardiology/LARI) विभाग के लिए ऑनलाइन ओपीडी अपॉइंटमेंट बुक करने के निम्नलिखित तरीके हैं। ओपीडी पर्ची का शुल्क ₹50 है:
 
 1. **ORS पोर्टल के माध्यम से ऑनलाइन:**
@@ -273049,6 +273143,12 @@ qa_77eb46a0064b4fc7ba412d64aae6db7e,,हिन्दी में बताए,"
 - लंबी कतारों से बचने के लिए पहले से ऑनलाइन बुकिंग करना बेहतर है। 
 - लखनऊ के बाहर के मरीजों को कार्डियोलॉजी विभाग के लिए वैध रेफरल पर्ची (Referral slip) साथ लानी होगी।
 - अधिक जानकारी या सहायता के लिए आप लारी कार्डियोलॉजी के पीआरओ ऑफिस (PRO Office) के नंबर **9415099528** पर संपर्क कर सकते हैं।",2026-10-28T05:15:56.263Z,true,2026-05-23T06:56:11.366Z,hi,1,general,factual,direct_answer,,simple,true,session_10835,true,15,3,1424,240,5,10,Wednesday,false,true,true,,,,,,,,,false,
+qa_79af3eaf0e13460da85e8bfc9dced59c,,Hr ka contact number chahiye,"KGMU does not have a central ""HR"" department in the corporate sense. For recruitment, administrative, or personnel-related queries, please contact the Registrar's office or the relevant Public Relations Officer (PRO).
+
+*   **Registrar Office:** 0522-2253171
+*   **PRO Office (GM&AH KGMU):** 9415007710
+
+For a full directory of official contact numbers, you may visit: https://kgmu.org/imp_numbers.php",2026-10-28T10:46:19.011Z,true,2026-10-28T10:41:20.467Z,en,0,contact,factual,referral,,moderate,true,session_21375,false,28,5,400,52,10,16,Wednesday,false,true,true,,,,,,,,,false,
 qa_7fe829dbae0648d091beb79ebffc835b,,Consult with dr vishwajeet singh,"Dr. Vishwajeet Singh is the Officiating Head of the Department of Urology at King George's Medical University (KGMU). 
 
 **Qualifications:** MS, MCh, FICS, PDCR, PGDHHM  
@@ -273059,7 +273159,7 @@ qa_7fe829dbae0648d091beb79ebffc835b,,Consult with dr vishwajeet singh,"Dr. Vishw
 * **OPD Days:** Monday to Saturday
 * **OPD Timings:** Monday to Friday 9:00 AM – 1:00 PM; Saturday 9:00 AM – 12:00 PM
 
-Please note that online registration via the [ORS Portal](https://ors.gov.in) or through KGMU's standard booking methods is mandatory to obtain an OPD appointment slip before consultation.",2026-10-28T04:55:03.586Z,true,2026-10-28T04:54:18.296Z,en,0,general,factual,direct_answer,,moderate,true,session_21362,false,32,5,646,90,4,10,Wednesday,false,true,true,,,,,,,,,false,
+Please note that online registration via the [ORS Portal](https://ors.gov.in) or through KGMU's standard booking methods is mandatory to obtain an OPD appointment slip before consultation.",2026-10-28T04:55:03.586Z,true,2026-10-28T04:54:18.296Z,en,0,general,factual,direct_answer,,moderate,true,session_21376,false,32,5,646,90,4,10,Wednesday,false,true,true,,,,,,,,,false,
 qa_838787bc0b5d415984b861a6638032b9,,Cardiologist,"Here is the information for the Cardiology department at KGMU:
 
 **Department Link:** [Cardiology](https://www.kgmu.org/department_details.php?dept_id=9&dept_type=2)
@@ -273076,8 +273176,8 @@ qa_838787bc0b5d415984b861a6638032b9,,Cardiologist,"Here is the information for t
 - **Dr. Abhishek Singh** (Asst Prof) — Coronary intervention, cardiac imaging | Email: `docabhishek23@gmail.com`
 
 **Related Contact:**
-- PRO Office, Lari Cardiology: 9415099528",2026-10-28T07:38:01.802Z,true,2026-10-28T07:36:46.669Z,en,0,general,factual,direct_answer,Cardiology,simple,true,session_21363,false,12,1,1122,123,7,13,Wednesday,false,true,true,,,,,,,,,false,
-qa_86ad0c9f947349cabb1b9fa7d69e8bbf,,my blood enquiry,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.",2026-10-28T03:42:37.363Z,true,2026-10-28T03:36:49.075Z,en,0,general,factual,safety_redirect,,simple,true,session_21364,false,16,3,176,30,3,9,Wednesday,false,false,false,,,,,,,,,false,
+- PRO Office, Lari Cardiology: 9415099528",2026-10-28T07:38:01.802Z,true,2026-10-28T07:36:46.669Z,en,0,general,factual,direct_answer,Cardiology,simple,true,session_21377,false,12,1,1122,123,7,13,Wednesday,false,true,true,,,,,,,,,false,
+qa_86ad0c9f947349cabb1b9fa7d69e8bbf,,my blood enquiry,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.",2026-10-28T03:42:37.363Z,true,2026-10-28T03:36:49.075Z,en,0,general,factual,safety_redirect,,simple,true,session_21378,false,16,3,176,30,3,9,Wednesday,false,false,false,,,,,,,,,false,
 qa_899e06403f0e4ee2bc3a36f68bf5530a,,Sabse badhiya doctor clinical hematoncology me kaun hai,"Clinical Hematology department में सभी चिकित्सक अत्यंत अनुभवी और योग्य हैं। इस विभाग में उपलब्ध फैकल्टी सदस्य हैं:
 
 - **Dr. Puneet Kumar** (HOD) — [विभाग विवरण](https://www.kgmu.org/department_details.php?dept_id=10&dept_type=2)
@@ -273086,13 +273186,32 @@ qa_899e06403f0e4ee2bc3a36f68bf5530a,,Sabse badhiya doctor clinical hematoncology
 
 अधिक जानकारी के लिए आप [KGMU Clinical Hematology Department](https://www.kgmu.org/department_details.php?dept_id=10&dept_type=2) का आधिकारिक पेज देख सकते हैं।
 
-*मैं मेडिकल सलाह देने में सक्षम नहीं हूँ। किसी भी स्वास्थ्य संबंधी समस्या के लिए कृपया KGMU OPD के डॉक्टर से परामर्श लें।*",2026-10-28T02:19:53.067Z,true,2026-10-28T02:18:32.935Z,en,0,general,entity,direct_answer,,moderate,true,session_21365,false,55,8,593,77,2,7,Wednesday,false,true,true,,,,,,,,,false,
+*मैं मेडिकल सलाह देने में सक्षम नहीं हूँ। किसी भी स्वास्थ्य संबंधी समस्या के लिए कृपया KGMU OPD के डॉक्टर से परामर्श लें।*",2026-10-28T02:19:53.067Z,true,2026-10-28T02:18:32.935Z,en,0,general,entity,direct_answer,,moderate,true,session_21379,false,55,8,593,77,2,7,Wednesday,false,true,true,,,,,,,,,false,
 qa_89bb43d7e0d046be85e245d475d34b29,,Clinical hematoncology ki opd kgmc me knha par chalti hai,"Clinical Hematology की OPD (Room 220, Second Floor) पर **Monday, Wednesday, और Friday** को चलती है। 
 
 ऑनलाइन अपॉइंटमेंट के लिए [ORS (Online Registration System)](https://ors.gov.in) का उपयोग करें या KGMU OPD हेल्पलाइन (0522-2258880 / 0522-3539333) पर संपर्क करें।
 
-*मैं मेडिकल सलाह देने में सक्षम नहीं हूँ। किसी भी स्वास्थ्य संबंधी समस्या के लिए कृपया KGMU OPD के डॉक्टर से परामर्श लें।*",2026-10-28T02:19:10.451Z,true,2026-10-28T02:18:32.935Z,en,0,opd,factual,direct_answer,,moderate,true,session_21365,true,57,10,387,60,2,7,Wednesday,false,true,false,,,,,,,,,false,
-qa_8ce2c4044aee4589966dc6f0ff7f3438,,where to contact for admission of md ms,"For inquiries regarding MD/MS admissions at King George's Medical University (KGMU), you can check the official admissions page at [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php) or contact the Registrar Office at 0522-2253171.",2026-10-28T08:13:28.505Z,true,2026-10-28T07:38:24.560Z,en,0,admissions,navigational,referral,,moderate,true,session_21359,true,39,8,268,27,8,13,Wednesday,false,true,false,,,,,,,,,false,
+*मैं मेडिकल सलाह देने में सक्षम नहीं हूँ। किसी भी स्वास्थ्य संबंधी समस्या के लिए कृपया KGMU OPD के डॉक्टर से परामर्श लें।*",2026-10-28T02:19:10.451Z,true,2026-10-28T02:18:32.935Z,en,0,opd,factual,direct_answer,,moderate,true,session_21379,true,57,10,387,60,2,7,Wednesday,false,true,false,,,,,,,,,false,
+qa_8c1a730aff7b4badbe264c2ef9a198e3,,neurosurgery department me mujhe ot technician vacancy ke regarding bat Karni thi,"For inquiries regarding OT technician vacancies in the Neurosurgery Department, you can contact the KGMU Registrar Office or check the official employment notices on the notice board. 
+
+- **Registrar Office Phone:** 0522-2253171
+- **KGMU Notice Board:** [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)
+- **Main Website:** [www.kgmu.org](https://www.kgmu.org)",2026-10-28T10:42:36.550Z,true,2026-10-28T10:41:20.467Z,en,0,departments,factual,referral,,moderate,true,session_21375,true,81,12,391,41,10,16,Wednesday,false,true,true,,,,,,,,,false,
+qa_8ce2c4044aee4589966dc6f0ff7f3438,,where to contact for admission of md ms,"For inquiries regarding MD/MS admissions at King George's Medical University (KGMU), you can check the official admissions page at [https://www.kgmu.org/courses_admission.php](https://www.kgmu.org/courses_admission.php) or contact the Registrar Office at 0522-2253171.",2026-10-28T08:13:28.505Z,true,2026-10-28T07:38:24.560Z,en,0,admissions,navigational,referral,,moderate,true,session_21367,true,39,8,268,27,8,13,Wednesday,false,true,false,,,,,,,,,false,
+qa_91f323cb4c514037852895b61da3b035,,31oct ko band rahegi opd ki khula rahega,"KGMU mein 31 October 2026 (Sardar Patel & Acharya Narendra Dev Jayanti) ek **Restricted (Optional) Holiday** hai.
+
+Restricted holidays ke din **OPD aur emergency services khuli rehti hain**. OPD aur emergency services is din karya-rat rahengi.",2026-10-28T13:52:55.054Z,true,2026-09-02T07:06:10.207Z,en,0,opd,factual,direct_answer,,moderate,true,session_18016,true,40,8,243,36,13,19,Wednesday,false,false,false,,,,,,,,,false,
+qa_94cb1374c42b4cf587a878866c7dbd85,,2026. Upcoming vacancy details,"As of 2026-10-28, there are no specific vacancies for ""Hospital Attendant"" listed in the current official notices. 
+
+You can track all active recruitment notices and official updates directly through the following KGMU resources:
+
+*   **Official Website:** [www.kgmu.org](https://www.kgmu.org)
+*   **Notice Board:** [https://kgmu.org/kgmu_notice_board.php](https://kgmu.org/kgmu_notice_board.php)
+
+**Recent Recruitment Notices:**
+*   For reference, a recruitment notice was published on 2027-07-31 (Ref: Recruitment Notice) regarding positions under the SIB SHInE. You can view it here: [https://www.kgmu.org/upload_file/user_download/728ca20147d6892fefa5185cc64034cc.pdf](https://www.kgmu.org/upload_file/user_download/728ca20147d6892fefa5185cc64034cc.pdf)
+
+Please monitor the official links provided above regularly, as all authentic vacancy details, eligibility criteria, and application procedures are posted there exclusively.",2026-10-28T17:07:50.861Z,true,2026-10-28T17:06:26.111Z,en,0,career,factual,direct_answer,,simple,true,session_21362,true,30,4,931,91,17,22,Wednesday,false,true,true,,,,,,,,,false,
 qa_965423dda0dc4a93b22e69a575ca44d1,,To book appointment OPD in urology with vishvajit singh,"To book an OPD appointment with Dr. Vishwajeet Singh (Officiating Head of Department, Urology), you can use any of the official KGMU booking methods:
 
 - **Online (ORS):** Visit the [Online Registration System (ORS)](https://ors.gov.in), select Uttar Pradesh, choose KGMU, select the Urology department, pick an available date, and pay the ₹50 OPD slip fee.
@@ -273102,10 +273221,18 @@ qa_965423dda0dc4a93b22e69a575ca44d1,,To book appointment OPD in urology with vis
 
 *Note:* Online pre-booking is strongly recommended to avoid long wait times. Outside-city patients should bring a valid referral for the Urology department. 
 
-For office contact regarding Urology, you can check the faculty details on the [KGMU Urology Department Page](https://www.kgmu.org/department_details.php?dept_id=36&dept_type=2).",2026-10-28T01:45:52.975Z,true,2026-10-28T01:44:56.095Z,en,0,opd,factual,referral,Urology,moderate,true,session_21366,false,55,9,1079,153,1,7,Wednesday,false,true,true,,,,,,,,,false,
-qa_99b8eab876ef46f1aabf34d66e09c3ab,,About Sandeep kumar Rai,"Sorry, please ask an appropriate question related to KGMU.",2026-10-28T09:17:13.083Z,true,2026-10-28T09:16:13.456Z,en,0,general,factual,direct_answer,,simple,true,session_21367,false,23,4,58,9,9,14,Wednesday,false,false,false,,,,,,,,,false,
-qa_9c5d0b9a0346496ab85b03491b3246c7,,How many md pharmacology seats,"Sorry, please ask an appropriate question related to KGMU.",2026-10-28T06:45:23.293Z,true,2026-10-28T06:45:00.550Z,en,0,admissions,factual,direct_answer,Pharmacology,moderate,true,session_21368,false,30,5,58,9,6,12,Wednesday,false,false,false,,,,,,,,,false,
-qa_acd7475cd6db4519afd564eafcd03f59,,Bone scan kgmu rat,"Based on the official KGMU rate list, the cost for an Orthopedic service ranges from ₹10 to ₹4,000 depending on the specific procedure. For detailed information regarding bone scan rates and availability, you can check the complete rate list at [KGMU Rate List](https://www.kgmu.org/rate_list2223.htm).",2026-10-28T06:04:43.600Z,true,2026-10-28T06:04:21.348Z,en,0,general,factual,referral,Orthopedics,simple,true,session_21369,false,18,4,302,43,6,11,Wednesday,false,true,false,,,,,,,,,false,
+For office contact regarding Urology, you can check the faculty details on the [KGMU Urology Department Page](https://www.kgmu.org/department_details.php?dept_id=36&dept_type=2).",2026-10-28T01:45:52.975Z,true,2026-10-28T01:44:56.095Z,en,0,opd,factual,referral,Urology,moderate,true,session_21380,false,55,9,1079,153,1,7,Wednesday,false,true,true,,,,,,,,,false,
+qa_9674d6105f6542a8b637bb22952e7b10,,Cardiology opd appointment,"To book an OPD appointment for Cardiology at KGMU, you can use any of the following methods:
+
+- **Online Booking (ORS):** Visit [ors.gov.in](https://ors.gov.in), select Uttar Pradesh, choose KGMU, select the Cardiology department, pick an available date and time, enter patient details, pay the ₹50 OPD slip fee, and download your slip.
+- **ABHA / Health Care App:** Register using your mobile number and OTP, then follow the same hospital selection flow to book and pay.
+- **SMS Booking:** Send an SMS in the format `Appointment [Patient Name]` to **8887019134**.
+- **Walk-in Booking:** Visit the hospital with your Aadhaar number and an active mobile number to verify via OTP, collect a physical token, pay the ₹50 fee, and obtain your OPD slip. 
+
+*Note: Online registration is mandatory, and pre-booking is strongly recommended to avoid long wait times. Parchi/ticket counters close at 1:00 PM sharp. For outside-city patients, carrying a valid referral for the Cardiology department is required.*",2026-10-28T15:13:04.101Z,true,2026-10-28T15:12:31.948Z,en,0,opd,factual,referral,Cardiology,simple,true,session_21381,false,26,3,1000,156,15,20,Wednesday,false,true,true,,,,,,,,,false,
+qa_99b8eab876ef46f1aabf34d66e09c3ab,,About Sandeep kumar Rai,"Sorry, please ask an appropriate question related to KGMU.",2026-10-28T09:17:13.083Z,true,2026-10-28T09:16:13.456Z,en,0,general,factual,direct_answer,,simple,true,session_21382,false,23,4,58,9,9,14,Wednesday,false,false,false,,,,,,,,,false,
+qa_9c5d0b9a0346496ab85b03491b3246c7,,How many md pharmacology seats,"Sorry, please ask an appropriate question related to KGMU.",2026-10-28T06:45:23.293Z,true,2026-10-28T06:45:00.550Z,en,0,admissions,factual,direct_answer,Pharmacology,moderate,true,session_21383,false,30,5,58,9,6,12,Wednesday,false,false,false,,,,,,,,,false,
+qa_acd7475cd6db4519afd564eafcd03f59,,Bone scan kgmu rat,"Based on the official KGMU rate list, the cost for an Orthopedic service ranges from ₹10 to ₹4,000 depending on the specific procedure. For detailed information regarding bone scan rates and availability, you can check the complete rate list at [KGMU Rate List](https://www.kgmu.org/rate_list2223.htm).",2026-10-28T06:04:43.600Z,true,2026-10-28T06:04:21.348Z,en,0,general,factual,referral,Orthopedics,simple,true,session_21384,false,18,4,302,43,6,11,Wednesday,false,true,false,,,,,,,,,false,
 qa_b184c18854b5429c99752c8e6f268e71,,Appointment book karne ke baad kisi bhi waqt aake dikha du patient ko,"जी नहीं, आप अपॉइंटमेंट की तय तारीख और समय पर ही मरीज को लेकर आएं। 
 
 KGMU OPD का समय इस प्रकार है:
@@ -273113,13 +273240,26 @@ KGMU OPD का समय इस प्रकार है:
 - **शनिवार:** सुबह 9:00 बजे से दोपहर 12:00 बजे तक
 - **रविवार:** OPD बंद रहती है
 
-ध्यान रखें कि पर्ची/टिकट काउंटर दोपहर 1:00 बजे sharp बंद हो जाता है, इसलिए कृपया समय पर ही अस्पताल पहुंचें। भीड़भाड़ से बचने और समय की बचत के लिए पहले से ऑनलाइन बुकिंग (जैसे [ors.gov.in](https://ors.gov.in) के माध्यम से) करना और समय पर पहुंचना बेहतर रहता है।",2026-10-28T01:53:37.497Z,true,2026-10-28T01:52:09.970Z,en,0,appointment,factual,direct_answer,,complex,true,session_21358,true,69,13,498,96,1,7,Wednesday,false,true,true,,,,,,,,,false,
+ध्यान रखें कि पर्ची/टिकट काउंटर दोपहर 1:00 बजे sharp बंद हो जाता है, इसलिए कृपया समय पर ही अस्पताल पहुंचें। भीड़भाड़ से बचने और समय की बचत के लिए पहले से ऑनलाइन बुकिंग (जैसे [ors.gov.in](https://ors.gov.in) के माध्यम से) करना और समय पर पहुंचना बेहतर रहता है।",2026-10-28T01:53:37.497Z,true,2026-10-28T01:52:09.970Z,en,0,appointment,factual,direct_answer,,complex,true,session_21365,true,69,13,498,96,1,7,Wednesday,false,true,true,,,,,,,,,false,
+qa_b1d15cb0211f4cc3acf5478417caac51,,Hr ka contact number milega,"For HR, recruitment, or administrative inquiries, you can contact the KGMU Registrar Office or the Public Relations Office (PRO):
+
+- **Registrar Office:** 0522-2253171
+- **PRO Office (GM&AH KGMU):** 9415007710
+- **Main Help Line:** 0522-2258880 or 0522-3539333
+
+You can also check official recruitment updates and notices on the [KGMU Notice Board](https://kgmu.org/kgmu_notice_board.php).",2026-10-28T10:43:04.839Z,true,2026-10-28T10:41:20.467Z,en,0,contact,factual,referral,,moderate,true,session_21375,true,27,5,389,50,10,16,Wednesday,false,true,true,,,,,,,,,false,
+qa_b4105824abc34cf8bf8968052afd234a,,mujher kidney stone ka treatment krwana hai,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+For kidney stone treatment, you can consult the Department of Urology at KGMU. To book an OPD appointment, online registration is mandatory through the [Online Registration System (ORS)](https://ors.gov.in). 
+
+For assistance, you can contact the KGMU helpline at 0522-2258880 or 0522-3539333.",2026-10-28T18:55:04.322Z,true,2026-10-28T18:54:18.541Z,en,0,general,factual,safety_redirect,Urology,moderate,true,session_21385,false,43,7,470,70,18,0,Wednesday,false,true,false,,,,,,,,,false,
+qa_b48e2bbfa22d4384bb285137103c7aab,,New opd 31oct ko band rahegi ki khula rahega,"KGMU ki New OPD 31 October 2026 (Sardar Patel & Acharya Narendra Dev Jayanti) ko **khuli rahegi**, kyunki yeh ek Restricted (Optional) Holiday hai aur is din OPD aur emergency services chalati rehti hain.",2026-10-28T13:54:31.163Z,true,2026-09-02T07:06:10.207Z,en,0,opd,factual,direct_answer,,moderate,true,session_18016,true,44,9,204,34,13,19,Wednesday,false,false,false,,,,,,,,,false,
 qa_ba27b0af64874777b2c2eeb4bd38196c,,Koi paper nhi mila tha,"If you did not receive any discharge papers or documents at the time of discharge, please visit the Queen Mary's Hospital registration or record counter as soon as possible. 
 
 Take the following steps:
 1. **Visit the Hospital:** Go to the Queen Mary's Hospital (KGMU) administration or registration desk.
 2. **Bring Identification:** Carry your Aadhaar card and any identity proof available for both parents, along with the approximate date of delivery and mother's hospital registration number/CR number if you remember it.
-3. **Contact PRO Office:** You can contact the Queen Mary's Hospital PRO Office at **7839552570** or the main helpline at **0522-2258880** for guidance on how to retrieve your records and apply for the birth certificate.",2026-10-28T06:35:21.552Z,true,2026-10-28T06:33:42.125Z,en,0,exams,factual,direct_answer,,moderate,true,session_21353,true,22,5,745,115,6,12,Wednesday,false,false,true,,,,,,,,,false,
+3. **Contact PRO Office:** You can contact the Queen Mary's Hospital PRO Office at **7839552570** or the main helpline at **0522-2258880** for guidance on how to retrieve your records and apply for the birth certificate.",2026-10-28T06:35:21.552Z,true,2026-10-28T06:33:42.125Z,en,0,exams,factual,direct_answer,,moderate,true,session_21355,true,22,5,745,115,6,12,Wednesday,false,false,true,,,,,,,,,false,
 qa_bf26c36ee5f24cb6806075baf8983719,,Muje urologist ko dikhna,"To consult a urologist at KGMU, you need to book an OPD appointment beforehand as online registration is mandatory. 
 
 **OPD Details for Urology:**
@@ -273134,37 +273274,78 @@ qa_bf26c36ee5f24cb6806075baf8983719,,Muje urologist ko dikhna,"To consult a urol
 
 *Note: If you are traveling from outside Lucknow, please carry a valid referral letter for the Urology department.* 
 
-For assistance, you can contact the KGMU helpline at **0522-2258880** or **0522-3539333**.",2026-10-28T05:33:00.861Z,true,2026-10-28T05:32:39.216Z,en,0,general,factual,referral,Urology,simple,true,session_21370,false,24,4,997,151,5,11,Wednesday,false,true,true,,,,,,,,,false,
+For assistance, you can contact the KGMU helpline at **0522-2258880** or **0522-3539333**.",2026-10-28T05:33:00.861Z,true,2026-10-28T05:32:39.216Z,en,0,general,factual,referral,Urology,simple,true,session_21386,false,24,4,997,151,5,11,Wednesday,false,true,true,,,,,,,,,false,
 qa_c8d34e571b4141bd8700d3a4d612e516,,Court orders and medical panel,"For court orders, legal notifications, and official guidelines related to medical panels or medico-legal cases at King George's Medical University, please visit the official KGMU Guidelines page:
 https://kgmu.org/guidelines.php
 
 You can also check the main KGMU Notice Board for any recent administrative orders:
 https://kgmu.org/kgmu_notice_board.php
 
-For specific administrative queries, you may contact the Registrar Office at 0522-2253171 or the PRO Office at 9415007710.",2026-10-28T05:52:27.672Z,true,2026-10-28T05:51:59.104Z,en,0,general,factual,referral,,moderate,true,session_21371,false,30,5,475,61,5,11,Wednesday,false,true,false,,,,,,,,,false,
+For specific administrative queries, you may contact the Registrar Office at 0522-2253171 or the PRO Office at 9415007710.",2026-10-28T05:52:27.672Z,true,2026-10-28T05:51:59.104Z,en,0,general,factual,referral,,moderate,true,session_21387,false,30,5,475,61,5,11,Wednesday,false,true,false,,,,,,,,,false,
 qa_c98ef162816c494ab5e98ecdc7328a36,,Can I take online consultation from dr vishwajeet singh,"KGMU primarily conducts consultations through its physical Outpatient Departments (OPDs), where online registration is mandatory prior to your visit. 
 
 To consult with Dr. Vishwajeet Singh in the Urology department, you can book an OPD appointment online through the [ORS Portal](https://ors.gov.in) or use other available booking methods such as SMS or the ABHA app. 
 
-For specific inquiries regarding online teleconsultation availability or direct department queries, you can reach out to the KGMU help desk at **0522-2258880** or **0522-3539333**, or contact the Urology department directly.",2026-10-28T04:56:04.946Z,true,2026-10-28T04:54:18.296Z,en,0,general,yes_no,referral,,moderate,true,session_21362,true,55,9,594,83,4,10,Wednesday,false,true,false,,,,,,,,,false,
-qa_cee07556006549aaab266e94876953cb,,Joining latter kab tak ayega ot walon ka,"Sorry, please ask an appropriate question related to KGMU.",2026-10-28T08:20:37.612Z,true,2026-10-28T08:19:32.682Z,en,0,general,temporal,direct_answer,,moderate,true,session_21356,true,40,8,58,9,8,13,Wednesday,false,false,false,,,,,,,,,false,
-qa_cfe5b6675e5e46f99ff808dfe0a83803,,who is Dr. Sandeep kumaR rai,"Sorry, please ask an appropriate question related to KGMU.",2026-10-28T09:17:45.497Z,true,2026-10-28T09:16:13.456Z,en,0,faculty,entity,direct_answer,,moderate,true,session_21367,true,28,6,58,9,9,14,Wednesday,false,false,false,,,,,,,,,false,
-qa_e2122c45f46641c3ba4788f4e83010b3,,How many md pharmacology seats present in kgmu,Please refer to the official KGMU admissions and courses page for information regarding seat availability: https://www.kgmu.org/courses_admission.php,2026-10-28T06:45:54.216Z,true,2026-10-28T06:45:00.550Z,en,0,admissions,factual,referral,Pharmacology,moderate,true,session_21368,true,46,8,149,16,6,12,Wednesday,false,true,false,,,,,,,,,false,
+For specific inquiries regarding online teleconsultation availability or direct department queries, you can reach out to the KGMU help desk at **0522-2258880** or **0522-3539333**, or contact the Urology department directly.",2026-10-28T04:56:04.946Z,true,2026-10-28T04:54:18.296Z,en,0,general,yes_no,referral,,moderate,true,session_21376,true,55,9,594,83,4,10,Wednesday,false,true,false,,,,,,,,,false,
+qa_cafc9f92bf5f46f9969ad178362478b3,,Need appointment in paediatric neurology department tomorrow,"I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.
+
+To book an OPD appointment for the **Pediatrics** or relevant department at King George's Medical University (KGMU), please note that online pre-booking is strongly recommended and online registration is mandatory (OPD slip fee is ₹50). 
+
+You can book through any of the following official methods:
+- **Online (ORS Portal):** Visit [ors.gov.in](https://ors.gov.in), select Uttar Pradesh, choose KGMU, select the department, date, and time, fill in patient details, pay ₹50, and download your slip.
+- **ABHA / Health Care App:** Register using your mobile number and OTP, then follow the same hospital selection flow.
+- **SMS:** Send `APPOINTMENT <Patient Name>` to **8887019134**.
+- **Walk-in:** Visit the hospital with your Aadhaar number and active mobile number to complete OTP verification, receive a physical token, pay ₹50, and collect your OPD slip at the counter (counters close at 1:00 PM sharp).
+
+*Note: OPD timings are Monday–Friday 9:00 AM–1:00 PM and Saturday 9:00 AM–12:00 PM (closed on Sundays and general holidays).* 
+
+For assistance, you can contact the KGMU helpline at **0522-2258880** or **0522-3539333**.",2026-10-28T13:56:53.334Z,true,2026-10-28T13:56:07.458Z,en,0,appointment,factual,safety_redirect,Neurology,moderate,true,session_21388,false,60,7,1303,198,13,19,Wednesday,false,true,true,,,,,,,,,false,
+qa_cee07556006549aaab266e94876953cb,,Joining latter kab tak ayega ot walon ka,"Sorry, please ask an appropriate question related to KGMU.",2026-10-28T08:20:37.612Z,true,2026-10-28T08:19:32.682Z,en,0,general,temporal,direct_answer,,moderate,true,session_21363,true,40,8,58,9,8,13,Wednesday,false,false,false,,,,,,,,,false,
+qa_cfe5b6675e5e46f99ff808dfe0a83803,,who is Dr. Sandeep kumaR rai,"Sorry, please ask an appropriate question related to KGMU.",2026-10-28T09:17:45.497Z,true,2026-10-28T09:16:13.456Z,en,0,faculty,entity,direct_answer,,moderate,true,session_21382,true,28,6,58,9,9,14,Wednesday,false,false,false,,,,,,,,,false,
+qa_d0b63c3e56944e6fb5d9b379acd6ce54,,Kya 3rd block 318me kon se doctor rahate h,"For specific room assignments, department schedules, and faculty availability, please check the official [KGMU IP Phone Directory](https://kgmu.org/ipphonedirctory.php) or contact the PRO Office at **9415007710** for assistance.",2026-10-28T19:48:14.574Z,true,2026-10-28T19:46:21.523Z,en,0,general,yes_no,referral,,moderate,true,session_21357,true,42,9,228,26,19,1,Wednesday,false,true,false,,,,,,,,,false,
+qa_d499b8229d574e9ea85ef85b58630a37,,Ayushmann card is applicable for full body MRI?,"I'm not qualified to provide medical advice or specific insurance billing details. Please consult the billing department or a hospital representative at KGMU, or call the helpline at 0522-2258880 or 0522-3539333 to check if the Ayushman Bharat card covers specific MRI investigations. Also, please avoid sharing personal details in this chat for your safety.",2026-10-28T13:29:23.021Z,true,2026-10-28T13:28:08.173Z,en,0,general,factual,safety_redirect,Radiology,moderate,true,session_21353,true,47,8,358,54,13,18,Wednesday,false,false,false,,,,,,,,,false,
+qa_d92a62da5c8b47ab862752328040d507,,Cost of full body MRI,"At King George's Medical University (KGMU), the cost for MRI scans generally ranges from ₹100 to ₹5,500 depending on the specific type of investigation prescribed. 
+
+For the complete rate list or specific inquiries, you can check the official [KGMU Rate List](https://www.kgmu.org/rate_list2223.htm).",2026-10-28T13:28:35.694Z,true,2026-10-28T13:28:08.173Z,en,0,fees,factual,referral,Radiology,moderate,true,session_21353,true,21,5,300,41,13,18,Wednesday,false,true,false,,,,,,,,,false,
+qa_e2122c45f46641c3ba4788f4e83010b3,,How many md pharmacology seats present in kgmu,Please refer to the official KGMU admissions and courses page for information regarding seat availability: https://www.kgmu.org/courses_admission.php,2026-10-28T06:45:54.216Z,true,2026-10-28T06:45:00.550Z,en,0,admissions,factual,referral,Pharmacology,moderate,true,session_21383,true,46,8,149,16,6,12,Wednesday,false,true,false,,,,,,,,,false,
+qa_e66f5c5384a449688cbe1838f294d260,,Opd slot,"KGMU OPD appointments can be booked through the following methods:
+
+- **Online Booking (Mandatory / Recommended):** Visit the [Online Registration System (ORS)](https://ors.gov.in) to book your slot in advance.
+- **ABHA / Health Care App:** Register using your mobile number and OTP, select Uttar Pradesh and KGMU, then choose the department and date.
+- **SMS Booking:** Send an SMS in the format `Appointment [Patient Name]` to **8887019134**.
+- **Walk-in Booking:** Visit the registration counter with your Aadhaar number and active mobile number to collect a physical token. 
+
+**Important Details:**
+- **OPD Slip Fee:** ₹50 for all booking methods.
+- **Timings:** Monday to Friday (9:00 AM – 1:00 PM) and Saturday (9:00 AM – 12:00 PM). Closed on Sundays.
+- **Parchi Counter Deadline:** The ticket/parchi counter closes sharply at 1:00 PM.
+- **Referral Rule:** Patients coming from outside Lucknow must bring a valid referral for the specific department. Pre-booking is strongly advised to avoid long wait times.
+
+*(Note: I am not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.)*",2026-10-28T16:24:56.667Z,true,2026-10-28T15:53:29.329Z,en,0,opd,factual,safety_redirect,,simple,true,session_21371,true,8,2,1203,187,16,21,Wednesday,false,true,true,,,,,,,,,false,
 qa_e73f8eb286ce49c8974e8d734ddec9e2,,12th grade job,"For career and job opportunities at King George's Medical University (KGMU) or related recruitment updates, please check the official KGMU General Notices and recruitment portals:
 
 - **General Notices & Recruitment:** [KGMU Notice Board](https://kgmu.org/kgmu_notice_board.php)
 - **Main Website:** [www.kgmu.org](https://www.kgmu.org)
 
-If you are looking for specific career guidelines or student admissions after 12th grade, you can visit the [KGMU Courses & Admission Page](https://www.kgmu.org/courses_admission.php).",2026-10-28T04:46:47.990Z,true,2026-10-28T04:52:40.175Z,en,0,exams,factual,referral,,simple,true,session_21372,false,14,3,520,60,4,10,Wednesday,false,true,true,,,,,,,,,false,
-qa_f31d6eb5bf044e2192c2efa38de42a9e,,Is there DM clinical pharmacology seat available in KGMU,Please refer to the official KGMU courses and admissions page for detailed information on available programs and seat availability: https://www.kgmu.org/courses_admission.php,2026-10-28T06:46:47.328Z,true,2026-10-28T06:45:00.550Z,en,0,admissions,yes_no,referral,Pharmacology,moderate,true,session_21368,true,56,9,174,20,6,12,Wednesday,false,true,false,,,,,,,,,false,
+If you are looking for specific career guidelines or student admissions after 12th grade, you can visit the [KGMU Courses & Admission Page](https://www.kgmu.org/courses_admission.php).",2026-10-28T04:46:47.990Z,true,2026-10-28T04:52:40.175Z,en,0,exams,factual,referral,,simple,true,session_21389,false,14,3,520,60,4,10,Wednesday,false,true,true,,,,,,,,,false,
+qa_f07cb9e4fe64492299b2db7c6795c868,,Allergy sambandhit doctor,"For allergy-related concerns, you can consult a specialist at the **Pulmonary & Critical Care Medicine** department or the **Dermatology, Venereology & Leprosy** department at KGMU, depending on whether your symptoms are respiratory or skin-related. 
+
+To book an OPD appointment, please register online via [ORS](https://ors.gov.in) or use one of the other available booking methods. OPD timings are Monday to Friday (9:00 AM–1:00 PM) and Saturday (9:00 AM–12:00 PM).
+
+*Department Links:*
+- [Pulmonary & Critical Care Medicine](https://www.kgmu.org/department_details.php?dept_id=67&dept_type=2)
+- [Dermatology, Venereology & Leprosy](https://www.kgmu.org/department_details.php?dept_id=12&dept_type=2)
+
+*Medical Disclaimer:* I'm not qualified to provide medical advice. Please consult a doctor at KGMU OPD or call the helpline. Also, please avoid sharing personal details in this chat for your safety.",2026-10-28T12:53:05.343Z,true,2026-10-28T12:52:23.619Z,en,0,general,factual,safety_redirect,,simple,true,session_21373,true,25,3,902,112,12,18,Wednesday,false,true,true,,,,,,,,,false,
+qa_f31d6eb5bf044e2192c2efa38de42a9e,,Is there DM clinical pharmacology seat available in KGMU,Please refer to the official KGMU courses and admissions page for detailed information on available programs and seat availability: https://www.kgmu.org/courses_admission.php,2026-10-28T06:46:47.328Z,true,2026-10-28T06:45:00.550Z,en,0,admissions,yes_no,referral,Pharmacology,moderate,true,session_21383,true,56,9,174,20,6,12,Wednesday,false,true,false,,,,,,,,,false,
 qa_f4af8388e03a4143bc297c18b0eea349,,Clinical hematoncology ki opd Shatabdi ki kis building me chalti hai,"Clinical Hematology की OPD शताब्दी भवन में नहीं, बल्कि मुख्य परिसर के **सेकंड फ्लोर पर रूम नंबर 220** में **Monday, Wednesday, और Friday** को चलती है।
 
 ऑनलाइन अपॉइंटमेंट के लिए [ORS (Online Registration System)](https://ors.gov.in) का उपयोग करें या KGMU OPD हेल्पलाइन (0522-2258880 / 0522-3539333) पर संपर्क करें। अधिक जानकारी के लिए [Clinical Hematology Department](https://www.kgmu.org/department_details.php?dept_id=10&dept_type=2) का पेज देख सकते हैं।
 
-*मैं मेडिकल सलाह देने में सक्षम नहीं हूँ। किसी भी स्वास्थ्य संबंधी समस्या के लिए कृपया KGMU OPD के डॉक्टर से परामर्श लें।*",2026-10-28T02:20:38.481Z,true,2026-10-28T02:18:32.935Z,en,0,opd,factual,direct_answer,,moderate,true,session_21365,true,68,11,579,82,2,7,Wednesday,false,true,false,,,,,,,,,false,
+*मैं मेडिकल सलाह देने में सक्षम नहीं हूँ। किसी भी स्वास्थ्य संबंधी समस्या के लिए कृपया KGMU OPD के डॉक्टर से परामर्श लें।*",2026-10-28T02:20:38.481Z,true,2026-10-28T02:18:32.935Z,en,0,opd,factual,direct_answer,,moderate,true,session_21379,true,68,11,579,82,2,7,Wednesday,false,true,false,,,,,,,,,false,
 qa_f67d375b67ff4b57a7682800d72df659,,12th grade job,"For career opportunities and recruitment notices at King George's Medical University (KGMU), please check the official notice board and recruitment portal:
 
 - **Recruitment & General Notices:** [KGMU Notice Board](https://kgmu.org/kgmu_notice_board.php)
 - **Main Website:** [www.kgmu.org](https://www.kgmu.org)
 
-If you are a student looking for academic courses and admissions after 12th grade, you can visit the [KGMU Courses & Admission Page](https://www.kgmu.org/courses_admission.php).",2026-10-28T04:47:13.431Z,true,2026-10-28T04:52:40.175Z,en,0,exams,factual,referral,,simple,true,session_21372,true,14,3,489,56,4,10,Wednesday,false,true,true,,,,,,,,,false,
+If you are a student looking for academic courses and admissions after 12th grade, you can visit the [KGMU Courses & Admission Page](https://www.kgmu.org/courses_admission.php).",2026-10-28T04:47:13.431Z,true,2026-10-28T04:52:40.175Z,en,0,exams,factual,referral,,simple,true,session_21389,true,14,3,489,56,4,10,Wednesday,false,true,true,,,,,,,,,false,
