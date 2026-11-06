@@ -52,7 +52,7 @@ Following the framework proposed by Gebru et al. (2021), "Datasheets for Dataset
 
 **License**: CC-BY 4.0. Free to use, share, and adapt with attribution.
 
-**Access**: Publicly available on GitHub.
+**Access**: Publicly available on GitHub (https://github.com/ProxyAyush/MEDIQ). Data is distributed as daily JSON files, automatically sharded cumulative JSON files (`data/mediq_part*.json` under `data/mediq_manifest.json`, ≤48 MiB per shard), and CSV (`data/mediq_full.csv`). A Python loader is provided in `scripts/load_dataset.py`.
 
 ## Maintenance
 

@@ -80,33 +80,43 @@ Each entry contains the following fields:
 ```
 MEDIQ/
 ├── data/
-│   ├── daily/              # One JSON file per day (YYYY-MM-DD.json)
-│   ├── mediq_full.json     # All entries in a single JSON file
-│   └── mediq_full.csv      # All entries as CSV
+│   ├── daily/                  # One JSON file per day (YYYY-MM-DD.json)
+│   ├── mediq_manifest.json     # Sharding manifest with byte sizes and SHA-256 hashes
+│   ├── mediq_part001.json      # JSON shard 1 (max 48 MiB per shard)
+│   ├── mediq_part002.json      # JSON shard 2...
+│   └── mediq_full.csv          # All entries as CSV (shards automatically if >48 MiB)
 ├── stats/
-│   └── summary.json        # Auto-updated dataset statistics
+│   └── summary.json            # Auto-updated dataset statistics
 ├── scripts/
-│   └── load_dataset.py     # Python example for loading the dataset
-├── CITATION.cff            # Machine-readable citation metadata
-├── DATASHEET.md            # Datasheet for Datasets (Gebru et al.)
-└── LICENSE                 # CC-BY 4.0
+│   ├── load_dataset.py         # Python loader supporting sharded JSON and CSV
+│   └── rebuild_full_json.py    # Reconstruct legacy full JSON on demand
+├── CITATION.cff                # Machine-readable citation metadata
+├── DATASHEET.md                # Datasheet for Datasets (Gebru et al.)
+└── LICENSE                     # CC-BY 4.0
 ```
+
+> [!NOTE]
+> **Dataset Sharding Notice:** To prevent Git LFS dependencies and keep each file under GitHub's recommended limits, the cumulative JSON dataset is automatically sharded into deterministic parts (`mediq_part*.json`) limited to ≤48 MiB each, described by `mediq_manifest.json`. Direct downloads of the legacy consolidated `mediq_full.json` URL should switch to `load_dataset.py` or run `python scripts/rebuild_full_json.py --output mediq_full.json`.
 
 ## Quick Start
 
-### Python
+### Using the loader script (Recommended)
 
 ```python
-import json
+from scripts.load_dataset import load_mediq
+
+# Loads either CSV (default) or sharded JSON seamlessly into a pandas DataFrame:
+df = load_mediq()                     # Loads from data/mediq_full.csv (or CSV shards)
+df_json = load_mediq(format="json")   # Loads and validates all JSON shards via manifest
+
+print(f"Total entries: {len(df)}")
+```
+
+### Loading manually from CSV
+
+```python
 import pandas as pd
 
-# Load from JSON
-with open("data/mediq_full.json") as f:
-    dataset = json.load(f)
-
-print(f"Total entries: {dataset['totalEntries']}")
-
-# Or load from CSV
 df = pd.read_csv("data/mediq_full.csv")
 print(df.head())
 
@@ -116,12 +126,12 @@ english_qs = df[df["language_detected"] == "en"]
 codemixed_qs = df[df["language_detected"] == "hi-en"]
 ```
 
-### Using the loader script
+### Reconstructing the legacy single JSON
 
-```python
-from scripts.load_dataset import load_mediq
+If your workflow requires the original single `mediq_full.json` structure:
 
-dataset = load_mediq()  # Returns a pandas DataFrame
+```bash
+python scripts/rebuild_full_json.py --output /tmp/mediq_full.json
 ```
 
 ## Citation
