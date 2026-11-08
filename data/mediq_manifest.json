@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "format": "mediq-sharded-json",
-  "lastUpdated": "2026-11-07T19:18:20.056Z",
+  "lastUpdated": "2026-11-08T10:01:30.825Z",
   "maxShardBytes": 50331648,
-  "totalEntries": 33958,
-  "totalDates": 458,
+  "totalEntries": 33980,
+  "totalDates": 459,
   "shards": [
     {
       "filename": "mediq_part001.json",
@@ -14,9 +14,9 @@
     },
     {
       "filename": "mediq_part002.json",
-      "bytes": 32484768,
-      "entries": 13388,
-      "sha256": "d605e1d8115a3d3ff568c808fa0c57c79f2c4d63a8ba39dc402fbf39942a2059"
+      "bytes": 32529892,
+      "entries": 13410,
+      "sha256": "a09a9b8ebd48c470d3ac244e909b2ec99bd73e8e5e27a3d3ff5c1e5ddd118dbb"
     }
   ]
 }
