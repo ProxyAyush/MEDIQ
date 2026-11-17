@@ -1,26 +1,26 @@
 {
-  "totalEntries": 34942,
+  "totalEntries": 34947,
   "dateRange": {
     "start": "2025-04-01",
     "end": "2026-11-17"
   },
   "totalDays": 468,
-  "totalSessions": 22318,
-  "dailyAverage": 74.66,
+  "totalSessions": 22323,
+  "dailyAverage": 74.67,
   "botAnswerRate": 97.87,
   "languageDistribution": {
-    "en": 33452,
+    "en": 33457,
     "hi": 989,
     "hi-en": 501
   },
   "categoryDistribution": {
-    "general": 12815,
+    "general": 12817,
     "admissions": 3969,
-    "appointment": 3298,
+    "appointment": 3299,
     "courses": 2801,
-    "opd": 2581,
+    "opd": 2582,
     "departments": 2429,
-    "exams": 2236,
+    "exams": 2237,
     "career": 1830,
     "contact": 1021,
     "fees": 847,
@@ -30,7 +30,7 @@
     "research": 17
   },
   "questionTypeDistribution": {
-    "factual": 25750,
+    "factual": 25755,
     "procedural": 3431,
     "temporal": 2650,
     "yes_no": 2235,
@@ -39,13 +39,13 @@
   },
   "responseTypeDistribution": {
     "direct_answer": 14490,
-    "referral": 11716,
-    "safety_redirect": 6065,
+    "referral": 11719,
+    "safety_redirect": 6067,
     "unable_to_answer": 2671
   },
   "queryComplexityDistribution": {
-    "moderate": 19437,
-    "simple": 11732,
+    "moderate": 19439,
+    "simple": 11735,
     "complex": 3773
   },
   "departmentMentions": {
@@ -76,7 +76,7 @@
     "Anatomy": 12
   },
   "hourlyDistributionIST": {
-    "0": 991,
+    "0": 995,
     "1": 605,
     "2": 323,
     "3": 186,
@@ -99,10 +99,10 @@
     "20": 1717,
     "21": 1717,
     "22": 1742,
-    "23": 1374
+    "23": 1375
   },
   "dailyDistribution": {
-    "Tuesday": 5352,
+    "Tuesday": 5357,
     "Thursday": 4967,
     "Monday": 5569,
     "Wednesday": 4874,
@@ -112,7 +112,7 @@
   },
   "aiEnrichment": {
     "totalEnriched": 34829,
-    "coveragePercent": 99.68,
+    "coveragePercent": 99.66,
     "languageDistribution": {
       "en": 18307,
       "hi-Latn": 7097,
@@ -183,5 +183,5 @@
       "prospective_student": 2
     }
   },
-  "lastUpdated": "2026-11-17T18:11:01.900Z"
+  "lastUpdated": "2026-11-17T22:45:41.362Z"
 }
