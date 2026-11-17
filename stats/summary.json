@@ -1,20 +1,20 @@
 {
-  "totalEntries": 34927,
+  "totalEntries": 34928,
   "dateRange": {
     "start": "2025-04-01",
     "end": "2026-11-17"
   },
   "totalDays": 468,
-  "totalSessions": 22309,
+  "totalSessions": 22310,
   "dailyAverage": 74.63,
   "botAnswerRate": 97.87,
   "languageDistribution": {
-    "en": 33437,
+    "en": 33438,
     "hi": 989,
     "hi-en": 501
   },
   "categoryDistribution": {
-    "general": 12811,
+    "general": 12812,
     "admissions": 3969,
     "appointment": 3295,
     "courses": 2801,
@@ -30,7 +30,7 @@
     "research": 17
   },
   "questionTypeDistribution": {
-    "factual": 25737,
+    "factual": 25738,
     "procedural": 3431,
     "temporal": 2648,
     "yes_no": 2235,
@@ -39,13 +39,13 @@
   },
   "responseTypeDistribution": {
     "direct_answer": 14485,
-    "referral": 11707,
+    "referral": 11708,
     "safety_redirect": 6064,
     "unable_to_answer": 2671
   },
   "queryComplexityDistribution": {
     "moderate": 19429,
-    "simple": 11727,
+    "simple": 11728,
     "complex": 3771
   },
   "departmentMentions": {
@@ -97,12 +97,12 @@
     "18": 1909,
     "19": 1902,
     "20": 1717,
-    "21": 1713,
+    "21": 1714,
     "22": 1735,
     "23": 1370
   },
   "dailyDistribution": {
-    "Tuesday": 5337,
+    "Tuesday": 5338,
     "Thursday": 4967,
     "Monday": 5569,
     "Wednesday": 4874,
@@ -183,5 +183,5 @@
       "prospective_student": 2
     }
   },
-  "lastUpdated": "2026-11-17T15:52:14.319Z"
+  "lastUpdated": "2026-11-17T16:02:37.469Z"
 }
