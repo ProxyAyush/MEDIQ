@@ -1,24 +1,24 @@
 {
-  "totalEntries": 35052,
+  "totalEntries": 35058,
   "dateRange": {
     "start": "2025-04-01",
     "end": "2026-11-18"
   },
   "totalDays": 469,
-  "totalSessions": 22383,
-  "dailyAverage": 74.74,
+  "totalSessions": 22386,
+  "dailyAverage": 74.75,
   "botAnswerRate": 97.88,
   "languageDistribution": {
-    "en": 33553,
-    "hi": 993,
-    "hi-en": 506
+    "en": 33557,
+    "hi": 994,
+    "hi-en": 507
   },
   "categoryDistribution": {
-    "general": 12862,
+    "general": 12863,
     "admissions": 3971,
-    "appointment": 3310,
+    "appointment": 3312,
     "courses": 2806,
-    "opd": 2595,
+    "opd": 2598,
     "departments": 2436,
     "exams": 2239,
     "career": 1839,
@@ -30,21 +30,21 @@
     "research": 17
   },
   "questionTypeDistribution": {
-    "factual": 25833,
+    "factual": 25838,
     "procedural": 3438,
     "temporal": 2654,
-    "yes_no": 2241,
+    "yes_no": 2242,
     "entity": 510,
     "navigational": 376
   },
   "responseTypeDistribution": {
-    "direct_answer": 14548,
-    "referral": 11754,
+    "direct_answer": 14551,
+    "referral": 11757,
     "safety_redirect": 6078,
     "unable_to_answer": 2672
   },
   "queryComplexityDistribution": {
-    "moderate": 19504,
+    "moderate": 19510,
     "simple": 11760,
     "complex": 3788
   },
@@ -54,10 +54,10 @@
     "Cardiology": 578,
     "Pharmacology": 532,
     "Surgery": 370,
-    "Neurology": 290,
+    "Neurology": 291,
     "Dermatology": 277,
     "Orthopedics": 221,
-    "ENT": 193,
+    "ENT": 195,
     "Urology": 172,
     "Pediatrics": 148,
     "Psychiatry": 126,
@@ -77,9 +77,9 @@
   },
   "hourlyDistributionIST": {
     "0": 995,
-    "1": 605,
-    "2": 323,
-    "3": 186,
+    "1": 608,
+    "2": 324,
+    "3": 187,
     "4": 226,
     "5": 321,
     "6": 543,
@@ -99,20 +99,20 @@
     "20": 1719,
     "21": 1728,
     "22": 1745,
-    "23": 1380
+    "23": 1381
   },
   "dailyDistribution": {
     "Tuesday": 5363,
     "Thursday": 4967,
     "Monday": 5569,
-    "Wednesday": 4973,
+    "Wednesday": 4979,
     "Sunday": 4784,
     "Saturday": 4752,
     "Friday": 4644
   },
   "aiEnrichment": {
     "totalEnriched": 34891,
-    "coveragePercent": 99.54,
+    "coveragePercent": 99.52,
     "languageDistribution": {
       "en": 18331,
       "hi-Latn": 7121,
@@ -183,5 +183,5 @@
       "prospective_student": 2
     }
   },
-  "lastUpdated": "2026-11-18T18:18:27.787Z"
+  "lastUpdated": "2026-11-18T22:28:11.162Z"
 }
