@@ -2840,16 +2840,16 @@
       "is_weekend": false,
       "answer_has_links": true,
       "answer_has_list": true,
-      "ai_language": null,
-      "ai_language_confidence": null,
-      "ai_intent": null,
-      "ai_medical_relevance": null,
-      "ai_sentiment": null,
-      "ai_question_translated_en": null,
-      "ai_answer_quality": null,
-      "ai_topic_tags": null,
-      "ai_requires_followup": false,
-      "ai_user_type_guess": null
+      "ai_language": "hi",
+      "ai_language_confidence": 0.96,
+      "ai_intent": "information_seeking",
+      "ai_medical_relevance": "high",
+      "ai_sentiment": "neutral",
+      "ai_question_translated_en": "I have done CBC, KFT, and LFT tests in pathology but have not received the PDF link message. What should I do?",
+      "ai_answer_quality": "partial",
+      "ai_topic_tags": "lab_reports;pathology;test_results",
+      "ai_requires_followup": true,
+      "ai_user_type_guess": "patient"
     }
   ],
   "totalEntries": 75
